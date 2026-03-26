@@ -14,7 +14,9 @@ Use `--max-duration-sec 600` for a shorter CPU-friendly run on long lessons. VLM
 
 ## Push to your GitHub
 
-1. Install and log in: `brew install gh` then `gh auth login`
+Account: **[jw310-wjr](https://github.com/jw310-wjr)**. After pushing, the repo will be at `https://github.com/jw310-wjr/<repo-name>` (default: [`comp646-friction-detector`](https://github.com/jw310-wjr/comp646-friction-detector)).
+
+1. Install and log in: `brew install gh` then `gh auth login` (use the same GitHub user as above).
 2. From this directory: `./scripts/push_to_github.sh [repo-name] [public|private]`
 
 Default repo name: `comp646-friction-detector`
