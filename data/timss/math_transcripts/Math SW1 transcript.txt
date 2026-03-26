@@ -1,0 +1,464 @@
+00:00:31	T	Okay... Good morning...
+00:00:35	T	We have been dealing with the subject of factorizing since the autumn holidays, which actually means the past two lessons.
+00:00:45	T	And we have been working on two levels, on the one hand we have tried to find out
+00:00:53	T	why factorizing actually is important, and in relation to what we saw yesterday,
+00:01:05	T	that factorizing is important when calculating with fractions.
+00:01:11	T	Because the subject is somewhat dry, we cheered ourselves up with these figures.
+00:01:19	T	Today we will get acquainted with a second area where factorizing also is of great help,
+00:01:29	T	and that is quadratic equations. Until now we were not able to solve quadratic equations.
+00:01:39	T	With the help of factorizing, we will see that we are at least able to already solve some of them.
+00:01:48	T	Last Tuesday we also did some exercises on how to deal with this factorizing technically.
+00:01:58	T	And you solved problems for homework on this topic, which I now firstly would like to correct.
+00:02:13	T	We have not discussed problem A yet, but that one doesn't pose any specific difficulties.
+00:02:26	T	Maybe I'll repeat the method of proceeding right away: First we look at which parentheses,
+00:02:35	T	which expression can be found in both addends. Here it is clearly parenthesis A minus B, which I will factorize-
+00:02:46	T	meaning I will think about what this parenthesis multiplies with. The answer is:
+00:02:52	T	It multiplies with, on the one hand, the three X plus four Y, and on the other hand, with plus two X plus Y.
+00:03:02	T	We calculate it and we'll then notice, watch out, that there we have another common factor, which we can exclude again.
+00:03:11	T	Are there any questions on this problem, on this result?
+00:03:27	T	Now nobody is posing any questions. The second I don't have to discuss; we actually had solved that one
+00:03:37	T	together as an example. That way we can proceed to the third problem. The method is exactly the same.
+00:03:51	T	The bracket appears in both terms- I factorize them- what does this bracket multiply?
+00:04:03	T	Ten Y plus seven A X minus this second bracket.
+00:04:09	T	And now we have to summarize it, calculate it, and detect that still something more can be factorized here.
+00:04:27	T	Is everything clear? Or nothing at all? Raphaela?
+00:04:32	S	No.
+00:04:33	T	What is it that isn't clear? Try to express your problem.
+00:04:38	S	Well, there is a minus there...
+00:04:39	T	This one?
+00:04:41	S	Yes.
+00:04:42	T	Yes. Well that is there.
+00:04:44	SS	[Laughter]
+00:04:46	T	Now what about that minus sign?
+00:04:49	S	Well, doesn't it mean something?
+00:04:52	T	Yes, of course, minus.
+00:04:54	SS	[Laughter]
+00:04:59	T	I have to multiply the difference of the two brackets with my bracket two M minus three N.
+00:05:09	T	That's why I have to bring the minus over here. And your question is very good, because it refers to a difficulty:
+00:05:20	T	We have to pay attention to that we write this bracket in any case. Because it is the whole expression that is subtracted.
+00:05:36	T	The bracket must be there. This bracket here is actually optional. But this one I have to put,
+00:05:44	T	because the minus works for both expressions. That's where the plus two B Y emerge from and they lead me to these twelve B Y.
+00:06:00	T	Has your question been answered or not quite yet?
+00:06:08	SN	Well, one could also just calculate without the bracket.
+00:06:08	T	Tomi.
+00:06:11	S	Well- just go ahead and calculate instead of (inaudible) do the intermediate step.
+00:06:15	T	Eh- just calculate it. How do you mean that?
+00:06:20	S	Well simply calculate minus three A X plus two B Y now, and then leave the brack- bracket.
+00:06:25	T	Sure if you're highly gifted, then you can do that.
+00:06:30	T	There is just a high danger that you'll forget this combined sign change,
+00:06:39	T	if you don't write the bracket. And you would easily write a minus here.
+00:06:48	T	But it is certain that you could do it in one step. From this line you can conclude directly to this line here.
+00:06:56	T	Now I solved the last two somewhat faster too, you'll see it in a minute... Are there any other questions about letter C?
+00:07:09	T	Okay, the minus was the new difficulty in it, actually.
+00:07:15	T	Now let's go to letter D.
+00:07:21	T	Can you tell me what the common thing is? Which bracket can be found in both terms? Samuel?
+00:07:29	SN	Three U plus four V.
+00:07:33	T	Three U plus four V, correct. I will factorize them here... And now I used Tomis' quick method...
+00:07:45	T	Who can reconstruct how I got to these two terms, in this bracket? Yes, Samuel.
+00:07:57	S	Six X Y plus four X Y and minus seven A- A B plus three A B.
+00:08:05	T	Correct, equals minus four A B. I have factorized further because the
+00:08:12	T	common factor two is contained in the number 10 and in the number four... And now there is nothing else that can be done.
+00:08:29	T	E.
+00:08:35	T	That has been written down in fast modus as well. I have left out the square brackets,
+00:08:42	T	because that was originally only an aid to distinguish the brackets.
+00:08:49	T	What is the common expression that I will factorize, Philipp.
+00:08:55	NS	Two A minus five B.
+00:08:56	T	Two A minus five B... correct. Now how does the content of the second bracket develop, Philipp?
+00:09:06	S	Seven M minus five N and minus three N mi- minus two N.
+00:09:11	T	Good. Minus two N, hm. All right, that's the important minus again, which refers to the whole bracket here.
+00:09:26	T	Minus five N and minus two N and now here there are no common factors, there is nothing more to do.
+00:09:37	T	And the last one... F... Equals, Benjamin, what do we get?
+00:09:48	NS	Hm... two X squared minus one times nine Y.
+00:09:52	T	Times nine Y, yes, you didn't specify, but one could hear from your speech that it stands in brackets, hm.
+00:10:02	T	That was the common factor in the first sum. I take it out of the brackets and observe the plus sign.
+00:10:11	T	Eight Y plus Y equals nine Y, Z plus minus Z cancels out, thus this will remain. You can see the difference.
+00:10:25	T	At the beginning I wrote them out in detail, here I didn't do that anymore. I would advise you to write it...
+00:10:36	T	relatively fast, meaning with fewer lines, but with great thought and exactness for what you are writing.
+00:10:45	T	If you choose the detailed writing like here... the danger of copying is not far away. Then it could quickly happen that you will make a copying mistake.
+00:10:57	T	I know these things. You might forget the two or you might make an X out of the Y and such things.
+00:11:09	T	Are there any further questions concerning the homework?
+00:11:15	T	Nothing else? Good.
+00:11:20	T	Then we will continue to the second point... to these quadratic equations, which we want to take a closer look at.
+00:11:31	T	And I'm now going distribute a worksheet to go with it.
+00:11:38	T	The questions can be read on the worksheet. Give it some thought. First of all try to figure out in your notebook,
+00:11:50	T	how one could do this.
+00:11:53	T	You are very welcome to discuss- the matter- in pairs. We will fill in the correct solutions on the worksheet afterwards.
+00:12:21	T	All right...
+00:12:38	T	Here you've got these wonderful examples...
+00:12:46	T	Have fun...
+00:12:52	T	And also...
+00:12:53	SN	Thanks.
+00:12:54	T	You're welcome.
+00:13:17	SN	(inaudible)
+00:13:18	T	M-hm, yes.
+00:13:24	S	Do you have to indicate the factorizing at the rear?
+00:13:27	T	No, that's a transformation, the two terms are absolutely equal.
+00:13:33	S	Minus in brackets.
+00:13:35	SN	Hm, what?
+00:13:36	SN	Minus in brackets. (inaudible)
+00:13:40	T	Corine, I will correct it for you by tomorrow, all right? I don't have it yet.
+00:13:44	SN	M-hm, yes.
+00:13:53	T	Do it in your notebook, Shane, so that you're able to make a clean entry of the solution here afterwards.
+00:14:02	T	Yes and now- now you have to think about it... what does it mean... that is zero. Under what circumstances can-
+00:14:11	S	Actually it should be a zero there, too...
+00:14:14	T	Well, then write it down... From- one of the two (inaudible), that's a special case.
+00:14:20	SN	Ma'am, is that right (inaudible)?
+00:14:24	T	I don't know if that's a beneficial beginning.
+00:14:25	SN	Can't you do that...
+00:14:28	T	Do it first in your notebook.
+00:14:30	SN	Ye-es.
+00:14:34	T	Hm... then it gets problematic- right, because you've got X squared and X.
+00:14:40	SN	How con you solve this?
+00:14:42	T	Take a good look at- the term and maybe think a little about our "factorizing forceps"-
+00:14:53	T	Or how did we call it- yesterday... there, our- our friend and helper.
+00:15:03	T	Hm... Tomi!
+00:15:07	T	Look, hm?
+00:15:08	T	We met this one yesterday, right?
+00:15:12	T	If we pose this question in connection with factorizing... maybe factorizing could help us along the track?
+00:15:27	SN	Can this be right?
+00:15:28	T	That can very possibly be right.
+00:15:31	SN	(inaudible)... what I have to do.
+00:15:32	T	That's right, now you have to think further.
+00:15:37	T	What does this expression mean... and when can it be zero?
+00:15:44	S	(inaudible)
+00:15:48	T	No, that's not right. Five cannot be zero, Barbara.
+00:15:58	SN	Is it correct now like that?
+00:16:00	T	Hmm... well, it is correct, but how do you continue now?
+00:16:08	S	Well that's actually what I was going to ask about. [Laughter]
+00:16:09	T	[Laughter] I-
+00:16:11	S	Can't one the X over there- well- minus 25 on this side,
+00:16:16	S	then it's minus 25 over there, then there is still that bracket over there... and then divide by this bracket on this side.
+00:16:22	T	But you have got the X twice in there.
+00:16:26	S	Yes, that's just it.
+00:16:27	T	Well then.
+00:16:27	S	If you calculate that, it becomes X to the second power again.
+00:16:29	T	Did you really factorize? Look Raphaela, you still have a sum.
+00:16:36	S	That's just it.
+00:16:37	T	Isn't there a possibility to write this whole sum as a product?
+00:16:45	SN	Well, two.
+00:16:47	T	That's right, yes- well... I think lots of you have at least done the first step...
+00:16:54	T	of what does this X squared plus 10 X plus 25 remind you? Esti.
+00:17:03	SN	Of a binomial formula.
+00:17:05	T	Of a binomial formula, correct- and which one... of them? What is it, this expression?
+00:17:18	SN	What, which- which case?
+00:17:19	T	Yes.
+00:17:22	S	The third?
+00:17:23	T	Mh, not sure.
+00:17:25	S	I don't know the number, I mean-
+00:17:26	T	Yes, that doesn't matter. How can it be factorized, that was my original question... Michelle?
+00:17:33	SN	X plus five to the power of two.
+00:17:35	T	X to the power of two... do the check. X squared plus two times the product- well 10 X, plus 25 is the square of five.
+00:17:49	T	Is the square of five. This square is zero- how do we continue... Anette?
+00:18:00	SN	If one number times a number is zero, or a term times a term is zero, then one or both of them has to be zero.
+00:18:07	SN	And as both are the same, X is plus five equals zero.
+00:18:10	T	X plus five has to be zero, correct- I've got that here... so that we don't have to write that much... correct.
+00:18:18	T	You remember- we have seen this more than once.
+00:18:22	T	If the product of two numbers or of two brackets is zero, one or the other bracket has to be zero.
+00:18:35	T	And here I've got a special case. The A and the B are both X plus five.
+00:18:44	T	This square can only be zero if X plus five is zero, which means that X has to have what value, Klaus?
+00:18:52	SN	Hm, does X have to be minus five?
+00:18:54	T	X has to be minus five.
+00:18:58	T	Okay we made it, to solve our first quadratic equation, sort of.
+00:19:08	T	But you can see, it is a special case, we had a binomial formula.
+00:19:16	T	Now you can chew the cud and think on- the second tricky problem... it is not much more difficult than the first one.
+00:19:28	T	Try to find a solution for it and always keep the- law about products in mind.
+00:19:41	T	Let's give everybody some time.
+00:19:43	T	Please transfer the correct solutions from here to the theory sheet, which will then be complete.
+00:19:56	T	Okay well, you can do a little mental calculation, right?
+00:19:59	SN	You know, yesterday I calculated (inaudible) 11 times 11 as basic area.
+00:20:05	T	Eleven times 11 equals-
+00:20:07	S	One hundred and twenty-one.
+00:20:07	T	One hundred and twenty-one... yes... that's what it comes to.
+00:20:23	T	What else is there, Sandra?
+00:20:29	T	Eleven times what equals 121?
+00:20:33	SN	Eleven.
+00:20:38	T	M-mh, yes.
+00:20:39	SN	Is this correct like that?
+00:20:41	T	Yes that's correct.
+00:20:45	T	Well.
+00:20:51	T	Ho-ho, they are-
+00:20:52	SN	(inaudible) something like that... eh, and then... minus 14... 14. Is that correct?
+00:21:03	T	There is just one trifle missing, it has to be equal.
+00:21:07	S	Oh, and then it's correct?
+00:21:08	T	That's true, yes... well done.
+00:21:10	SN	Is X 11?
+00:21:11	T	X is 11 in the second one, look, I covered it at the front.
+00:21:14	S	Ah.
+00:21:18	T	Okay, you are so quick. Some of you have already solved the third one... Shane, move on.
+00:21:32	SN	That's the third one, it says A plus B and A minus B.
+00:21:34	T	M-mh, yes.
+00:21:37	SN	Ehm... is X.
+00:21:41	T	Our dear binomial formulas.
+00:21:48	T	One hundred and nine- sixty-nine.
+00:21:52	SN	One hundred and sixty-nine.
+00:21:55	T	Well... well, well... What is 12 times 12?
+00:22:06	T	Look, you only have to look at the last number- nine. As a square you will only get that with a three.
+00:22:13	T	Then it is quite close, that you... what have I got, one hundred-
+00:22:19	T	Ah- excuse me, I read 169 from here, it is 196.
+00:22:25	SN	Ah, 196?
+00:22:26	T	Right? No... I think... yes, it's 96.
+00:22:33	T	Have you got the third one?
+00:22:35	SN	Eh, just until here.
+00:22:37	T	All right, now there's a small difference. Well you can see- 196-
+00:22:47	T	Yes, what did I write there, oh gosh. Probably I wanted to do 169. No, that's wrong.
+00:22:55	T	The reflection stays the same, but the factorization is X minus 14 times X plus 14 equals zero.
+00:23:06	T	I really did write 96 on the sheet, didn't I? Quickly take a look. Yes, yes. Very well.
+00:23:13	T	And now it's a bit different than before. In the first two cases I had...
+00:23:21	T	twice the same bracket as factors. And now I have two brackets. All right... let's think about this- rule here.
+00:23:33	T	One of them is zero, or the other, thus X minus 14 must be zero, or- second variant- Benjamin.
+00:23:43	SN	X plus 14 has to be zero.
+00:23:45	T	X plus 14 has to be zero, and that will give us for X the two solutions...
+00:23:52	S	Fourteen or minus 14.
+00:23:55	T	Fourteen or X equals minus 14.
+00:24:01	T	Hansueli asked a question: can one write it down as a solution set, and if so, how. Barbara?
+00:24:11	SN	Well, eh, solution set equals, ehm, minus 14, and then well- ehm- yes...
+00:24:16	T	Semi- semicolon.
+00:24:18	S	Yes, semicolon and then 14.
+00:24:20	T	And 14. I will list them, the two solutions.
+00:24:23	SN	You can't really see it anymore.
+00:24:24	T	Anette?
+00:24:25	SN	Now could one just write absolute solution value 14?
+00:24:30	T	Yes, you could. But you don't really do that. If you have an absolute value in the end, you split it up in the two numbers.
+00:24:43	T	You see, we have thus found out that we now are capable of solving quadratic equations if we-
+00:24:53	T	either recognize a first, a second or a third binomial formula.
+00:25:05	T	It's just that quadratic equations are not always of this kind. And the next one is a rather tricky problem.
+00:25:16	T	Now let's see, if you can find anything here... The idea is again that we try to find two brackets, whose product is zero,
+00:25:30	T	and whose product corresponds to this expression six X squared minus seven X minus three.
+00:25:40	T	What do you have to fill in the brackets, you can guess a little, try it out, and test.
+00:25:50	T	Pardon?
+00:25:51	SN	Could one... a little there...
+00:25:53	T	Yes, you won't need the above anymore. Thanks. I just don't want to show the solution yet.
+00:26:02	SN	Could you show that in the back there once again?
+00:26:09	T	Like that!
+00:26:22	T	Okay... good. Bravo.
+00:26:28	T	Yes, now you're- I think it is correct- wait, I have to read it from your side... three equals minus nine, yes that's correct.
+00:26:39	T	Now you have to finish the calculation, Marc.
+00:26:41	SN	Then X- equals- minus three point three.
+00:26:45	T	Yes, maybe you should write it as a fraction- why three point-
+00:26:55	T	Yes exactly, one third, correct.
+00:27:02	T	Search for yourself! Don't let yourself get influenced by your neighbor.
+00:27:12	T	Look, you have to think. There has to be two brackets.
+00:27:15	T	How can you proceed in order to get six X squared in the product.
+00:27:22	SN	Well... three and two, right?
+00:27:26	T	Three X and two X. Also possible would be six X and one X.
+00:27:31	T	There you somehow have to make a decision, you have to try it out.
+00:27:36	S	M-hm, yes.
+00:27:37	T	There is no method through which you can immediately say what's correct. In the last place- it has to be a three.
+00:27:47	S	M-hm, yes.
+00:27:49	T	That is minus three, to be more exact.
+00:27:57	T	Two X- yes- no, you've got a sign error there, watch out... If you have the number of three- here, then you take two X to the right.
+00:28:11	SN	Minus two X.
+00:28:12	T	Minus or just two X equals plus three.
+00:28:16	SN	Well then ask her.
+00:28:19	T	That would be one variant, yes.
+00:28:22	SN	(inaudible) six X and there X and three X and two X, two X are three.
+00:28:26	T	Correct, okay the last variant, Shane, those are actually the same ones. You just wrote it the other way around.
+00:28:30	S	Well yes, but- but- well- somehow it has to be the other way around... can it partially be too.
+00:28:36	T	Yes, yes, all right you can test them both with that. Basically the two possibilities stand open.
+00:28:42	S	Yes.
+00:28:42	T	Correct and now you have to consider what has to come in the last place.
+00:28:46	T	And to find what is correct, you ascertain that using the middle term, afterwards.
+00:28:52	S	M-hm, yes.
+00:28:57	T	M-hm, yes.
+00:29:04	T	What have we got here? Yes in a minute... six X squared minus seven X plus three equals zero.
+00:29:23	T	Now could you please look up for a second? The ideas that you came up with- for filling in the bracket- were-
+00:29:33	T	Shane just mentioned it before, six X and one X, then I get the six squared.
+00:29:41	T	Or, another possibility, which we actually should recognize quickly- is this variant.
+00:29:52	T	We have done with the term- we needed it to get this far. Secondly, you were supposed to-
+00:30:03	T	look at the number of minus three. How can you get the product minus three, with integers, for now.
+00:30:13	SN	Plus three times minus one.
+00:30:15	T	Plus three times minus one. Now I could- put- plus three and minus one here, but I could also put minus one here,
+00:30:27	T	and plus three there, and here I have also got the same options to choose from.
+00:30:35	T	Well at the moment, I have different choices of an ending. What fits and- let's proceed this way- what does certainly not fit.
+00:30:50	T	How can I recognize if one of these four solutions is the correct one... Samuel.
+00:30:59	SN	Well, it- I have to obtain seven X.
+00:31:03	T	Good. The last one- the last term here in the middle, we haven't considered that one at all yet.
+00:31:13	T	If I calculate these products I will get this term, right?
+00:31:19	T	That's why we now have to think about which one of these four cases really gives us the minus seven X.
+00:31:26	T	How about the first case? How many X do I get there? Minus six plus three- equals, Hansueli.
+00:31:42	SN	Minus three X.
+00:31:42	T	Minus three X, all right... we can forget that, that's wrong. Second case... How many X do I get here? Jeanine.
+00:32:01	SN	M-mh- (inaudible) X.
+00:32:05	T	I can't really follow you. Six times three X, six X times three?
+00:32:10	S	Eighteen.
+00:32:10	T	Eighteen.
+00:32:13	T	And...
+00:32:14	S	Minus o- well, one.
+00:32:15	T	Minus one, 17 X... that's something else yet. The first case is dead. Maybe we'll have more luck with this?
+00:32:30	T	There are... Corinne?
+00:32:34	SN	Nine X.
+00:32:35	T	Nine X, and what else?
+00:32:38	S	Minus one X.
+00:32:41	T	Ehm, Excuse me, I showed you the wrong one, hm? Three X times minus one is?
+00:32:48	S	Two X.
+00:32:52	T	No. Three X times minus one is minus three X and then?
+00:33:01	S	Plus five X.
+00:33:04	T	Pay attention... don't be nervous.
+00:33:07	S	Six X.
+00:33:08	T	Six X, six minus three, three X is left in the middle... Our hopes are diminishing, if it's not going to work out this time,
+00:33:19	T	the whole thing does not look very hopeful. Let's just write it down now.
+00:33:27	T	Our last hope... is that correct? Nine X... and now, Marc?
+00:33:44	T	He needs to put his glasses on. Nine X?
+00:33:48	SN	Ehm, nine X, minus- eh, two X equals seven X.
+00:33:52	T	Equals seven X. Hm.
+00:33:57	T	Now I've got six X squared plus seven X minus three.
+00:34:00	SN	Two (inaudible).
+00:34:06	T	Thanks. Hm. Almost. Are we able to wangle that one? Hansueli.
+00:34:15	SN	Ehm, three X plus one and the second bracket, two X minus three.
+00:34:26	T	Correct. Let's do the check. Is it really correct now? Yes, (inaudible)?
+00:34:32	T	Let's multiply everything properly once again.
+00:34:37	SN	Ehm, six X squared.
+00:34:39	T	Six X squared.
+00:34:42	S	Ehm, minus nine X.
+00:34:44	T	Minus nine X.
+00:34:46	S	Two X.
+00:34:47	T	Plus, minus?
+00:34:49	S	Eh, plus.
+00:34:50	T	Plus two X and?
+00:34:52	S	Minus three.
+00:34:53	T	Minus three equals zero, that's correct now... wonderful. Uf! Hm?
+00:35:08	T	Well you can see... it doesn't always go that easy as we have seen with the first two problems that we did.
+00:35:20	T	Tomorrow we will see how one can proceed to be able to solve something like that systematically.
+00:35:31	T	But for today you have got enough new material. Now I would like you to practice a little on these techniques, because you will notice,
+00:35:44	T	that you have to get some routine to solve these factorizations quickly. In your book you have...
+00:35:56	T	Yeah, yeah, well, on the- worksheets to be more exact. Third grade book, well, on your copies, the numbers 14 A,
+00:36:06	T	15 B, and then also 17 B, they are all problems on this topic. It is written down, Benjamin, which problems.
+00:36:27	T	Fourteen A clearly says: determine the solution for the equation. And you have multiple quadratic equations.
+00:36:37	T	You have to try to solve them now, using this method.
+00:36:42	SN	(inaudible)
+00:36:44	T	Yes, yes, sure, they should be entered on the theory sheet. Shall I put it up for you to see once more?
+00:36:49	SN	Yes, could you (inaudible).
+00:36:52	SN	Yes, please.
+00:36:52	T	My pleasure... just one after the other, I'll write it down afterwards, okay?
+00:36:58	T	There- I think you can read the last one, too, on the blackboard.
+00:37:08	T	We know, right, our blackboard isn't that great, but it doesn't matter, we can still manage.
+00:37:17	T	Should anybody still have questions, then raise your hand now so that I can pass by.
+00:37:21	SN	What problems do we have to do now, 14?
+00:37:24	T	Look, it is written right at the bottom there, 14 A, 15 B, and 17 B. They are all equations that you have to solve.
+00:37:38	S	Well the (inaudible).
+00:37:39	T	The... sixt- 15 and 14 A, yes.
+00:37:48	T	The solutions are there in the front as usual, you can check if your results are correct or not.
+00:37:56	SN	Eh, you're standing right in my way.
+00:37:58	T	Yes.
+00:38:10	SN	Do I have to (inaudible) number 11 (inaudible) now?
+00:38:14	T	What do you mean?
+00:38:16	S	Ehm, now... I have.
+00:38:18	T	Here we said number 14 A... Yes, yes, we will look at them too, for practicing.
+00:38:25	T	But for what we are trying out right now-
+00:38:28	S	Yes, eh.
+00:38:29	T	It's 14A, 15B, and 17B, actually 16 too.
+00:38:37	S	M-hm. Yes.
+00:38:45	T	Does it work out? Homework was all right?
+00:38:50	SN	Hmm... yes, I continued a little bit there.
+00:38:53	T	Yes, yes, yes, that's okay.
+00:38:54	T	When you have solved some already, Christoph, you can just as well go and check your answers in the solution booklet if they are correct.
+00:39:00	S	M-hm, yes.
+00:39:01	T	It's laying in the front.
+00:39:03	S	M-hm, yes.
+00:39:14	T	M-hm, well it is actually all about recognizing the binomial formulas.
+00:39:19	SN	Yes, yes. (inaudible) then, eh, yes (inaudible) X minus three...
+00:39:24	T	Yes, exactly. Shane, try to improve your presentation a little, will you?
+00:39:30	T	It looks so very loose and careless [in French], how you're doi- Just look at how much space you're using!
+00:39:36	T	You could use much less if you consistently wrote on every second line.
+00:39:42	T	You know, when we are dealing with those fractions, as we saw in our first example there, and you're using that much space,
+00:39:49	T	then you will need a whole page only for one problem and won't be able to keep the overview anymore, or everything will become too big.
+00:39:55	S	Yes, sure.
+00:39:57	T	Well, I would try to do that a little bit smaller.
+00:40:03	T	Yes, good.
+00:40:06	SN	Ma'am.
+00:40:07	T	That's correct.
+00:40:08	SN	Is that right?
+00:40:10	T	Yes.
+00:40:11	SN	See.
+00:40:12	SN	Mrs. (inaudible), could you please come?
+00:40:14	T	It's just a little bit strange that you always take your X to the right when you write it.
+00:40:17	SN	Yes, I did it differently this time.
+00:40:18	T	It doesn't matter, it's just a bit uncommon. You can be original if you like.
+00:40:21	S	I always do it like that.
+00:40:24	SN	(inaudible) 15 B, right?
+00:40:26	T	Yes.
+00:40:27	S	Yes, then this should be that or that, and there are these two solutions, right?
+00:40:31	T	Yes- that's correct.
+00:40:34	S	But Hansueli has a completely different solu...
+00:40:36	T	For 15 B? No, he is working on 14.
+00:40:40	S	Ah, yes, we just had to do the three listed in the front, right?
+00:40:44	T	Yes you are doing problem 15 B and he is working on problem 14 A.
+00:40:51	T	No wonder you have got different results.
+00:40:54	T	And look, if you want to write it in short form, you can of course just list it after your consideration...
+00:41:05	S	M-hm, yes.
+00:41:05	T	All right, that has the same value.
+00:41:09	T	Tomi, nice presentation, please.
+00:41:12	SN	Yes, I know.
+00:41:13	T	Well, why don't you do it then?
+00:41:15	S	Yes...
+00:41:16	S	I don't know.
+00:41:16	T	M-hm, yes.
+00:41:26	T	Are you sure that it is minus, Jeanine?
+00:41:31	SN	No, plus.
+00:41:32	T	M-hm, yes.
+00:41:35	T	Yes, exactly, m-hm. You always have to pay attention there, those are the- the tricky errors that annoy you afterwards.
+00:41:47	T	Yes, yes, you see, 15 B can hardly be considered as a B problem, because everything is so wonderfully factorized already, hm.
+00:42:00	SN	Ehm, Ma-m.
+00:42:01	T	Five sixth, yes, correct.
+00:42:03	S	Should I write seven minus X? You don't know where the minus could be.
+00:42:07	T	But you must have X squared in front. Which one are you doing there? A.
+00:42:12	S	That one, D.
+00:42:13	T	Eh, D. It has to be X squared.
+00:42:17	S	But (inaudible).
+00:42:19	T	Aha, it cou... Yes, yes, sure. If you change both the signs then it stays the same.
+00:42:24	T	If X minus seven is zero, then X is seven, and if seven minus X is zero, then X is also seven.
+00:42:32	S	M-hm, yes.
+00:42:33	T	See, it doesn't matter in which order you write it.
+00:42:39	SN	Ehm, does it matter which one I do first?
+00:42:42	T	Eh, the negative or the positive. Now do you mean at the listing?
+00:42:44	S	Yes.
+00:42:46	T	No. Mostly you state the solution set in enumerating form, beginning with the smallest value. Do you know-
+00:42:54	S	Then it's still correct like that?
+00:42:55	T	It is also correct. One can imagine it directly on the number line that way.
+00:43:01	S	Yes.
+00:43:01	T	That's the advantage, hm, but...
+00:43:08	SN	How do I have to do this now? (inaudible)
+00:43:12	T	If it was binomial... then it would be a first one, right? Well, an X plus something squared.
+00:43:20	T	One hundred and forty-four is the square of what number?
+00:43:26	S	Of 24.
+00:43:27	T	Hm-m, no.
+00:43:28	S	No.
+00:43:32	T	Ten times 10 equals one hundred. Eleven times 11 we saw before, and what's next?
+00:43:39	S	Twelve times 12.
+00:43:40	T	Equals just about 144. And now look, if you take X plus 12 in the middle,
+00:43:47	T	you will, as is generally known, receive the double product. And two times 12- correct, equals 24.
+00:43:57	T	Now if you had 27 here, then you wouldn't be able to factorize it like that, hm.
+00:44:05	T	So you mustn't deceive yourself and think that it will always work like that. These are of course problems that all work.
+00:44:13	T	But in other cases it could look completely different.
+00:44:20	T	M-hm, yes, you can also just write it as a square, Esti, you don't have to write them twice next to each other. That's not necessary.
+00:44:25	SN	Oh yes.
+00:44:27	T	That's not necessary.
+00:44:30	S	There is no square number here in number E.
+00:44:34	T	Where?
+00:44:35	S	E.
+00:44:35	SN	E.
+00:44:36	T	E... Two X and three in the back... doesn't that work out?
+00:44:45	SN	Ah, two X times- eh, plus three.
+00:44:48	T	Squared, right, because there's a minus here and maybe you have to do something with the signs, too.
+00:44:56	T	All right, the bell is going to ring in a minute, or maybe it already has. For tomorrow, please just do this first problem, 14 A.
+00:45:07	SN	The whole thing?
+00:45:08	T	All of it. It goes fast.
+00:45:10	SS	No!
+00:45:11	T	You will need a little routine.
+00:45:17	T	Did you solve the wrong one?
+00:45:19	SN	No, I did two F and the next two.
+00:45:20	T	Yes, well then there's not much left. All right. We will continue with this tomorrow.
+00:45:29	T	Oh, you poor thing. What else?
+00:45:36	SN	Is that right in the brackets there? Because that is- they skipped it just like that. It is not finished yet, I know, but (inaudible).
+00:45:44	T	But now there is no A plus B anymore there in the back.
+00:45:48	SN	Goodbye everyone!
+00:45:49	T	Goodbye to you all!
+00:45:51	T	You factorized A plus B here.
+00:45:55	SN	M-hm, yes.
+00:45:56	T	Nine X plus eight X minus that, but it is- that's that.
+00:45:58	S	Is that minu- is that minus or
+00:46:01	T	That's that.
+00:46:02	S	(inaudible) that it becomes a minus.
+00:46:04	T	Right.
+00:46:04	S	Yes I just wanted- well-
+Ê

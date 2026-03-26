@@ -1,0 +1,255 @@
+00:00:03	T	Good morning, class.
+00:00:04	E	Good morning Mr. Leung.
+00:00:07	T	Okay.
+00:00:15	T	Hello, hello, hello. [In Chinese]
+00:00:17	T	Okay uh, boys and girls uh, for today, we are going to discuss a topic, okay? Uh... polygon.
+00:00:28	T	Polygon. Okay? Uh, for last Friday, I have asked you to prepare for this topic, have you read over this chapter?
+00:00:37	SS	Yes.
+00:00:38	T	Yes, okay. Uh, I try to ask some- someone to tell me what- what you have, uh, read over for the, uh- last weekend.
+00:00:47	T	Okay, close all your textbook.
+00:00:52	T	Okay, uh, first of all, you know what- what I am now going to do?
+00:00:56	T	Okay, try to draw some diagram, what you have read from, uh, one point, uh, four. Okay? Thirty-three. Yeah.
+00:01:19	T	Okay, very good.
+00:01:21	T	Uh, this kind of the, uh, polygon we call a con- a convex polygon, okay?
+00:01:29	T	It is, we have one, two, three, four, five, six, we call it a convex hexagon.
+00:01:38	T	I use the number to present that it is six-sided. The polygon is six-sided. Okay.
+00:01:44	T	And I want another boy or girl to come up to draw another type of... polygon. Okay, another type.
+00:01:56	T	Seventeen. Seventeen? Okay.
+00:02:03	T	You draw the diagrams only. Yes. Ha ha.
+00:02:09	T	You- you- you- you draw it here, okay. I- I- I- I- I want you to draw an- another type of polygon.
+00:02:22	T	Uh, okay, thank you. For- uh, how many sides?
+00:02:27	SS	Five.
+00:02:28	T	Five sides, it is, we call...?
+00:02:31	T	Do- do you know the name of this, uh, polygon? You forget it? Okay, it is a pentagon. It is a pentagon.
+00:02:38	T	I- I want you to draw another type of polygon- another property. Okay?
+00:02:44	T	Uh, for- for these two types, they are the same. We- we call them convex. Okay, convex.
+00:02:49	T	I- I- I want you to draw another type, do you know another type? I- I don't know whether you- you know or not.
+00:02:56	T	Uh, another one. Thirty-five. Who's 35? Yeah.
+00:03:04	T	You try.
+00:03:16	T	An- an- anyone you like.
+00:03:25	T	Okay, okay, thank you. Uh, do you find that such kind of a polygon is different from these two?
+00:03:35	T	Okay? We call this one... a concave polygon. Concave.
+00:03:42	T	And at the same time, how many sides for this polygon? One, two, three, four, five. Do you still remember what to call this kind of polygon?
+00:03:54	T	You have five sides, you- pentagon. How to spell pentagon? P-E-N-T-A-G-O-N.
+00:03:59	SS	P-E-N-T-A-G-O-N.
+00:04:04	T	Okay, we read it together. Pentagon.
+00:04:06	E	Pentagon.
+00:04:07	T	Okay. I- do you find that... uh, for this one we call that convex- convex polygon, this type we call concave polygon.
+00:04:16	T	Do you find that- what is the characteristic between them? What is the difference between them?
+00:04:23	T	Okay? I'll give you, uh- uh- one minute to discuss with your neighbor. Okay?
+00:04:27	T	Can you tell me the difference between these two kind of polygons?
+00:04:48	T	Can you tell me the difference between them?
+00:04:56	T	Okay.
+00:05:00	T	Anybody try to tell me the difference between them?
+00:05:06	T	Anybody? Anybody try?
+00:05:10	T	Okay. Twenty-six. Who is 26?
+00:05:19	T	Yes. Uh, you can come out and draw anything you like to- to tell me your- your- your result. Yes.
+00:05:26	SN	(inaudible)
+00:05:27	T	What is the difference between the convex polygon and concave polygon? Yes. Come up here- yes.
+00:05:39	T	Huh? What does it mean?
+00:05:46	T	Yes, okay.
+00:05:48	SN	(inaudible)
+00:05:50	T	Uh, your neighbor. You- you should help him because you discussed it together. Can you come out?
+00:06:00	T	What- what- what? Yes, yes.
+00:06:07	T	What- what does it mean? What does it mean?
+00:06:13	SN	Uh, more than 180 degrees.
+00:06:16	T	More- more than 180 degrees?
+00:06:19	S	Yes.
+00:06:19	T	Okay, that means- uh, this angle is more than 180 degrees?
+00:06:23	S	Yes.
+00:06:23	T	How- how about this polygon?
+00:06:28	T	Can we find any angles more than 180 degrees?
+00:06:31	S	No.
+00:06:32	T	No. Okay, can- can you get the meaning of- of- of your- thank you, thank you, your- your classmate say?
+00:06:40	SN	Yeah.
+00:06:40	T	Okay, what are the differences between convex polygon and concave polygon?
+00:06:45	T	We look at the concave polygon. At least- at least one or more of the interior angles is greater than 180 degrees.
+00:06:56	T	We call this concave polygon. Understand?
+00:06:59	T	But in this chapter, we don't discuss the concave polygon, we just only discuss the convex polygon. Okay?
+00:07:06	T	Another thing, you have learned in Form One. You have learned in Form One, these two words.
+00:07:15	T	Sorry. It is uh, uh, you have learned it in Form One. It is the... equilateral polygon and also... equiangular polygon.
+00:07:32	T	What are they? What is meant by equiangular polygon? And what is meant by equilateral polygon?
+00:07:41	T	Okay, first of all, do you still remember equiangular polygon? What is meant by equiangular polygon?
+00:07:50	T	That means- okay, I- I- I- I- I- give you some time to think. What does it mean by equilat- equilateral tri- polygon?
+00:07:58	T	Equiangular polygon?
+00:08:00	T	Do you still remember it?
+00:08:02	S?	Yes.
+00:08:03	T	Yes. What does it mean? For- for- for the first type. I'll give you some hints. All the sides...?
+00:08:10	SN	Are equal.
+00:08:10	T	All the sides are equal. Okay? All the sides of the polygons are equal.
+00:08:16	T	How about equiangular polygon?
+00:08:17	SS	(inaudible)
+00:08:18	T	All the sizes of the angle?
+00:08:21	SN	Are equal.
+00:08:21	T	Equal. Get it?
+00:08:23	T	Okay, I want you to try to help me to try to draw two types of polygon. They are four-sided and five-sided polygons.
+00:08:41	T	That is, equilateral but it is not equiangular.
+00:08:45	T	And it is equiangular and it is not equilateral.
+00:08:50	T	Okay, you try- take out, uh- clas- your classwork exercise book... to try to draw.
+00:08:56	T	And then I will ask you to come out and help me to draw the four-sided polygon. It is equilateral but it is not equiangular.
+00:09:09	T	Another four-sided polygon, it is equiangular but it is not equilateral. Okay?
+00:09:17	T	You try- you try to draw... in your classwork exercise book first.
+00:09:45	T	Okay, please be quick. Please be quick.
+00:10:14	T	Okay, can you get the meaning of the uh, questions? Can- can you get it?
+00:10:18	T	Yes, good. You- you try to draw... the uh, four-sided polygon, it is equilateral and it is not equiangular.
+00:10:29	T	Another four-sided polygon, it is equiangular and it is not equilateral. And also, for the five-sided polygon.
+00:10:43	T	That means, you have to draw four- four different diagrams. Four different diagrams.
+00:11:42	O	[Bell]
+00:11:50	T	Okay, I give you one more minute. And then would somebody come out to try to draw your answers on the board.
+00:12:09	T	Four- four different types of the diagram. The four-sided and also the five-sided.
+00:13:11	T	Okay? Have you finished?
+00:13:14	T	Okay, try to look at the board. I want you to draw a four-sided polygon, it is equilateral but it is not equiangular.
+00:13:24	T	Understand? It is not. And also, another four-sided polygon, it is equiangular but it is not equilateral. Got the point?
+00:13:34	T	Okay. Would someone come out and- and to draw.
+00:13:44	T	Okay, for this type. You try- try to come out and draw. Number six. Number six, yes.
+00:13:54	T	And then, uh, anoth- another one, this part. Twenty. Where's 20? Yes. Be careful of the wire.
+00:14:06	T	Okay, 32. Thirty-two.
+00:14:09	T	Hey, I want you to- to draw this one.
+00:14:12	T	Thirty-two.
+00:14:16	T	And then for equiangular, 19? Where's 19? Yeah, you.
+00:14:49	T	O- okay, we look at the four-sided polygon. Okay? We called it quadrilateral. Uh, I can use some mark to present it is equilateral.
+00:15:02	T	These four sides are equal. Okay, get it? Do you find that this angle is greater than 180 degrees?
+00:15:12	T	No, not- not- not 180. It's greater than 90 degrees. It is less than 90 degrees, so it's good.
+00:15:21	T	Okay, how about this one? Uh, this boy... used the mark to show that they are right angles.
+00:15:32	T	Can you find that the, uh- length between these two sides are different?
+00:15:37	T	Can you get the point? Okay, look- look- look at the five-sided polygon, we call it pentagon.
+00:15:42	T	What- what are the differences between them? Can you find out the difference?
+00:15:47	T	Uh, I am not satisfied with these two answers. I- I want another two to try to- to uh, to show that they are different. Okay?
+00:15:59	T	To show some differences between them. I want this pentagon equilateral but it is not equiangular.
+00:16:08	T	I want you to draw this five-sided polygon, it is equiangular but it is not equilateral. Okay, you try it again.
+00:16:17	T	Another two. Number 10. Try, yeah yeah. Come on.
+00:16:28	T	Number seven. Yeah, okay, you- you... okay, you draw it at the side. Yes. You draw it here.
+00:16:48	T	Ha ha ha. Yeah, thank you.
+00:16:54	T	Uh! Can you find the difference between them?
+00:16:59	T	Huh? Uh, a little bit. Okay, I- I- I- I try to draw another one for you. Okay, equiangular.
+00:17:07	T	Also the same, but this two sides... I draw it very short. Can you get it?
+00:17:14	T	And then I tell you- all the size- all the size of these five angles are equal. Can you get it?
+00:17:23	T	Okay, how about this one? I- I- I- I- I try- I try to draw it.
+00:17:43	T	Okay, this angle- two angles are 90 degrees. Okay? Can you get it?
+00:17:48	T	Do you find that uh- uh, the shape of this two five-sided polygons are different? Can you get it?
+00:17:55	T	Okay, I as- I ask you another question.
+00:17:59	T	If... can you- can you draw- can you draw a four-sided polygon, it is equilateral and it is equiangular? Okay? It is equilateral and it is equiangular.
+00:18:24	T	Can you?
+00:18:39	T	Okay, I want you to draw in this column. Can you help- help- help me to draw a four-sided polygon. It is equilateral and it is equiangular?
+00:18:49	T	A five-sided polygon, it is equiangular and also it is equilateral. Okay.
+00:18:58	T	Another two boys and girls to come out. Forty-two. No 42. Sorry. Your class have no- 25.
+00:19:07	T	Twenty-five. The first one. Yeah.
+00:19:13	T	Uh, 35, 25 and 35.
+00:19:17	T	Okay, 25, you draw on this box.
+00:19:45	T	Okay, thank you. Uh, the two boy show it to me that, uh, when you draw this four-sided polygon, the size of these four angles are- are equal.
+00:19:57	T	And the length of these four sides are equal. Okay, for this five-sided polygon, we called it a pentagon.
+00:20:04	T	This five sides are equal, this five angles are equal. Can you get it?
+00:20:08	T	Okay. How do we call such type of polygon?
+00:20:14	T	When it is equilateral and it is equiangular? You have learned this word before. In Form One.
+00:20:21	T	In- do you still remember? How- how- how do we call this kind of polygon?
+00:20:26	SN	Square.
+00:20:28	T	Yes, anybody? Still remember? How many of you remember? Put up your hand. Let me know. Still remem- onl- only one?
+00:20:37	T	You have learned in Form One, okay. How- yes, how- how do we call such type of polygon?
+00:20:44	S?	Regular polygon.
+00:20:46	T	Regular polygon. Okay, do you still remember the spelling?
+00:20:50	S	R-
+00:20:51	T	Try- try- try- try.
+00:20:53	T	Oh, your- your monitor try.
+00:21:03	T	Okay, thank you. Do you still remember this word?
+00:21:07	T	Okay, we read it together. Regular polygon. Regular polygon.
+00:21:10	SS	Regular polygon.
+00:21:12	T	Once again, regular polygon.
+00:21:13	SS	Regular polygon.
+00:21:15	T	Okay, what is meant by a regular polygon? That means the polygon is both equilateral and equiangular.
+00:21:24	T	We call- we call it a regular polygon. Okay?
+00:21:29	T	Do you still remember it? Yeah, okay. Uh, who's on duty today? Come out and help me to clean the board.
+00:21:35	T	We come to an- an- another- we try to discuss another properties of the uh- polygon.
+00:21:45	T	Uh, now, we come to discuss the sum of interior angles. The sum of interior angles of a polygon.
+00:21:57	T	Okay? Sum of interior angles of a polygon.
+00:22:20	T	Okay, sum of interior angles of polygon.
+00:22:30	T	Last week, last week. We have discussed the sum of interior angles... of a triangle. For the triangle, it is a three-sided polygon.
+00:22:48	T	Do you still remember the sum of the interior angles of a triangle? It is equal to...?
+00:22:56	SS	One hundred and eighty degrees.
+00:22:56	T	One hundred and eighty degrees.
+00:22:59	T	Do you still remember the abbreviation? The- the abbreviation to describe such properties?
+00:23:05	SS	Angle sum of triangle.
+00:23:06	T	Angle sum of triangle.
+00:23:10	T	Okay, angle sum of triangle. Okay.
+00:23:13	T	How about, uh- uh- for example, we have...
+00:23:20	T	We have a four-sided polygon.
+00:23:27	T	Okay? We have a four-sided polygon. We called quadrilateral, okay, for quadrilateral... what is the sum?
+00:23:38	T	What is the sum of interior angles of it?
+00:23:42	T	Okay, take out your classwork exercise book. Help me to find out the sum of interior angles of a four-sided polygon.
+00:23:51	T	I'll give you some hints. And you help me to work out the sum. First of all, I draw a dia- a diagonal A C inside the four-sided polygon.
+00:24:06	T	Okay? I call this angle, A two. This angle, A one. This B. It is uh, C two. It is C one. And it is angle D.
+00:24:19	T	Okay, help me to find out... I give you such hints.
+00:24:24	T	Help me to find out- to work out, the sum of angle A, angle B, angle C and angle D. It is the interior angle.
+00:25:58	T	Okay. Have you found out the sum of angle A, angle B, angle C and angle D?
+00:26:06	T	It means, what is the sum of interior angles of a four-sided polygon?
+00:26:12	T	I give you some hints. Help me to work out the sum of this polygon.
+00:26:18	T	For last week, you have learned the sum of interior angles of a triangle.
+00:26:37	T	Okay? Can somebody help me... to fill in the blanks? Anybody like?
+00:26:50	T	Number 13, you try- you try to fill in for- for the first line. Number 13? Where's number 13? Yeah.
+00:26:57	T	Okay, and then number 21. The second line. Okay, and then we come to the conclusion. How to present the conclusion?
+00:27:16	T	Okay, first of all, you say, A two plus B plus C two is equal to 180 degrees.
+00:27:22	T	You're using the properties- angles sum of triangle. Okay, also the second one.
+00:27:27	T	How about we come to the conclusion? How to work out angle A plus angle B plus angle C plus angle D?
+00:27:35	T	Okay, don't just only write down the answers. Show it to us, how to find out the answer. Seventeen.
+00:27:43	T	Have you- have you worked out the answer?
+00:27:46	T	Yes, okay, try- try- try to show it to us.
+00:28:04	T	Okay, thank you. Thank you. Yes.
+00:28:08	T	Okay, can you work out the sum- it is equal to 360 degrees?
+00:28:13	T	Yes, okay, how- how you got such answers?
+00:28:17	T	Why do you write down 180 degrees plus 180 degrees?
+00:28:23	T	Okay, angle A plus angle B plus angle C plus angle D.
+00:28:26	T	Do you find that it is equal to uh, A one plus A two plus angle B- plus B, angle C is equal to C one plus C two, can you get it?
+00:28:34	O	[Bell]
+00:28:35	T	And then plus D.
+00:28:37	T	Can you get it? And do you find that A one plus C one plus D is equal to 180 degrees?
+00:28:44	T	A two plus B and then plus C two is equal to 180 degree. Okay, we stop here.
+00:28:51	T	For a four-sided polygon, we find that, we can cut the four-sided polygon into two triangles.
+00:29:00	T	Cut it into two triangles, so we got- that the sum of interior angles is equal to the sum of the angles of two triangles. Can you get it?
+00:29:11	T	Okay, take out your textbook. We'll try to find out how to find the sum of interior angles of a pentagon, a five-sided polygon.
+00:29:21	T	Turn to page 31. Page 31. Okay, you try to work out the class practice number one.
+00:29:30	T	You can discuss with your classmate. How to find the pentagon?
+00:29:34	T	Okay, number one, it says, the dif- given figure shows a pentagon A B C D E.
+00:29:39	T	And then turn to page 32. It asks you to do something.
+00:29:46	T	Okay? Try to follow the question and work out the sum of interior angles of a pentagon.
+00:29:59	T	Uh, help me to- to- to clean the board. Please.
+00:30:06	T	Number one.
+00:30:14	T	Uh... is it done by you?
+00:30:18	SN	No.
+00:30:18	T	No, okay, you- you clean it. You- you- you- you have to uh, uh- do it by yourself.
+00:30:23	S	Okay.
+00:30:29	T	Uh, is it done by you? It is not done by you?
+00:30:35	SN	Yes.
+00:30:35	T	Yeah, yes.
+00:30:42	O	[Bell]
+00:31:01	T	Okay, we- uh, I- I say you- you- you try to finish this- number one first. We don't do number two.
+00:31:08	T	You try to finish number one to find out the sum of interior angles of a pentagon.
+00:31:19	T	Okay.
+00:31:23	T	Okay, uh, because it is time- time's up. So we have a quick look at number one.
+00:31:34	T	Okay, uh, first of all. First of all, we have a... pentagon. It is A B C D E, is it?
+00:31:49	T	Okay, and then turn to page 32. What does it say for question A?
+00:31:54	T	If two diagonals are drawn from vertex A to the nonadjacent vertices C and D, how many triangles are formed?
+00:32:04	T	It asks you to draw from vertex A to vertices C and D, how many triangles are formed?
+00:32:13	SS	Three.
+00:32:13	T	Three. Okay, number B. What is the sum of the angles in each triangle?
+00:32:19	SS	One hundred-
+00:32:20	T	One hundred and... 80 degrees.
+00:32:21	SS	Eighty degrees.
+00:32:22	T	Okay, for the first triangle, the sum of the uh, uh, triangle is equal to 180 degrees-
+00:32:27	T	One hundred and eighty degrees, 180 degrees.
+00:32:30	T	Okay, number C. What is the total sum of the angles in all the triangles formed?
+00:32:36	T	What is the total sum of the angles of these three triangles? These three triangles.
+00:32:41	SS	Five-
+00:32:42	T	One hundred and eighty degrees. One hundred and eighty degrees. One hundred and eighty degrees.
+00:32:47	T	Altogether, it is? Five hundred and forty degrees.
+00:32:48	SS	Five hundred and forty degrees.
+00:32:51	T	Okay, we come to D. It is the conclusion. What is, therefore, the sum of the interior angles of this pentagon? It becomes?
+00:32:59	SS	Five- 540 degrees.
+00:33:00	T	Five hundred and forty degrees. Okay, I stop here.
+00:33:03	T	You go home, try to- try to work out- find out the relationship, okay, between the sides-
+00:33:12	T	The number of sides of a pentagon and the sum of interior angle of that pentagon, okay?
+00:33:18	T	Mark down the homework for maths. You go home... try to finish page 30... two. Number two on your textbook.
+00:33:30	T	Okay? You work out in your textbook.
+00:33:36	T	Got it?
+00:33:51	T	Okay, class dismiss.
+00:33:53	SN	Stand up.
+00:34:00	T	Goodbye class.
+Ê

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+friction_work/
+runs/
+.DS_Store
+__MACOSX/
+
+# Large / local TIMSS assets (keep code + small transcripts; clone repo then add videos locally)
+data/timss/*.mp4
+data/timss/*.mov
+data/timss/*.mkv
+data/timss/timss-*/

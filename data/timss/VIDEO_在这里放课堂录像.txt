@@ -1,0 +1,14 @@
+课堂录像（MP4 等）需要自己加到本文件夹，原因：timssvideo.com 上观看/下载通常需要先免费注册登录，系统无法代替你登录抓取视频。
+
+建议步骤：
+1. 打开 https://www.timssvideo.com/ 注册并登录。
+2. 在站内打开一节课，用浏览器提供的下载方式保存视频；若只有在线播放，可用屏幕录制或站点允许的导出方式（以站点条款为准）。
+3. 把得到的文件放到本目录，例如：data/timss/MyLesson.mp4
+
+运行 pipeline 示例：
+  python scripts/run_session.py --video "./data/timss/MyLesson.mp4" --work-dir "./runs/demo"
+
+本目录已自动下载的内容（公开直链，无需登录）：
+- Math-transcripts-as-txt-files.zip / 已解压到 math_transcripts/
+- Science-transcripts-as-txt-files.zip / 已解压到 science_transcripts/
+来源：https://www.timssvideo.com/resources

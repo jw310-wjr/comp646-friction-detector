@@ -1,0 +1,387 @@
+00:00:05	T	Please sit down. Do I have all of your grade books up here?
+00:00:17	SS	We didn't think we needed to bring it today.
+00:00:19	T	Absolutely not. Please, those of you that have not turned in the assignment yet, hang on to it.
+00:00:35	T	Under unusual circumstances, why don't you take it home, calculate the similar problems on your own.
+00:00:46	T	And my offer is... you all have a regular schedule on Friday.
+00:00:52	T	The information you read about not attending your music class is not accurate, that was an old schedule.
+00:00:59	T	So, you'll have all five classes and my offer or bonus is that those of you that want, I'm willing to help you at the sixth hour.
+00:01:13	T	Those of you that are having difficulty or don't understand the work can attend and I'm willing to devote some of my time for you.
+00:01:22	T	Considering the fact that in today's third class, you'll have the opportunity to write similar assignments as well.
+00:01:32	T	I'm offering you this opportunity, it's optional, okay? This Friday, after the last class.
+00:01:39	T	Today in our class, we'll calculate and review work which we discussed in our previous class. Turn to page 50.
+00:02:03	T	Before we start to go over this homework, we'll go over some of the rules which we did not discuss.
+00:02:17	T	Rules which we studied and calculated.
+00:02:23	T	We've dealt with powered numbers, which had concurrent elements and a powered number.
+00:02:34	T	If you recall, you had a homework assignment in which a grandchild was taken to a theme park and every...
+00:02:43	O	[Intercom]
+00:02:52	SN	Is that supposed to be a class bell ring?
+00:02:53	T	I don't know. Every roller coaster ride cost him eight korun.
+00:02:57	T	Grandmother gave him enough for two rides, which is two times eight korun.
+00:03:03	T	Plus he received from his grandfather an additional five times eight korun.
+00:03:10	T	So he went on the roller coaster and he could have gone on the roller coaster how many times?
+00:03:16	SN	Seven times.
+00:03:17	T	Seven times. Then we simplified it. Instead of letter A we used some other examples, some kind of gifts to your relatives.
+00:03:28	T	Do you recall that?
+00:03:29	SN	No.
+00:03:30	T	You were saying or rather I encouraged you that you will pick two of your best friends and invite them to your Christmas dinner.
+00:03:38	T	So you'll buy each of them a gift. Two identical gifts, okay? You don't know what kind of gifts, but it will be two.
+00:03:46	T	But then you were at some kind of event and you said to yourself,
+00:03:52	T	I will expand the list of my close friends who will receive a gift from me. So, you will add five more gifts.
+00:04:02	T	See how it matches what's on top, which doesn't necessarily have to happen. So, how many gifts is he going to buy?
+00:04:10	SN	Seven.
+00:04:11	T	Seven times D. Fine. And from that we derived a rule that we use addition and multiplication when the powered numbers are the same.
+00:04:31	T	Imagine instead of a gift, you'll give them a holiday card which will include a powered number.
+00:04:40	T	Give me a number.
+00:04:44	T	Eight cubed, fine. So you'll give them a card eight cubed, nicely wrapped. You'll give it to these two and to your five new friends.
+00:04:57	T	And now we can simplify it as...
+00:05:02	SN	Seven times eight cubed.
+00:05:04	T	Seven times eight cubed. You can see that we work with the same powered numbers.
+00:05:12	T	The main number is the same as well as the exponent. Correct? Do you remember? Good.
+00:05:22	T	Then we had another category in which the only thing that was the same was, the main number or the exponent.
+00:05:33	T	If we look at it in the same order as we studied it. Anna?
+00:05:37	SN	The main number.
+00:05:38	T	The main number is the same, fine. We learned how to deal with powered numbers with the same main number and we learned to calculate what?
+00:05:52	T	Open up your notebooks, the rules are in there. Open it up! And we're trying to figure out what, Kuba?
+00:06:21	T	We worked with powered numbers that had the same main numbers, Vasek? And we studied how to figure out the product and the quotient.
+00:06:34	SN	And the quotient.
+00:06:34	T	Please tell me... we multiply two powered numbers with the same main numbers.
+00:06:44	T	Give me a calculation which includes two same main numbers. Ondras.
+00:06:54	SN	Five to the sixth power.
+00:06:55	T	Five to the sixth power. I'll write it differently so you can understand the main concept of this example.
+00:07:05	T	It's the same, so five times five, which is the same. You've said to the sixth power and...
+00:07:13	S	To the fifth power.
+00:07:14	T	And to the fifth power. Please tell me guys, what remains. Jitka?
+00:07:23	SN	Five to the eleventh power.
+00:07:24	T	Five to the eleventh power, fine. We've also studied... powered numbers with the same main number and its...
+00:07:39	SN	Quotient.
+00:07:40	T	Quotient, good. Give me an example of two powered numbers that have the same main numbers. Vojta!
+00:07:50	SN	Three to the eighth power.
+00:07:52	T	So, the two main numbers are three, fine, and we'll divide these two numbers.
+00:07:59	T	And in order for these numbers to be powered numbers we must include the exponents. Very good. Vojta!
+00:08:06	S	Three to the eighth power.
+00:08:08	T	To the eighth power and make sure this one is smaller.
+00:08:10	S	To the sixth power.
+00:08:12	T	To the sixth power, equals... is the main number going to be the same, Vojta?
+00:08:16	S	Yes, three squared.
+00:08:18	T	Three squared. Fine, that's another category. Here we worked with powered numbers that have the same main numbers.
+00:08:29	T	The next three rules apply to... Radka?
+00:08:41	SN	Power of a product and power of a quotient?
+00:08:44	T	Yes. Tell me the power of a product, Radka?
+00:08:58	S	Two times three.
+00:08:59	T	Two times three, for example.
+00:09:02	S	To the fifth power.
+00:09:04	T	And the same exponent will apply to both of the main numbers. Because it will unfold into what... Andrea?
+00:09:18	SN	Two to the fifth power.
+00:09:19	T	Two to the fifth power.
+00:09:21	S	Times three to the fifth power.
+00:09:22	T	Times three to the fifth power. You can see that the exponents are the same, do you see that?
+00:09:29	T	Here you have the same main number and the exponent, here just the main number and here we'll work with the same exponents.
+00:09:39	T	Furthermore, we know the power of what, Marketa?
+00:09:45	SN	Quotient
+00:09:46	T	Quotient. Give me a simple example.
+00:09:49	S	Eight divided by two to the third power.
+00:09:55	T	To the third power, fine. And even here, we'll have the same exponent. Its product.
+00:10:06	T	So, it's going to be eight to the third power...
+00:10:10	S	Divided by two.
+00:10:13	T	I said product, excuse me I meant quotient. Okay, and we also studied what else? Katka?
+00:10:24	SN	Power of the exponent.
+00:10:25	T	Power of the exponent. Here we go. Give me an example.
+00:10:31	SN	Two cube and the entire thing is to the fifth power.
+00:10:37	S	To the fifth power.
+00:10:40	T	This equals to? Lucka Maresova?
+00:10:45	SN	Two and we multiply it by...
+00:10:48	T	This number stays the same and the exponent will be...
+00:10:53	S	We multiply three times five.
+00:10:55	T	We multiply it. That is three times five equals 15. It's two to the fifteenth power. These are rules which you must master.
+00:11:12	T	Those of you that are having some difficulties with this, should practice at home with his friends in order to get comfortable with this.
+00:11:24	T	Okay, let's look up page 50.
+00:11:29	T	Open up your notebooks and write today's date, twenty-eighth of November and we'll do problem three, five letter A.
+00:11:39	T	One problem after another, this time we'll do the work together with someone up here by the board.
+00:11:45	T	First student to come up to the board is Paul. We must... as I told you yesterday, we must write down the assigned problems.
+00:11:57	T	Okay, Paul. Calculate 30 to the third power and describe to us how you're going to figure it out.
+00:12:10	SN	First I multiply three to the third power.
+00:12:13	T	You'll raise the powers.
+00:12:13	S	Raise the powers of three cubed.
+00:12:15	T	Which totals?
+00:12:17	S	Seven is 27.
+00:12:18	T	Wait a minute. Don't write three cube, that would confuse all of us.
+00:12:24	S	Seven equals to 27.
+00:12:26	T	Correct.
+00:12:28	S	Plus-
+00:12:29	T	No, not plus. Just write the number. It's actually...
+00:12:38	S	Twenty-seven and three... three to the tenth power is 1,000 so that is 27,000.
+00:12:45	T	Excellent. The answer is 27,000. Call up the next person and read them a problem.
+00:12:50	S	Alena!
+00:12:58	T	No one is absent today?
+00:12:59	SN	Martusova is absent.
+00:13:01	SN	Negative three to the fourth power, you're supposed to compare it.
+00:13:10	SN	Okay!
+00:13:11	SN	And negative five to the third power.
+00:13:13	T	Leave a blank between the two.
+00:13:14	SN	Okay!
+00:13:16	T	Lucka was absent in the first class as well, correct?
+00:13:23	SN	What is the exponent?
+00:13:25	SN	To the third power.
+00:13:27	SN	So, it will be... negative three to the fourth power is larger because we have an even number, negative coefficiency.
+00:13:39	T	Yes, the exponent is an even number but in the other one, the exponent is an odd number so what kind of number will you come up with?
+00:13:45	S	Negative.
+00:13:45	T	Negative, but in this one the number will be...
+00:13:47	S	Positive.
+00:13:48	T	Positive, fine. So do you have it correct or not.
+00:13:54	S	I have it correct.
+00:13:55	SS	Incorrect, you need to reverse the numbers.
+00:13:57	T	You described it correctly but you wrote it wrong. Good, next person, let's hurry up.
+00:14:13	SN	Write the main number two, 128.
+00:14:31	T	Number two is the main number so write number two and now find out the exponent.
+00:14:36	T	If it's two squared then it's four, so try to the third power which is eight and so on. Who's finished with this problem?
+00:15:01	T	Continue by multiplying it here on the side. Two, four. Here try this marker.
+00:15:46	T	Who can help him out. Michael Onderzak.
+00:15:54	SN	To the seventh power.
+00:15:57	T	Two to the seventh power.
+00:16:00	SN	(inaudible)
+00:16:01	T	That's fine. Two to the sixth power is 64, two to the seventh power is 128. Excellent.
+00:16:07	T	You know how you came up with this, yes? Let me have the marker.
+00:16:09	T	Two to the first power equals two, squared is four, cubed is eight, times two is 16, which is the fourth power.
+00:16:19	T	Thirty-two is to the fifth power, 64 and 128. Call up the next student.
+00:16:28	SN	(inaudible)
+00:16:35	T	We're not done yet.
+00:16:39	S	Seven squared times seven cubed. Write the exponent of seven.
+00:16:46	SN	That equals to seven and I multiply two times three.
+00:16:51	T	No, no.
+00:16:52	SS	Adding it up.
+00:16:53	SN	I meant adding it up, so the answer is seven to the fifth power.
+00:16:57	T	Show us which rule you followed to complete this problem.
+00:17:00	S	That one up there.
+00:17:02	T	Okay, why don't you pull down the board and point it out to us. Very good. Next person!
+00:17:09	S	Anna! Six times three cubed, minus four times three cubed.
+00:17:26	T	Six times three cubed, please erase it and Radka, start again.
+00:17:35	S	Six times,
+00:17:38	T	Don't put it in parenthesis, six times...
+00:17:41	S	Three cubed.
+00:17:43	T	Times, she said times so it's multiplication. Three cubed.
+00:17:51	S	Minus four times three cubed.
+00:17:58	T	Before you start calculating it, which rule will you use in this case.
+00:18:06	T	It's an assignment which has the same main number as well as the exponent.
+00:18:12	S	Power of the exponent.
+00:18:14	T	Take a good look at it. Show me the two powered numbers in this example. Show me the first one? Read it out?
+00:18:24	S	Three cubed.
+00:18:24	T	Read the other one!
+00:18:26	S	Three cubed.
+00:18:27	T	Which rule applies to this?
+00:18:36	S	That one.
+00:18:37	T	Correct. These are formulas that have the same main number as well as the exponent.
+00:18:44	T	Okay, six times (inaudible) minus four times (inaudible) is the same as six times three cubed. Yes of course. Which equals...
+00:18:55	S	Three cubed is 27 times two equals 54.
+00:19:03	T	Do you all agree with the answer?
+00:19:04	SS	Yes!
+00:19:05	T	Katka, do you agree?
+00:19:06	SN	Yes.
+00:19:06	T	Correct. Is there a simpler way of doing this? You may sit down now.
+00:19:12	T	Isn't there a simpler way? Two times three is six and calculate six cube. Why not.
+00:19:19	SS	(inaudible) It's not possible.
+00:19:21	T	We would not have to go through all these steps. Jitka!
+00:19:26	S	(inaudible)
+00:19:27	T	Why can't I do two times three is six cube. Ondra?
+00:19:36	SN	Because, power of a product surpasses everything else.
+00:19:38	T	Because, raising powers surpasses multiplication, correct. Anna did it correctly, except she did not call up the next person.
+00:19:47	SN	Yes, Lukina!
+00:19:48	T	Come up here Vasnovsko. Catch Lukina.
+00:19:57	S	One point two to the eleventh power divided by one point two to the ninth power.
+00:20:07	T	Tell him the instructions on what to do with the problem.
+00:20:10	S	And you're supposed to calculate it.
+00:20:12	T	So, which rule will you follow? Stand aside and tell us which rule you will follow.
+00:20:19	SN	This one.
+00:20:22	T	We're dealing with power of quotient with the same...
+00:20:27	S	Same main number.
+00:20:27	T	Very good. Equals! You're supposed to calculate the problem, you just simplified it.
+00:20:38	T	Calculating the problem means, you come up with a number. You can calculate it in your head.
+00:20:46	T	First, you calculate 12 squared, which is how much? Just ignore the numbers that are to the nearest tenths for now.
+00:21:01	T	That's 144, and you separated the two because of the decimal numbers (inaudible). Very good.
+00:21:10	T	You just didn't underline the answer twice. Next person.
+00:21:30	S	Eight to the X power divide it by eight to the third power equals eight to the eighth power. (inaudible)
+00:21:43	T	So write next to it X equals...
+00:21:46	SN	X equals.
+00:21:48	T	Point out the rule you're going to follow! Correct.
+00:22:04	S	X equals eight...
+00:22:10	T	No, no. Our only concern is this X.
+00:22:12	S	X equals...
+00:22:14	T	We can't be mixing it up, okay?
+00:22:16	S	X equals 11.
+00:22:18	T	Correct, how did you figure that out? How did she come up with that answer, that X equals 11!
+00:22:23	S	I added up number three and number eight.
+00:22:25	T	Fine and in order to verify it, try to insert the number in there. Instead of X, write in number 11.
+00:22:33	S	Eight to the eleventh power divided by eight to the third power equals to eight to the eighth power.
+00:22:42	T	Excellent. Please underline X equals 11. Underline X equals to 11, that's the answer. Good, next person.
+00:23:02	T	Andulka!
+00:23:05	S	Write down a number which is greater. Seven squared in parenthesis. (inaudible)
+00:23:08	SN	May I write it like this. Is it Okay?
+00:23:12	T	Here you did not write what X equals. Please write it in.
+00:23:16	SN	And seven to the third power.
+00:23:20	T	That's why we're doing this together in class.
+00:23:27	SN	First of all I calculate what's in the parenthesis. Seven squared equals 49.
+00:23:34	T	Is that important? Which rule will you follow for this problem. Move aside and point it out for us.
+00:23:41	S	That one?
+00:23:47	T	Correct, so use it!
+00:23:52	S	Here we have two X and three times three is nine.
+00:23:59	T	Yes, very good. Why don't you come over here to write on this side of the board.
+00:24:21	SN	Write the answer for 305,026.
+00:24:32	T	Equals, good.
+00:24:35	SN	Three times 10 to the fifth power.
+00:24:40	T	He'll figure it out on his own.
+00:24:42	S	Plus five times 10 cubed.
+00:24:48	T	Very good Michael.
+00:24:50	S	Plus two times 10 to the first power, plus six times one.
+00:25:06	T	Very good, call up the next person. It's correct. I'll just ask you. Could this have been just two times 10, not 10 to the first power?
+00:25:14	SN	Yes.
+00:25:14	T	Because 10 to the first power is 10. The way he did it is correct as well because that's how we studied it.
+00:25:22	T	Why is there so much noise in here? Here he wrote times one. Is that correct?
+00:25:28	SS	Yes.
+00:25:28	T	Absolutely it's correct. He also could have... instead of one, he could have put in times...
+00:25:32	SS	Six times...
+00:25:35	T	Six times...
+00:25:36	S	Ten to the N power.
+00:25:37	T	Ten to the N power. Both answers are correct.
+00:25:41	SN	Write A times 10 to the N power.
+00:25:46	T	Write the formula, A times 10 to the N power. That's what we can use when we deal with large numbers on a calculator.
+00:25:58	T	Go ahead.
+00:25:59	SN	Seven hundred and thirty-four thousand...
+00:26:18	SS	No, no.
+00:26:21	T	Leave it up there. In order for you to have 10 cubed here and not be a mistake as the final answer.
+00:26:30	T	You would have to have over here...
+00:26:32	SN	Seven hundred and thirty-four.
+00:26:32	T	Seven hundred and thirty-four. That's still not a final answer. This will equal...
+00:26:49	T	Very good.
+00:26:50	SS	No, that's not correct. It should be times 10 to the fifth power.
+00:27:03	T	Underline the answer twice. Good. Ladies and gentlemen, look on page 51, exercise number one.
+00:27:17	T	Please take out a number two pencil, number two pencil and you're supposed to calculate exercise number one.
+00:27:34	T	Write it into your notebooks as well.
+00:27:36	SN	Using the pencil?
+00:27:38	T	Excuse me?
+00:27:38	S	With the regular pencil?
+00:27:40	T	Start with the outline of 51 over one! I will dictate you the following assignment. Negative 50 in parentheses to the fifth power.
+00:27:58	T	I thought we were going to complete the assignment in the book but instead we'll copy the assignment into our notebooks.
+00:28:02	T	I'll start over again. Negative 50 in parentheses to the fifth power plus negative 30 in parentheses to the third power.
+00:28:12	T	Plus negative 20 in parentheses to the second power, plus negative 10 to the first power, plus zero to the tenth power,
+00:28:26	T	Plus 10 to the first power, plus 20 squared, plus 30 cubed, plus 50 to the fifth power.
+00:28:40	T	And I would like to find out if you can figure out why did I ask you to use a regular pencil. Figure this problem from your memory.
+00:28:56	T	How is the pencil going to be useful to you. Marta!
+00:29:02	SN	So we can reduce a fraction... to the lowest term...
+00:29:06	T	Not to reduce a fraction but to calculate...
+00:29:09	S	When we have negative 50 to the fifth power plus 50 to the fifth power, it will equal to zero. (inaudible)
+00:29:14	T	Yes of course. So you cancel out those numbers that equal to zero. For instance, negative 50 to the fiftieth power and plus 50...
+00:29:30	T	Excuse me, I just made a mistake. Negative 50 to the fifth power and plus, Tom?
+00:29:35	SN	Plus 50 to the fifth power.
+00:29:37	T	Fifty to the fifth power, very good. Just cross it out lightly.
+00:29:42	T	This does not mean you're eliminating these numbers, it just means you're done with those numbers.
+00:29:52	T	Can you find another pair of numbers which can be crossed out? Jitka!
+00:29:58	SN	Negative 30 to the third power plus 30 to the third power.
+00:30:00	T	Very good, those two equal to zero as well. What else? Kuba.
+00:30:08	SN	Negative 20 squared and 20 squared. I see.
+00:30:12	T	Does anyone object to that? Tom objects, who else.
+00:30:16	SN	Me!
+00:30:17	T	Why not... why do you object to that answer. Kuba.
+00:30:22	T	Why didn't some of you have a problem with negative 30 cubed but object to negative 20 squared?
+00:30:33	T	Negative 30 cubed was fine but you object to negative 20 squared. Do you know, Ondra? Please tell us.
+00:30:52	SS	There is an even number... it's an even exponent.
+00:30:57	T	The negative main number has an even exponent. That's not the same thing, is it! Iveta.
+00:31:05	SN	Because a positive number will come out of this.
+00:31:07	T	Because in this case we get a positive number. Negative 20 squared does not come out to a negative answer but a... Kuba!
+00:31:13	SN	Positive number.
+00:31:14	T	Positive number, so these two numbers can't be crossed out. What else can we cross out... which other pairs equal zero, Vojta?
+00:31:24	SN	Negative 10 to the first power.
+00:31:28	T	Yes and...
+00:31:29	S	And negative... and positive 10 to the first power.
+00:31:31	T	Good, do we all agree?
+00:31:33	SS	Yes!
+00:31:35	T	Are there any other pairs we can cross out? Vasek.
+00:31:42	SN	No, maybe zero?
+00:31:46	T	Okay, let's try that one, why not. Zero to the tenth power equals...
+00:31:50	SS	Zero.
+00:31:50	T	Zero, so what numbers remained untouched and remain to be calculated. Michael!
+00:32:05	SN	Negative 20 squared and plus 20 squared.
+00:32:11	T	What's the result?
+00:32:13	SN	Eight hundred.
+00:32:14	T	Eight hundred, write in 800.
+00:32:17	T	Negative 20 squared equals 400, plus 20 squared is also 400, and that totals 800.
+00:32:25	T	Wow, we're moving along just fine. At home you will verify number two, my original idea was to do it in class.
+00:32:39	T	You'll do number three and four large A and small A will do. Alenka up here on the board.
+00:32:53	T	Number four A and small A. You need to calculate the second root of a number which is in the parentheses.
+00:33:05	T	First of all, figure out the estimate, so the second root of six, second root of six.
+00:33:13	SN	(inaudible)
+00:33:15	T	Next math class which is tomorrow.
+00:33:18	SS	(inaudible)
+00:33:20	T	Oh yes, that's correct. So it's for Friday. Quiet. First of all you must figure out the estimate.
+00:33:30	SN	Estimate.
+00:33:32	T	The second root of a problem, we do an estimate based on what?
+00:33:35	SN	Based on the closest squared number.
+00:33:37	T	Correct.
+00:33:38	S	The squared number is four and (inaudible).
+00:33:47	T	Fine and now do the calculations. You're supposed to do it to the nearest decimal number. What do you need for that?
+00:34:02	S	Table chart.
+00:34:02	T	Go get it. Exactly to the nearest decimal number. Very good. Can someone calculate it on a calculator?
+00:34:36	SN	Two point four, four, nine, four, eight, nine, seven.
+00:34:38	T	So based on the calculator the number will be rounded to... Alenka, come here.
+00:34:44	T	This on the board is correct, she followed the table chart.
+00:34:48	SN	What is the number again?
+00:34:49	SN	Two point four, four, nine...
+00:34:56	T	We don't need to go that far. That's enough. Equals to approximately... just write it in. It's more accurate with the calculator.
+00:35:14	T	Because, the table chart is rounded to the nearest tenth, okay? This nine here was shown in the charts as 545.
+00:35:28	T	And you continued to rounded up but there isn't much of a difference. Call up the next person, Alenka!
+00:35:56	SN	The second root of 60, the second root of 60.
+00:36:03	T	Rounded up to the nearest decimal point. First of all, do the estimate. That will be an approximate second root of what nearest squared number?
+00:36:14	SN	Sixty-four.
+00:36:17	T	Wait a minute. Not from 64 but from the root of 64 and that equals?
+00:36:26	T	Very good, that's your estimate. Now calculate it. The second root of 60 equals... use the graph chart.
+00:36:55	T	And now round it up to the nearest tenth.
+00:36:59	SS	[Laughter]
+00:37:04	T	It's a good thing the gardeners didn't put water in it. Thank goodness for that. To the nearest tenth is eight. It is accurate, fine.
+00:37:25	T	Students, please complete A, five large A, six and seven large A...
+00:37:35	SS	We're not going to do it in class?
+00:37:36	T	Well yes but it's taking us too long to complete these problems. And on page 53... I thought we would have time to do this here in class.
+00:37:46	T	On your own or in a group of two, please do number 16 right now, okay?
+00:37:54	SN	Now?
+00:37:55	T	Yes, now.
+00:38:00	SN	The entire page of 51.
+00:38:04	T	Please do the problem in your personal notebook, okay? I'll be filling this in.
+00:38:34	T	You may work in a group of two, if your group is still having troubles you may turn to another group for assistance.
+00:39:15	T	You will work with an area of what kind of geometric configuration?
+00:39:19	SS	Trapezoid and triangle.
+00:39:20	T	Triangle and...
+00:39:22	SN	Trapezoid.
+00:39:23	T	Trapezoid. To calculate the area of a triangle, you need to know what.
+00:39:27	SS	Height and length.
+00:39:28	T	The length and height of one side. To calculate trapezoid, you will need to know...
+00:39:37	SN	A and C.
+00:39:39	T	So, the base and the height, very good. And you'll calculate the height based on your knowledge of the Pythagorean theorem, which are marked in here.
+00:40:02	T	Everyone who completes the problems will get an A grade. A very high A grade. We have three minutes remaining in class.
+00:41:30	T	Use what's on the board... oh you mean that one, yes you may use a calculator.
+00:42:25	T	Don't forget that these problems require that you reserve about 15 percent, okay?
+00:43:25	T	Don't spend too much time on this. You have this here... hurry up so you can finish it up. You can just calculate the triangle here.
+00:44:06	T	What is this? Height?
+00:44:10	SN	The height of this triangle.
+00:44:13	T	Of this triangle and this is the height of...
+00:44:17	SN	Trapezoid.
+00:44:18	T	Trapezoid, correct. Do you need an additional minute to complete this... do you need it?
+00:44:45	SS	Yes, yes.
+00:44:46	T	Fine, I'll give you one more minute. Actually, you'll get two minutes.
+00:47:00	T	Excuse me?
+00:47:01	SN	How much...
+00:47:01	T	The answer is obvious... well it is a verbal answer. Let me see.
+00:47:16	SN	Two hundred and one point twenty.
+00:47:19	T	Why don't you round off the number.
+00:47:20	S	So, it will be 200.
+00:47:24	T	Lukine, would you be able do describe the entire process?
+00:47:27	SN	What do you mean.
+00:47:27	T	The process...
+00:47:28	S	Well, some of it.
+00:47:30	SN	Well, he helped me on something and I helped him with something else.
+00:47:33	T	Okay, both of you can write an A grade in your notebooks. Congratulations.
+00:47:43	T	Lukine, you will come back here with Tom later for me to sign your grade. Let me see what you got. No, no, no.
+00:48:02	T	Well, where is the answer?
+00:48:04	SN	Here it is.
+00:48:05	T	No, no, no. Okay, students, time is up.
+00:48:15	SS	No not yet.
+00:48:20	T	Twenty more seconds. I'm counting seconds. No, no, no.
+00:48:42	T	It's over, we'll get back to it in our next class. No, I don't want to see anybody.
+00:48:51	T	Okay students, please stand up. I want to remind you, make sure you clean up this class before you leave.
+Ê

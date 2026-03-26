@@ -1,0 +1,228 @@
+00:00:04	T	Very very happy?
+00:00:08	SS	Teacher, teacher... we want to switch seats. [In Chinese]
+00:00:09	T	Okay, okay. Shh. Stand up please. Good morning class.
+00:00:16	E	Good morning, Mr. Chan.
+00:00:22	T	Miss Tam, okay,
+00:00:26	T	returned this for you.
+00:00:34	T	Okay, we will start a new chapter today.
+00:00:50	B	[Blackboard: 2x + 4 = x + 6, 2x + 10 = 2(x + 5)]
+00:01:02	T	On the blackboard, there are two different equations. Okay? Two different equations. It is the equation in X, one unknown only.
+00:01:11	T	Therefore, I think that you are familiar with this.
+00:01:16	T	I want two of you, okay, to come out and find the solution for these two equations. Any? None of you?
+00:01:28	SS	[Laughter]
+00:01:30	T	I think that you will like to come out today.
+00:01:33	T	Kwan Chi Chung, please. This one. Okay, another beautiful girl, right? Chow Suk Fun.
+00:01:42	SN	Yes.
+00:01:43	T	Okay. You try to use what you have learned in equations to find the value for X. Okay?
+00:02:19	SS	[Laughter]
+00:02:23	T	Some of you laughed, it means that you find some mistakes, which one? Equation one or equation two?
+00:02:31	SS	Two.
+00:02:32	T	Two? Yeung Cho Yee. You try to correct this. Equation two you found some mistakes.
+00:02:49	T	Really? [Laughter]
+00:02:50	SS	[Laughter]
+00:02:52	T	Okay, it should not be four X. Two X on the right-hand side, to the left-hand side, it should be minus two X.
+00:03:02	T	Okay? Therefore, left-hand side is zero.
+00:03:04	T	And 10, positive 10 on the left-hand side, right-hand side? Negative 10, okay? Therefore, 10 minus 10, it is zero. Okay, this, too.
+00:03:17	T	For the first one, you found that the solution is X equals two. What does it mean? X equals two.
+00:03:27	T	If I say that X equals two is the solution, what does it mean? What does it mean?
+00:03:40	T	It means, when X equals two, left-hand side will equal right-hand side. Let's check it.
+00:03:52	T	Okay, when X equals two, what is the left-hand side? It is two X plus four, okay? Two X plus four.
+00:04:02	T	Two, X, plus four, what's the result?
+00:04:10	SS	Eight. Eight.
+00:04:11	T	Eight. All right? And for the right-hand side, it is X plus six. X, we found that X equals two.
+00:04:28	T	Therefore, it is eight again. Are they the same?
+00:04:32	T	Yes. Okay? X equals two, then left-hand side right- equals right-hand side. That is the solution for equation one.
+00:04:33	SS	Yes.
+00:04:42	T	How about the others? Lau Wai Fung, give me one more number for X, other than two. Any one?
+00:04:57	SS	Try to use [In Chinese] three [In English].
+00:04:58	T	Three. Okay. Let's substitute X equals three. Okay? In equation one. Another value for X.
+00:05:12	T	The left-hand side, two X plus four. This time, X equals three. What's the value for the left-hand side?
+00:05:25	SS	Ten.
+00:05:26	T	You will find that it is 10. But for the right-hand side, X plus six, X plus six.
+00:05:37	SS	Nine.
+00:05:38	T	Nine. All right? They are not equal. Therefore, we will not say that X equals three is a solution. The solution is X equals two.
+00:05:52	T	All right? Of course, you can test for the others. Okay, how about equation two, I get zero equals zero, what does it mean?
+00:06:04	T	Do you think that there is no solution? There is no solution. Any one of you say that there is no solution?
+00:06:14	T	I can't find X, therefore, no solution. No? Then what will be the solution?
+00:06:21	SN	Anything.
+00:06:23	T	Sorry? Anything. What do you mean by anything?
+00:06:27	SS	Any number.
+00:06:29	T	Any number. Okay. Let's check it. We have two and three, okay?
+00:06:35	T	Let's try this two firstly. When X equals two. Left-hand side, right-hand side.
+00:06:50	T	I try to compare these two when X equals two. Left-hand side is two X plus 10. Two X plus 10. Answer?
+00:07:02	SS	Fourteen.
+00:07:06	T	Fourteen. Right-hand side? Two X plus five. Two plus five. It is?
+00:07:17	SS	Fourteen.
+00:07:18	T	Fourteen again. Seven times two. Are the two sides equal?
+00:07:25	SS	Yes.
+00:07:26	T	Yes. Left-hand side equals right-hand side, therefore, even if I can't find the solution, in fact, two, itself, is one of the solutions.
+00:07:35	T	How about three? When X equals three. Of course, both the left-hand side and right-hand side, the values will be changed. Okay?
+00:07:52	T	On the left-hand side, it is two X plus 10. And on the right-hand side, it is two X plus five. For the left-hand side, it is?
+00:08:08	SS	Sixteen.
+00:08:09	T	Sixteen. Six plus 10. But for the right-hand side?
+00:08:15	SS	Sixteen.
+00:08:16	T	It is also 16. This time it is two times eight, is it equal?
+00:08:22	SS	Yes.
+00:08:23	T	Yes, the left-hand side is still equal to the right-hand side. Not no solution, in fact, at least we have found two. Okay?
+00:08:34	T	More than one. How many? From the book, you still have three trials, try to test whether these three are the solutions or not.
+00:08:48	T	Page one-four-four. Page one-four-four. In fact, the equation listed is the equation two. Okay?
+00:08:57	T	Two X plus 10 equals two brackets, X plus five. Test for the other three solutions of X. Part one, part two and part three.
+00:09:07	T	X equals zero, X equals negative one and also X equals negative one over two. Zero, negative integer and negative fraction.
+00:09:18	T	Test for the left-hand side and right-hand side, okay? Are they equal? Do it now. Just mark it on your book.
+00:09:29	T	And answer the question, whether they are equal or not, for the left-hand side and also the right-hand side.
+00:10:12	T	It's better not to use a calculator, okay? But if you use it, just use it to check the answer. It is simple calculation only.
+00:10:47	T	Errors?
+00:11:09	T	Don't use this, this kind of ball pen, you can't see it clearly.
+00:11:18	T	Have all of you finished? Okay, let's check the result. Page one-four-four. The three values for X. Uh... okay, Mak Pui Ling. You are nine.
+00:11:32	T	Tell me the result, when X equals zero, what will be the left-hand side and right-hand side? Left-hand side?
+00:11:39	SN	Equals 10.
+00:11:40	T	Equals 10. How about the right-hand side?
+00:11:42	S	Equals 10.
+00:11:43	T	Then is the left-hand side equal to the right-hand side?
+00:11:46	S	Yes.
+00:11:47	T	Yes. Okay? We have test the third value for X. When X equals zero, it is still left-hand side equals right-hand side.
+00:11:57	T	Okay, how about the fourth trial, when X equals negative one. Sung Wai Ling, okay.
+00:12:05	SN	Left-hand side equals eight, right-hand side equals eight.
+00:12:09	T	Therefore, do you think that they are equal?
+00:12:11	S	Yes.
+00:12:12	T	Yes. When X equals negative one, both the left-hand side and right-hand side equal eight. Okay?
+00:12:20	T	Therefore, it is still left-hand side equals right-hand side. How about the fifth trial? This time, Lee Shan.
+00:12:31	SN	Left-hand side equals nine, right-hand side equals nine.
+00:12:35	T	Okay. Therefore, equal. This time, when X equals negative one over two. Both the left-hand side and right-hand side, the result is nine. Okay?
+00:12:47	T	Therefore, we have the same result. Left-hand side equals right-hand side. How many solutions now?
+00:12:56	SS	Five.
+00:12:56	T	Five. Okay? Two on the blackboard with the three in the book, you have five results. Do you think it is only five?
+00:13:06	SS	No.
+00:13:07	T	No. It has many many. Infinitely, many results. Why? Okay, let's use another trial.
+00:13:20	T	This time, this time, we just simplified these two parts. Okay. Left-hand side and right-hand side.
+00:13:34	T	In the expressions, you have learned two forms. The one, all the terms add or minus together.
+00:13:43	T	It is called? It is called? How do we call them? Add or minus together, it is called?
+00:13:59	SN	Expanded form.
+00:14:00	T	Expanded form, okay? Expanded form. You have other ways to express the terms, for example, like that.
+00:14:15	T	This time, the terms are times together. Of course we will, we will not call them terms, we should call him- call them?
+00:14:26	T	Factors. Therefore, this is called? Factorized form, okay?
+00:14:41	T	You may express different expressions in expanded form or factorized form. Now we try to change them, with the same kind of form.
+00:14:54	T	Which form, is more easy for you? Expanded form or factorized form?
+00:15:02	SS	Factorized form.
+00:15:04	T	Some say expanded, some say factorized. In fact, if you want to find expanded form, what are you doing? Just multiplication. Okay?
+00:15:15	T	But if you want to find the factorized form, you need to find common factors, or maybe groupings, etcetera. Okay?
+00:15:24	T	Therefore, usually, expanded form will be more common, more usual. Just use multiplication, expand it one by one. Okay?
+00:15:36	T	We'll try to change both sides, to be expanded form and compare. Left-hand side, is it expanded form?
+00:15:45	SS	Yes.
+00:15:46	T	It is already expanded form. Two X plus 10.
+00:15:51	T	The left-hand side, it is factorized form.
+00:16:00	T	What will be the expanded form for the right-hand side?
+00:16:02	SN	Two X...
+00:16:03	T	It will be?
+00:16:04	SS	Two X.
+00:16:05	T	Two X.
+00:16:06	SS	Plus 10.
+00:16:07	T	Plus 10. Constant terms, both are the same, ten. X term, the same, two X. Therefore, will they be always the same?
+00:16:24	SS	Yes.
+00:16:25	T	Yes. In fact, on both sides, the expressions are exactly the same. Or we say that they are identically the same.
+00:16:37	T	Therefore, no matter what's the value of X, it is- you substitute for X, the changes will be the same.
+00:16:44	T	Therefore, you will get the same value. Okay? You cannot see it very easily because at first, they appear in different forms.
+00:16:57	T	But if you change them to be the same, same form, then you can see that in fact, they are identically the same. All right?
+00:17:06	T	Therefore, not just one solution, you have many many solutions.
+00:17:14	T	For this kind of solution, uh, that's- this kind of equation, we will give them a name.
+00:17:27	T	Identity. Identity means that they are exactly the same. Okay? Follow me. Identity.
+00:17:37	E	Identity.
+00:17:38	T	Identity.
+00:17:40	E	Identity.
+00:17:41	T	Okay? And therefore, for this kind of identity, we will give it a symbol, this time, not just two lines.
+00:17:56	T	We use three lines as a symbol. It means both sides are identically the same.
+00:18:06	T	We say that, two X plus 10, is identically equal two bracket, two, uh- X plus five. Okay? It's identically equal.
+00:18:21	T	They are in fact, exactly the same. Okay? All right, then how to prove identity? Do you think that we try all the values for X?
+00:18:37	T	First try, second try, third try, and then, oh, five trials. Then I can conclude they are identity.
+00:18:45	T	No, because, that maybe the sixth trial- it fails. All right? Therefore, to prove identity, we will use this method.
+00:19:00	T	We will try to change the left-hand side or right-hand side to be expanded form and then compare each term.
+00:19:04	T	When all the terms are the same, then we say that it is an identity.
+00:19:13	T	But if there are some different terms, then we will not say that it is an identity. Then it will be a normal equation only. Okay?
+00:19:24	T	All right, I will give you some examples, who's on duty please clean it.
+00:19:30	T	Clean the blackboard please.
+00:19:39	T	Can you see the blackboard clearly?
+00:19:41	SS	Yes.
+00:19:43	T	Yes?
+00:20:01	T	Just leave the word identity, okay?
+00:20:18	T	Therefore, the difference between identity and equation, equation it may be only one solution, two solutions.
+00:20:26	T	But for identity, you have infinite many solutions.
+00:20:31	T	It will be always true, okay? For any value of X.
+00:20:58	B	[Blackboard: 5 (x - 3) -3 (x - 1) = 2 (x - 6). 4 (2x - 1) -3 (x + 2) = 5 (2 - X)]
+00:21:16	T	Okay here, I have two other equations. Of course, now, they are equations only. Okay? We don't know how many solutions for each one.
+00:21:28	T	Therefore, they are still equations only. I want to prove that, whether these equations are identities or not.
+00:21:39	T	Are they identities? Or are they just equations?
+00:21:46	T	The main steps will be, we try to expand the left-hand side and right-hand side, and then compare the terms. Okay?
+00:21:55	T	If they are, okay, they are expanded form already. No need to simplify it. But if they are not, simplify it one by one.
+00:22:04	T	And then compare the sides. Okay? You can start with the left-hand side or right-hand side. No matter.
+00:22:13	T	Okay? It doesn't matter. Left-hand side... expand it. It should be...
+00:22:25	SS	Five X.
+00:22:27	T	Five X.
+00:22:28	SS	Minus 15.
+00:22:30	T	Minus 15.
+00:22:31	SS	Minus three X.
+00:22:34	T	Minus three X and...
+00:22:35	SS	Plus three.
+00:22:36	T	Plus three. Therefore, how many X?
+00:22:42	SS	Two X.
+00:22:43	T	Two X only. And the constant term?
+00:22:46	SS	Minus 12.
+00:22:48	T	Minus 12. Okay? Expanded form. Simplify that expanded form. And for the right-hand side, after expansion, it is two X.
+00:23:05	SS	Two X. Minus 12.
+00:23:10	T	Are they equal?
+00:23:11	SS	Yes.
+00:23:17	T	All right? They are equal. Therefore, do you think that it is an identity? Or an equation?
+00:23:24	SS	Identity.
+00:23:26	T	Identity. Therefore, you can write down the result like that. Five X minus three minus three X minus one.
+00:23:37	T	Two X minus six bracket. With this symbol. It's identical to the left- uh, right-hand side.
+00:23:50	T	Okay? Or you can write it as a written form. It is an identity. Okay? But of course it is not so clear, to just write down it is.
+00:24:01	T	Therefore, I think this is better. With the symbol, one, two, three, three lines. Okay, how about the second one?
+00:24:21	T	How about some helper? So Wing Chung. You need to practice some more about your handwriting.
+00:24:35	T	Try to simplify the left-hand side and right-hand side.
+00:24:49	T	How about the bracket? Are you too nervous?
+00:24:54	SN	Yes.
+00:25:12	T	He is very careful.
+00:25:14	SS	[Laughter]
+00:25:16	T	Very very careful. [Laughter] How about the right-hand side? Is he correct for the left-hand side?
+00:25:29	SS	Yes.
+00:25:30	T	Yes.
+00:25:39	T	Okay, thank you. Firstly, is he correct for the simplification in the left-hand side and right-hand side?
+00:25:50	SS	Yes.
+00:25:51	T	Okay. After simplification, you have two expanded forms, are they equal? No.
+00:26:01	T	Although it is the same five X, but one is positive, another is negative. Okay?
+00:26:08	T	Even the 10 is the same, it is not identically equal. But of course now, it is not the same, negative 10, positive 10, okay?
+00:26:17	T	Therefore, we can say that, the left-hand side is not equal to the right-hand side.
+00:26:26	T	Then can we say that it is an identity?
+00:26:28	SS	No.
+00:26:29	T	No. Then your answer, you may just write down. Or you complete this, okay? Uh, write down the whole equation.
+00:26:47	T	We have the conclusion, this equation is not an identity. Okay? If it is not identity, we can still call it an equation. Okay?
+00:27:00	T	It is only an equation, not an identity. If it is an equation, it may be one solution only. Because it is one unknown, one equation.
+00:27:11	T	Therefore, you may find the solution for it. Just one. But for identity, you have, in fact, infinite many solutions. Okay?
+00:27:22	T	It will be satisfied for all the values of X for identities. Understand? Know the difference between identity and equation.
+00:27:34	T	And for identity, in between the two sides, you can use a new symbol with three lines. And we read it as, is identical to.
+00:27:46	T	Or you can say that they are identically equal. Okay? You have some class practices here. Page one-four-seven, page one-four-seven.
+00:28:04	T	Seven equations are given to you. Okay? Seven equations are given to you. Some of them are already in the expanded form.
+00:28:13	T	But some are still in factorized form. Use the method, okay? Use the method listed on the blackboard.
+00:28:22	T	Tell whether they are identities or not. Understand? Try to prove whether they are identities or not.
+00:28:32	T	Number one to number seven. Those simple ones, just write down the answers in the book.
+00:28:38	T	But if you need to simplify it, for that kind of equation, please do your work on your class workbook.
+00:28:48	T	All right? Class practice number one to number seven. Any more questions? Number one to number seven. Please complete that.
+00:29:27	T	If you need to expand it, simplify it, please do it in your classwork book. Don't just write yes or no.
+00:29:39	T	Just in the case, both sides are in expanded form, you can completely-
+00:29:44	T	Uh, you can directly compare it, then you can write down the answer.
+00:29:49	T	But if they are not exactly the same, in different forms, in your classwork, show some steps.
+00:29:57	T	Okay? How to simplify the left-hand side, how to simplify the right-hand side. And then compare the terms. Okay?
+00:30:05	T	Remember, before the conclusion, write down the result. Whether the left-hand side or right-hand side are equal. Okay?
+00:30:14	T	Before your conclusion, you should have the result. Left-hand side equals, or does not equal right-hand side.
+00:30:27	SN	(inaudible)
+00:30:28	T	Classwork book.
+00:30:43	O	[Bell]
+00:30:55	T	Is there any question? Write down whether it is left-hand side or right-hand side. Okay?
+00:31:09	T	Stop for a while. After the expansion, remember, you must tell whether they are equal- or not. And then your conclusion.
+00:31:22	T	Okay? If the left-hand side equals the right-hand side, then it is an identity.
+00:31:28	T	But if they are not equal. Then this one, or you can simply say that, it is not an identity.
+00:31:42	T	All right? Okay, finish the work at home and we will check it tomorrow. Stand up please.
+00:31:53	T	Bye class.
+00:31:55	E	Goodbye Mr. Chan.
+00:31:58	T	Yes. And please say thanks to Miss Tam.
+00:32:01	T	[Laughter]
+Ê

@@ -1,0 +1,289 @@
+00:00:01	T	Close your books.
+00:00:07	S	Eh, Mr., can we watch the video sometime?
+00:00:11	T	Sure.
+00:00:13	SN	At the end of the lesson?
+00:00:15	T	No, hardly.
+00:00:24	T	All right, close your books, please. We are going to begin a new chapter in mathematics today.
+00:00:32	T	It is our first algebra chapter in third grade secondary school. I have written two, three things at the board,
+00:00:41	T	which are important in this algebra chapter. It is about terms and variables.
+00:00:48	T	Terms, that's a- that word derives from Latin, terminare means determine. So you could say that we are going to determine
+00:00:57	T	something with terms. Another word that will be important, is the word variable. A variable is, another word for it is...
+00:01:09	T	Not yet heard of it? A substitute symbol, a placeholder. We are then going to operate with these placeholders or, as we learned before, variables.
+00:01:17	T	And to operate in mathematics means nothing other than to calculate. We are going to calculate with variables.
+00:01:25	T	Okay, that's what we will have to expect in the next couple of math lessons.
+00:01:29	T	Now I have drawn a sketch at the blackboard. What is it?
+00:01:37	T	I heard lines. More specific. Anja?
+00:01:41	SN	Two lengths.
+00:01:42	T	Correct, that's two lengths.
+00:01:45	T	And, if I write the number five next to this length and the number three next to the other length,
+00:01:55	T	then it is already somewhat clearer. I now have two lengths and I am now able to operate with them. For example...
+00:02:17	T	I can illustrate this equation with these two lengths. The equation five minus three equals two. I want to show you,
+00:02:26	T	how it works, and I will give another equation afterwards, which you will solve by yourselves using this one as an example.
+00:02:37	T	So now I am going to present this equation five minus three equals two algebraically.
+00:02:46	T	In order to do so, I will draw two straight lines, which have a distance of two unit squares. I will determine a starting point on the upper straight line.
+00:03:07	T	With the compass... I will... mark... this length five... like that.
+00:03:39	T	All right... five... from the starting point... until here.
+00:03:49	T	Minus three.
+00:03:52	T	I take the compass... and adapt the length three to it.
+00:04:06	T	Minus three, that means that I will go in the opposite direction, to the left again.
+00:04:26	T	I get the rest of the length... from the starting point until here.
+00:04:47	T	The length two.
+00:04:51	T	I have now illustrated the equation five minus three equals two.
+00:04:56	T	By first drawing the length five to the right. Two square units down the length three to the left,
+00:05:05	T	because it is minus, and marked the result two in color. Can you understand that?
+00:05:15	T	In that case I will give you another equation... That was our first problem, the one I explained to you at the blackboard.
+00:05:26	T	Our problem: three... times five, minus... two times three equals nine.
+00:05:42	T	That's problem one, page 40. Take textbook and notebook and solve this problem in your notebook now.
+00:06:20	T	One glance at page 40 in the book will show you at the top in problem one, what I have been explaining to you.
+00:06:29	T	The two lengths are also drawn in the book. Now you don't have to take the protractor to measure a length of five.
+00:06:38	T	You must take the compass and do the same thing in the book as I did at the blackboard.
+00:06:47	T	Namely, adapt the length to the compass and then mark it.
+00:07:19	T	I can see that a lot of you are first drawing two lines with a pencil in a distance of two square units. That is absolutely correct. Do it that way.
+00:07:32	T	How long these two lines are is not significant.
+00:07:38	T	What is significant is what you will draw on these straight lines. And that's what the equation will tell us.
+00:07:45	T	Three times five minus two times three equals nine.
+00:09:15	T	Who can say in words, how he is going to mark three times five on the upper straight line?
+00:09:32	T	Anja?
+00:09:33	SN	I draw this length twice- eh- three times next to each other.
+00:09:38	T	With the compass. Yes, exactly. You will adapt the length five into the compass and mark it next to each other.
+00:10:56	T	Don't forget the arrowheads, they indicate the direction.
+00:11:07	T	With the number five we mark that and show that we're dealing with the length, with the number five.
+00:11:20	T	Now explain to me what I should do on the other straight line... Bal- Rafael?
+00:11:27	SN	I take the compass of three centimeters and mark it from the right to the left.
+00:11:33	T	What exactly are you doing with these three... with the length three that you have been adapting to the compass?
+00:11:42	S	Eh- I subtract it from- from the lower straight line from the right to the left.
+00:11:47	T	How many times?
+00:11:49	S	Twice.
+00:11:50	T	Yes, correct.
+00:11:53	T	Once, twice.
+00:12:46	T	Left is a piece that we will mark with yellow color. We also want to give it a so-called name. Which one?
+00:12:57	T	Anja?
+00:12:58	SN	Nine.
+00:13:55	T	I would like to finish this first problem. Are there any questions concerning it? Nothing.
+00:14:23	T	All right, now let's move to another problem.
+00:14:30	T	On the left side of the blackboard I have, instead of lengths, put up these... colored paper sheets. The blue ones stand for a length of five,
+00:14:46	T	and yellow ones for a length of three. Now try to illustrate the following number with these sheets. The number 17.
+00:15:03	T	Right here at the blackboard. What is there to do? How can you present the number 17 with blue sheets of five,
+00:15:10	T	and with yellow sheets of three. Give it a try, Fabian. Comment on what you're doing.
+00:15:19	SN	Well, you have to, eh- five, plus five... plus five... plus five... minus three.
+00:15:48	SN	Well, can I present it in one step? Without minus.
+00:15:52	T	Eh, I would like to have that judged first, what he did. Is it okay like that? Esti?
+00:16:00	SN	Yes, I think so. Well, maybe you should- ehm- move over- ehm- the yellow one. So that it's (inaudible) with the line... Yes, exactly.
+00:16:12	T	Okay... Now where can the number 17 be spotted? Can you show it, Tamara?
+00:16:21	SN	Ehm- down there.
+00:16:22	T	Yes.
+00:16:27	S	Here.
+00:16:29	T	From the left margin of the blackboard to the margin of the sheet on the right.
+00:16:33	S	Yes.
+00:16:33	T	Good. Thanks. Do you have another idea?
+00:16:37	SN	M-hm, yes.
+00:16:38	T	Namely?
+00:16:39	S	Eh- five, and four times the three... times the five.
+00:16:44	T	Also equals 17. Good. Well done.
+00:16:52	T	New number.
+00:17:07	T	Sheets of five, sheets of three. Present the number of 26.
+00:17:29	T	Yes. Sandra please.
+00:17:39	T	Sandra, please also comment on what you're doing.
+00:17:43	SN	Five... times three...
+00:18:03	S	Plus three times three...
+00:18:08	T	Christoph.
+00:18:20	S	Plus three.
+00:18:32	T	Jenny?
+00:18:33	SN	Equals 27.
+00:18:36	T	Yes, on the one hand it equals 27. And further, Andi?
+00:18:41	SN	Ehm- you ehm- have to, if you calculate three times five, you have to take the three five times and not- one sheet of five and one of three.
+00:18:49	T	Otherwise it would mean that this is the length of 15.
+00:18:56	T	But that isn't the length of 15. What is the length in this case here? Tamara?
+00:19:01	SN	A length of eight.
+00:19:02	T	That would be a length of eight, because the length five plus the length three, would add up to the length eight.
+00:19:11	T	You considered another operation. Multiplication. You said that this was nine.
+00:19:18	T	Three times three. In reality that would be another length, Patrick?
+00:19:24	SN	Six.
+00:19:25	T	And what would be the total length now? Not 27 or 26, but a total length would be here?
+00:19:36	SN	(inaudible) teen.
+00:19:39	T	Seventeen, right. Eight, six, three. So we have to choose another way of doing it. Who is going to try?
+00:20:00	T	Who will give it a try? Twenty-six... Adrian.
+00:20:12	T	At the blackboard.
+00:20:29	SN	So five times five... equals- equals 25.
+00:20:35	T	Stop! Now I expect a reaction from the rest of the class. Stephanie?
+00:20:40	SN	Equals ten.
+00:20:42	SN	Well, can't I multi- eh, multiply that?
+00:20:46	T	Why not? All right, Adrian tried to do it the same way as Sandra did before. With a multiplication, right.
+00:20:55	T	What do we disagree with there? Desiree?
+00:20:59	SN	He should put up all sheets of five, because that's the only way they can be 25.
+00:21:05	SN	Because we also have to count five and five and five.
+00:21:10	T	Well... That way- yes, I will let Anja explain, too.
+00:21:14	SN	Ehm, five is just like a length of five centimeters and five, five is 10 centimeters. But you want 25.
+00:21:24	T	One moment, do you understand that?
+00:21:26	SN	Yes, ah the (inaudible).
+00:21:27	T	The length five, and once again the length five adds up to the length 10. You have marked it twice and you want 25.
+00:21:36	T	Anja gave you the hint. Now you could think about if it makes sense to mark the length five, five times.
+00:21:47	T	What do you think? We want 26 at the end. Michelle?
+00:21:52	SN	I would only mark it four times.
+00:21:54	T	So there are two opinions opposing each other: to mark it five times or four times?
+00:22:00	SN	Four times.
+00:22:01	T	Four times. Adrian... Now here's the suggestion from Michelle and the confirmation from Fabian, you should only mark it four times.
+00:22:34	T	Adrian, are you satisfied with your work?
+00:22:36	SN	Yes.
+00:22:37	SS	[Laughter]
+00:22:38	T	Back to your seat. Anja?
+00:22:42	SN	I would have put the two threes under...
+00:22:46	T	Under. What do you mean by under? Do it.
+00:22:51	T	Adrian can go back to his seat.
+00:22:55	S	No, it's wrong.
+00:22:57	T	Then let's drop it. All right. Five plus five plus five plus five equals 20, plus three equals 23,
+00:23:07	T	plus three equals 26. Now you can solve such a problem by yourselves, in your notebook, and again with the values
+00:23:17	T	that you have in problem one, with the lengths from the textbook, adapt the lengths to your compass.
+00:23:24	T	Choose example D. The number four, so to speak.
+00:23:34	T	That is problem two, page 40, letter D. Present the number, with the lengths five and three.
+00:24:17	T	Was that clear, before?
+00:24:19	SN	Yeah, yeah.
+00:24:21	T	Good. That's correct. Just write down: three. Because that is the length three that you have marked twice here,
+00:24:30	T	three, write three.
+00:24:51	T	Are you aware of why you're making arrowheads?
+00:24:54	SN	No. Not really.
+00:24:55	T	What does the arrow indicate?
+00:24:58	S	Oh yes, I know. Where it goes through, well- it goes this way and afterwards at the lower line it continues that way.
+00:25:04	T	M-hm, yes, well the-
+00:25:05	S	Yes.
+00:25:06	T	So now what indicates the direction to the right? What calculating operation?
+00:25:12	S	Plus.
+00:25:13	T	Yes exactly. And the counter operation of plus is, as you know, minus. That's why you go in the opposite direction with minus.
+00:25:17	S	Minus.
+00:25:30	T	It becomes even clearer, Silvio, if you trace the result with color. Here it would be nine, hm.
+00:25:38	SN	M-hm, yes.
+00:25:39	T	Again with the arrow.
+00:25:54	T	Anja is done. Could you also do the problem at the blackboard?
+00:26:07	SN	With the sheets?
+00:26:08	T	No. With the compass.
+00:26:18	T	That would be five again, and that would be three. You can adapt these two lengths to the compass. Down here.
+00:26:33	T	Push it down a little bit so that- that we have something different here.
+00:26:56	T	For those who have finished: Think about the other problems in number two, without solving them in your notebook,
+00:27:04	T	but in a way that you would be able to explain how to proceed afterwards.
+00:27:33	T	All right, now you've had some time to think about that.
+00:27:36	T	So now I'm going to ask you how to present problem two A, the number 15. Fabian?
+00:27:43	SN	Eh, mark the five three times ehm- on one line.
+00:27:47	T	Good. B, the number 12. Esti?
+00:27:53	SN	Also three times the five, and then one times the three on the second line.
+00:27:59	T	In the...
+00:28:00	S	In the counter direction.
+00:28:01	T	Good. C, 13? Carmen?
+00:28:06	SN	Two times the five, and in the counter direction one times the three... That is minus. Plus... eh- (inaudible).
+00:28:21	T	Good. Everything in the same direction. Twice the five you said, and once the three. Now we can do the check at the blackboard.
+00:28:29	T	Anja is almost done with this presentation of the number four... Please evaluate it.
+00:28:50	T	What is your comment about Anja's work at the blackboard? Rafael?
+00:28:55	SN	Eh, not so exact, but it is correct.
+00:28:57	T	Well she did the right step. If you say not so exact, what is it that is not so exact?
+00:29:02	S	Eh, the lines.
+00:29:03	T	M-hm, I see.
+00:29:03	S	Not so exact.
+00:29:04	T	Good. All right, so those who are not used to working with a compass and chalk at the blackboard... then it's maybe no- not possible to present
+00:29:15	T	it the way that you would like to have it, Rafael, if it's that what you meant. But basically it's correct.
+00:29:20	S	Eh...
+00:29:20	T	Two times the five, and then in the counter direction two times the three. Check your solution in the notebook.
+00:29:30	T	And then we will go one step further.
+00:29:55	T	I would like to do an example form number three. Patrick, please read it out loud.
+00:30:04	SN	(inaudible) are drawn.
+00:30:13	T	All right. And what lengths do we have at our disposal now.
+00:30:21	T	Which lengths do you have at your disposal now?
+00:30:34	T	Well what are they called. Five? Three?
+00:30:36	SN	X, Y, and Z.
+00:30:38	T	Aha.
+00:30:42	T	So now you haven't got numbers anymore, but so-called variables, placeholders instead of a number, maybe.
+00:30:51	T	And we want to do a presentation again, as we did before. Draw a length which will correspond to the term X plus Y minus Z.
+00:31:03	T	You don't have to do anything in your notebook now. So how do we present the term X plus Y minus Z... Fabian.
+00:31:18	SN	First the- just draw a line somewhere a (inaudible).
+00:31:21	T	One moment, one moment! Explain to me- okay I will just do a sketch for now. Exactly the way that you instruct me to.
+00:31:29	S	Then put a starting point somewhere.
+00:31:31	T	Yes.
+00:31:32	S	And then mark the length X.
+00:31:43	S	From this point mark the length Y.
+00:31:56	S	And then a second length...
+00:31:59	T	Line.
+00:32:00	S	Eh, line, and then from this point at the Y (inaudible) ehm, in the counter direction Z.
+00:32:19	T	Thank you Fabian. There you have a yellow piece of chalk. Show the term X plus Y minus Z on your drawing... Fabian.
+00:32:50	T	Menhir.
+00:32:52	SN	It is correct.
+00:32:55	T	What would you change? Or did you think it was correct?
+00:32:59	S	Yes.
+00:32:59	T	It is correct. Maybe just the arrow, hm. Well done. X plus Y minus Z, that's the term. Good. Jenny? You don't agree.
+00:33:14	T	Yes, explain.
+00:33:16	SN	That, eh- that's the, eh- the last length, which Fabian drew just now.
+00:33:21	T	Yes.
+00:33:22	S	He- he actually should have drawn the length X, the length Y and the length Z.
+00:33:32	T	Stephanie shakes her head. Can you also describe it in words, what your head shaking means?
+00:33:40	SN	Hrm, no, it's correct. Because...
+00:33:48	S	Because X plus Y minus Z is equal to a length, and that length you have to in-
+00:33:55	T	And with white, what Fabian did with white chalk, is the way to get there. The idea, X plus Y minus Z and then it's exactly like the
+00:34:08	T	result, the way you would like to eh- name it. Now this is exactly what is called a term, X plus Y minus Z. Good.
+00:34:17	T	You're now going to get different problems, which you are going to sketch up at the blackboard afterwards, in pairs... Problem three.
+00:34:34	T	B, C, D... E, B, C, D, E, B, C, D, E, B.
+00:34:58	T	Discuss with each other, you don't have to write anything in your notebooks. Decide together how you want to present the solution at the blackboard.
+00:35:25	T	Finished your discussion? Good. Think about problem E.
+00:35:35	T	Are you finished? E. E, yes. Think about D like Daniel... Finished? You too. Think about E.
+00:35:47	SN	E?
+00:35:47	T	E, yes.
+00:36:04	T	Very well. Finish your discussions. Problem B. Five times Y.
+00:36:19	T	You've got that. No? Who has got B? Here, good... Show us.
+00:36:28	T	Only sketches, without compass. Christoph and Rafael, your task as well as for all of the others: evaluate them.
+00:36:43	T	It will come out even better, Fabian and Menhir, if you comment on what you are doing.
+00:36:47	SN	Eh, well, here we have drawn a straight line and eh- a starting point, and now we will mark Y here, the first time.
+00:36:59	S	From this point once more... once more...
+00:37:14	S	And...
+00:37:24	S	The yellow here, that's the length five times Y.
+00:37:27	T	Could you also name the partial lengths?
+00:37:43	T	Rafael?
+00:37:44	SN	That's correct.
+00:37:47	T	For all of you? All right... Problem C was solved by Miriam and Sandra.
+00:38:08	T	You have? Which one?
+00:38:11	SN	C.
+00:38:11	T	Also C.
+00:38:15	SN	We mark the length Z three times.
+00:39:05	T	Could you also mark in yellow what three Z is? From where to where does three Z go?
+00:39:19	S	Mh, from here to here.
+00:39:20	T	Show it with yellow color.
+00:39:31	T	Thanks. Three times Z.
+00:39:39	T	Christoph?
+00:39:39	SN	It's correct.
+00:39:40	T	That's right. Christina. Are you ready for D- Y plus four times Z? Please go ahead then.
+00:39:59	SN	I'm making a length again.
+00:40:02	T	Length?
+00:40:04	S	Eh, a straight line. And mark the starting point. Then I'm marking Y.
+00:40:22	S	And four times Z.
+00:40:43	S	Now that's the- the length.
+00:40:47	T	What length?
+00:40:48	S	Y plus four times Z.
+00:40:50	T	Good... Do you agree? You're nodding, good. Then we will proceed to the last one, problem E. Who would like to show it?
+00:41:05	T	Desiree and Anja, please, yes. Two times X plus Z.
+00:41:15	SN	All right, I draw a straight line... Put a point somewhere. Then I mark Y twice.
+00:41:43	S	And then Z once again.
+00:42:14	T	And with yellow you showed, from here to here, that's the term two times X plus Z. Yes. Good. Comments? Jenny?
+00:42:26	SN	It's correct.
+00:42:26	T	Is correct. Good. Now you have noticed so far in this lesson that with these variables you are also able to present something figuratively.
+00:42:35	T	But to operate doesn't only mean to present figuratively, it also means to calculate.
+00:42:41	T	The following problem four is going to show you, for the first time, how you can calculate with variables. It is a swimming pool problem.
+00:42:48	T	I will read from the book and you are supposed to be at the same place, page 40 number four, at the swimming pool, meaning-
+00:42:54	T	The letter E does not stand for a length anymore, but in our case, Debbie?
+00:43:02	SN	Admission fee for an adult.
+00:43:04	T	Exactly. Which means that- the letter E stands for one adult. It doesn't say how much it costs.
+00:43:14	T	Three Francs, four Francs. Just the admission fee for one adult. In exactly the same way the letter K stands for, Pascal?
+00:43:22	SN	Eh, the admission fee for a child.
+00:43:24	T	The letter A means in our case, Tamara?
+00:43:28	SN	Additional charge for a locker.
+00:43:30	T	Yes, if somebody wishes to rent a locker, he has to pay an additional fee. And finally the letter B, according to our problem, Menhir?
+00:43:38	SN	Additional charge for a cabin.
+00:43:39	T	If somebody uses a cabin, a further additional fee has to be paid. Now if a family, here in the text book the name is Fuchs,
+00:43:46	T	pays for the following: Two times E plus three times K... plus three times A... plus B... What can we make out of that?
+00:44:08	T	The family Fuchs goes to the swimming pool and pays the following amount at the cash register: two times E plus three times K plus three times A plus B.
+00:44:18	T	Please explain... Fabian?
+00:44:22	SN	Ehm, the family has to consist of five people.
+00:44:25	T	M-hm, yes, namely.
+00:44:27	S	Two adults and three children.
+00:44:32	T	It consists of two adults... three children... [Bell] What else?
+00:44:42	SN	They take three lockers and one cabin.
+00:44:50	T	And one cabin. Okay. That way we see that behind a term, which at first just consists of numbers and letters,
+00:44:59	T	we suddenly find a family, standing at the cash register. We know what they're renting, what they're paying. How much they pay,
+00:45:07	T	you will, amongst other things, determine for tomorrow. I'm now giving you your homework assignment.
+00:45:13	T	There's more to this problem... You will solve A, B and C... number four, page 40, 41, problems A, B, C.
+00:45:32	T	That's the end of the lesson, Marina, Jeanine, could you clean the blackboard. That one, hm. Long break.
+Ê

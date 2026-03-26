@@ -1,0 +1,746 @@
+00:00:04	O	[Bell]
+00:00:08	T	Okay, then.
+00:00:16	T	Okay, then, hello take a seat. So to start with, we are going to correct the problems that were due for today, that means exercise 948...
+00:00:28	T	Or we can practice one of the theorems of equivalence.
+00:00:36	T	Especially this one which, in the first place, is the one which tells us that one must add up an expression. Therefore, page 948.
+00:00:48	T	We will start nicely, we will start with Gregoire... With A, X plus five equals eight.
+00:00:55	SN	Well, we must take away five.
+00:00:57	T	We do minus five.
+00:00:58	S	We do minus five, therefore X is equal to three.
+00:00:59	T	Mmm.
+00:01:01	T	X is equal to three. Okay? We will maybe do the most complicated ones on the board, the ones from the second line. For, er, the B.
+00:01:11	T	Guillaume.
+00:01:12	SN	Er, X plus three is equal to minus five. We must take away er... minus three.
+00:01:17	T	So we mustn't take away minus three.
+00:01:19	S	It makes minus three.
+00:01:20	T	So we must add minus three or do minus three.
+00:01:22	S	It makes minus three.
+00:01:23	T	It makes minus three.
+00:01:24	S	And X is equal to eight, to minus eight
+00:01:27	T	To minus eight, X equals minus eight. Questions up until now? C? Er... Florence.
+00:01:35	SN	Er, X minus six equals 30. Therefore we do plus six, which means X equals 36.
+00:01:40	T	X equals 36, exactly... Letter D? Katia.
+00:01:48	SN	Er... well er, the solution is five.
+00:01:52	T	Uh huh, the solution is five. What do you do? That's what interests us. Now that we are learning what to do, what do you do?
+00:01:59	S	Well-
+00:02:00	T	We know that in an equation, we must put a little vertical bar, and what must we do?
+00:02:07	T	What do we do to make our equation equivalent.
+00:02:08	S	I did three times five. The first is 15, then the second is two times five plus five.
+00:02:13	T	So there you're groping about.
+00:02:15	S	Yeah.
+00:02:16	T	You're searching like this- The idea is to do what? It's to avoid all these stories of groping about.
+00:02:22	T	When we have an equation of this sort... it's the... We have three X is equal to two X plus five. What does that mean?
+00:02:33	T	What's the basic idea in all these problems there? Herve?
+00:02:36	SN	To take away the X's.
+00:02:38	T	Take away the X. Here we must take away the X, but what are we trying to do? What are we trying to do as a final aim? Yes?
+00:02:45	SN	(inaudible) X is equal to something.
+00:02:47	T	X is equal. So we must put on one side the X's, on the other side whatever doesn't have any X's. So we have the theorems of equivalence that we saw.
+00:02:55	T	There's one which says I can add or take away a number... Okay?
+00:03:03	T	There's one that says I can add or take away expressions, some literal part, okay?
+00:03:10	T	And then there's a third one where we can multiply by a number that is not equal to zero. Are we okay?
+00:03:16	T	So here, what do we do? Valentine?
+00:03:19	SN	We do minus two X.
+00:03:21	T	We do minus two X.
+00:03:22	S	Well there it stays one X to the three X.
+00:03:25	T	On the left side it stays as one X. Three X minus two X makes one X.
+00:03:28	S	(inaudible) the two X and then, er-
+00:03:30	T	It suppresses the two X and what stays?
+00:03:31	S	What stays is X is equal to plus five.
+00:03:34	T	It stays as X is equal to plus five, and then directly one can say to oneself, well yes, my solution is well... five... Are we okay?
+00:03:38	S	(inaudible)
+00:03:44	T	Okay, Katia? Because if you try by doing it by groping about, I know that we did it, er, by successive tests-
+00:03:53	T	We tried that, but we saw it was tedious and long. So now we have a new method.
+00:03:59	T	Aurore, what can we say for E?
+00:04:01	SN	We do minus four X.
+00:04:03	T	We have five X is equal to minus eight plus four X. Therefore we do minus four X. Which gives us X equal to?
+00:04:08	S	Minus eight...
+00:04:09	T	X equals minus eight... Questions up until now? For F? For F maybe I'll write it up... We have minus eight X is equal to minus nine X... plus seventeen.
+00:04:26	T	We will come to this side. Yeah, Herve.
+00:04:28	SN	Well, er, since we want to eliminate the eight, well since we want to find X, we put, we do plus eight X.
+00:04:36	T	So if we do plus eight X... What happens if we do plus eight X?
+00:04:41	S	Ha, yeah...
+00:04:43	T	We will have everything, we'll have nothing, and then we'll have the X's and the numbers on the right side. Have we won?
+00:04:50	SS	(inaudible)
+00:04:50	T	It's not want we want? What do we want?
+00:04:53	SN	Well-
+00:04:53	SN	There should be one X.
+00:04:54	T	So, Camille?
+00:04:55	SN	Nine X.
+00:04:56	T	We do plus nine X. In doing plus nine X- in doing plus nine X what's interesting is that here we have X, because plus nine X minus eight X-
+00:05:05	SN	It makes X.
+00:05:05	T	It makes X is equal to?
+00:05:08	SS	Seventeen.
+00:05:08	T	Seventeen... and then directly one can have our solution which is, well, 17. So it's clear that sometimes we are going to try and get the X's.
+00:05:18	T	There it's advantageous, we always have the X's on the left.
+00:05:22	T	Maybe for G and H still, we'll put them up on the blackboard. So for G we have three X plus five... is, is equal to two X, Ludivine?
+00:05:31	SN	Minus (inaudible).
+00:05:32	T	Minus?
+00:05:32	S	Minus 30.
+00:05:33	T	Minus 30?
+00:05:34	S	Yeah.
+00:05:35	T	Okay... so we can do it all in one stage.
+00:05:38	SS	No.
+00:05:40	T	So one could- but one can do it in two... So what do we want to do first?
+00:05:45	SS	(inaudible)
+00:05:47	SN	Minus two.
+00:05:47	T	So we want to do minus two X. And then it gives us?
+00:05:50	SS	(inaudible)
+00:05:51	SN	X plus five (inaudible).
+00:05:52	T	X plus five is equal to?
+00:05:55	SS	Minus three.
+00:05:55	T	Minus three... and what do we want to do now? What's bothering us?
+00:05:59	SS	Minus five.
+00:06:00	T	It's the five which is bothering us, therefore we do...
+00:06:02	SS	Minus five.
+00:06:03	T	Minus five. Therefore X is equal to?
+00:06:05	SS	Minus 35.
+00:06:06	T	Minus 35. Okay... But we're going to try and take in the next one, we're going to try and do it in one stage directly. When
+00:06:15	T	we write the next one down, we have 18 X. It's H... We have eighteen X, er, minus 24.
+00:06:22	SS	(inaudible)
+00:06:25	T	Plus 17 X... There we're going to try and do it in one stage. I don't have enough space. It's going to be okay. Eighteen X minus 24 is equal to
+00:06:33	T	72 plus 17 X... What do you want to do? What must we choose first?
+00:06:42	SS	Minus 17.
+00:06:43	T	So minus 17 X. It means we've chosen that on the right side we had more X's. We're okay? Okay, so if we decide to write minus
+00:06:50	T	17 X without doing the operation, we say- well then. I have already decided that on the right there would be more X's and then I'll put them on the left.
+00:06:58	T	Are we okay? On the left the X's... So on the right we only have the-
+00:07:02	SN	The numbers.
+00:07:03	T	Okay. So what is bothering us on the left now? It's-
+00:07:09	SS	Minus 24.
+00:07:10	T	The minus 24. Therefore what must I do to take away this minus 24?
+00:07:13	SS	Plus 24.
+00:07:14	T	Plus 24. Therefore I can directly write at the same time plus 24... and I do the two things at the same time.
+00:07:21	T	What I'm going to be able to do, we shall see in the following exercises, it's to do multiplications and additions at the same time. But on the other hand...
+00:07:29	T	Plus if I add up, instead of adding up monomials, if I add up polynomials, it's the same thing. Since I add up several
+00:07:36	T	monomials. Okay? Therefore the 18 X that I'm going to subtract minus 17 X, there's going to stay?
+00:07:42	S	X.
+00:07:43	T	And then what am I going to do with my 24? Well, the minus 24? I'll be staying with the Y. The seven- the
+00:07:56	T	minus 17 X, when it will arrive here, it will make the 17 X go away. And then the 24, when it arrives here it will
+00:08:03	T	give me? Ninety-six.
+00:08:10	T	And there we don't need a calculator to get to that S is equal to 96. Is there a question on this exercise 948?
+00:08:18	T	So I'll let you continue with 949.
+00:08:23	T	For those who finish through 950, there's 951, 952, 953,
+00:08:32	T	954. There's enough to amuse oneself until 957.
+00:09:22	S	Sir?
+00:09:23	T	Yes.
+00:09:24	S	(inaudible) 949, I don't need to (inaudible).
+00:09:30	T	But you've done it right here.
+00:09:32	S	But yes, but A, we did with you.
+00:09:34	T	Ah! So?
+00:09:38	S	And, er, here B.
+00:09:39	T	Yeah, you want to isolate- you want to isolate what?
+00:09:44	S	Er, I- yeah, but I haven't understood.
+00:09:46	T	But you want to isolate what, and you want to keep what? You decided on the left you put X's? It's what you've decided there. You tried to do
+00:09:53	T	this. What's bothering you? It's that one there.
+00:09:55	S	Yeah, therefore I do minus.
+00:09:58	T	No. How do you take away seven? How do you get minus seven to become zero?
+00:10:04	S	Er, I do plus- plus eight... er! Plus seven.
+00:10:10	T	You do plus seven, hum. You take- so do plus seven. So now what happens on that side there? I do plus seven,
+00:10:17	T	two X minus seven plus seven. The two X's will stay there.
+00:10:21	S	Two X is equal to seven.
+00:10:22	T	And then, no! Minus 19, when there's plus seven it makes minus 12.
+00:10:26	S	Uhum!
+00:10:27	T	It's correct. You've badly written the things, but your calculation is correct.
+00:10:30	S	Yeah.
+00:10:31	T	Two X is equal to minus 12. Now you want that only- that only X, therefore you-
+00:10:35	S	Times a half.
+00:10:35	T	Times a half. You find X equals minus six.
+00:10:38	S	Yeah, I did it correctly.
+00:10:39	T	It's correct.
+00:10:42	T	So there, the same thing. You decide, you have X's only on the left. What's bothering you?
+00:10:47	S	The five?
+00:10:48	T	The five. Therefore?
+00:10:50	S	I do plus minus five.
+00:10:53	T	You do minus five. You write wrong things down, but you do the calculations correctly. You do minus five, therefore. You will find the four X here, and you
+00:10:59	T	find 20 minus five, it equals, well?
+00:11:01	S	Fifteen.
+00:11:02	T	Fifteen. And then you must divide by- no, you must divide-there's not 15 which must- you must simply divide by?
+00:11:04	S	Seven?
+00:11:09	S	Twenty?
+00:11:09	T	By?
+00:11:10	S	By a quarter.
+00:11:11	T	By quarter, therefore we need a quarter. You must find 15 quarters as a solution.
+00:11:14	S	Sir?
+00:11:15	T	Yes!
+00:11:16	S	The thing (inaudible) must it always be on the left?
+00:11:19	T	Not necessarily, you can also put it on the right.
+00:11:21	S	Always X on the left?
+00:11:24	T	Listen, generally people try and have it on the left because we've gotten used to saying X equals. But we'll see, maybe later,
+00:11:30	T	er, there are some, later on here, where it's nicer to have it on the right because it's positive. Therefore we can directly find what X equals. Because sometimes we
+00:11:38	T	will have minus one X, so we must multiply again by minus one.
+00:11:41	S	Sir?
+00:11:42	T	The purists always want X on the left. But is it really good? Yes!
+00:11:49	S	It's always the same thing, 949?
+00:11:53	T	Yeah, it's always the same thing but you can't do two things at the same time. You can't do- so sometimes you can't
+00:11:57	T	do times a third then minus 12. To begin with, you must isolate- to start with- no- that one, you're not allowed to do it. The times a third.
+00:12:00	T	To start with, you do minus 12. So what will you be staying with?
+00:12:02	S	We inverse.
+00:12:08	S	Bah! Three X.
+00:12:10	T	Three X.
+00:12:11	S	(inaudible) 48.
+00:12:12	T	Three X, three X equals?
+00:12:13	S	Forty-eight?
+00:12:14	T	No...
+00:12:14	S	No, er, 36.
+00:12:15	T	If you do minus 12-
+00:12:16	T	Thirty-six. Ah bother, I shouldn't have taken away the 36, it was there. So equals to 36. And then you can do times?
+00:12:24	S	A third.
+00:12:24	T	There now, is what I was saying before. We can't do several additions at the same- together. So we're going to do additions and multiplications together.
+00:12:30	S	Ah! Yeah, okay.
+00:12:31	T	Hum, hum?
+00:12:32	S	Yeah, yeah, it's okay.
+00:12:32	T	It's okay.
+00:12:33	S	Thank you.
+00:12:33	T	You're welcome.
+00:12:35	S	Sir?
+00:12:36	T	Yes!
+00:12:37	S	There's a problem with C.
+00:12:39	T	What's the problem with C.
+00:12:40	S	I can't- I can't do it, C.
+00:12:41	T	Take away five.
+00:12:42	S	Yeah.
+00:12:43	T	Okay. So what happens when you take away five?
+00:12:46	S	Oh well, there also it goes away.
+00:12:48	T	Well yeah. So write the thing again. The four X stays.
+00:12:50	S	Yeah.
+00:12:51	T	Equals? Fifteen. Then now. When four objects are worth 15 francs, what do you do to know the price of an object?
+00:13:00	S	Well, I divide by, er, four?
+00:13:03	T	Yeah, take a quarter.
+00:13:04	S	Ah! Yeah.
+00:13:06	T	It needs a quarter, and what happens?
+00:13:09	S	(inaudible)
+00:13:11	T	X equals fifteen over four.
+00:13:13	S	Yeah.
+00:13:14	T	The fraction is in numbers.
+00:13:18	S	How?
+00:13:19	T	No, X equals? You can't put the fraction between- under the fraction- under- the bar of fraction under the equality. X equals 15 over four.
+00:13:29	S	(inaudible)
+00:13:30	T	Yeah, if you like.
+00:13:34	T	Yes.
+00:13:36	SN	There, if we divide by four, the plus five must also be divided by four?
+00:13:39	T	Oh well, yeah. Therefore we don't divide by four?
+00:13:42	S	No.
+00:13:42	T	No?
+00:13:43	S	If we take away the five, afterwards we have four X is equal to 15.
+00:13:45	T	And then.
+00:13:46	S	And then we can.
+00:13:47	T	Then it's not divided by four fifteen?
+00:13:49	S	Yes, but it does have decimal points.
+00:13:51	T	Ho, poor little one, if it does have decimal points, are they so painful, decimal points?
+00:13:54	S	No.
+00:13:54	T	Ha, good.
+00:13:55	SN	But, Sir, (inaudible)?
+00:13:58	T	So we leave the fraction, we will leave 15 quarters. Exactly.
+00:14:01	SS	(inaudible)
+00:14:03	S	(inaudible) seventy-five (inaudible) the fraction?
+00:14:05	T	But it's 15 quarters. You've divided 15 by four, that's 15 quarters.
+00:14:09	SN	Er, (inaudible).
+00:14:12	T	Here you do minus 12, but when you did minus 12 here you touched only that 12 there. The three X you left alone.
+00:14:18	S	(inaudible)
+00:14:19	T	Leave it as three X. It stays three X here... And now you must still do a stage. So that's annoying because you...
+00:14:20	S	(inaudible) do three.
+00:14:26	T	You have already done the next one but... we do times one third, then we will find?
+00:14:29	S	Third.
+00:14:31	S	Uh...
+00:14:32	T	X is equal to?
+00:14:34	S	Twelve.
+00:14:34	T	Twelve.
+00:14:36	S	Humm.
+00:14:37	T	Humm. But what do you do here?
+00:14:40	S	Er, plus seven.
+00:14:41	T	Plus seven.
+00:14:44	T	What are you going to find?
+00:14:46	S	Er, 12 X is equal to seven.
+00:14:47	T	Well no... Minus 19 plus seven? Minus?
+00:14:52	S	Well, uh...
+00:14:56	T	Minus 19 plus seven?
+00:14:58	S	Yeah, we must add that... yeah, well 26.
+00:15:03	T	Tss-Tss.
+00:15:03	S	Er, 25.
+00:15:04	T	Tss-Tss.
+00:15:06	T	Minus 19 plus seven?
+00:15:10	T	You've got 19 objects missing, someone gives you back seven, how many do you have missing?
+00:15:14	S	Well, er, 12.
+00:15:17	T	So.
+00:15:19	T	Then after that, what do we do?
+00:15:21	S	Times one.
+00:15:26	T	You want to take away the two?
+00:15:27	S	Yeah, well times a second.
+00:15:29	T	A half.
+00:15:29	S	Yeah, a half.
+00:15:30	T	Which will give, we take away the X. X equals.
+00:15:33	S	Equals, is equal to...
+00:15:37	T	Mental calculation.
+00:15:38	S	Yes I know.
+00:15:39	T	Twelve divided by two... the minus, it stays.
+00:15:41	S	Minus six.
+00:15:42	T	There now.
+00:15:43	S	(inaudible)
+00:15:45	T	Therefore here you must still put X is equal to 12 and here you must put X is equal to minus six.
+00:15:49	S	Minus six. (inaudible) Thank you.
+00:15:52	SS	Sir, Sir!
+00:15:58	T	What is it?
+00:16:00	SN	How do we go about for the two? Because I can do it, but in two stages.
+00:16:03	T	Well yeah, and what? We never said one should do only one stage.
+00:16:07	SN	(inaudible) a half?
+00:16:09	T	Well yeah... But yeah, one can maybe do 10 stages if it's necessary. We never said one should do it in only one stage. One mustn't be
+00:16:17	T	a minimalist, either.
+00:16:21	SN	When we put there, er, we always first try to take away the part, er, on the right?
+00:16:30	T	Yeah exactly. We try to take away the literal part on the right, if we decide to put it on the left. But, er, for F, for example, it can
+00:16:37	T	be interesting, or for E, to put it on the right for example. To avoid the minuses, but one can do it in both cases.
+00:16:41	SN	Sir!
+00:16:42	T	Yes.
+00:16:43	S	There now I've found for half of X, I will multiply by two to find X.
+00:16:47	T	Why? I'm not okay with what you've done there. You've done a multiplication and a subtraction at the same time.
+00:16:53	S	Well, you said it was (inaudible).
+00:16:54	T	No, don't do it at the same time. One stage after the other. Excuse me, Gregoire... I think that, let's stop for awhile,
+00:17:01	T	please. We look at A, we did it together as an example. Do you remember? And B also? It astonishes me,
+00:17:12	T	though, because a lot of you did it wrong.
+00:17:16	T	So we'll maybe just do B again together. Two X minus seven is equal to 19. So it's clear that you have two worries.
+00:17:29	T	Here. You have one X which is multiplied by two. You want X on it's own.
+00:17:33	SN	That's the least difficult.
+00:17:40	T	Thank you.
+00:17:43	T	Here you've got to realize something. You can't do everything at the same time. You mustn't think we have a problem, we put a
+00:17:51	T	bar, then we have the solution underneath. We can maybe do one, two, three, four stages if it's needed... There's the stages also of literal
+00:17:59	T	calculations. You'll see that when we calculate the data and there's brackets or something else, there will be some stages where we'll simply have
+00:18:03	T	to work with the left part and the right part separately. Here, first thing, isolate everything unknown on the same side.
+00:18:14	T	Therefore, what's bothering you here?
+00:18:17	SN	Minus seven.
+00:18:18	T	It's the minus seven. Therefore we do one stage with the minus seven... We make it plus seven.
+00:18:24	T	And then we find two X is equal to?
+00:18:27	SN	Minus 12.
+00:18:28	T	Minus 12. And now we do one stage where we do times a-
+00:18:32	SS	Half.
+00:18:32	T	Half... Okay, and then we find one X is equal to minus six so the solution is minus six... If we take C... You have it nearly
+00:18:42	T	exactly C, you've all done it. Four X plus five is equal to 20. So it's very well, er... Herve, to say I divide by four,
+00:18:54	T	and at the same time I do minus five... It's what you did, it's that one?
+00:19:00	SN	Yeah, at D.
+00:19:01	T	Ah no, you did that in the next one, D. But look already here. It's the same thing here. We first try to isolate the X. There's only one place in X.
+00:19:10	T	It's on the left, so what's bothering us?
+00:19:12	SS	The minus five.
+00:19:13	T	The minus five... Therefore I find four X is equal to 15. And then even if there are decimal points it doesn't matter. Now I do times a quarter.
+00:19:24	T	And I find X is equal to 15 quarters. And what does it mean that it's 15 quarters? There are those who would prefer to put three, decimal point, seventy-five.
+00:19:31	T	I remind you it's better as a fraction, because if by any chance it wasn't a fraction which gives a rational number which
+00:19:39	T	finishes itself, it's not interesting... Okay? A number with decimal points which finish. If we have periodical numbers it's never very interesting, we
+00:19:46	T	can't use them on the calculator. On the other hand, 15 quarters we can put in... Therefore S is equal to 15 quarters. So that's true.
+00:19:55	T	When one looks at D for example, where one has four X, it's what in D? Four X plus five again.
+00:20:02	SS	(inaudible)
+00:20:05	T	Two X minus 16?
+00:20:06	SS	Thirteen.
+00:20:06	SS	Thirteen. Thank you. When we have this, it's true one would want to say: I've got multiples of X on both sides. Valentine?
+00:20:14	SN	So we put the bar and we do minus, er, minus two X.
+00:20:18	SN	Times a half.
+00:20:19	T	So why do times a half?
+00:20:21	S	To do a (inaudible).
+00:20:22	T	So I tell you honestly, it's not good to do times a half. We're going to write what Herve said, then we're going to look at how we can
+00:20:27	T	complicate a problem which wasn't too complicated to start with.
+00:20:30	SN	We can (inaudible).
+00:20:31	T	How to complicate it when one can do it simply... that's Herve's proposition. Look, I do times a half, I am-
+00:20:38	T	Okay, when doing times a half, let's look at what happens. I'll change colors on purpose for you to realize that it's not
+00:20:42	T	the ideal. If I do times a half, how many X's do I have here?
+00:20:45	SS	Two.
+00:20:45	T	Two X.
+00:20:46	SN	No, half of X.
+00:20:47	T	No.
+00:20:48	S	No. I've got an idea. Times half X.
+00:20:50	T	You can't do times half X... You can't do times letters... It's forbidden, we've seen. Do you want me to show you again on the
+00:20:58	T	transparency what happens? Do you remember? Suddenly it has curves. We have raised one solution. Therefore we only have three possibilities
+00:21:05	T	to do something... All numbers, add letters, or multiply by a number which is not equal to zero... We can't
+00:21:13	T	multiply by a literal part... We're not allowed to do that. Therefore when you say to me a half of X, but do times a half. It
+00:21:21	T	doesn't bother me in that case there, the only difference is in my point of view, I absolutely haven't gained anything... because first of all I still have X's on
+00:21:29	T	both sides... And what's more I've gained fractions. And since we all like working with fractions, we want to have them in
+00:21:37	T	the solution, the fractions. We're okay? Gregoire, we want to have them in the solution? It's correct or not? But to have them now it's
+00:21:45	T	not comfortable... After, you don't know anymore how to add fractions and then you get into trouble. Why get into trouble?
+00:21:54	T	All right? On one's sheet of paper when one had something one could do easily. So do we continue doing times a half here-
+00:21:59	T	Herve? Do you insist?
+00:22:01	SN	No.
+00:22:02	T	No. Thank you.
+00:22:04	T	So let's try to start like before, using times. To use times we need more polynomials. That one only has monomials on
+00:22:14	T	the left or the right. Okay? We isolate. Therefore for the first we shall say what?
+00:22:19	SN	We can do (inaudible)?
+00:22:25	T	So it's correct, it's correct, Camille. We can do minus two X. One can also do minus five. Because at the moment we say we'll do
+00:22:34	T	minus two X, we've decided the X's will be on the left.
+00:22:36	SN	Nine.
+00:22:38	T	We can do both at the same time.
+00:22:39	SN	We can put them one after the other.
+00:22:40	T	So there one can put them one after the other because it's two additions.
+00:22:42	SN	All right.
+00:22:43	SN	Are we obliged to do them both at the same time?
+00:22:44	T	No, you can do them separately. After there's a problem of production, of efficiency, when you do exercises and one tells you I would like you to
+00:22:51	T	do 15 in 45 minutes, er, if you have two stages you will lose a little time. But that's training.
+00:22:59	SN	(inaudible)
+00:23:01	T	It's better to get the correct answer than to finish quickly with all the results wrong, you're right... So here we get to two X is equal to...
+00:23:10	T	because minus two X minus five.
+00:23:12	SN	Minus one.
+00:23:13	T	Minus?
+00:23:14	SN	Minus (inaudible).
+00:23:15	SN	No, minus 13.
+00:23:17	SN	Minus 18.
+00:23:17	SN	But how much is it when one does minus 13 minus five?
+00:23:19	SN	Minus 18.
+00:23:20	T	Well, minus 13 minus five, you've got 13 objects missing, someone asks you for five more, you've got 18 missing.
+00:23:24	SN	Ha, yeah.
+00:23:25	SN	(inaudible) divided by two.
+00:23:26	T	It seems to me, I don't know... And then after?
+00:23:29	S	Divided by a half.
+00:23:31	T	No.
+00:23:31	S	Not divided, times a half, yeah.
+00:23:33	T	There now, either we do times a half or we divide by two, but we can't... times a half. X is equal to?
+00:23:40	SN	Minus nine.
+00:23:41	T	Minus nine... Okay. The S is equal to minus nine.
+00:23:49	T	Is there a question on this? Can we continue now? Let's advance.
+00:23:56	T	Yes?
+00:23:58	SN	Er, there how do we do it?
+00:24:00	T	So everywhere there are brackets, to start with we take away the brackets.
+00:24:03	S	(inaudible)
+00:24:06	T	No.
+00:24:06	S	It's wrong?
+00:24:07	T	It's wrong.
+00:24:09	S	Ha, yeah, nine is wrong.
+00:24:13	T	That is wrong.
+00:24:17	T	The X cube is wrong. Ha, it was three X actually.
+00:24:19	S	Yeah.
+00:24:20	T	Ha, yeah.
+00:24:22	S	It makes- it makes seven.
+00:24:24	T	Me, I would like it better when you have something like that. So there do as Ludivine said. You write again the object when you've taken away the brackets.
+00:24:32	S	Yeah, okay.
+00:24:33	T	You do here the thing like this, you can say I'm doing literal calculation.
+00:24:37	S	Yeah.
+00:24:39	T	And then I find four X minus five is equal to six... 27... Then now I can work as I did before...
+00:24:43	S	Six X over 27,
+00:24:48	S	but now if we do minus six X to pass it on this side (inaudible) to minus two.
+00:24:51	T	It's not interesting. We have minus, yeah.
+00:24:54	S	Well, then we do minus four X and we pass (inaudible).
+00:24:55	T	There then, so we decide to have the X's on the right. It doesn't matter.
+00:25:00	S	Ah yeah, but-
+00:25:00	T	If X is equal to three or three is equal to X? What changes for you?
+00:25:03	S	Nothing.
+00:25:05	T	Okay. So it's what I told you. There are purists who absolutely want to have the X on the left. But finally as far as efficiency,
+00:25:11	T	in what we'll want to do later on to find problems, resolve problems, it doesn't take us very far.
+00:25:21	S	And after we do it like that.
+00:25:23	T	No you can't... After what must you do?
+00:25:28	S	On that.
+00:25:30	T	Minus 27. Okay. And what will we get?
+00:25:33	S	Well it's minus... 32.
+00:25:35	T	Minus 32 is equal to?
+00:25:38	S	(inaudible)
+00:25:39	T	Therefore-
+00:25:41	S	Times a half.
+00:25:42	T	Times a half. And you find X?
+00:25:45	S	(inaudible)
+00:25:46	T	Yeah, 32 over two. Thirty-two over two.
+00:25:51	S	Therefore there it makes minus 16.
+00:25:52	T	Minus 16 is equal to X.
+00:25:55	S	Ha, yeah.
+00:25:56	T	S equals minus five. Anyway, one writes S equals, so whether one has X equals minus 16 or minus 16 equals X.
+00:26:03	S	Yeah, it doesn't matter.
+00:26:04	T	The element on the left is equal to the one on the right. Whether X is on the left or the right. All right?
+00:26:09	S	Yeah.
+00:26:10	T	Okay?
+00:26:10	SN	Sir? Sir?
+00:26:11	S	One can't have zero X.
+00:26:14	T	No, it would be better not to have zero X, because then we're not well.
+00:26:16	S	But because there it gives us zero X if we do minus 17 X.
+00:26:20	T	Well, yeah.
+00:26:20	S	It takes away each time, er.
+00:26:21	T	Therefore you're going to find how much? Zero, yeah that's right. Well yeah, it's going to start to get interesting. Wait, let's look if you've already taken-
+00:26:23	S	Ha yeah, it makes (inaudible).
+00:26:27	T	the correct data. That one, yeah, that's going to become interesting. What do you find? You do minus 17 X.
+00:26:33	S	I do minus 17 only.
+00:26:34	T	No you must do minus 17 X, okay. You take away this 17 X to put it here. You've had the idea to do it like this. You do minus 17 X.
+00:26:39	T	Therefore you find two here.
+00:26:41	S	Yeah.
+00:26:42	T	So write two. Two equals minus two... So now.
+00:26:47	S	(inaudible)
+00:26:49	T	You can't do.
+00:26:50	SN	But it's wrong, but it's not possible.
+00:26:52	SN	(inaudible)
+00:26:53	T	So it's not wrong, it's that this equation doesn't have a solution.
+00:26:57	S	Wah! (inaudible).
+00:26:58	T	Is there some X which will permit you to say: whatever X you chose, you will have two equals minus two? There's something which
+00:27:04	T	doesn't work, therefore you're going to say X equals the whole?
+00:27:06	S	Empty.
+00:27:07	T	To the empty set, right?
+00:27:09	S	(inaudible)
+00:27:10	T	Yes, but that is the set containing the empty set, therefore it's no longer empty.
+00:27:14	S	Ha ha, what does that mean?
+00:27:16	SN	It means (inaudible).
+00:27:16	T	That's all. The word there, that symbol means empty set.
+00:27:21	SN	So when there's... when there's, when it's impossible I must put only that?
+00:27:23	SN	Sir!
+00:27:24	SN	Sir!
+00:27:25	SN	Sir!
+00:27:25	T	That's right, yeah.
+00:27:27	SN	E I understand very well.
+00:27:29	T	No, why do you do minus five X? Is there anywhere here where there's a minus five X?
+00:27:35	SN	Well no, but to have X alone.
+00:27:37	T	We didn't say one must have X alone there. We must first take away that X there. Is it X which is bothering you?
+00:27:42	S	Yeah.
+00:27:43	T	I'm coming, I'm here. If I take this X, what do I do to take away this X? I don't do minus five X?
+00:27:49	S	I do minus X.
+00:27:50	T	You do minus X. So now do only minus X.
+00:27:52	E	(inaudible)
+00:27:54	T	Yes?
+00:27:55	SN	Is it possible that equations don't work like that one?
+00:27:59	T	Where are you there?
+00:28:00	S	At (inaudible). It's not possible? If four X is equal to four X.
+00:28:05	T	No, it's not possible.
+00:28:06	S	So what do we put?
+00:28:08	T	Well, look at what happens. Do something.
+00:28:11	S	Well, yeah, but-
+00:28:11	T	You must do minus four X.
+00:28:12	S	Yeah.
+00:28:13	T	So do minus four X, then look at what happens. I'll come back.
+00:28:15	SN	Sir!
+00:28:16	T	Yes.
+00:28:17	S	Er, here what do we do?
+00:28:20	T	For E... Well minus four X plus 15, well what. You do minus 15.
+00:28:26	S	Yeah (inaudible).
+00:28:27	T	I did minus four X... Your 15 falls, then minus 15 plus two... That doesn't bother me. Eleven minus 15?
+00:28:35	S	And for E? Is it correct here, if I put this?
+00:28:39	SN	(inaudible) the minus four, the over four it's also here?
+00:28:41	T	But why do you divide by four when you have an addition? You mustn't do that when you have an addition, because
+00:28:48	T	otherwise each element of the addition will divide up. There you're again in the case we just showed before, with the case that
+00:28:54	T	Herve said where I divide first, then after, you have 15 quarters with 11 quarters.
+00:28:59	S	Well, we must do minus 15.
+00:29:00	T	For the first one you do minus 15. At the first isolate the X or multiply them by X.
+00:29:06	SN	There, four X, er, four X.
+00:29:08	T	Well you take away four X.
+00:29:10	S	But (inaudible).
+00:29:10	T	Zero equals, no you find zero equals minus one. Possible, not possible?
+00:29:15	SN	Impossible.
+00:29:16	T	Impossible. S equals?
+00:29:18	S	Well, Q something.
+00:29:19	T	(inaudible)
+00:29:28	T	The slash in the middle.
+00:29:29	SN	Sir?
+00:29:29	SN	Sir! After, can one do times 15?
+00:29:31	T	So after, when you have the four X alone, you can do times a quarter.
+00:29:35	S	Aah!
+00:29:36	SN	Sir?
+00:29:37	T	Yes.
+00:29:37	S	But no, Sir!
+00:29:38	T	I'm coming, I'm coming.
+00:29:40	S	Is it possible that (inaudible)?
+00:29:45	T	No. No, because if you do plus five X, you've got X here but five X here also.
+00:29:50	S	Ha, yeah.
+00:29:51	SN	Sir! Is it right, that one? That one also.
+00:29:57	T	Yes. That one's okay- and then that one... why is it- what's this six X? Where does it come from, this six X? Well, what I don't understand you've (inaudible) got a
+00:30:05	T	solution in X there. You haven't eliminated your X's? You haven't eliminated your X's!
+00:30:09	S	But no, but- if I eliminate that one, after that one has minus something-
+00:30:13	T	But it doesn't matter... It's impossible to have minus. After, we'll do minus something.
+00:30:21	SN	Is this correct?
+00:30:25	T	No.
+00:30:26	S	Why?
+00:30:26	T	No. If you take away three X here... So look at one thing. We'll look at this all together, please,
+00:30:34	S	Ah! No, no, no.
+00:30:38	T	Please, we'll look at this all together.
+00:30:40	E	(inaudible)
+00:30:43	T	Shh! Er, Camille get back to your seat please- we'll look at- I would just like to show you something- because there's- there's
+00:30:50	T	the idea- it's- we- we will listen to- to what Valentine says, and then we'll try to see what- what doesn't match in her story. So
+00:30:59	T	for the one, there's minus four X plus 15 is equal to 11. So Valentine said: I would like to have X on the left. We're okay, I'm going to have X on
+00:31:08	T	the left, all right? So she says to herself but I want X. Therefore you go from minus four X to X, I do plus five X, right or wrong?
+00:31:16	S	Yes.
+00:31:17	T	Yeah, so she says to herself, I'm going to do plus five X, then at the same time you do minus 15, all right?
+00:31:20	SN	Yeah.
+00:31:21	T	So then, I write this.
+00:31:25	S	(inaudible) copycat.
+00:31:26	T	Who said that, copycat?
+00:31:28	S	Me!
+00:31:29	T	You. You also want to do that.
+00:31:30	S	Well, yeah.
+00:31:31	T	Yeah, so, If I do plus five X. I remind you that everything I do here will be on both the left and the right side of the equality. Therefore if I
+00:31:41	T	do plus five X, yes Miss, you'll have X here, the 15 will fall, wonderful, equal? But only on the right, the five X, it will
+00:31:53	T	reappear. And then you'll have five X plus?
+00:31:58	SS	Minus four.
+00:31:59	T	Minus four, it's all you've gained Miss. Now you have everything- X's. Before you had an advantage,
+00:32:05	T	Valentine, you had an advantage, that here you had X's only on one side. Now, you've won so much that you've got X's on both sides...
+00:32:14	T	So one shouldn't want to add something to raise (inaudible). One must say to oneself: do I have X's on both sides or not. That's not
+00:32:23	T	at all okay, because now you've won nothing. I remind you everything you do, I repeat, I repeat once more, everything you
+00:32:29	T	do here will apply itself on both sides of the equality. Therefore if you do plus five, because you only look at that because you've only
+00:32:38	T	looked- you've got an idea- you've put blinders there, all right? You know those blinders, one puts on horses, all right? So if you've
+00:32:46	T	put blinkers and then you only look at part of your equation; stand back and look at all of the equation. The equation here, when I
+00:32:54	T	look at it entirely, as it is- I will erase the one above so we see it well, all right! I've even erased the 15 with that. When
+00:33:03	T	you look at this, what happens? You say to yourself ah, yeah, great! You're happy. Why? You've got on only one side with
+00:33:12	T	X's. They don't create a problem, they are already on the left. So I leave them on the left. I don't bother about the X's for the time being. What
+00:33:21	T	is bothering me here? In a global way, what's bothering me?
+00:33:25	SS	The 15.
+00:33:26	T	It's the 15, it's all. There's only the 15, which is bothering me to isolate the X's. So I do only the minus 15 and I find minus
+00:33:33	T	four X is equal to?
+00:33:36	SS	Minus four.
+00:33:37	T	Minus four.
+00:33:38	SN	Then we do times, times a quarter.
+00:33:39	T	Haha.
+00:33:41	SN	Minus a quarter.
+00:33:41	T	Times minus a quarter.
+00:33:42	T	Times, so a quarter to take the four away, okay? But what's bothering me also?
+00:33:48	SN	It's the minus.
+00:33:48	T	It's the minus. That one there doesn't bother me.
+00:33:52	S	Times minus a quarter.
+00:33:53	T	Times minus a quarter. The minus to take away the minus... And then the quarter to take away the four. Then after I have X, then I apply this minus-
+00:34:03	T	A quarter times minus a quarter equals minus four. Therefore I find X equals?
+00:34:08	SS	One.
+00:34:08	T	One... okay? One must be careful with this. One must work only with the elements you have in the equation. You mustn't start
+00:34:17	T	looking for others which please you. There are already enough in here, you must not look for others.
+00:34:26	SN	(inaudible) 250.
+00:34:28	T	To do calculations, you must take away the brackets.
+00:34:30	S	And is that all?
+00:34:31	T	Then after you do the same problem.
+00:34:33	SN	Sir?
+00:34:38	T	Yes!
+00:34:39	S	Can you come and see?
+00:34:40	T	So we will start there, I go round like this.
+00:34:42	SN	Er, here there we do times 10, that like, after we have no more commas here?
+00:34:46	T	Well yeah, and you've found X equals zero two. Exactly.
+00:34:51	SN	(inaudible) is it correct?
+00:34:54	T	I don't know if it's correct but-
+00:34:56	SN	We do plus (inaudible).
+00:34:57	T	If you do minus two X here. If you take away two X and then you've got two.
+00:35:02	SN	Yeah, but there aren't anymore at all.
+00:35:04	T	You've got two pencils. Minus two pencils, how many have you got?
+00:35:07	S	No more.
+00:35:08	T	So.
+00:35:09	S	It does... minus seven X.
+00:35:12	T	Equals?
+00:35:13	S	Twenty-one.
+00:35:14	T	Twenty-one... Then now how are you going to take away this minus X? Now it's good. Now you have a multiple of X alone. So
+00:35:23	T	what do you do? You're not going to add this 21 on the same side?
+00:35:28	S	After, well, we do divided by seven X.
+00:35:32	T	No, not seven X, we want to keep the X.
+00:35:34	S	Times (inaudible) a seventh.
+00:35:36	T	Times minus to take away this minus, then a seventh to take away this seven.
+00:35:41	S	Ha, yeah.
+00:35:44	T	Okay?
+00:35:44	S	Hmm.
+00:35:45	T	And then it will give us what? So here we're going to be able, we'll rub out already (inaudible) with the eraser.
+00:35:50	SN	Why is it minus two X at the top?
+00:35:53	T	But because look at these two X, they are bothering us. These two X there, that's the one we want to take away.
+00:35:57	S	Why isn't it the minus seven X?
+00:35:58	T	Well because otherwise we must put the 21 on the other side, it's the same thing. As we see that there's only X's already here, we will
+00:36:04	T	try and put everything this side... we choose a side where we want to put the X's.
+00:36:08	SN	Hmm.
+00:36:10	T	We can put it the other way round if you wish.
+00:36:12	SN	But after that, this thing we must also do it at 21?
+00:36:15	T	Ha, well of course. I said everything we do behind this vertical bar here, we must do it on both sides.
+00:36:23	S	Why does it stay (inaudible), why (inaudible)?
+00:36:24	T	So it makes X, but 21 divided by seven.
+00:36:28	S	Er, three.
+00:36:29	T	Three. Then there was a little minus, therefore it makes minus three. You can rub out what you had here.
+00:36:33	S	Ha, therefore X becomes minus three.
+00:36:34	T	But yeah, simply.
+00:36:36	S	And then that one?
+00:36:39	T	Ha. That one is more problematic. You mustn't divide by four.
+00:36:42	SN	But, Sir.
+00:36:42	T	Yes.
+00:36:43	SN	(inaudible) the minus seven X there?
+00:36:45	T	Well, because I did minus two X.
+00:36:47	S	Minus five X or minus two X.
+00:36:48	T	I- yes. I must still go over there behind.
+00:36:51	SN	The solution must be the solution which is the least, it must be more.
+00:36:54	T	Must be X... Yeah. Yeah. That's why we do as you're doing here. You can do times minus one, but you could very well have done
+00:37:00	T	directly minus one. You do times minus one... Then 42.
+00:37:04	T	Quarter, you can put twenty-one and a half.
+00:37:06	S	Yeah.
+00:37:08	T	There was a question here on this side. Who was it? Ha, yeah, Aurore.
+00:37:13	SN	Er, here (inaudible) we do there we would put minus 21, that doesn't do anything above?
+00:37:17	T	No, it would be minus five X minus 21.
+00:37:19	S	(inaudible) minus three.
+00:37:22	T	Well, yeah.
+00:37:23	S	So it still does something?
+00:37:25	T	Well, yeah, it does something.
+00:37:27	S	(inaudible)?
+00:37:29	T	No... Why do you want minus 21?
+00:37:30	SN	Sir. Is this correct?
+00:37:33	SN	I had. I had.
+00:37:34	T	No you've done times, times a seventh, minus a seventh, so the 21 is affected by the times minus a seventh.
+00:37:38	S	Is it correct?
+00:37:39	T	Yeah. So I'll do F. I'll put F up. Yes, Herve?
+00:37:44	SN	(inaudible)
+00:37:45	T	Well, precisely, I'll do it. It's wrong there. So I'll come- I'll do F, then after we'll look at G together, because G has something tricky.
+00:37:53	T	We'll quickly look at F. So F, it's five X, er, minus five X is equal to two X plus 21. Is that correct?
+00:38:01	SS	Yeah.
+00:38:02	T	Okay, so again here, I've already got on the left only X's... Therefore I'll pass- I'll eliminate the X's on the right. How do I eliminate the X's?
+00:38:14	SS	Minus two X.
+00:38:15	T	I do minus two X. What does it give me? It gives me minus seven X is equal to 21. What's bothering me now?
+00:38:23	SN	The minus seven.
+00:38:23	T	It's the minus seven, it is being multiplied... It is being multiplied. Therefore times minus one.
+00:38:31	SS	A seventh.
+00:38:32	T	A seventh... Which gives us X equals?
+00:38:35	SN	Minus three.
+00:38:36	T	Minus three, simply. So now it's true on the other hand for that part... So there's S equals minus three.
+00:38:49	T	It's true for the G part.
+00:38:57	T	The G part, what do we have that's tricky? We have four X is equal to four X... minus one. So how are we going to see that?
+00:39:04	SS	It's not possible!
+00:39:09	T	It's impossible. Valentine?
+00:39:11	SN	Because it would need a place, for example four X is equal to three X minus one. Otherwise we can't take away the X's. We can't take away one.
+00:39:21	T	Let's try to take it away, let's try to be as methodical as we can, then let's see what happens. Let's see, where do we find, so-
+00:39:28	SN	Times four X.
+00:39:30	T	You're okay that this four X is bothering you.
+00:39:32	SS	Yeah.
+00:39:33	SN	We do minus four X.
+00:39:34	T	So we do minus four X.
+00:39:35	S	So it does zero equals zero.
+00:39:35	T	We find zero X. Therefore zero is equal to minus one. Is that possible?
+00:39:42	SS	No!
+00:39:43	T	No. Therefore when you get to a case like this...
+00:39:46	B	[Blackboard: Empty set sign.]
+00:39:47	T	What does this mean graphically? Four X equals four X minus one. If we did it again graphically as we did it here.
+00:39:54	SN	It's parallel.
+00:39:56	T	Yes Sir Jean-Pierre! It's parallel. Do you remember that? If I do the axis of the X's here, the axis of the function G of X and D of X, the
+00:40:06	T	function on the left and the function on the right... four X it's what? (inaudible) the origin of four X, I start from where? Four X, the force- the- the-
+00:40:16	T	the equation which says: G of R of R, X goes on four X.
+00:40:24	SS	It starts from zero.
+00:40:27	T	It starts from zero. Right. We'll put it in one color. That one there. Here, it starts from zero and each time it advances it goes up how much?
+00:40:35	SS	Four.
+00:40:36	T	Up four. Okay... it goes up like this.
+00:40:45	T	And then it goes down also each time. Each time I go backwards, I go down four. Are we okay?
+00:40:49	SS	Yeah.
+00:40:49	T	That's okay? That's the function of G, the left element. The right element... what nice little colors here would
+00:40:59	T	distinguish this from blue? We don't have much... a little orange, a green. We'll see the difference but I don't have anymore orange... So the
+00:41:12	T	function of the right side. I'll write it here... it says- it says from R to R, X goes on four X minus one. Therefore it means I go from where?
+00:41:25	SS	Minus one.
+00:41:25	T	I go from minus one on- there and then, each time I advance one, I go up four.
+00:41:31	S	Well it would do a (inaudible).
+00:41:33	S	It is parallel.
+00:41:33	T	It is, well, parallel. Therefore when do they meet each other, these two parallel lines?
+00:41:37	SS	Never.
+00:41:37	T	Never. Therefore the- what we're looking for as a solution, it's the points that meet each other. Therefore there's none. Therefore one can say it's
+00:41:45	T	it's- Do you visualize geometrically what's happening? Okay? Therefore that case, it's S equals- parallel. Okay?
+00:41:54	T	Okay? That's the function of the right side.
+00:41:58	S	Sir.
+00:42:00	T	Yes.
+00:42:01	S	Can I go to the bathroom?
+00:42:03	T	You can wait two minutes. The bell will ring in two minutes. Yeah?
+00:42:09	SN	The first, I didn't understand why (inaudible).
+00:42:13	T	What's bothering you? Well then, how do we take away a fraction?
+00:42:16	S	Well, we (inaudible) another fraction.
+00:42:18	T	Well yeah, which one? To take away the five, you did what? If you had only five X, what would you do?
+00:42:23	S	Well, er, times a fifth.
+00:42:25	T	A fifth. If you had only the- you would do times? Times two.
+00:42:33	S	(inaudible)
+00:42:34	T	No, times two. Times two, therefore times two fifths. Oh, I've put green, that's my print.
+00:42:57	T	So I'll let you continue now, on this 948 and we'll correct next time the- the- the other ones, all right? We are
+00:43:05	T	obliged. We'll correct H, I, K. Yeah.
+00:43:10	SN	Sir, (inaudible).
+00:43:12	T	Hum um...(inaudible) we do.
+00:43:17	S	Is it correct?
+00:43:44	T	I've got 949.
+00:44:06	S	Sir?
+00:44:07	T	Yes.
+00:44:08	S	Come and see.
+00:44:09	T	Of course.
+00:44:13	S	(inaudible) minus, er, minus, the X either negative or positive?
+00:44:18	T	It had better be positive. It would avoid us- because every time there'll be minuses we'll make a mistake. What's bothering you?
+00:44:24	S	Well there, it's to leave it like that.
+00:44:25	T	No. Here you've got six X, here you've got five X- you've got X.
+00:44:28	S	Yeah.
+00:44:28	T	Well, which is the one bothering you? Where are there the most X's? On the left or on the right? So you stay on the left and then you take away.
+00:44:35	S	Ah yeah, so, I do minus one.
+00:44:36	T	Minus X, yeah, you do minus X.
+00:44:48	S	Well, it does (inaudible)... and then after- to do- divide by, er.
+00:44:51	T	Not before doing division. As long as you have a polynomial, you don't do division. It's a principle you've got to keep to.
+00:44:59	T	Therefore now?
+00:45:00	S	We do plus 10.
+00:45:01	T	You do plus 10.
+00:45:04	O	[Bell]
+00:45:06	T	Okay then... Okay then, we'll see each other after the break.
+Ê
