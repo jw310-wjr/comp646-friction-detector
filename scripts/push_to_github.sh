@@ -37,4 +37,7 @@ else
   fi
 fi
 
-echo "Done: https://github.com/$(gh api user -q .login)/$REPO_NAME"
+LOGIN="$(gh api user --jq .login 2>/dev/null || true)"
+if [ -n "$LOGIN" ]; then
+  echo "Done: https://github.com/$LOGIN/$REPO_NAME"
+fi
