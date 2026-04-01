@@ -64,7 +64,7 @@ Qwen2.5-VL fusion and human-label evaluation are ongoing.
 \section{Introduction}
 
 High-quality teaching requires moment-by-moment diagnosis of student
-understanding and rapid strategy adjustment.  Text-only tools such as
+understanding and rapid strategy adjustment~\cite{sherinvanes2009}.  Text-only tools such as
 Tutor CoPilot~\cite{tutorcopilot} and Edu-ConvoKit~\cite{educonvokit}
 surface useful feedback from dialogue transcripts, but overlook
 complementary multimodal signals available in video: facial affect, gaze,
@@ -97,6 +97,12 @@ friction.}
 
 \section{Related Work}
 
+\textbf{Teacher noticing.}
+Professional vision---identifying and interpreting significant events
+during instruction---is central to adaptive teaching~\cite{sherinvanes2009}.
+Our system provides automated multimodal triggers to support teachers'
+post-session reflection on such moments.
+
 \textbf{Dialogue-based teaching support.}
 Transformer models trained on classroom transcripts detect and score talk
 moves~\cite{talkmovesaaai}.  Tutor CoPilot~\cite{tutorcopilot} translates
@@ -109,7 +115,9 @@ with strong zero-shot generalisation; we use it in lieu of GPT-4o for
 cost and reproducibility.
 
 \textbf{Affect from video.}
-DeepFace~\cite{deepface} provides a practical emotion proxy without
+Confusion has been shown to be a critical affective state during
+complex learning~\cite{dmello2012}.
+DeepFace~\cite{deepface} provides a practical confusion proxy without
 specialised sensors, enabling CPU-friendly inference in classroom settings.
 
 \textbf{Speech recognition.}
@@ -210,9 +218,10 @@ are collected.}
 \section{Experimental Settings}
 
 \textbf{Data.}
-Two public TIMSS lessons: \emph{AU1 Exterior Angles} (geometry,
-Australian Grade~8) and \emph{TIMSS Math RUB} (Russian Grade~8, YouTube
-mirror).  Transcript archives are bundled in the repo; video files are
+Two public TIMSS lessons from the TIMSS 1999 Video Study~\cite{timss1999video}:
+\emph{AU1 Exterior Angles} (geometry, Australian Grade~8) and
+\emph{TIMSS Math RUB} (Russian Grade~8, YouTube mirror).
+Transcript archives are bundled in the repo; video files are
 gitignored and added locally following TIMSSVIDEO terms~\cite{timssvideo}.
 
 \textbf{Software.}
