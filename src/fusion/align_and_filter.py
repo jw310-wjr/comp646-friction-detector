@@ -93,9 +93,12 @@ def heuristic_candidates(
     bins: list[AlignmentBin],
     confusion_z: float,
     frame_index: list[tuple[float, str]],
+    flag_unknown: bool = True,
 ) -> tuple[list[FrictionCandidate], float, float]:
     """
     Flag bins where confusion > μ + z·σ and (low-quality strategy or high-pressure move).
+    When ``flag_unknown=True`` (default), bins with dominant_quality='unknown' are also
+    treated as risky—appropriate when heuristic classifiers cannot confirm strategy quality.
     ``frame_index`` is sorted (t_sec, path) for all extracted frames.
     """
     scores = [b.mean_confusion for b in bins]
@@ -110,7 +113,11 @@ def heuristic_candidates(
     cands: list[FrictionCandidate] = []
     for b in bins:
         z = (b.mean_confusion - mu) / sigma if sigma > 1e-9 else 0.0
-        risky = b.strategy.low_quality or b.strategy.high_pressure
+        risky = (
+            b.strategy.low_quality
+            or b.strategy.high_pressure
+            or (flag_unknown and b.strategy.dominant_quality == "unknown")
+        )
         if b.mean_confusion > mu + confusion_z * sigma and risky:
             fps = [p for t, p in frame_index if b.t_start <= t < b.t_end]
             if not fps and frame_index:

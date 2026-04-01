@@ -53,7 +53,8 @@ def run_pipeline(video_path: str | Path, cfg: PipelineConfig | None = None) -> T
 
     bins = build_alignment_bins(smoothed, utterances, cfg.alignment_grid_sec, duration)
     candidates, _mu, _sigma = heuristic_candidates(
-        bins, cfg.confusion_z_threshold, frame_index
+        bins, cfg.confusion_z_threshold, frame_index,
+        flag_unknown=cfg.flag_unknown_strategy,
     )
     candidates = candidates[: cfg.max_fusion_windows]
 

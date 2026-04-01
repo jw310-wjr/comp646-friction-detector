@@ -24,3 +24,5 @@ class PipelineConfig:
     deepface_enforce_detection: bool = False
     # If set, process only the first N seconds (full lessons are very slow on CPU).
     max_duration_sec: float | None = None
+    # Treat bins with 'unknown' strategy quality as risky (recommended when using heuristics).
+    flag_unknown_strategy: bool = True

@@ -10,7 +10,7 @@ jw310@rice.edu · ky65@rice.edu
 
 ## Abstract
 
-Effective teaching depends on noticing student confusion and adjusting instruction. We are building a system that detects *pedagogical friction*: moments where a low-quality instructional strategy coincides with visible student confusion. The pipeline takes a classroom or tutoring recording (video + audio), constructs a confusion timeline from facial affect (DeepFace), a strategy timeline from automatically transcribed speech (Whisper) and dialogue-level heuristics standing in for Edu-ConvoKit and Tutor CoPilot classifiers, aligns both streams on a 30-second grid, and applies a heuristic pre-filter before optional multimodal fusion with **Qwen2.5-VL** (replacing GPT-4o in our proposal) to produce a post-session **Teacher Friction Report**. We have implemented the end-to-end codebase, evaluated TIMSS-style public lessons locally, and run CPU smoke tests. Full VLM fusion and quantitative evaluation against human labels are in progress.
+Effective teaching depends on noticing student confusion and adjusting instruction. We are building a system that detects *pedagogical friction*: moments where a low-quality instructional strategy coincides with visible student confusion. The pipeline takes a classroom or tutoring recording (video + audio), constructs a confusion timeline from facial affect (DeepFace), a strategy timeline from automatically transcribed speech (Whisper) and dialogue-level heuristics standing in for Edu-ConvoKit and Tutor CoPilot classifiers, aligns both streams on a 30-second grid, and applies a heuristic pre-filter before optional multimodal fusion with **Qwen2.5-VL** (replacing GPT-4o in our proposal) to produce a post-session **Teacher Friction Report**. We have implemented the end-to-end codebase, run CPU smoke tests on two public TIMSS lessons, and identified 3 candidate friction windows in the AU1 *Exterior Angles* clip (first 5 min, z=0.3) at timestamps 150–240 s where elevated student confusion (mean 0.55–0.70) co-occurs with strategy quality that cannot be confirmed as high-quality. Full VLM fusion and quantitative evaluation against human labels are in progress.
 
 ## 1. Introduction
 
@@ -37,13 +37,15 @@ Pedagogical friction bridges *what the teacher says* and *how students appear to
 
 **Figure (placeholder).** Replace with a PowerPoint/Keynote diagram exported to PDF (selectable text), matching the quality note in the sample ProgressReport.
 
-**Table 1 — Preliminary plan**
+**Table 1 — Preliminary Results (AU1 Exterior Angles, first 5 min)**
 
-| Setting | Precision | Recall | Notes |
-|--------|-----------|--------|--------|
-| Heuristic + fusion (full lesson) | *TBD* | *TBD* | Pending GPU / labels |
-| Heuristic only (--skip-fusion) | — | — | Smoke tests on TIMSS clips |
-| Human agreement (2 annotators) | *TBD* | — | Planned |
+| Setting | Bins | Candidates | Confusion μ (σ) | Notes |
+|--------|------|------------|----------------|-------|
+| Heuristic only, z=1.0 (original) | 7 | 0 | 0.37 (0.07) | Threshold too strict; no candidates |
+| Heuristic only, z=0.3 + flag\_unknown | 11 | **3** | 0.48 (0.14) | Windows at 150–180s, 180–210s, 210–240s |
+| Heuristic + Qwen2.5-VL fusion | 11 | 3 | 0.48 (0.14) | *Pending GPU run* |
+| Human agreement (2 annotators) | — | *TBD* | — | Planned |
+| Math video (TIMSS RUB) | 11 | 0 | 0.63 (0.10) | Whisper hallucination detected; audio quality issue |
 
 ## 4. Experimental Settings
 
@@ -56,7 +58,7 @@ Pedagogical friction bridges *what the teacher says* and *how students appear to
 
 ### 5.1 Implementation status
 
-Frame extraction, confusion aggregation, ASR, bin alignment, JSON/text reports, and GitHub release are complete. Short clips may yield zero candidates under conservative *z*; we will report tuning in the final report.
+Frame extraction, confusion aggregation, ASR, bin alignment, JSON/text reports, and GitHub release are complete. We identified a key issue with the original heuristic filter: the z=1.0 threshold combined with requiring explicit `low_quality` strategy flags yielded zero candidates on TIMSS lessons because the heuristic keyword patterns do not match natural classroom discourse. We addressed this by (a) adding a `flag_unknown_strategy` option that treats bins with unconfirmed strategy quality as potentially risky, and (b) enriching the keyword patterns. With z=0.3 and `flag_unknown=True`, the AU1 clip yields **3 friction candidates** at 150–240 s. We also discovered that Whisper produces hallucinated transcripts for the Math video (TIMSS RUB), likely due to low audio SNR in the first 5 minutes; this will be investigated with longer clips and VAD tuning.
 
 ### 5.2 Fusion and compute
 

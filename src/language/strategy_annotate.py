@@ -20,6 +20,13 @@ _LOW_QUALITY_PATTERNS = [
     r"\byou (should |just )(use|plug|multiply|divide)\b",
     r"\bthis (always|never) works\b",
     r"\bthe formula is\b",
+    # Additional patterns for TIMSS-style classroom discourse
+    r"\bjust (copy|write|put|add|subtract|multiply|divide)\b",
+    r"\b(remember|recall) (that |the |how )?(formula|rule|fact|step)",
+    r"\bthe (rule|definition|property) (is|says)\b",
+    r"\byou (need to|have to|must) (know|memorize|remember)\b",
+    r"\b(it'?s|that'?s) (just|simply|only|basically)\b",
+    r"\b(fill in|copy down|write down) (the|this|that)\b",
 ]
 
 _HIGH_PRESSURE_PATTERNS = [
@@ -27,6 +34,13 @@ _HIGH_PRESSURE_PATTERNS = [
     r"\bwhy did you think that\b",
     r"\bthat'?s wrong\b",
     r"\bno[, ]+(that|this)\b",
+    # Additional high-pressure patterns
+    r"\bno[,.]? (try again|incorrect|not right)\b",
+    r"\b(wrong|incorrect)[,.]\b",
+    r"\bwhy (would|did) you (say|think|do) that\b",
+    r"\bdoes (anyone|somebody) (else )?know\b",
+    r"\bcome on\b",
+    r"\bpay attention\b",
 ]
 
 
