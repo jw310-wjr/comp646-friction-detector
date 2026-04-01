@@ -45,109 +45,64 @@ Keyuan Yan\\Department of Computer Science, Rice University\\{\tt\small ky65@ric
 Effective teaching depends on noticing student confusion and adjusting
 instruction.  We present a system that detects \emph{pedagogical friction}:
 moments where a low-quality instructional strategy coincides with visible
-student confusion.  Given a classroom or tutoring recording, our pipeline
-constructs a confusion timeline from per-frame facial affect (DeepFace), a
-strategy timeline from automatically transcribed speech (Whisper) annotated
-by dialogue-level heuristics, temporally aligns both signals on a 30-second
-grid, and flags candidate windows via a statistical $z$-score filter.
-Flagged windows are optionally passed to Qwen2.5-VL for multimodal
-friction confirmation and alternative-strategy generation.  The output is a
-post-session \emph{Teacher Friction Report} with timestamps, strategy
-context, and suggested instructional moves.  We release an open codebase
-and evaluate on public TIMSS video lessons.
-CPU smoke tests on the AU1 \emph{Exterior Angles} clip (first 5\,min)
-yield \textbf{3 friction candidates} after threshold calibration;
-Qwen2.5-VL fusion and human-label evaluation are ongoing.
+student confusion.  Our pipeline constructs a confusion timeline from
+per-frame facial affect (DeepFace~\cite{deepface}), a strategy timeline
+from transcribed speech (Whisper~\cite{whisper}) annotated by heuristics,
+temporally aligns both signals on a 30-second grid, and flags candidate
+windows via a statistical $z$-score filter.  Flagged windows are passed to
+Qwen2.5-VL~\cite{qwen25vl} for friction confirmation and
+alternative-strategy generation.  CPU smoke tests on the TIMSS AU1
+\emph{Exterior Angles} clip (5\,min) yield \textbf{3 friction candidates};
+VLM fusion and human-label evaluation are ongoing.
 \end{abstract}
 
 %%%%%%%%% BODY TEXT
 \section{Introduction}
 
 High-quality teaching requires moment-by-moment diagnosis of student
-understanding and rapid strategy adjustment~\cite{sherinvanes2009}.  Text-only tools such as
-Tutor CoPilot~\cite{tutorcopilot} and Edu-ConvoKit~\cite{educonvokit}
-surface useful feedback from dialogue transcripts, but overlook
-complementary multimodal signals available in video: facial affect, gaze,
-and board work.  We introduce a framework that operationalises
-\emph{pedagogical friction}---the joint occurrence of a risky
-instructional strategy and elevated student confusion---and surfaces
-candidate intervals with actionable feedback.
+understanding and rapid strategy adjustment~\cite{sherinvanes2009}.
+Tools such as Tutor CoPilot~\cite{tutorcopilot} and
+Edu-ConvoKit~\cite{educonvokit} surface useful feedback from transcripts,
+and transformer models can detect productive talk
+moves~\cite{talkmovesaaai}, yet no pipeline jointly models strategy quality
+and student affect to surface actionable friction moments.
+Confusion has been identified as a pivotal affective state that, when
+unaddressed, impedes deep learning~\cite{dmello2012}.
+Large vision-language models such as Qwen2.5-VL~\cite{qwen25vl} now make
+it feasible to synthesise video frames, transcripts, and affect signals in
+a single inference pass.
 
-We build on three observations: (1) DeepFace-based emotion estimates
-provide a practical confusion proxy without specialised hardware;
-(2) dialogue classifiers (Edu-ConvoKit, Tutor CoPilot) can identify
-low-quality moves from transcripts; (3) large vision-language models such
-as Qwen2.5-VL~\cite{qwen25vl} can synthesise both modalities and produce
-structured suggestions grounded in accountable-talk frameworks
-\cite{talkmovesaaai}.
-
-Our contributions are: a working end-to-end pipeline, a public
-repository\footnote{\url{https://github.com/jw310-wjr/comp646-friction-detector}},
-TIMSS-aligned transcript resources, and preliminary results on two public
-TIMSS lesson clips (Figure~\ref{fig:leadfigure}).
-
-\begin{figure}[t]
-\centering
-\includegraphics[width=0.45\textwidth]{figures/leadclassroom.pdf}
-\caption{Representative frame from TIMSS AU1 \emph{Exterior Angles} (t\,$\approx$\,165\,s).  Our goal is to identify
-time intervals where teacher discourse and student affect jointly indicate
-friction.}
-\label{fig:leadfigure}
-\end{figure}
-
-\section{Related Work}
-
-\textbf{Teacher noticing.}
-Professional vision---identifying and interpreting significant events
-during instruction---is central to adaptive teaching~\cite{sherinvanes2009}.
-Our system provides automated multimodal triggers to support teachers'
-post-session reflection on such moments.
-
-\textbf{Dialogue-based teaching support.}
-Transformer models trained on classroom transcripts detect and score talk
-moves~\cite{talkmovesaaai}.  Tutor CoPilot~\cite{tutorcopilot} translates
-expert strategies into real-time nudges; Edu-ConvoKit~\cite{educonvokit}
-lowers the barrier to replicating such analyses.
-
-\textbf{Multimodal reasoning.}
-Qwen2.5-VL~\cite{qwen25vl} supports image--text instruction following
-with strong zero-shot generalisation; we use it in lieu of GPT-4o for
-cost and reproducibility.
-
-\textbf{Affect from video.}
-Confusion has been shown to be a critical affective state during
-complex learning~\cite{dmello2012}.
-DeepFace~\cite{deepface} provides a practical confusion proxy without
-specialised sensors, enabling CPU-friendly inference in classroom settings.
-
-\textbf{Speech recognition.}
-Whisper~\cite{whisper} provides robust, language-agnostic ASR for
-long-form classroom recordings; its built-in VAD filter reduces false
-segments.
+We introduce a framework that operationalises \emph{pedagogical
+friction}---the joint occurrence of a risky instructional strategy and
+elevated student confusion---and produces a post-session
+\emph{Teacher Friction Report} with timestamps and suggested instructional
+moves.  Our contributions are: (i)~a working end-to-end multimodal
+pipeline; (ii)~a public codebase at
+\texttt{github.com/jw310-wjr/comp646-friction-detector}; and
+(iii)~preliminary results on two public TIMSS lessons~\cite{timss1999video}.
 
 \section{Methodology}
 
-Figure~\ref{fig:model} gives a schematic overview of our pipeline.
+Figure~\ref{fig:model} shows a schematic overview.
 
 \textbf{Vision stream.}
-Frames are sampled at $r$\,Hz (default $r{=}2$; reduced for CPU tests).
-DeepFace~\cite{deepface} estimates per-frame emotion probabilities mapped
-to a scalar confusion proxy $c_t\!\in\![0,1]$ via a fixed weight table
-(neutral/happy\,$\to$\,0; fear/sad\,$\to$\,0.85--0.9;
-disgust/angry\,$\to$\,0.45--0.5).  A trailing 30-second mean yields
-confusion timeline $C(t)$.
+Frames are sampled at $r{=}2$\,Hz.
+DeepFace~\cite{deepface} estimates per-frame emotion probabilities, which
+are mapped to a scalar confusion proxy $c_t\!\in\![0,1]$ via a fixed
+weight table: neutral/happy\,$\to\!0$; fear/sad\,$\to\!0.85$--$0.9$;
+disgust/angry\,$\to\!0.45$--$0.5$.
+A trailing 30-second mean yields the confusion timeline $C(t)$.
 
 \textbf{Language stream.}
-faster-Whisper~\cite{whisper} transcribes audio with VAD filtering.  A
-\emph{heuristic strategy annotator} applies regular-expression patterns
-for low-quality moves (\eg \textit{``the formula is\ldots''}) and
-high-pressure moves (\eg \textit{``that's wrong''}).  This annotator is a
-drop-in for Edu-ConvoKit and Tutor CoPilot~\cite{educonvokit,tutorcopilot}
-classifiers planned for a later milestone.
+faster-Whisper~\cite{whisper} transcribes audio with VAD filtering.
+A \emph{heuristic strategy annotator} flags low-quality moves
+(\eg \textit{``the formula is\ldots''}) and high-pressure moves
+(\eg \textit{``that's wrong''})---a drop-in for future
+Edu-ConvoKit / Tutor CoPilot~\cite{educonvokit,tutorcopilot} classifiers.
 
 \textbf{Temporal alignment and filtering.}
-Sessions are partitioned into $G{=}30$-second bins.  Per-bin mean
-confusion $\bar{c}_k$ and strategy quality label
+Sessions are partitioned into $G{=}30$-second bins.
+Per-bin mean confusion $\bar{c}_k$ and strategy quality label
 $q_k\!\in\!\{\text{high},\text{low},\text{unknown}\}$ are computed.
 A bin is flagged as a \emph{friction candidate} when
 \begin{equation}
@@ -155,180 +110,109 @@ A bin is flagged as a \emph{friction candidate} when
   \quad\text{and}\quad q_k \neq \text{high},
   \label{eq:filter}
 \end{equation}
-where $\mu_C$, $\sigma_C$ are the session mean and s.d., and $z$ is a
-sensitivity parameter.  We treat \textit{unknown} quality as potentially
-risky when heuristic classifiers lack coverage (\texttt{flag\_unknown\_strategy=True}).
+where $\mu_C$, $\sigma_C$ are the session-level mean and s.d.\ of confusion
+scores, and $z$ is a sensitivity parameter.
+Setting \texttt{flag\_unknown\_strategy=True} treats
+$q_k{=}\text{unknown}$ as potentially risky when heuristics lack coverage.
 
 \textbf{VLM fusion (optional).}
-For each candidate window, Qwen2.5-VL~\cite{qwen25vl} receives 1--4
-representative frames, the confusion summary, strategy label, and
-transcript excerpt, and returns JSON:
-\texttt{friction}\,(bool), \texttt{rationale}\,(str),
+For each candidate, Qwen2.5-VL~\cite{qwen25vl} receives 1--4 frames,
+a confusion summary, strategy label, and transcript excerpt, returning
+structured JSON: \texttt{friction}\,(bool), \texttt{rationale}\,(str),
 \texttt{alternative\_strategy}\,(str).
 
-\textbf{Stretch goal.}
-An optional OCR module (Tesseract) can append board/slide text to the VLM
-context; not yet wired into the main pipeline.
-
-\begin{figure*}[!t]
+\begin{figure}[t]
 \centering
-\includegraphics[width=0.90\textwidth]{figures/pipeline_overview.pdf}
+\includegraphics[width=0.48\textwidth]{figures/pipeline_overview.pdf}
 \caption{System overview.  Parallel vision and language streams are aligned
 on a 30-second temporal grid; a $z$-score pre-filter proposes candidate
-friction windows for optional multimodal reasoning.}
+friction windows for optional multimodal VLM reasoning.}
 \label{fig:model}
-\end{figure*}
+\end{figure}
 
-\begin{table*}
+\section{Experiments and Results}
+
+\textbf{Setup.}
+Two public TIMSS lessons~\cite{timss1999video,timssvideo}:
+\emph{AU1 Exterior Angles} (geometry, Australian Grade~8) and
+\emph{TIMSS Math RUB} (Russian Grade~8).
+CPU path: Python~3.9, OpenCV, DeepFace (TF~2.x), faster-Whisper
+(\texttt{base}, int8).
+Qwen (\texttt{Qwen2.5-VL-7B-Instruct}) runs on GPU (pending).
+Key hyperparameters: $r{=}2$\,Hz, $G{=}30$\,s, $z\!\in\!\{1.0,\,0.3\}$.
+
+\textbf{Results.}
+Table~\ref{table:results} summarises all conditions.
+With $z{=}1.0$, the AU1 teacher's question-based discourse moves
+(\textit{``What did you learn?''}, \textit{``Do you agree?''}) fall outside
+our keyword vocabulary, assigning $q_k{=}\text{high}$ to every bin and
+yielding \textbf{zero candidates}.
+Lowering to $z{=}0.3$ and enabling \texttt{flag\_unknown\_strategy}
+produces \textbf{3 candidates} at 150--240\,s, where per-bin confusion
+peaks at 0.55--0.70 (Figure~\ref{fig:timeline}).
+On Math RUB, Whisper \texttt{base} hallucinated a single repeated phrase
+under low audio SNR~\cite{whisper}, causing all bins to receive
+$q_k{=}\text{high}$ and leaving zero candidates; mitigation via a larger
+model is planned.
+Qwen2.5-VL fusion is fully implemented in
+\texttt{src/fusion/qwen\_multimodal.py} but awaits GPU access.
+Human annotation for Precision/Recall/F1 is planned as the next milestone.
+
+\begin{figure}[b]
+\centering
+\includegraphics[width=0.48\textwidth]{figures/confusion_timeline_au1.pdf}
+\caption{Per-bin confusion timeline for the AU1 clip (5\,min, $z{=}0.3$).
+The three bins at 150--240\,s exceed $\mu_C{+}0.3\sigma_C{=}0.52$ and are
+flagged as friction candidates (red).}
+\label{fig:timeline}
+\end{figure}
+
+\begin{table*}[t]
 \begin{center}
 \small
-\begin{tabular}{ p{4.2cm} p{3.8cm} c c c p{3.5cm} }
+\begin{tabular}{ p{4.0cm} p{3.6cm} c c c p{3.6cm} }
 \toprule
-\textbf{Setting} & \textbf{Clip / model} &
+\textbf{Setting} & \textbf{Clip} &
 \textbf{Bins} & \textbf{Cands.} &
 \textbf{Conf.\ $\mu\,(\sigma)$} & \textbf{Notes} \\
 \midrule
-Heuristic only, $z{=}1.0$ &
+Heuristic, $z{=}1.0$ &
   AU1 Ext.\ Angles, 3\,min & 7 & 0 & 0.37\,(0.07) &
-  No candidates; all bins $q_k{=}$high \\
-Heuristic only, $z{=}0.3$ + \texttt{flag\_unk} &
+  All bins $q_k{=}$high \\
+Heuristic, $z{=}0.3$ + \texttt{flag\_unk} &
   AU1 Ext.\ Angles, 5\,min & 11 & \textbf{3} & 0.48\,(0.14) &
-  150--180\,s, 180--210\,s, 210--240\,s \\
-Heuristic only, $z{=}0.3$ + \texttt{flag\_unk} &
-  TIMSS Math RUB, 5\,min & 11 & 0 & 0.63\,(0.10) &
+  Candidates at 150--240\,s \\
+Heuristic, $z{=}0.3$ + \texttt{flag\_unk} &
+  Math RUB, 5\,min & 11 & 0 & 0.63\,(0.10) &
   Whisper hallucination \\
-Heuristic\,+\,Qwen2.5-VL fusion &
-  AU1 (GPU, pending) & 11 & 3 & 0.48\,(0.14) & \textit{Pending GPU run} \\
-Human dual-label agreement &
-  AU1 full lesson & -- & TBD & -- & Planned \\
+Heuristic + Qwen2.5-VL &
+  AU1 (GPU) & 11 & -- & 0.48\,(0.14) & \textit{Pending} \\
 Precision / Recall / F1 &
-  -- & -- & TBD & -- & Requires human labels \\
+  AU1 full lesson & -- & -- & -- & Requires human labels \\
 \bottomrule
 \end{tabular}
 \end{center}
 \caption{Preliminary results on two TIMSS clips.
 ``Cands.''\ counts bins satisfying Eq.~\eqref{eq:filter}.
-Confusion $\mu\,(\sigma)$ is the per-session mean and population s.d.\
-of per-bin confusion scores.
-Precision/Recall/F1 are deferred until human-labelled friction timestamps
-are collected.}
+$\mu\,(\sigma)$ is the per-session mean (s.d.) of per-bin confusion scores.}
 \label{table:results}
 \end{table*}
-
-\section{Experimental Settings}
-
-\textbf{Data.}
-Two public TIMSS lessons from the TIMSS 1999 Video Study~\cite{timss1999video}:
-\emph{AU1 Exterior Angles} (geometry, Australian Grade~8) and
-\emph{TIMSS Math RUB} (Russian Grade~8, YouTube mirror).
-Transcript archives are bundled in the repo; video files are
-gitignored and added locally following TIMSSVIDEO terms~\cite{timssvideo}.
-
-\textbf{Software.}
-CPU path: Python~3.9, OpenCV, DeepFace (TF~2.x), faster-Whisper
-(CTranslate2), imageio-ffmpeg (\texttt{requirements-pipeline.txt}).
-Qwen path: Python~$\geq$3.10, HuggingFace \texttt{transformers},
-\texttt{qwen-vl-utils} (\texttt{requirements.txt}).
-Smoke tests ran on a MacBook Pro (CPU only).
-
-\textbf{Key hyperparameters.}
-Frame rate $r{=}2$\,Hz; smoothing window 30\,s;
-$z\!\in\!\{1.0, 0.3\}$ (ablated); grid $G{=}30$\,s.
-Whisper \texttt{base} model, int8, VAD enabled.
-Qwen: \texttt{Qwen2.5-VL-7B-Instruct}, \texttt{max\_new\_tokens=512},
-\texttt{device\_map=auto}.
-
-\begin{figure}[b]
-\centering
-\includegraphics[width=0.48\textwidth]{figures/confusion_timeline_au1.pdf}
-\caption{Per-bin confusion timeline for AU1 clip (5\,min, $z{=}0.3$).
-Three bins at 150--240\,s exceed $\mu_C + 0.3\,\sigma_C$ and are flagged
-as friction candidates.}
-\label{fig:timeline}
-\end{figure}
-
-\begin{figure*}[!t]
-\centering
-\includegraphics[width=0.96\textwidth,height=0.30\textheight,keepaspectratio]{figures/qualitative_friction.pdf}
-\caption{Qualitative friction report snippets.  Each panel is one flagged
-30-second window showing a representative frame, transcript excerpt,
-confusion score, strategy quality, and Qwen2.5-VL verdict
-(currently \textit{``fusion skipped''}; will be populated once Qwen runs on GPU).}
-\label{fig:qualitative}
-\end{figure*}
-
-\section{Analysis and Discussion}
-
-\subsection{Threshold calibration and the zero-candidate problem}
-
-Our initial configuration ($z{=}1.0$, explicit low-quality flag required)
-yielded zero candidates on both clips.  In the AU1 clip the teacher
-consistently uses question-based moves (\textit{``What did you learn?''},
-\textit{``Do you agree?''}) that fall outside our keyword vocabulary,
-causing all bins to receive $q_k{=}\text{high}$.  We addressed this by
-(1) lowering sensitivity to $z{=}0.3$ and (2) adding
-\texttt{flag\_unknown\_strategy=True}, which treats
-$q_k{=}\text{unknown}$ as potentially risky when heuristics lack coverage.
-With these settings, three candidates emerge at 150--240\,s where mean
-confusion peaks at 0.55--0.70 (Table~\ref{table:results},
-Figure~\ref{fig:timeline}).
-
-\subsection{Whisper hallucination on Math RUB}
-
-Whisper (\texttt{base}, CPU) produced a single repeated hallucinated
-phrase for the Math RUB clip, a known failure mode under low audio
-SNR~\cite{whisper}.  All bins consequently receive $q_k{=}\text{high}$,
-leaving zero candidates.  Mitigations include larger model sizes
-(\texttt{small}, \texttt{medium}), audio pre-processing, and explicit
-hallucination detection.
-
-\subsection{Fusion and compute}
-
-Qwen2.5-VL is fully implemented in
-\texttt{src/fusion/qwen\_multimodal.py} but has not yet been exercised on
-the candidate windows due to Python~3.9 and CPU constraints.
-GPU fusion is scheduled on the Rice computing cluster.
-
-\subsection{Limitations}
-
-Heuristic strategy tags are not substitutes for trained classifiers.
-DeepFace confusion proxies may misread culture- or disability-related
-cues.  Ground-truth friction labels are yet to be collected; precision and
-recall in Table~\ref{table:results} are pending.
 
 \section{Conclusion}
 
 We presented an end-to-end multimodal pedagogical friction detector,
-identified and resolved a zero-candidate bug via threshold calibration and
-an \texttt{flag\_unknown\_strategy} option, and produced preliminary
-candidate detections on the AU1 TIMSS clip.  Next steps: (1) run
-Qwen2.5-VL fusion on AU1 candidates; (2) expand heuristic vocabulary and
-integrate Edu-ConvoKit / Tutor CoPilot classifiers; (3) collect dual human
-annotations for ground truth; (4) compute Precision/Recall/F1 and populate
-Table~\ref{table:results}; (5) investigate Whisper hallucinations on
-non-English low-SNR clips.
-
-\section{Ethical and Societal Considerations}
-\label{sec:ethics}
-
-Classroom video may involve minors and private interactions.  We restrict
-all experiments to publicly released TIMSS public-use lessons and follow
-TIMSSVIDEO terms~\cite{timssvideo}.  Automated facial affect inference can
-misread identity-, culture-, or disability-correlated cues; our reports are
-advisory for teacher reflection, not high-stakes decisions.  We recommend
-human review of all flagged windows and transparent disclaimers in any
-deployed tool.  Future work should evaluate fairness across student
-demographics and non-Western classroom norms.
-
-\noindent
-{\bf Acknowledgments.}
-We used AI-assisted coding and writing tools for development and drafting;
-all technical decisions and claims remain our own responsibility.
-We thank Rice University course staff for the CVPR template, and the
-TIMSS Video and TalkMoves communities for public materials.
+resolved a zero-candidate bug via threshold calibration and
+\texttt{flag\_unknown\_strategy}, and produced 3 preliminary candidate
+detections on the AU1 TIMSS clip.
+Next steps: (1)~run Qwen2.5-VL on AU1 candidates on the Rice GPU cluster;
+(2)~integrate Edu-ConvoKit / Tutor CoPilot classifiers to replace heuristics;
+(3)~collect dual human annotations and compute Precision/Recall/F1.
+Automated facial affect inference may misread culture- or
+disability-related cues; all pipeline outputs are advisory and require
+human review.
 
 {\small
-\bibliographystyle{ieee}
+\bibliographystyle{ieeetr}
 \bibliography{egbib}
 }
 
