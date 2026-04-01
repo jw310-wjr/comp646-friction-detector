@@ -21,6 +21,10 @@ Account: **[jw310-wjr](https://github.com/jw310-wjr)**. After pushing, the repo 
 
 Default repo name: `comp646-friction-detector`
 
+## Progress report (CVPR-style template)
+
+Course two-column template: `docs/ProgressReport_cvprformat.tex` + `docs/egbib.bib`. Copy **`cvpr.sty`** and **`ieee.bst`** from your class author kit into `docs/`, then see `docs/CVPR_COMPILE.txt`.
+
 ## Data
 
 Public TIMSS transcripts from [timssvideo.com/resources](https://www.timssvideo.com/resources) are included under `data/timss/`. **Lesson `.mp4` files are gitignored**—add videos locally after clone.

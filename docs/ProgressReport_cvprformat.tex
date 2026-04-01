@@ -1,0 +1,158 @@
+% COMP 646 — Progress Report in course CVPR-style template.
+% Requires (from your COMP/CVPR author kit): cvpr.sty, ieee.bst
+% Copy them into this docs/ folder next to this .tex file, then:
+%   pdflatex ProgressReport_cvprformat
+%   bibtex ProgressReport_cvprformat
+%   pdflatex ProgressReport_cvprformat (x2)
+%
+% Figures: add PDFs to docs/figures/ or adjust paths below (export from PPT/Keynote for selectable text).
+
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+\usepackage{cvpr}
+\usepackage{times}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{booktabs}
+
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+\cvprfinalcopy
+
+\def\cvprPaperID{****}
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+\setcounter{page}{1}
+\begin{document}
+
+%%%%%%%%% TITLE
+\title{Multimodal Pedagogical Friction Detector}
+
+\author{Jingrui Wu\\
+Department of Computer Science, Rice University\\
+{\tt\small jw310@rice.edu}
+\and
+Keyuan Yan\\
+Department of Computer Science, Rice University\\
+{\tt\small ky65@rice.edu}
+}
+
+\maketitle
+
+%%%%%%%%% ABSTRACT
+\begin{abstract}
+We study automatic detection of \emph{pedagogical friction}: moments where a low-quality instructional strategy co-occurs with visible student confusion in classroom or tutoring video. Our system ingests synchronized video and audio, builds a confusion timeline from per-frame facial affect (DeepFace), transcribes speech with Whisper, and labels teacher dialogue with heuristics that stand in for Edu-ConvoKit and Tutor CoPilot classifiers. Vision and language streams align on a 30-second grid; a statistical pre-filter proposes candidate windows for optional multimodal reasoning with Qwen2.5-VL (substituting for GPT-4o in our design). The output is a post-session \emph{Teacher Friction Report} with timestamps, strategy context, and suggested moves. We released an open implementation~\footnote{\url{https://github.com/jw310-wjr/comp646-friction-detector}} and ran CPU smoke tests on public TIMSS-style lessons; full VLM fusion and human evaluation are ongoing.
+\end{abstract}
+
+%%%%%%%%% BODY TEXT
+\section{Introduction}
+
+Understanding teaching quality increasingly relies on both \emph{what teachers say} and \emph{how students respond}. Prior work improves tutoring using text-based feedback (Tutor CoPilot~\cite{tutorcopilot}) and supports educational dialogue analysis (Edu-ConvoKit~\cite{educonvokit}), but many deployments overlook multimodal classroom signals such as facial affect and board work. We build a pipeline that operationalizes \emph{pedagogical friction}---alignment of strategy quality proxies with confusion---in the spirit of accountable talk research summarized in TalkMoves-style systems~\cite{talkmovesaaai}. Figure~\ref{fig:leadfigure} illustrates the type of in-the-wild material we target (public TIMSS public-use lessons).
+
+\begin{figure}[t]
+\centering
+% Place your exported PDF here (same name as course template), or uncomment when ready:
+% \includegraphics[width=0.45\textwidth]{figures/leadclassroom.pdf}
+\fbox{\begin{minipage}[c][0.22\textheight]{0.45\textwidth}\centering
+\vfill
+\textit{Replace with \texttt{figures/leadclassroom.pdf}: representative classroom frame(s) from your TIMSS clip.}
+\vfill
+\end{minipage}}
+\caption{Illustrative classroom setting (add your own PDF export). We aim to surface intervals where instructional moves and visible student affect jointly suggest friction.}
+\label{fig:leadfigure}
+\end{figure}
+
+\section{Related Work}
+
+\textbf{Classroom discourse and feedback.} Transformer-based tools provide teachers feedback on talk moves~\cite{talkmovesaaai}. \textbf{Tutoring and chat.} Tutor CoPilot scales expert-like nudges from transcripts~\cite{tutorcopilot}. \textbf{Libraries.} Edu-ConvoKit lowers the barrier to analyzing educational conversation~\cite{educonvokit}. \textbf{Audio.} Whisper enables robust ASR for long-form speech~\cite{whisper}. \textbf{Vision--language models.} Qwen2.5-VL supports multimodal instruction following for our fusion stage~\cite{qwen25vl}. \textbf{Affect.} Off-the-shelf facial attribute stacks (e.g., DeepFace~\cite{deepface}) give a practical confusion proxy on CPU. We connect these threads into an end-to-end \emph{friction} detector rather than captioning or retrieval.
+
+\begin{figure*}[t]
+\centering
+% \includegraphics[width=0.9\textwidth]{figures/pipeline_overview.pdf}
+\fbox{\begin{minipage}[c][0.12\textheight]{0.9\textwidth}\centering
+\vfill
+\textit{Replace with \texttt{figures/pipeline\_overview.pdf}: video+audio $\rightarrow$ DeepFace timeline + Whisper + strategy tags $\rightarrow$ 30s grid + filter $\rightarrow$ Qwen2.5-VL $\rightarrow$ Teacher Friction Report.}
+\vfill
+\end{minipage}}
+\caption{System overview: parallel vision and language streams, temporal alignment, heuristic pre-filter, and optional VLM fusion.}
+\label{fig:model}
+\end{figure*}
+
+\begin{table*}
+\begin{center}
+\begin{tabular}{ l l c c c }
+\toprule
+\textbf{Setting} & \textbf{Data / model} & \textbf{Prec.} & \textbf{Rec.} & \textbf{F1} \\
+\midrule
+Heuristic candidates only & TIMSS clip (3 min CPU smoke) & -- & -- & -- \\
++ Qwen2.5-VL fusion & Same (planned GPU) & XX & XX & XX \\
+Human dual-label (planned) & Friction point agreement & XX & -- & XX \\
+\bottomrule
+\end{tabular}
+\end{center}
+\caption{Preliminary evaluation plan. \textbf{XX} marks metrics pending human labels and full fusion runs. Precision/recall are defined against agreed friction timestamps under our proposal.}
+\label{table:results}
+\end{table*}
+
+%-------------------------------------------------------------------------
+\section{Methodology}
+
+We sample video at configurable FPS (default 2 Hz), run DeepFace emotion analysis~\cite{deepface}, map emotions to a scalar confusion proxy, and smooth with a trailing 30-second mean. In parallel, faster-Whisper~\cite{whisper} transcribes audio. Utterance-level \emph{heuristic} rules flag low-quality or high-pressure teacher moves; these are placeholders for Edu-ConvoKit + Tutor CoPilot~\cite{educonvokit,tutorcopilot} checkpoints. We aggregate both modalities into 30-second bins, mark bins whose confusion exceeds $\mu + z\sigma$ \emph{and} that exhibit risky strategy summaries, and pass representative frames plus transcript excerpts to Qwen2.5-VL~\cite{qwen25vl} for JSON-formatted friction judgments and alternative strategies. Figure~\ref{fig:model} sketches the architecture; Table~\ref{table:results} lists planned metrics.
+
+\section{Experimental Settings}
+
+Implementation is in PyTorch-compatible tooling where applicable (DeepFace/TensorFlow; CTranslate2-backed Whisper). Public TIMSS lesson mirrors and transcripts~\cite{timssvideo} anchor qualitative demos. CPU testing uses \texttt{--max-duration-sec} to trim long lessons. Python~3.9 machines run the stack without HuggingFace transformers; Qwen fusion requires Python $\geq$3.10 and additional weights.
+
+\begin{figure}[b]
+\centering
+% \includegraphics[width=0.48\textwidth]{figures/training_or_runtime_curve.pdf}
+\fbox{\begin{minipage}[c][0.16\textheight]{0.48\textwidth}\centering\vfill
+\textit{Replace with runtime / ablation plot PDF (matplotlib PGF/PDF export).}
+\vfill\end{minipage}}
+\caption{Placeholder for quantitative curves (loss, latency, or confusion calibration). Export vector PDF from your tool so text remains selectable.}
+\label{fig:runtime}
+\end{figure}
+
+\begin{figure*}[th!]
+\centering
+% \includegraphics[width=\textwidth]{figures/qualitative_friction.pdf}
+\fbox{\begin{minipage}[c][0.18\textheight]{\textwidth}\centering\vfill
+\textit{Replace with \texttt{figures/qualitative\_friction.pdf}: 2--3 example windows showing key frames + transcript + model verdict + suggested move.}
+\vfill\end{minipage}}
+\caption{Qualitative friction report snippets (to be populated before final submission).}
+\label{fig:qualitative}
+\end{figure*}
+
+Representative runs write JSON and text summaries under a configurable work directory, alongside extracted frames for inspection. We will report agreement studies and error analysis in the final report; Figure~\ref{fig:runtime} and Figure~\ref{fig:qualitative} hold space for quantitative and qualitative panels following the presentation guidance in the course template.
+
+\section{Analysis and Discussion}
+
+\subsection{Engineering milestones}
+We completed frame extraction, affect scoring, ASR, temporal alignment, heuristic filtering, and reporting. Short clips may yield zero candidates when thresholds are conservative; we will document sensitivity to $z$ and sampling rate.
+
+\subsection{Fusion and compute}
+Qwen fusion is implemented but primarily validated under \texttt{--skip-fusion} on laptops with Python~3.9; GPU runs are scheduled for fusion ablations.
+
+\subsection{Ethical posture preview}
+Public TIMSS materials impose usage terms; affect inference can misread identity- or culture-dependent cues. Downstream use should keep teachers in the loop (see Sec.~\ref{sec:ethics}).
+
+\section{Conclusion}
+
+We presented a multimodal pedagogical friction detector with public code, TIMSS-aligned resources, and a CVPR-formatted progress report. Next steps fuse Qwen outputs at scale, replace heuristics with trained classifiers, and evaluate against dual human annotations.
+
+\section{Ethical and Societal Considerations}
+\label{sec:ethics}
+Classroom video may involve minors; we restrict experiments to publicly released lessons and follow distributor terms~\cite{timssvideo}. Automated affect can bias outcomes; reports are advisory, not high-stakes. We recommend human review, transparent thresholds, and future work on fairness across student populations.
+
+\noindent
+{\bf Acknowledgments.}
+We used AI-assisted coding and writing tools for drafting; we remain responsible for all claims. We thank course staff for the CVPR-style template and the TIMSS/TalkMoves communities for public materials.
+
+{\small
+\bibliographystyle{ieee}
+\bibliography{egbib}
+}
+
+\end{document}
