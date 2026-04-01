@@ -33,9 +33,9 @@
 %%%%%%%%% TITLE
 \title{Multimodal Pedagogical Friction Detector}
 
-\author{Jingrui Wu \quad Keyuan Yan\\
-Department of Computer Science, Rice University\\
-{\tt\small \{jw310, ky65\}@rice.edu}
+\author{Jingrui Wu\\Department of Computer Science, Rice University\\{\tt\small jw310@rice.edu}
+\and
+Keyuan Yan\\Department of Computer Science, Rice University\\{\tt\small ky65@rice.edu}
 }
 
 \maketitle
@@ -54,7 +54,7 @@ Flagged windows are optionally passed to Qwen2.5-VL for multimodal
 friction confirmation and alternative-strategy generation.  The output is a
 post-session \emph{Teacher Friction Report} with timestamps, strategy
 context, and suggested instructional moves.  We release an open codebase
-and evaluate on public TIMSS video lessons~\footnote{\url{https://github.com/jw310-wjr/comp646-friction-detector}}.
+and evaluate on public TIMSS video lessons.
 CPU smoke tests on the AU1 \emph{Exterior Angles} clip (first 5\,min)
 yield \textbf{3 friction candidates} after threshold calibration;
 Qwen2.5-VL fusion and human-label evaluation are ongoing.
@@ -81,7 +81,8 @@ as Qwen2.5-VL~\cite{qwen25vl} can synthesise both modalities and produce
 structured suggestions grounded in accountable-talk frameworks
 \cite{talkmovesaaai}.
 
-Our contributions are: a working end-to-end pipeline, a public repository,
+Our contributions are: a working end-to-end pipeline, a public
+repository\footnote{\url{https://github.com/jw310-wjr/comp646-friction-detector}},
 TIMSS-aligned transcript resources, and preliminary results on two public
 TIMSS lesson clips (Figure~\ref{fig:leadfigure}).
 
@@ -161,9 +162,9 @@ transcript excerpt, and returns JSON:
 An optional OCR module (Tesseract) can append board/slide text to the VLM
 context; not yet wired into the main pipeline.
 
-\begin{figure*}[t]
+\begin{figure*}[!t]
 \centering
-\includegraphics[width=0.92\textwidth]{figures/pipeline_overview.pdf}
+\includegraphics[width=0.90\textwidth]{figures/pipeline_overview.pdf}
 \caption{System overview.  Parallel vision and language streams are aligned
 on a 30-second temporal grid; a $z$-score pre-filter proposes candidate
 friction windows for optional multimodal reasoning.}
@@ -172,21 +173,22 @@ friction windows for optional multimodal reasoning.}
 
 \begin{table*}
 \begin{center}
-\begin{tabular}{ l l c c c c }
+\small
+\begin{tabular}{ p{4.2cm} p{3.8cm} c c c p{3.5cm} }
 \toprule
 \textbf{Setting} & \textbf{Clip / model} &
 \textbf{Bins} & \textbf{Cands.} &
 \textbf{Conf.\ $\mu\,(\sigma)$} & \textbf{Notes} \\
 \midrule
 Heuristic only, $z{=}1.0$ &
-  AU1 Exterior Angles, 3\,min & 7 & 0 & 0.37\,(0.07) &
-  No candidates; all bins $q_k{=}\text{high}$ \\
-Heuristic only, $z{=}0.3$ + \texttt{flag\_unknown} &
-  AU1 Exterior Angles, 5\,min & 11 & \textbf{3} & 0.48\,(0.14) &
-  Candidates at 150--180\,s, 180--210\,s, 210--240\,s \\
-Heuristic only, $z{=}0.3$ + \texttt{flag\_unknown} &
+  AU1 Ext.\ Angles, 3\,min & 7 & 0 & 0.37\,(0.07) &
+  No candidates; all bins $q_k{=}$high \\
+Heuristic only, $z{=}0.3$ + \texttt{flag\_unk} &
+  AU1 Ext.\ Angles, 5\,min & 11 & \textbf{3} & 0.48\,(0.14) &
+  150--180\,s, 180--210\,s, 210--240\,s \\
+Heuristic only, $z{=}0.3$ + \texttt{flag\_unk} &
   TIMSS Math RUB, 5\,min & 11 & 0 & 0.63\,(0.10) &
-  Whisper hallucination; audio SNR issue \\
+  Whisper hallucination \\
 Heuristic\,+\,Qwen2.5-VL fusion &
   AU1 (GPU, pending) & 11 & 3 & 0.48\,(0.14) & \textit{Pending GPU run} \\
 Human dual-label agreement &
@@ -236,9 +238,9 @@ as friction candidates.}
 \label{fig:timeline}
 \end{figure}
 
-\begin{figure*}[th!]
+\begin{figure*}[!t]
 \centering
-\includegraphics[width=\textwidth]{figures/qualitative_friction.pdf}
+\includegraphics[width=0.96\textwidth,height=0.30\textheight,keepaspectratio]{figures/qualitative_friction.pdf}
 \caption{Qualitative friction report snippets.  Each panel is one flagged
 30-second window showing a representative frame, transcript excerpt,
 confusion score, strategy quality, and Qwen2.5-VL verdict
