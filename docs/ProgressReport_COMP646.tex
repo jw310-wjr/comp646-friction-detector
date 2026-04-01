@@ -1,0 +1,100 @@
+% COMP 646 — Progress Report (structure aligned with course ProgressReport.pdf sample)
+% Compile with: pdflatex ProgressReport_COMP646.tex (Overleaf, MacTeX, etc.)
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{hyperref}
+
+\title{Multimodal Pedagogical Friction Detector: Progress Report}
+\author{Jingrui Wu \and Keyuan Yan\\
+Department of Computer Science, Rice University\\
+\texttt{jw310@rice.edu}, \texttt{ky65@rice.edu}}
+\date{Spring 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Effective teaching depends on noticing student confusion and adjusting instruction. We are building a system that detects \emph{pedagogical friction}: moments where a low-quality instructional strategy coincides with visible student confusion. The pipeline takes a classroom or tutoring recording (video + audio), constructs a confusion timeline from facial affect (DeepFace), a strategy timeline from automatically transcribed speech (Whisper) and dialogue-level heuristics standing in for Edu-ConvoKit and Tutor CoPilot classifiers, aligns both streams on a 30-second grid, and applies a heuristic pre-filter before optional multimodal fusion with Qwen2.5-VL (replacing GPT-4o in our proposal) to produce a post-session \emph{Teacher Friction Report}. We have implemented the end-to-end codebase, evaluated TIMSS-style public lessons locally, and run CPU smoke tests. Full VLM fusion and quantitative evaluation against human labels are in progress.
+\end{abstract}
+
+\section{Introduction}
+Pedagogical friction bridges \emph{what the teacher says} and \emph{how students appear to respond}. Prior work such as Tutor CoPilot improves tutor strategies using text~\cite{wang2025tutor}, and Edu-ConvoKit supports analysis of teacher discourse~\cite{wang2024edu}, but classroom video contains complementary evidence (facial affect, board work) that text-only tools miss. Our goal is to surface candidate friction intervals with timestamps, strategy context, and suggested higher-quality moves, grounded in accountable-talk style strategy taxonomies.
+
+\section{Related Work}
+\textbf{Classroom discourse and feedback.} Talk Moves and related frameworks motivate labeling instructional moves~\cite{suresh2021talkmoves}. \textbf{Tutor and dialogue modeling.} Tutor CoPilot and Edu-ConvoKit provide models and tooling we plan to integrate for production-quality strategy labels~\cite{wang2025tutor,wang2024edu}. \textbf{Multimodal reasoning.} Vision--language models such as Qwen2.5-VL support image--text reasoning~\cite{qwen25vl}; we use them for fusion instead of GPT-4o for cost and reproducibility. \textbf{Affect from video.} Off-the-shelf emotion models (e.g., via DeepFace) offer a practical confusion proxy on CPU.
+
+\section{Methodology}
+Figure~\ref{fig:pipeline} summarizes our pipeline (conceptually matching the proposal). \textbf{Vision stream:} frames sampled at configurable FPS (default 2.0; reduced for CPU smoke tests); DeepFace emotion $\rightarrow$ per-frame confusion proxy; trailing 30s mean $\rightarrow$ confusion timeline. \textbf{Language stream:} Whisper (faster-whisper) transcription; utterances annotated with a \emph{heuristic} layer for low-quality / high-pressure patterns, with hooks to replace by Edu-ConvoKit + Tutor CoPilot. \textbf{Alignment and filtering:} 30s bins; flag bins where confusion exceeds $\mu + z\sigma$ and strategy is low-quality or high-pressure. \textbf{Fusion (optional):} Qwen2.5-VL receives frame crops + transcript excerpt + timeline summaries and outputs JSON: friction (bool), rationale, alternative strategy. \textbf{Stretch (not yet integrated end-to-end):} OCR on board crops (Tesseract / vision OCR).
+
+\begin{figure}[ht]
+\centering
+\fbox{\parbox{0.9\linewidth}{\centering\vspace{2.5cm}
+\textit{[Insert pipeline figure: Video+Audio $\rightarrow$ DeepFace + Whisper $\rightarrow$ Heuristic strategies $\rightarrow$ Grid + filter $\rightarrow$ Qwen2.5-VL $\rightarrow$ Teacher Friction Report]}\\
+\vspace{2.5cm}}}
+\caption{Schematic of our system (replace this placeholder with a PowerPoint/Keynote export PDF for crisp, selectable text).}
+\label{fig:pipeline}
+\end{figure}
+
+\begin{table}[ht]
+\centering
+\small
+\begin{tabular}{lccc}
+\hline
+Setting & Precision & Recall & Notes \\
+\hline
+Heuristic candidates + fusion (full lesson) & XX & XX & Pending GPU run / labels \\
+Heuristic candidates only (--skip-fusion) & -- & -- & Smoke tests on TIMSS clips \\
+Human agreement (2 annotators) & XX & -- & Planned \\
+\hline
+\end{tabular}
+\caption{Preliminary experimental plan. \textbf{XX} denotes pending results; we will report point-level agreement and friction-point PR against dual-annotated bins.}
+\end{table}
+
+\section{Experimental Settings}
+\textbf{Data.} Public TIMSS Video lessons (YouTube mirrors) and transcript bundles from \texttt{timssvideo.com}; repository includes transcript archives; video files remain local (\texttt{.gitignore}). \textbf{Software.} Python 3.9 CPU path: \texttt{requirements-pipeline.txt} (OpenCV, DeepFace, TensorFlow, faster-whisper, imageio-ffmpeg); Qwen path requires Python $\geq$ 3.10 and \texttt{requirements.txt}. \textbf{Reproducibility.} Code: \url{https://github.com/jw310-wjr/comp646-friction-detector}. \textbf{Runtime.} Full 40+ minute lessons at 2 FPS imply thousands of DeepFace calls on CPU; we support \texttt{--max-duration-sec} for trimmed evaluation.
+
+\section{Analysis and Discussion}
+\subsection{Implementation status}
+We completed frame extraction, confusion aggregation, ASR, bin alignment, JSON/text reports, and GitHub distribution. Short clips sometimes yield zero heuristic candidates under conservative $z$ thresholds; tuning $z$, FPS, and heuristic coverage will be reported in the final write-up.
+
+\subsection{Fusion and compute}
+Qwen2.5-VL integration is implemented but was not exercised on the course laptop under Python 3.9; we will run fusion on a 3.10+ environment with GPU.
+
+\subsection{Limitations}
+Heuristic strategy tags are not yet interchangeable with published Edu-ConvoKit / Tutor CoPilot checkpoints. Friction labels for evaluation still need collection.
+
+\section{Conclusion}
+We implemented a working multimodal friction-detection prototype with public-facing code and TIMSS-aligned text resources. Next steps are VLM fusion at scale, classifier replacement, human annotation, and quantitative metrics from Section~3.
+
+\section{Ethical and Societal Considerations}
+Classroom video involves minors and privacy: we use only publicly released TIMSS public-use lessons and follow site terms. Automated affect inference can misread culture, disability, or camera angle; reports are meant for teacher reflection, not high-stakes judgment. Mitigations include human review, transparent heuristics, and clear disclaimers in the UI/report.
+
+\section*{Acknowledgments}
+We used GitHub Copilot / LLM assistants for coding and drafting help; all technical decisions and claims remain our responsibility. We thank the TIMSS Video and TalkMoves communities for public materials.
+
+\begin{thebibliography}{9}
+\bibitem{wang2025tutor}
+R.~E. Wang et al.
+Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise.
+\textit{arXiv preprint arXiv:2410.03017}, 2025.
+
+\bibitem{wang2024edu}
+R.~E. Wang and D.~Demszky.
+Edu-ConvoKit: An Open-Source Library for Education Conversation Data.
+\textit{NAACL (System Demonstrations)}, 2024.
+
+\bibitem{suresh2021talkmoves}
+A.~Suresh et al.
+Using transformers to provide teachers with personalized feedback on their classroom discourse: The TalkMoves Application.
+\textit{AAAI}, 2021.
+
+\bibitem{qwen2025}
+Qwen Team.
+Qwen2.5-VL Technical Report / Model Card.
+\url{https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct}, 2025.
+\end{thebibliography}
+
+\end{document}
