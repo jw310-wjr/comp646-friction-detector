@@ -8,7 +8,8 @@ runs/
 __MACOSX/
 
 # Large / local TIMSS assets (keep code + small transcripts; clone repo then add videos locally)
-data/timss/*.mp4
-data/timss/*.mov
-data/timss/*.mkv
-data/timss/timss-*/
+data/math/videos/
+data/science/videos/
+data/math/subtitles/
+data/science/subtitles/
+data/timss/
