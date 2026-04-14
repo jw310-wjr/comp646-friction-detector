@@ -64,6 +64,11 @@ class QwenVLFrictionFusion:
 
     @staticmethod
     def _instruction_text(w: FrictionWindow) -> str:
+        board_section = (
+            f"\nBoard / slide content (OCR):\n\"\"\"{w.board_text}\"\"\"\n"
+            if w.board_text.strip()
+            else ""
+        )
         return f"""You are an education researcher helping a teacher reflect on a tutoring/classroom clip.
 
 Time window: {w.t_start_sec:.1f}s – {w.t_end_sec:.1f}s
@@ -73,8 +78,7 @@ Confusion signal (from vision / timeline): {w.confusion_summary}
 Instructional strategy signal (from dialogue classifiers): {w.strategy_summary}
 
 Nearby transcript (excerpt):
-\"\"\"{w.transcript_excerpt}\"\"\"
-
+\"\"\"{w.transcript_excerpt}\"\"\"{board_section}
 Task:
 1) Decide whether this is a genuine "pedagogical friction" moment (low-quality or high-pressure strategy coinciding with clear student confusion). Answer yes/no briefly with one sentence of justification.
 2) If yes, suggest ONE alternative teacher move from high-quality strategies (e.g., ask a guiding question, prompt explanation, press for reasoning, revoice/build on student idea). Be specific to this excerpt.

@@ -26,3 +26,7 @@ class PipelineConfig:
     max_duration_sec: float | None = None
     # Treat bins with 'unknown' strategy quality as risky (recommended when using heuristics).
     flag_unknown_strategy: bool = True
+    # Stretch goal §4: OCR on board/slide crops.
+    # Requires pytesseract + system Tesseract binary.
+    enable_ocr: bool = False
+    ocr_board_crop_ratio: float = 0.65  # fraction of frame height kept from top

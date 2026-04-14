@@ -70,6 +70,7 @@ class FrictionWindow:
     strategy_summary: str
     transcript_excerpt: str
     frame_paths: list[str | Path]
+    board_text: str = ""  # OCR output from board/slide crop (stretch goal §4)
 
 
 @dataclass

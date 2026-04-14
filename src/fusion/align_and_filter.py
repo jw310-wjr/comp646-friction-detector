@@ -38,10 +38,15 @@ def _summarize_bin_utterances(
     qualities: list[Quality] = [u.strategy_quality for u in sel]
     low = any(q == "low" for q in qualities)
     high_pressure = any("Pressing for Accuracy" in u.talk_move for u in sel)
+
+    # A bin where every teacher turn is "No Move" (pure lecture, zero engagement
+    # moves) is treated as low-quality, regardless of annotator type.
+    all_no_move = all(u.talk_move == "No Move" for u in sel) and bool(sel)
+
     dom: Quality
-    if low:
+    if low or (all_no_move and not any(q == "high" for q in qualities)):
         dom = "low"
-    elif all(q == "high" for q in qualities):
+    elif any(q == "high" for q in qualities):
         dom = "high"
     else:
         dom = "unknown"
@@ -89,6 +94,42 @@ def build_alignment_bins(
     return bins
 
 
+def strategy_only_candidates(
+    bins: list[AlignmentBin],
+    frame_index: list[tuple[float, str]],
+    flag_unknown: bool = True,
+) -> list[FrictionCandidate]:
+    """
+    Select friction candidates based on dialogue strategy alone (no vision data).
+
+    Used in transcript-only mode where confusion scores are unavailable.
+    Flags every bin whose strategy is low-quality, high-pressure, or unknown
+    (when ``flag_unknown=True``).
+    """
+    cands: list[FrictionCandidate] = []
+    for b in bins:
+        risky = (
+            b.strategy.low_quality
+            or b.strategy.high_pressure
+            or b.strategy.dominant_quality == "low"  # all_no_move case (ELECTRA)
+            or (flag_unknown and b.strategy.dominant_quality == "unknown")
+        )
+        if not risky:
+            continue
+        fps = [p for t, p in frame_index if b.t_start <= t < b.t_end]
+        cands.append(
+            FrictionCandidate(
+                t_start=b.t_start,
+                t_end=b.t_end,
+                mean_confusion=0.0,
+                confusion_z=0.0,
+                strategy=b.strategy,
+                frame_paths=fps,
+            )
+        )
+    return cands
+
+
 def heuristic_candidates(
     bins: list[AlignmentBin],
     confusion_z: float,
@@ -116,6 +157,7 @@ def heuristic_candidates(
         risky = (
             b.strategy.low_quality
             or b.strategy.high_pressure
+            or b.strategy.dominant_quality == "low"  # all_no_move case (ELECTRA)
             or (flag_unknown and b.strategy.dominant_quality == "unknown")
         )
         if b.mean_confusion > mu + confusion_z * sigma and risky:

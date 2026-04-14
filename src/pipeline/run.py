@@ -6,7 +6,7 @@ from pathlib import Path
 
 from config import PipelineConfig
 from fusion import build_alignment_bins, heuristic_candidates
-from language import HeuristicStrategyAnnotator, transcribe_video
+from language import make_annotator, transcribe_video
 from report import save_report
 from schemas import FrictionWindow, FusionResult, TeacherFrictionReport
 from vision import (
@@ -16,6 +16,7 @@ from vision import (
     sliding_window_average,
 )
 from vision.clip_video import clip_video_head
+from vision.ocr_board import ocr_frames
 
 
 def run_pipeline(video_path: str | Path, cfg: PipelineConfig | None = None) -> TeacherFrictionReport:
@@ -44,7 +45,7 @@ def run_pipeline(video_path: str | Path, cfg: PipelineConfig | None = None) -> T
         device=cfg.whisper_device,
         compute_type=cfg.whisper_compute_type,
     )
-    annotator = HeuristicStrategyAnnotator()
+    annotator = make_annotator()
     utterances = annotator.annotate(segments)
 
     if duration <= 0:
@@ -91,6 +92,13 @@ def run_pipeline(video_path: str | Path, cfg: PipelineConfig | None = None) -> T
         )
         excerpt = strat.transcript_excerpt or "(no transcript overlap in bin)"
 
+        board_text = ""
+        if cfg.enable_ocr and paths:
+            try:
+                board_text = ocr_frames(paths, board_crop_ratio=cfg.ocr_board_crop_ratio)
+            except Exception:
+                pass  # OCR failure is non-fatal
+
         if qwen is None:
             fusion_results.append(
                 FusionResult(
@@ -111,6 +119,7 @@ def run_pipeline(video_path: str | Path, cfg: PipelineConfig | None = None) -> T
             strategy_summary=strategy_txt,
             transcript_excerpt=excerpt,
             frame_paths=paths,
+            board_text=board_text,
         )
         raw = qwen.analyze_window(window)
         fusion_results.append(

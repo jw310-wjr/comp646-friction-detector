@@ -15,9 +15,13 @@ tensorflow>=2.15.0
 # Language stream (Whisper — proposal; faster-whisper is faster on CPU)
 faster-whisper>=1.0.0
 
+# Language stream — Edu-ConvoKit: ELECTRA Talk Moves + uptake (proposal §2)
+edu-convokit>=0.4.0
+
 # Utilities
 tqdm>=4.66.0
 imageio-ffmpeg>=0.4.9
 
-# Stretch: board OCR (optional)
-# pytesseract>=0.3.10
+# Stretch goal §4: board OCR (optional, requires system Tesseract binary)
+# apt-get install tesseract-ocr  (Linux) / brew install tesseract (macOS)
+pytesseract>=0.3.10
