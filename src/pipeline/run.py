@@ -60,15 +60,19 @@ def run_pipeline(video_path: str | Path, cfg: PipelineConfig | None = None) -> T
     candidates = candidates[: cfg.max_fusion_windows]
 
     fusion_results: list[FusionResult] = []
-    qwen: QwenVLFrictionFusion | None = None
+    qwen = None
+    claude = None
 
     if not cfg.skip_fusion and candidates:
-        from fusion.qwen_multimodal import QwenVLFrictionFusion
-
-        qwen = QwenVLFrictionFusion(
-            model_id=cfg.qwen_model_id,
-            max_new_tokens=cfg.qwen_max_new_tokens,
-        )
+        if cfg.use_claude_fusion:
+            from fusion.claude_fusion import ClaudeFrictionFusion
+            claude = ClaudeFrictionFusion()
+        else:
+            from fusion.qwen_multimodal import QwenVLFrictionFusion
+            qwen = QwenVLFrictionFusion(
+                model_id=cfg.qwen_model_id,
+                max_new_tokens=cfg.qwen_max_new_tokens,
+            )
 
     for c in candidates:
         paths = c.frame_paths
@@ -99,7 +103,7 @@ def run_pipeline(video_path: str | Path, cfg: PipelineConfig | None = None) -> T
             except Exception:
                 pass  # OCR failure is non-fatal
 
-        if qwen is None:
+        if qwen is None and claude is None:
             fusion_results.append(
                 FusionResult(
                     t_start=c.t_start,
@@ -121,7 +125,10 @@ def run_pipeline(video_path: str | Path, cfg: PipelineConfig | None = None) -> T
             frame_paths=paths,
             board_text=board_text,
         )
-        raw = qwen.analyze_window(window)
+        if claude is not None:
+            raw = claude.analyze_window(window)
+        else:
+            raw = qwen.analyze_window(window)
         fusion_results.append(
             FusionResult(
                 t_start=c.t_start,

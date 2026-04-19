@@ -19,6 +19,7 @@ class PipelineConfig:
     qwen_max_new_tokens: int = 512
     work_dir: Path = field(default_factory=lambda: Path("./friction_work"))
     skip_fusion: bool = False
+    use_claude_fusion: bool = False  # use Claude API instead of Qwen2.5-VL
     max_fusion_windows: int = 20
     frames_per_candidate: int = 4
     deepface_enforce_detection: bool = False
