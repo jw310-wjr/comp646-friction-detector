@@ -1,8 +1,8 @@
 # Multimodal Pedagogical Friction Detector: Progress Report
 
-**Jingrui Wu · Keyuan Yan**  
+**Jingrui Wu**  
 Department of Computer Science, Rice University  
-jw310@rice.edu · ky65@rice.edu  
+jw310@rice.edu  
 
 **Spring 2026**
 
