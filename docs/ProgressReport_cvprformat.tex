@@ -90,9 +90,14 @@ aggregated to a scalar confusion proxy $c_t\!\in\![0,1]$:
   c_t = \sum_{e} w_e \cdot p_t(e),
   \label{eq:conf}
 \end{equation}
-where $w_e{=}0$ for neutral/happy, $w_e{=}0.85$--$0.9$ for fear/sad,
-and $w_e{=}0.45$--$0.5$ for disgust/angry.  A trailing 30-second mean
-yields the smoothed timeline $C(t)$.
+where the per-emotion weights are fixed at
+$w_{\text{fear}}{=}0.90$,
+$w_{\text{sad}}{=}0.85$,
+$w_{\text{disgust}}{=}0.50$,
+$w_{\text{angry}}{=}0.45$,
+$w_{\text{surprise}}{=}0.25$, and
+$w_{\text{neutral}}{=}w_{\text{happy}}{=}0$.
+A trailing 30-second mean yields the smoothed timeline $C(t)$.
 
 \textbf{Language stream.}
 Faster-Whisper~\cite{whisper} transcribes audio; for transcript-only runs,
@@ -276,8 +281,12 @@ patterns; discourse-move classifiers label structural properties; neither
 aligns well with human judgment without a reranking stage.
 
 \textbf{Limitations and future work.}
-Human annotation covers one lesson by one annotator; broader validation
-is needed.  The confusion proxy uses fixed weights not validated against
+We note that F1=1.00 is computed over a single positive sample (bin~11 of
+AU1), which gives a wide Wilson 95\% confidence interval
+$[0.21, 1.00]$; the result demonstrates end-to-end feasibility of the
+two-stage pipeline rather than statistical significance, and broader
+validation is needed.  Human annotation covers one lesson by one
+annotator.  The confusion proxy uses fixed weights not validated against
 ground-truth affect labels.  Future work should collect multi-annotator
 labels across diverse lesson types and integrate full-video fusion via
 GPU-based VLMs.

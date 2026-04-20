@@ -148,10 +148,10 @@ def make_risky_by_country() -> None:
     fig, ax = plt.subplots(figsize=(7.5, 3.4))
     ax.bar(x - width / 2, math_means, width, yerr=math_stds,
            label="Math", color="#4e9af1", alpha=0.88,
-           capsize=3, error_kw={"linewidth": 0.8})
+           capsize=5, error_kw={"linewidth": 1.4, "ecolor": "#222222"})
     ax.bar(x + width / 2, sci_means, width, yerr=sci_stds,
            label="Science", color="#f0a500", alpha=0.88,
-           capsize=3, error_kw={"linewidth": 0.8})
+           capsize=5, error_kw={"linewidth": 1.4, "ecolor": "#222222"})
 
     ax.set_xticks(x)
     ax.set_xticklabels([COUNTRY_LABELS.get(c, c) for c in countries], fontsize=8.5)
@@ -323,16 +323,126 @@ def make_lead_frame() -> None:
 
 
 def make_qualitative_panels() -> None:
-    try:
-        import cv2
-    except ImportError:
-        print("  [SKIP] qualitative panels — opencv not installed")
-        return
-    video = ROOT / "data/timss/TIMSS_AU1_Exterior_Angles_POLYGON.mp4"
-    if not video.exists():
-        print(f"  [SKIP] qualitative panels — video not found: {video.name}")
-        return
-    print("  [TODO] qualitative panels — implement once videos are available")
+    """Figure 2: three AU1 bins (confirmed / false-positive / disagreement).
+
+    Pure-matplotlib (no tabs, no Keynote) so every space is an ordinary
+    space and the PDF renders cleanly in CVPR double-column width.
+    """
+    out = FIGURES_DIR / "qualitative_examples.pdf"
+
+    panels = [
+        {
+            "title":     "Confirmed Friction",
+            "title_bg":  "#c0392b",
+            "timespan":  "5:00 - 5:30",
+            "excerpt":   ("[T] No matter what the size of\n"
+                          "the angles are, if you have a\n"
+                          "five pointed star inscribed in\n"
+                          "a circle it will be 180 degrees."),
+            "labels": [
+                ("Heuristic:",    "RISKY (low quality)",       "#c0392b"),
+                ("ELECTRA:",      "RISKY (No Move, low)",      "#c0392b"),
+                ("Human label:",  "FRICTION",                  "#c0392b"),
+            ],
+            "llm":       ("friction = True\n"
+                          "\"Teacher states the answer\n"
+                          "students should discover.\"\n"
+                          "Alt: ask students to share\n"
+                          "their measured result first."),
+            "llm_bg":    "#fdecea",
+        },
+        {
+            "title":     "Heuristic False Positive",
+            "title_bg":  "#b7791f",
+            "timespan":  "21:30 - 22:00",
+            "excerpt":   ("[T] Just make sure ... just make\n"
+                          "sure they join. Get rid of that\n"
+                          "one. Use the pointer tool, just\n"
+                          "to make the shape."),
+            "labels": [
+                ("Heuristic:",    "RISKY (high pressure)",     "#c0392b"),
+                ("ELECTRA:",      "RISKY (Pressing for Accuracy)", "#c0392b"),
+                ("Human label:",  "Not friction",              "#2e7d32"),
+            ],
+            "llm":       ("friction = False\n"
+                          "\"Pressure refers to software\n"
+                          "construction steps, not\n"
+                          "mathematical reasoning.\""),
+            "llm_bg":    "#fff7e0",
+        },
+        {
+            "title":     "Annotator Disagreement",
+            "title_bg":  "#1f618d",
+            "timespan":  "8:00 - 8:30",
+            "excerpt":   ("[T] Or they could be words that\n"
+                          "maybe you do know, but you think\n"
+                          "that is a pretty important word.\n"
+                          "Just do this with a brief discussion."),
+            "labels": [
+                ("Heuristic:",    "RISKY (unknown, no keyword)", "#c0392b"),
+                ("ELECTRA:",      "HIGH (Pressing for Reasoning)", "#2e7d32"),
+                ("Human label:",  "Not friction",              "#2e7d32"),
+            ],
+            "llm":       ("friction = False\n"
+                          "\"Teacher prompts collaborative\n"
+                          "vocabulary discussion, a\n"
+                          "high-quality instructional move.\""),
+            "llm_bg":    "#e8f1fa",
+        },
+    ]
+
+    fig, axes = plt.subplots(1, 3, figsize=(14.2, 5.4))
+    for ax, panel in zip(axes, panels):
+        ax.set_xlim(0, 1)
+        ax.set_ylim(0, 1)
+        ax.axis("off")
+
+        # Header strip
+        header = mpatches.FancyBboxPatch(
+            (0.02, 0.90), 0.96, 0.08,
+            boxstyle="round,pad=0.01",
+            linewidth=0, facecolor=panel["title_bg"], alpha=0.92,
+        )
+        ax.add_patch(header)
+        ax.text(0.5, 0.94, panel["title"], ha="center", va="center",
+                fontsize=11.5, color="white", fontweight="bold")
+        ax.text(0.5, 0.865, panel["timespan"], ha="center", va="top",
+                fontsize=10, color="#333333")
+
+        # Transcript box
+        ax.text(0.04, 0.82, "Transcript excerpt:", fontsize=9.5,
+                fontweight="bold", color="#222222")
+        ax.text(0.04, 0.78, panel["excerpt"], fontsize=9,
+                family="monospace", color="#222222",
+                va="top", linespacing=1.35)
+
+        # Label rows
+        y = 0.44
+        for name, value, color in panel["labels"]:
+            ax.text(0.04, y, name, fontsize=9.5, fontweight="bold",
+                    color="#222222", va="center")
+            ax.text(0.36, y, value, fontsize=9.5, color=color,
+                    fontweight="bold", va="center")
+            y -= 0.055
+
+        # LLM fusion box
+        llm_box = mpatches.FancyBboxPatch(
+            (0.03, 0.02), 0.94, 0.22,
+            boxstyle="round,pad=0.012",
+            linewidth=0.8, edgecolor="#999999",
+            facecolor=panel["llm_bg"], alpha=0.95,
+        )
+        ax.add_patch(llm_box)
+        ax.text(0.06, 0.205, "LLM fusion:", fontsize=9.5,
+                fontweight="bold", color="#222222", va="top")
+        ax.text(0.06, 0.175, panel["llm"], fontsize=8.5,
+                color="#222222", va="top", linespacing=1.35,
+                family="monospace")
+
+    fig.tight_layout(pad=0.8)
+    fig.savefig(str(out), bbox_inches="tight")
+    plt.close(fig)
+    print(f"  Saved {out.name}")
 
 
 # ──────────────────────────────────────────────
@@ -388,10 +498,10 @@ def make_electra_vs_heuristic() -> None:
     fig, ax = plt.subplots(figsize=(8, 3.8))
     ax.bar(x - width / 2, heur_means, width, yerr=heur_stds,
            label="Heuristic (flag_unknown=True)", color="#4e9af1", alpha=0.88,
-           capsize=3, error_kw={"linewidth": 0.8})
+           capsize=5, error_kw={"linewidth": 1.4, "ecolor": "#222222"})
     ax.bar(x + width / 2, elec_means, width, yerr=elec_stds,
            label="ELECTRA Talk Moves (YaHi)", color="#e74c3c", alpha=0.88,
-           capsize=3, error_kw={"linewidth": 0.8})
+           capsize=5, error_kw={"linewidth": 1.4, "ecolor": "#222222"})
 
     ax.set_xticks(x)
     ax.set_xticklabels([COUNTRY_LABELS.get(c, c) for c in countries], fontsize=8.5)
