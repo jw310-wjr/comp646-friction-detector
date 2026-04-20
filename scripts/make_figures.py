@@ -71,7 +71,7 @@ def make_pipeline_figure() -> None:
         (4.30, 2.55, 1.5, 0.60, "DeepFace\nEmotion",            "#f0a500"),
         (4.30, 1.50, 1.5, 0.60, "Heuristic\nStrategy Tagger",   "#f0a500"),
         (6.20, 2.05, 1.5, 1.20, "30s Grid\nAlignment\n+ z-filter", "#9b59b6"),
-        (8.15, 2.55, 1.5, 0.60, "Qwen2.5-VL\nFusion",          "#e74c3c"),
+        (8.15, 2.55, 1.5, 0.60, "Claude LLM\nFusion",           "#e74c3c"),
         (8.15, 1.50, 1.5, 0.60, "Teacher\nFriction Report",     "#27ae60"),
     ]
 
