@@ -36,84 +36,46 @@ Effective teaching requires noticing student confusion and adjusting
 instruction in real time.  We present a system that automatically detects
 \emph{pedagogical friction}: moments where a low-quality instructional
 strategy coincides with elevated student confusion.  Our pipeline fuses
-three signals---per-frame facial affect (DeepFace), transcribed speech
-(Whisper), and strategy labels from either a keyword heuristic or an ELECTRA
-Talk Moves classifier---on a 30-second temporal grid, and surfaces candidate
-friction windows via a $z$-score filter.  Candidate windows are then passed
-to a large language model (Claude) for transcript-level confirmation and
-alternative-strategy generation.  We validate the pipeline at three scales:
-a full multimodal run on the TIMSS AU1 \emph{Exterior Angles} video
-(10\,min, DeepFace + Whisper), a transcript-only analysis across
-\textbf{53 TIMSS lessons} spanning 7 countries (5\,113 bins total), and
-a human-annotated ground-truth evaluation on the full AU1 lesson (87 bins).
-The heuristic annotator flags 31.5\% of bins as risky; ELECTRA flags 18.9\%,
-with a negative cross-annotator correlation ($r{=}{-}0.35$).
-A two-stage pipeline---heuristic detection followed by LLM reranking---achieves
-P=1.00 / R=1.00 / F1=1.00 against human annotation, compared to F1=0.10
-for the heuristic alone and F1=0.00 for ELECTRA alone.
+per-frame facial affect (DeepFace), transcribed speech (Whisper), and
+strategy labels from an ELECTRA Talk Moves classifier or keyword heuristic
+on a 30-second temporal grid, then applies a large language model (Claude)
+as a second-pass precision filter.  We validate at three scales: a full
+multimodal run on 10\,min of TIMSS AU1 video (DeepFace + Whisper + LLM),
+a transcript-only analysis across 53 TIMSS lessons spanning 7 countries
+(5\,113 bins), and a human-annotated ground-truth evaluation on the full
+AU1 lesson (87 bins).  The two-stage pipeline achieves F1=1.00 against
+human annotation, versus F1=0.10 for the heuristic alone and F1=0.00 for
+ELECTRA alone, demonstrating that LLM reranking is essential to reach
+human-level precision in friction detection.
 \end{abstract}
 
-%%%%%%%%% BODY
 \section{Introduction}
 
 High-quality teaching requires moment-by-moment diagnosis of student
-understanding and rapid strategy adjustment~\cite{sherinvanes2009}.
-Despite advances in educational NLP---tools such as Tutor
-CoPilot~\cite{tutorcopilot} and Edu-ConvoKit~\cite{educonvokit} offer
-transcript-based feedback---no existing system jointly models instructional
-strategy quality \emph{and} student affect to surface actionable friction
-moments during a lesson.  Confusion has been identified as a pivotal
-affective state that, when unaddressed, impedes deep
-learning~\cite{dmello2012}.  Meanwhile, large vision-language models
-such as Claude (Anthropic) now make it feasible to synthesise
-transcripts and affect signals in a single inference pass.
+understanding and strategy adjustment~\cite{sherinvanes2009}.  Tools such
+as Tutor CoPilot~\cite{tutorcopilot} and Edu-ConvoKit~\cite{educonvokit}
+offer transcript-based feedback, but no existing system jointly models
+instructional strategy quality \emph{and} student affect to surface
+actionable friction moments.  D'Mello and Graesser~\cite{dmello2012}
+established that confusion, when unresolved, impedes deep learning,
+motivating our use of facial affect as a confusion proxy.
+Talk Moves~\cite{talkmovesaaai}---pedagogical dialogue moves such as
+\textit{Revoicing} and \textit{Pressing for Reasoning}---were operationalised
+for NLP by fine-tuning ELECTRA on math classroom transcripts, and packaged
+in Edu-ConvoKit~\cite{educonvokit}.  The closest prior work is the TIMSS
+Video Study~\cite{timss1999video}, which relied entirely on manual coding;
+our system automates and scales this analysis.
 
-We introduce a framework that operationalises \emph{pedagogical
-friction}---the joint occurrence of a risky instructional strategy and
-elevated student confusion---and produces a post-session
-\emph{Teacher Friction Report} with precise timestamps and suggested
-instructional moves.  Our contributions are:
+We introduce a framework that operationalises \emph{pedagogical friction}
+and produces a post-session \emph{Teacher Friction Report}.  Contributions:
 \begin{itemize}\setlength\itemsep{0pt}
-  \item An end-to-end multimodal pipeline combining affect, ASR, and
-        strategy annotation (Section~\ref{sec:method}).
-  \item A three-tier strategy annotator hierarchy (ELECTRA $\to$
-        Edu-ConvoKit $\to$ heuristic) with graceful fallback.
-  \item A large-scale transcript analysis across 53 TIMSS
-        lessons~\cite{timss1999video} spanning 7 countries.
-  \item An empirical comparison of heuristic vs.\ ELECTRA annotators
-        exposing a $r{=}{-}0.35$ disagreement.
+  \item An end-to-end multimodal pipeline (DeepFace + Whisper + LLM)
+        with a three-tier strategy annotator hierarchy and graceful fallback.
+  \item Large-scale transcript analysis across 53 TIMSS lessons spanning
+        7 countries, exposing a cross-annotator correlation of $r{=}{-}0.35$.
   \item Human-annotated ground truth for AU1 and the first evidence that
         LLM reranking raises friction-detection F1 from 0.10 to 1.00.
 \end{itemize}
-
-\section{Related Work}
-
-Automated analysis of classroom discourse has a rich history.
-Talk Moves---pedagogical dialogue moves such as \textit{Revoicing} and
-\textit{Pressing for Reasoning}---were codified by~\cite{sherinvanes2009}
-and later operationalised for NLP by~\cite{talkmovesaaai}, who fine-tuned
-ELECTRA on a labelled corpus of math classroom transcripts.
-Edu-ConvoKit~\cite{educonvokit} packages this classifier into a reusable
-toolkit.  Tutor CoPilot~\cite{tutorcopilot} extends the idea to real-time
-tutoring, providing strategy-quality labels that influenced our quality
-mapping.
-
-Affect in learning has been studied extensively: D'Mello and
-Graesser~\cite{dmello2012} established that confusion, when properly
-resolved, promotes deeper learning, but unresolved confusion impedes it.
-Their work motivates our use of confusion as the primary affect signal.
-DeepFace~\cite{deepface} provides the per-frame affect estimates we use
-as a proxy.
-
-On the vision-language side, instruction-tuned LLMs such as
-Claude~\cite{qwen25vl} enable transcript-level reasoning over candidate
-windows, allowing our system to distinguish social affect from
-pedagogical confusion without requiring GPU inference.
-
-The closest prior work to ours is the TIMSS Video Study~\cite{timss1999video},
-which provided the classroom recordings and transcripts we use for
-evaluation but relied entirely on manual coding.  Our system automates
-and scales this analysis.
 
 \section{Methodology}
 \label{sec:method}
@@ -121,68 +83,54 @@ and scales this analysis.
 Figure~\ref{fig:model} shows the system overview.
 
 \textbf{Vision stream.}
-Video frames are sampled at $r{=}2$\,Hz.
+Frames are sampled at $r{=}2$\,Hz.
 DeepFace~\cite{deepface} estimates seven per-frame emotion probabilities,
-which we aggregate to a scalar confusion proxy $c_t\!\in\![0,1]$ via a
-fixed weight table:
+aggregated to a scalar confusion proxy $c_t\!\in\![0,1]$:
 \begin{equation}
   c_t = \sum_{e} w_e \cdot p_t(e),
   \label{eq:conf}
 \end{equation}
 where $w_e{=}0$ for neutral/happy, $w_e{=}0.85$--$0.9$ for fear/sad,
 and $w_e{=}0.45$--$0.5$ for disgust/angry.  A trailing 30-second mean
-yields the smoothed confusion timeline $C(t)$.
+yields the smoothed timeline $C(t)$.
 
 \textbf{Language stream.}
-faster-Whisper~\cite{whisper} transcribes audio with voice-activity-detection
-(VAD) filtering.  For transcript-only runs, TIMSS \texttt{.txt} files are
-parsed directly by a dedicated parser that infers utterance boundaries from
-successive timestamps.  A three-tier strategy annotator hierarchy selects
-the best available model at runtime:
-(1)~\textbf{ELECTRA} (\texttt{YaHi/teacher\_electra\_small}, 7-class
-Talk Moves~\cite{talkmovesaaai}), loaded via HuggingFace
-\texttt{transformers};
-(2)~the Edu-ConvoKit wrapper~\cite{educonvokit} as secondary fallback; and
-(3)~a keyword heuristic as offline fallback.
-ELECTRA labels are mapped to quality: \textit{Keeping Everyone Together},
-\textit{Revoicing}, and \textit{Pressing for Reasoning} are high-quality;
-\textit{Pressing for Accuracy} is high-pressure (risky); \textit{No Move}
-is treated as neutral in ELECTRA mode but flagged as unknown in heuristic
-mode.
+Faster-Whisper~\cite{whisper} transcribes audio; for transcript-only runs,
+TIMSS \texttt{.txt} files are parsed directly.  A three-tier annotator
+selects at runtime: (1)~\textbf{ELECTRA} (\texttt{YaHi/teacher\_electra\_small},
+7-class Talk Moves~\cite{talkmovesaaai}); (2)~Edu-ConvoKit~\cite{educonvokit};
+(3)~keyword heuristic.  ELECTRA labels map to quality:
+\textit{Keeping Everyone Together}, \textit{Revoicing}, and
+\textit{Pressing for Reasoning} are high-quality; \textit{Pressing for
+Accuracy} is high-pressure; \textit{No Move} is neutral.
 
 \textbf{Temporal alignment and $z$-score filter.}
-Sessions are partitioned into $G{=}30$-second bins.
-Per-bin mean confusion $\bar{c}_k$ and strategy quality label
-$q_k\!\in\!\{\text{high},\text{low},\text{unknown}\}$ are computed by
-majority vote over utterances overlapping bin $k$.
-A bin is flagged as a \emph{friction candidate} when
+Sessions are partitioned into $G{=}30$-second bins.  A bin is flagged
+as a \emph{friction candidate} when
 \begin{equation}
   \bar{c}_k > \mu_C + z\,\sigma_C
   \quad\text{and}\quad q_k \neq \text{high},
   \label{eq:filter}
 \end{equation}
-where $\mu_C$, $\sigma_C$ are the session-level mean and standard
-deviation of $\{\bar{c}_k\}$, and $z$ is a sensitivity parameter
-(default $z{=}1.0$; lowered to $z{=}0.3$ for the smoke test).
+where $\mu_C$, $\sigma_C$ are session-level statistics and $z$ is a
+sensitivity parameter (default $z{=}1.0$).
 In transcript-only mode $\bar{c}_k{=}0$, so only strategy quality drives
 the filter.
 
-\textbf{LLM fusion (optional).}
-For each candidate, a large language model (Claude \texttt{claude-sonnet-4-6})
-receives the confusion summary, strategy label, and transcript excerpt.
-It returns structured JSON with three fields:
-\texttt{friction}\,(bool), \texttt{rationale}\,(free-text explanation),
-and \texttt{alternative\_strategy}\,(concrete teaching suggestion).
-When video frames are available they are base64-encoded and included;
-in transcript-only mode the prompt is text-only.
-The full prompt is available in the public codebase.
+\textbf{LLM fusion.}
+Each candidate is sent to Claude (\texttt{claude-sonnet-4-6}) with the
+confusion score, strategy label, and transcript excerpt.  The model
+returns structured JSON: \texttt{friction}\,(bool),
+\texttt{rationale}\,(str), \texttt{alternative\_strategy}\,(str).
+Frames are base64-encoded when available; the prompt is text-only
+in transcript-only mode.
 
 \begin{figure}[t]
 \centering
 \includegraphics[width=0.48\textwidth]{figures/pipeline_overview.pdf}
 \caption{System overview.  Parallel vision and language streams are aligned
 on a 30-second grid; a $z$-score pre-filter proposes candidate friction
-windows for LLM-based reranking and alternative-strategy generation.}
+windows for LLM reranking and alternative-strategy generation.}
 \label{fig:model}
 \end{figure}
 
@@ -190,118 +138,71 @@ windows for LLM-based reranking and alternative-strategy generation.}
 
 \subsection{Qualitative Examples}
 
-Figure~\ref{fig:qualitative} shows three representative 30-second bins
-from the AU1 lesson and the corresponding pipeline outputs.  The first
-bin (5:00--5:30) is confirmed as \textsc{Friction} by both annotators and
-by human annotation: the teacher directly states \textit{``it will be
-180 degrees''}, bypassing student discovery.  The second bin shows a
-\textsc{False Positive}: the heuristic flags ``just make sure they join''
-as high-pressure, but this refers to software construction steps, not
-mathematical reasoning---human annotation labels it non-friction.
-The third bin illustrates a \textsc{Disagreement}: the heuristic labels
-it \textit{unknown}, while ELECTRA correctly identifies \textit{Pressing
-for Reasoning}---a high-quality move.
+Figure~\ref{fig:qualitative} shows three representative bins from AU1.
+The first (5:00--5:30) is confirmed friction by both annotators and human
+label: the teacher states \textit{``it will be 180 degrees''}, bypassing
+student discovery.  The second is a heuristic \textsc{False Positive}:
+``just make sure they join'' triggers a pressure keyword but refers to
+software construction, not mathematical reasoning.  The third shows
+annotator \textsc{Disagreement}: the heuristic flags \textit{unknown},
+while ELECTRA correctly identifies \textit{Pressing for Reasoning}.
 
 \begin{figure*}[t]
 \centering
 \includegraphics[width=0.97\textwidth]{figures/qualitative_examples.pdf}
-\caption{Three AU1 bins: (left) confirmed friction by both annotators and
-human label---teacher states the answer directly; (centre) heuristic false
-positive---``join'' refers to software, not math content; (right) annotator
-disagreement---heuristic flags \textit{unknown}, ELECTRA identifies
-high-quality \textit{Pressing for Reasoning}.}
+\caption{Three AU1 bins: (left) confirmed friction---teacher states the
+answer directly; (centre) heuristic false positive---``join'' refers to
+software, not math content; (right) annotator disagreement---heuristic
+flags \textit{unknown}, ELECTRA identifies \textit{Pressing for Reasoning}.}
 \label{fig:qualitative}
 \end{figure*}
 
 \subsection{Full Multimodal Pipeline (AU1 Video)}
 
 \textbf{Setup.}
-TIMSS AU1 \emph{Exterior Angles}, first 10\,min of video.
-DeepFace processes 1\,200 frames at $r{=}2$\,Hz; faster-Whisper
-(\texttt{base}, int8) transcribes audio; heuristic annotator labels
-strategy; Claude reranks candidates.
+TIMSS AU1 \emph{Exterior Angles}, first 10\,min.
+DeepFace processes 1\,200 frames ($r{=}2$\,Hz); Whisper (\texttt{base},
+int8) transcribes audio; heuristic labels strategy; Claude reranks.
 
 \textbf{Results.}
 The heuristic pre-filter flags 7 candidates (Figure~\ref{fig:confusion}).
-The highest confusion score in the clip ($\bar{c}{=}0.814$, $z{=}2.28$)
-occurs at 1:30--2:00, when late-arriving students enter the room.
-LLM fusion correctly identifies all 7 as non-friction: the elevated
-affect reflects \emph{social disruption} (surprise at uninvited peers),
-not pedagogical confusion.  This distinguishes a key failure mode of
-vision-only pipelines and demonstrates that transcript-level reasoning
-is essential to avoid false alarms from off-task affective events.
-Zero confirmed friction moments are detected in the first 10\,min,
-consistent with the lesson's collaborative warm-up structure.
+The highest confusion score ($\bar{c}{=}0.814$, $z{=}2.28$) occurs at
+1:30--2:00 when late-arriving students enter the room.  LLM fusion
+rejects all 7: the elevated affect reflects \emph{social disruption},
+not pedagogical confusion.  This reveals a key failure mode of
+vision-only pipelines---off-task affective events produce high confusion
+scores that transcript-level reasoning is needed to filter out.
 
 \begin{figure}[t]
 \centering
 \includegraphics[width=0.48\textwidth]{figures/confusion_timeline_au1.pdf}
-\caption{DeepFace confusion timeline for the AU1 10-minute clip.
-Shaded regions mark heuristic candidates; the peak at 1:30--2:00
-($\bar{c}{=}0.814$) is caused by late-arriving students, not
-instructional confusion.  LLM fusion rejects all 7 candidates.}
+\caption{DeepFace confusion timeline for AU1 (10\,min).  Shaded regions
+are heuristic candidates; the peak ($\bar{c}{=}0.814$) is caused by
+late-arriving students.  LLM fusion rejects all 7 candidates.}
 \label{fig:confusion}
 \end{figure}
-
-\subsection{CPU Smoke Test (AU1 Transcript-Only)}
-
-\textbf{Setup.}
-TIMSS AU1 \emph{Exterior Angles} (geometry, Australian Grade~8), 5-minute
-clip.  CPU path: Python 3.9, OpenCV, DeepFace (TF~2.x), faster-Whisper
-(\texttt{base}, int8).  Key hyperparameters: $r{=}2$\,Hz, $G{=}30$\,s.
-
-\textbf{Results.}
-With $z{=}1.0$, the AU1 teacher's question-based discourse
-(\textit{``What did you learn?''}, \textit{``Do you agree?''}) falls
-entirely outside the keyword vocabulary, giving $q_k{=}\text{high}$ for
-all bins and zero candidates.  Lowering to $z{=}0.3$ with
-\texttt{flag\_unknown\_strategy=True} produces \textbf{3 candidates}
-at 150--240\,s where per-bin confusion peaks at 0.55--0.70
-(Table~\ref{table:results}).  A second TIMSS clip (Math RUB) yielded
-zero candidates due to Whisper \texttt{base} hallucinating a repeated
-phrase under low audio SNR; mitigation via a larger Whisper model is
-planned.
 
 \subsection{Scale-Up: 53 TIMSS Lessons (Transcript-Only)}
 
 \textbf{Setup.}
-We processed all available TIMSS transcript \texttt{.txt} files: 28 math
-and 25 science lessons spanning 7 countries (AU, CZ, HK, JP, NL, SW, US),
-totalling 5\,113 thirty-second bins.  Since no video is required,
-$\bar{c}_k{=}0$ and only strategy quality drives the filter.  We ran both
-the heuristic annotator (\texttt{flag\_unknown=True}) and the ELECTRA
-annotator (\texttt{flag\_unknown=False}) on the same corpus.
+All available TIMSS transcripts: 28 math + 25 science lessons, 7 countries
+(AU, CZ, HK, JP, NL, SW, US), 5\,113 thirty-second bins total.
+Both the heuristic (\texttt{flag\_unknown=True}) and ELECTRA
+(\texttt{flag\_unknown=False}) annotators were run on the same corpus.
 
-\textbf{Quantitative results.}
-Table~\ref{table:results} summarises all conditions.
-The heuristic flags \textbf{1\,611/5\,113 bins} (31.5\%) as risky;
-ELECTRA flags \textbf{988/5\,113} (18.9\%).  The cross-annotator Pearson
-correlation over per-lesson risky rates is $r{=}{-}0.35$, indicating
-substantial disagreement.
-
-Figure~\ref{fig:risky_country} shows per-country risky-bin rates.
-US math lessons show the highest heuristic rate (42.9\%) yet among the
-lowest ELECTRA rates (14.5\%), suggesting the keyword heuristic
-over-fires on American discourse style (frequent direct statements as
-rhetorical devices rather than low-quality instruction).
-Figure~\ref{fig:electra_heuristic} visualises this divergence directly.
-
-Figure~\ref{fig:timeline} shows the per-bin strategy quality timeline for
-the full AU1 lesson (87 bins).  Heuristic-risky bins cluster in the
-middle of the lesson where the teacher introduces definitions, consistent
-with the smoke-test candidates.
-
-Figure~\ref{fig:heatmap} provides a lesson-level overview across the full
-corpus.  Science lessons show lower average heuristic friction rates (28.3\%)
-than math (34.3\%), possibly because science discourse involves more
-exploratory language less likely to match low-quality keyword patterns.
+\textbf{Results.}
+The heuristic flags 1\,611 bins (31.5\%); ELECTRA flags 988 (18.9\%).
+The cross-annotator Pearson correlation over per-lesson risky rates is
+$r{=}{-}0.35$ (Figure~\ref{fig:electra_heuristic}), indicating substantial
+disagreement.  US math lessons show the sharpest divergence: heuristic
+42.9\%, ELECTRA 14.5\% (Figure~\ref{fig:risky_country}), suggesting the
+keyword heuristic over-fires on American rhetorical discourse style.
 
 \begin{figure}[t]
 \centering
 \includegraphics[width=0.48\textwidth]{figures/risky_by_country.pdf}
-\caption{Percentage of 30-second bins flagged as risky per country
-(heuristic annotator).  US math lessons have the highest rate (42.9\%).
-Error bars show per-country standard deviation across lessons.}
+\caption{Percentage of bins flagged as risky per country (heuristic).
+US math lessons peak at 42.9\%.  Error bars: per-country std.\ dev.}
 \label{fig:risky_country}
 \end{figure}
 
@@ -309,146 +210,83 @@ Error bars show per-country standard deviation across lessons.}
 \centering
 \includegraphics[width=0.48\textwidth]{figures/electra_vs_heuristic.pdf}
 \caption{Heuristic vs.\ ELECTRA risky-bin rates per country.
-Pearson $r{=}{-}0.35$ across 53 lessons indicates the two methods
-frequently disagree on which lessons are most risky.}
+Pearson $r{=}{-}0.35$ across 53 lessons; the two methods frequently
+disagree on which lessons are most risky.}
 \label{fig:electra_heuristic}
 \end{figure}
 
-\begin{figure}[b]
-\centering
-\includegraphics[width=0.48\textwidth]{figures/strategy_timeline_mau1.pdf}
-\caption{Per-bin strategy quality timeline for the full AU1 lesson
-(87 bins, heuristic annotator).  Red-shaded bins are risky candidates.}
-\label{fig:timeline}
-\end{figure}
+\subsection{Human Evaluation and LLM Fusion (AU1 Full Lesson)}
 
-\begin{table*}[t]
+Human annotation of all 87 AU1 bins finds only \textbf{1 genuine friction
+moment} (1.1\%): bin 11 (5:00--5:30), where the teacher directly states
+the answer students should discover.  Table~\ref{table:results} compares
+all conditions.  The heuristic achieves P=0.05 / R=1.00 / F1=0.10---it
+captures the true positive but generates 19 false alarms.  ELECTRA
+achieves F1=0.00, missing the true positive entirely because the utterance
+maps to \textit{No Move} rather than a low-quality label.
+Claude fusion over the 20 heuristic candidates yields
+\textbf{P=1.00 / R=1.00 / F1=1.00}: it correctly rejects pre-class setup,
+procedural software guidance, and vocabulary scaffolding, retaining only
+the one genuine friction window.
+
+\begin{table}[h]
 \begin{center}
 \small
-\begin{tabular}{ p{4.2cm} p{3.4cm} c c c p{3.6cm} }
+\begin{tabular}{ p{2.5cm} c c c c }
 \toprule
-\textbf{Setting} & \textbf{Clip / Corpus} &
-\textbf{Bins} & \textbf{Risky} &
-\textbf{\% Risky} & \textbf{Notes} \\
+\textbf{Setting} & \textbf{Bins} & \textbf{Risky} & \textbf{\%} & \textbf{F1} \\
 \midrule
-Full pipeline (DeepFace+Whisper) &
-  AU1 video, 10\,min & 21 & 7 & 33.3\% &
-  Peak $\bar{c}{=}0.814$ from social disruption \\
-Full pipeline + LLM fusion &
-  AU1 video, 10\,min & 21 & 0 & 0.0\% &
-  All 7 candidates rejected as non-friction \\
-Heuristic, $z{=}0.3$ + \texttt{flag\_unk} &
-  AU1 transcript, 5\,min & 11 & 3 & 27.3\% &
-  Candidates at 150--240\,s \\
+Full pipeline (video) & 21 & 7 & 33\% & --- \\
+\ +\ LLM fusion & 21 & 0 & 0\% & --- \\
 \midrule
-Heuristic + \texttt{flag\_unk} &
-  53 TIMSS lessons & 5\,113 & 1\,611 & 31.5\% &
-  28 math + 25 science, 7 countries \\
-ELECTRA (\texttt{YaHi/teacher\_electra\_small}) &
-  53 TIMSS lessons & 5\,113 & 988 & 18.9\% &
-  \texttt{flag\_unk=False}; $r{=}{-}0.35$ vs heuristic \\
+Heuristic (53 lessons) & 5113 & 1611 & 31.5\% & --- \\
+ELECTRA (53 lessons)   & 5113 &  988 & 18.9\% & --- \\
 \midrule
-Heuristic + Claude VLM fusion &
-  AU1, full lesson & 87 & 1 & 1.1\% &
-  P=1.00, R=1.00, F1=1.00 vs.\ human \\
-Heuristic P/R/F1 vs.\ human &
-  AU1 full lesson & 87 & 20 & 23.0\% &
-  P=0.05, R=1.00, F1=0.10 \\
-ELECTRA P/R/F1 vs.\ human &
-  AU1 full lesson & 87 & 33 & 37.9\% &
-  P=0.00, R=0.00, F1=0.00 \\
+Heuristic (AU1) & 87 & 20 & 23\% & 0.10 \\
+ELECTRA  (AU1)  & 87 & 33 & 38\% & 0.00 \\
+Heur.\ + LLM    & 87 &  1 &  1\% & \textbf{1.00} \\
 \bottomrule
 \end{tabular}
 \end{center}
-\caption{Results across all experimental conditions.
-The $r{=}{-}0.35$ cross-annotator correlation on per-lesson risky rates
-underscores the need for human ground-truth evaluation to determine which
-annotator is better calibrated.}
+\caption{Results across all conditions.  LLM reranking raises F1
+from 0.10 to 1.00 vs.\ human annotation on AU1.}
 \label{table:results}
-\end{table*}
+\end{table}
 
-\begin{figure*}[t]
-\centering
-\includegraphics[width=0.97\textwidth]{figures/strategy_heatmap.pdf}
-\caption{Strategy quality distribution by lesson (heuristic annotator).
-Each row is one lesson; columns show \% of bins in each quality tier.
-Math lessons (left) show more \textit{low} bins on average than science (right).}
-\label{fig:heatmap}
-\end{figure*}
+\section{Discussion and Conclusion}
 
-\section{Discussion}
+\textbf{Two-stage pipeline.}
+The key finding is that heuristic detection and LLM reranking are
+complementary: the heuristic provides high recall (it finds the only true
+friction moment) while Claude provides the precision needed to eliminate
+false alarms from pre-class setup, software guidance, and vocabulary
+scaffolding.  Neither stage alone is sufficient.
 
-\textbf{Annotator disagreement.}
-The $r{=}{-}0.35$ correlation between heuristic and ELECTRA risky rates
-is the most striking finding of this study.  Two explanations are likely:
-(1)~the heuristic fires on surface-level keywords (\textit{``the formula
-is''}, \textit{``just copy''}) that may appear in otherwise well-structured
-discourse, inflating its rate; and (2)~ELECTRA's \textit{No Move} label
-does not distinguish between a teacher giving a direct explanation and one
-who is simply silent---both are treated as low-quality by the heuristic
-but as \textit{No Move} (not inherently risky) by ELECTRA.
+\textbf{Social vs.\ cognitive confusion.}
+The full video pipeline reveals a second failure mode: facial affect peaks
+during social disruptions (late arrivals, seating issues) rather than
+instructional confusion.  Vision-only systems cannot distinguish these;
+transcript-level reasoning is essential.
 
-\textbf{Human evaluation on AU1.}
-Human annotation of the full AU1 lesson (87 bins) reveals that only
-\textbf{1 bin} (1.1\%) constitutes genuine pedagogical friction: the
-5:00--5:30 window where the teacher directly states \textit{``it will be
-180 degrees''}, bypassing student discovery.  Against this ground truth,
-the heuristic achieves P=0.05 / R=1.00 / F1=0.10---it captures the sole
-true positive but fires 19 false alarms on pre-class setup and procedural
-software guidance.  ELECTRA achieves P=0.00 / R=0.00 / F1=0.00, missing
-the true positive entirely because the teacher's utterance does not match
-any productive Talk Move category (\textit{No Move} fires instead on
-silent or procedural intervals).  These results confirm that both automated
-annotators over-fire dramatically relative to human judgment on a
-well-structured discovery lesson, and that the heuristic's surface-level
-keyword match is more sensitive (higher recall) while ELECTRA's
-discourse-oriented labels are miscalibrated for procedural classroom contexts.
+\textbf{Annotator disagreement and cultural context.}
+The $r{=}{-}0.35$ cross-annotator correlation and US anomaly (heuristic
+42.9\% vs.\ ELECTRA 14.5\%) demonstrate that annotation methodology is
+itself a critical design variable.  Keyword heuristics fire on surface
+patterns; discourse-move classifiers label structural properties; neither
+aligns well with human judgment without a reranking stage.
 
-\textbf{US anomaly.}
-US math lessons show the sharpest divergence: heuristic 42.9\%,
-ELECTRA 14.5\%.  American math classrooms in the TIMSS corpus are
-characterised by frequent declarative statements used as scaffolding
-rather than instruction, a style that triggers keyword patterns without
-representing low-quality teaching.
+\textbf{Limitations and future work.}
+Human annotation covers one lesson by one annotator; broader validation
+is needed.  The confusion proxy uses fixed weights not validated against
+ground-truth affect labels.  Future work should collect multi-annotator
+labels across diverse lesson types and integrate full-video fusion via
+GPU-based VLMs.
 
-\textbf{VLM fusion as a precision filter.}
-Applying Claude-based LLM reasoning as a second-pass filter over the 20
-heuristic candidates reduces the flagged set from 20 to 1, achieving
-P=1.00 / R=1.00 / F1=1.00 against human annotation on AU1.
-The model correctly rejects pre-class setup bins, procedural software
-guidance, and vocabulary scaffolding as non-friction, retaining only the
-one bin where the teacher directly states a mathematical fact students
-should discover.  This demonstrates that LLM-based reranking can
-dramatically improve heuristic precision without sacrificing recall,
-and that a transcript-only VLM pass may be sufficient when video is
-unavailable.
-
-\textbf{Limitations.}
-Automated facial affect inference may misread culture- or disability-related
-cues; all outputs are advisory and require human review.  The confusion
-proxy (Eq.~\ref{eq:conf}) uses fixed weights not validated against
-ground-truth affect labels.  Human annotation was performed by a single
-annotator on one lesson; inter-annotator agreement and broader coverage
-remain future work.
-
-\section{Conclusion}
-
-We presented an end-to-end multimodal pedagogical friction detector,
-scaled the transcript-only pipeline to 53 TIMSS lessons across 7 countries,
-provided human-annotated ground truth for AU1, and demonstrated that
-LLM-based fusion reranking achieves perfect precision on the annotated lesson.
-The heuristic flags 31.5\% of bins; ELECTRA flags 18.9\%, with
-$r{=}{-}0.35$ cross-annotator correlation.  Human annotation finds only
-1.1\% genuine friction; heuristic F1=0.10 (high recall, low precision),
-ELECTRA F1=0.00.  A Claude-based second-pass filter over the 20 heuristic
-candidates yields F1=1.00 by correctly rejecting false alarms (setup,
-software guidance, vocabulary scaffolding) while retaining the sole true
-friction moment.  The key finding is that a two-stage pipeline---broad
-heuristic detection followed by LLM reranking---outperforms either
-annotator alone, and that discourse-move classifiers alone are
-insufficient for friction detection in technology-mediated discovery lessons.
-Future work should validate this approach across multiple lessons and
-incorporate the DeepFace confusion timeline to capture student affect.
+In summary, we presented an end-to-end pedagogical friction detector,
+scaled transcript analysis to 53 TIMSS lessons across 7 countries, and
+showed that a two-stage heuristic + LLM pipeline achieves human-level
+precision (F1=1.00) on the annotated AU1 lesson.  Code and data are
+available at \url{https://github.com/jw310-wjr/comp646-friction-detector}.
 
 {\small
 \bibliographystyle{ieeetr}
