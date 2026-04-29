@@ -1,0 +1,1365 @@
+{
+  "lesson_id": "S-NL3",
+  "transcript": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science NL3 transcript.txt",
+  "n_bins": 90,
+  "n_risky_bins": 24,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] No, that's coming up. Very well, ladies and gentlemen, we are, uh, shh- [T] (And they were)... [T] You can, uh, demonstrate that in a minute... Okay people, we will start the second period with biology and I don't see it in front of everyone yet, so you can put it on your desk."
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Willem? [T] Nothing at all? [T] Look along with your neighbor in his book. Yes, I know, it's becoming familiar indeed. [T] Very well, if we are all ready now... Uh, yesterday we talked about the structure of the heart, right? We had a diagram on the blackboard. [T] For today you have read someth"
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] For today you have read something about it and you have done assignments. First of all, anyone who has questions about the section you have read? [T] No? Well, the assignment- we'll look back at the assignment in a minute, in case you don't understand it. Okay let's go there now. [T] For today y"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes? Well, you have seen the picture in the cutting book- yesterday I have already helped several people with that- this thing here. [T] Uh, today we have brought in a real heart. That means, not truly a real heart yet, but a real model. [T] We will use this heart model to point out certain thin"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This one looks a little more like the thing we see here, it gets a little closer to reality. [T] Well, yesterday a few people said, \"Now I really can't find the blood vessels anymore.\" [T] But you should get used to that little by little. Well, first you should try to figure out what is left and"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, very good. Yes, that one comes out of the left ventricle, right, and that is really the first thing you look for and then you will find number one: the aorta. [T] That's correct. Number two, Klaas? [T] Right, the right atrium, that's a small jump to the other side, the right atrium. Number "
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's the pulmonary vein, right, it ends up in the left atrium, that's the pulmonary vein. If this is going too fast for anyone, let me know. Number five, Mathias? [T] Uh... I have to look for it a second... yes, the postcaval vein. That one enters the right atrium, right, we said that yesterda"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's also correct, that's the other one, the precaval vein, ends up in the same atrium. Then number eight, Connie? [T] Number eight are the... right or left? [T] The other side. Oh, yes, sorry, number eight is shown on both sides. //Yes, that's correct. [T] Those are the heart valves. Right, I"
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's correct, the left atrium. Number ten, Daniel? [T] Yup. Very good, the right ventricle. Number 11, Katja? [T] Yes, that's also correct, that piece in between, right, that is totally closed, the heart septum. And the last one, number 12, Fiona? [T] Yes, correct. The semilunar valves. Those "
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] And soon we will also be looking at how the heart works. [T] Uh, the valves at the start of the coronary arteries, the pulmonary artery as well as of the aorta are the semilunar valves. [T] And later on we will also see that in the lab. Okay, let's go to the real thing for a moment. For when you"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This is the left ventricle and that is the right ventricle and you can see that by the blood vessels because they are colored, just like the color you had to do. [T] This one comes out of the right ventricle, colored blue, is the pulmonary artery. Look at your drawing to see if you gave it the c"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And we have one here, at the bottom, and one at the top- that one ends up in the other atrium. So those are the caval veins. All right? [T] I can open the ventricle- we will do that right away with the next exercise because we can then see how it looks from the inside. [T] All right? Anyone have"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So, the pump, right, in your body: the bigger the body, the more it needs to pump, the larger the heart is, too, okay? [T] So a human heart is not that big. Yes? [T] Uh, coloring and the arrows, for that assignment. Could everybody manage that? [T] Color everything that's on the left side red, a"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] If so, I will be coming by soon and then take a look. We'll continue with assignment seven. \"Where in our body can we find the heart?\" Bert? [T] In the center, yes. But, //in which center? [T] For me, the center is around here. Is that where my heart is? [T] Where is it, then? [T] Right, in the "
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, which blood vessels are attached to the heart? Through which oxygen and nutrients are brought to the heart itself? Uh, Mark? [T] Yes, that's correct, the coronary arteries. So, if I look at the heart itself, Mark, the coronary arteries, are they the blue ones or the red ones? [T] The red o"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So, it comes here- this comes straight from there, and those red things are in fact the coronary arteries. Because they are rich in oxygen and they bring nutrients. Okay? [T] What are those things called which remove the carbon dioxide and waste products again? Karin? For question three. [T] Yes"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then you had to fill in for question four, which part of the heart has the thickest wall? An atrium or a ventricle? [T] Uh, Cindy? [T] The ventricle. That's correct. And why? [T] Yup, that one has to pump the furthest, right? On top there is some text, it says, \"The thickness is determined by ho"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Now we can also differentiate among the various ventricles. Victor, which one has the thickest wall? [T] That one has to do the systemic blood circulation, right, so it must pump the blood a lot further, right, that's correct. [T] Okay, has everyone got that? The more the heart has to pump, the "
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Now, you can see that this area is the left ventricle, right? This point at the bottom is on the left, and this is the right ventricle. [T] If I compare the walls on the left side and on the right side, then you'll see that this one is a lot thinner than that one. And soon you will be able to se"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Atria are even thinner than that, because all that goes through them is the blood that flows from here into the ventricle. And that almost goes by itself. [T] Would there be differences between the left and right atrium, Ellen, in terms of the walls? [T] Is there a difference in the distances th"
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And the atrium can also be opened up and then you can see, this is still a small, thin wall. And it is not so red, not so muscular, therefore it can't pump that hard. [T] And the last thing that you can see here, is this white here- I don't know whether you can see it well- those are the heart v"
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The diagram that you have to fill in there. And that may have been difficult, the pulmonary blood circulation and the systemic blood circulation. [T] You were supposed to do that with regards to the picture that was shown on the previous page. Now, let's see whether that was successful. [T] The "
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The right ventricle. Okay, we will just follow that. Right ventricle, where does the blood go to? [T] The blood goes to the pulmonary artery. [T] It then ends up in the lungs... returns through the pulmonary vein... [T] And ultimately ends up in the left atrium, okay? Always on the other side of"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Leo, did you understand it or see it? [T] No, you missed one. Right ventricle, pulmonary artery... where does the pulmonary artery go to? [T] The lungs. Pulmonary vein, left atrium. What is the function of the pulmonary blood circulation, Leo? [T] No. Where does it go- where does it go to next? "
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Um... does it bring anything? [T] No? Does it...? [T] Almost. Pick up oxygen. Then what does it take away? [T] No, no, no. This is the pulmonary blood circulation. What does it take away, what do you eventually exhale again? [T] Okay, good. So it picks up the oxygen and it takes the carbon dioxi"
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] All organs, right. [T] Caval veins. [T] Excellent, now we are back where we started. So we start in the left ventricle--we start again in a ventricle--then we get the aorta, the artery of the body. [T] Then all the organs: the heart, stomach, intestines, you name it, everything in between there."
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No, nutrients are not picked up by the pulmonary blood circulation. Where are they picked up //instead, then? [T] With the systemic. Where would you pick them up? [T] At the small intestine. Very good. And then? [T] And then it goes back, right. Waste products are brought back. [T] Right. To pic"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What it does? [T] Yes, that's correct. [T] Right, in the small intestine it picks up nutrients, then it has to, in this case--as we saw yesterday, the double blood circulation--it has to go through the heart, [T] And then it can, subsequently, go through the pulmonary vein or pulmonary artery- a"
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It goes from the small intestine, ends up in a caval vein, has to go through the whole heart, must go to the lungs, again through the entire heart and then, finally, it can go to the toes. [T] Okay? But that will come later when we look at blood circulation. Mario, you still had a question or no"
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, the first thing that happens--we will just look at one heartbeat--the first thing that happens is at the top. [T] The two atria on there: the right and the left one, those pinch together at the same time. [T] It always happens simultaneously, right and left, otherwise you would get an irre"
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, correct. It all sinks down into the ventricles below. Okay? So that means for the valves, which are located in between here- open or closed? [T] Open. Okay, it has to go from the atrium to the ventricle and so the valves are open at that moment. Well, what happens then? [T] Next, the ventri"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, so we call that a vein or a...? [T] Yes, artery. It goes away from the heart. That is an artery, and it goes indeed into the pulmonary artery over here and the aorta in here. [T] And they do it simultaneously, right? The ventricles contract simultaneously, and then it goes into the arteries"
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] When the blood from the atrium enters the ventricle then it merely falls right through it. [T] And when it returns, when the ventricle contracts then the valves close up against each other. And that fits perfectly. [T] Okay, when the valves close properly--which is the case for a healthy person-"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then there is also a short interval which is called the diastole, then everything relaxes, the atria and the ventricle. Well, the blood was located in the arteries, [T] And the only thing that happens now is that the blood flows through the body to the lungs and all other organs. [T] And then th"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Well, it even shouldn't. Why shouldn't it go through here? [T] Where would it end up then, if it would go back through here again? [T] No, no, no. If it- where does it, where will it go? Say, it goes in here into the pulmonary artery? Where does it go? [T] Okay, goes towards the lungs. Why is it"
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, goes towards the lungs. Why is it not allowed here, in this direction, because where would it end up then? [T] Then it goes back to the heart, okay? And that I don't want, right? I want- it is gone now, I want it to stay gone. [T] So those valves--there are exactly three--they also work al"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And if your valves function well, then not a drop of blood will pass through and all of it will move directly to the lungs. Okay? [T] Maybe you have been in the hospital and have had an exam where a doctor, with a stethoscope, you know, feels your chest. [T] Well, what that doctor is doing is in"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The second one, that follows immediately, is when the heart is pausing, then those valves close. [T] And that happens again with a thud. They shut closed. And again that gives a heart tone that the doctor can hear. [T] Yes, so with one of those stethoscopes you can listen, you can hear if someon"
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You don't notice a thing of all that. You don't have to do anything for it either, because a healthy heart just does that by itself. Okay? [T] Very good. Any questions about the heart, how it functions, how it is put together? [T] No? Okay, then we'll go and uh, then you'll first do the assignme"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] There you will look at a coronary. What is happening when someone is having a coronary. And in case you have finished that then you may continue on a little further. Okay? [T] Let's see how far we are and at the end of the lesson we will check the exercises."
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] [laughter] When you see me, that means you're in the picture, too. [T] Ladies, are you getting started? [T] John, are you getting started? [T] Yes?"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] When what valves are closed? Those? [T] Okay, when these are closed, then those are open. [T] Okay? But then we are at this moment, right? [T] And one instant later during, uh, diastole, then these open up again and these close right after that."
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And one instant later during, uh, diastole, then these open up again and these close right after that. [T] Okay? [T] Because I had said it differently? [T] Now, look- we can look that up later [laughter] on the video. No, look, anyway what has happened first, is, uh, these open up... the blood c"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And finally, during diastole, these open up and those close down. Anyway, that's how it is supposed to be. [T] All right? Okay. [T] If there are people who have questions in regards to the cutting book or who aren't sure whether it is correct, just give me a signal and I will come over to take a"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Let me see. This one, this is the other caval vein, right, so it also has been drawn in blue. It comes from there. [T] Okay, this one comes from all the organs in the body, the post caval vein, that means, in fact, all the organs that are located below the heart. [T] This one comes from all the "
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This one reenters from this lung and that one reenters from that lung. [T] And then they enter that atrium and then, ffft! Onwards, through the body. Okay, agreed? [T] And there was still somebody else. Daniel? [T] Yes, that's correct, //because-? [T] Okay, you tell me."
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What was that thing called? [T] No, almost. [T] Right. And what was it called? [T] Okay. So, where does- where does this one go and where does that one go? [T] Right, and how many lungs do we have? [T] Okay, so one goes to this one, one goes to the other. Right? And now you let them return toget"
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //So this one goes over here and the other one probably goes over there. [T] //Okay? So they just pass the lungs and then go past this. Right? Okay. [T] Okay, for assignment nine you have to make complete sentences, so please write everything down in full."
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, for assignment nine you have to make complete sentences, so please write everything down in full. [T] Careful. [T] What is coming? [T] //What did you get? [T] //Just words. [T] No, but this will make for a good summary, right? [T] Yes? When you, uh- when you feel your heart, for example he"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes? When you, uh- when you feel your heart, for example here, this beating- [T] //Well, every- each time that you feel that, then, uh, the ventricles contract. [T] Right, right, because they are the strongest, so you feel- Contraction of the atria you don't feel it at all. [T] Diastole nothing "
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No, no, no. It has to be as precise as possible. Besides, you should use these words to fill in. [T] I see. Didn't read that. [T] [laughter] //Didn't see that. [T] Yes? [T] When? [T] Then can the blood still enter the ventricles? [T] No. You can see that here, in fact it's part of this, right? W"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No. You can see that here, in fact it's part of this, right? With the first picture. [T] You see? They go, those are- //it just drops down by itself, it opens by itself. [T] Interesting, isn't it? [T] //I have to get used to this thing. [T] [laughter] [T] We'll do that in the last five minutes, "
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I mean, I can see exactly who's, um, not paying attention. [T] Yes, that is your pulse beat, right? [T] Because what do you feel then, really? Which one of the three?"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] They're different ones. Which one do you feel, now? You think you can feel that one? [T] //Yup. Right, look, this is a contraction of the atrium, which you don't feel; it is not very strong. This is diastole; you feel nothing. [T] And when the ventricles contract, that is so forceful, that is wh"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That would be bad news. [T] Yes, yes, that's correct. Then you can for- and it's the same thing. What you feel each time is this moment, so each time that the ventricles contract, [T] that- that you can feel also when you are having a headache, when it pounds, you name it. [T] Yes, that's possib"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //Yes, that's correct. [T] Yes, well, perfect. Yes. Okay, the valves are open automatically, here you see it enter the atria, then it naturally flows into the ventricle. [T] Are you making complete sentences here? Just for //yourself? [T] //You do. Because this is going to be a summary of the en"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //You do. Because this is going to be a summary of the entire paragraph, so just fill that in for yourself. [T] Well, I //wouldn't believe Maarten either. [T] For eight. //Let me see- [T] Yes. [T] //Yes, correct. [T] Okay, it flo- if it- \"The caval veins and the pulmonary veins\" is correct. So i"
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, it flo- if it- \"The caval veins and the pulmonary veins\" is correct. So if it actually flows out of those, then where in the heart will it end up? [T] Okay, great. So in the atrium, and already partially in the- [T] In the ventricles, right, and you can also see that here, right? During di"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Correct. [T] Yup. Those are the same valves, they are now positioned like this, so they- [T] Yes, it sinks- they're not blocking anything now. So the moment it sinks into the atrium, //part of it goes down along with it. [T] Figure that out by yourself."
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Figure that out by yourself. [T] Okay, you may choose from these here. [T] Sure it is. [T] //Why not? [T] Sure, the p- okay, how would you rather formulate it then, in better Dutch? [T] No, no, no. The pulse beat itself is the event. Okay?"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You could also say, \"That contraction can be felt as the heartbeat.\" [T] //That's correct. Yes. Okay, you can fill in (both differently). [T] But you see? That's what you feel, what you hear."
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] If you are working seriously, you are allowed in the picture."
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You can't really pretend that it is not there, right? [T] Yes. [T] Yes? [T] Yes. [T] Right. [T] Yes, that is correct. Well, you could follow your own arrows. So, when this one contracts, that one, where does the blood go by itself?"
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, that is correct. Well, you could follow your own arrows. So, when this one contracts, that one, where does the blood go by itself? [T] //Okay. [T] That's fine. And now //you should- [T] That's correct. [T] And the (artery), right. [T] Okay, and he can't go that way because these //valves cl"
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] When? [T] Yeah. [T] Okay? [T] All right, what would you make those? [T] That is over here, right, this phase."
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, I agree with you on this. What is the benefit of the heart valves being closed? [T] Why are they closed? [T] Well, \"doesn't need to\"? Should even be avoided //in there, right? [T] Right, because otherwise it would back up into the //atrium. [T] Okay, the semilunar valves, what about those?"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, exactly. Those are the ones, right. Okay, so they're at the beginning of the arteries. If I close them, then I can pump all I want, [T] but the blood could never //enter the artery, right? [T] Yes? So these open up automatically. [T] Yes? [T] (I don't know)."
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] (You keep on using markers). Hey, Mario, you still don't have anything there. Fill it in. [T] Are you a little nervous? [T] No, //but why don't you fill it in? [T] No, but- this- don't start with- don't start with ten when you haven't finished those yet, okay? [T] We will check those in a minute"
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] We will check those in a minute, so that makes sense. Okay, and what you see here, you can find back //over there. [T] Yes, though. I'm sure you can do it. You must choose from these words //over here. [T] Okay, that should work out fine, right? [T] All right then. [T] [laughter] Mario's noteboo"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, we have that, right. [T] You can only feel it on one side? [T] Somewhere there. [T] [laughter] [T] You can also feel it in your neck. [T] //That is (nice). [T] Can I try if I feel it on you?"
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] Can I try if I feel it on you? [T] I can feel it, up here. [T] Yes? Are you sure, or not? [T] Yes, so you can- you can, in principle, feel how often your own heart beats per minute. [T] //Right, then you have to practice. [T] Right, but you may--and this you will learn at PE as well--you may nev"
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] If you feel it well just on one side, then that is no problem. What you could do, too, is to... feel here, if you have found a spot. [T] Hey, gentlemen are we playing basketball here? [T] No, not yet. [T] Um, after the... let me think... okay, after the test week- [T] We first have to take the t"
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] Yes, you will also get a bio grade for that, but we are doing those together, right? PE and bio. [T] No, that won't be filmed, no. [T] All right, uh, ladies and gentlemen, please, put in front of you assignment nine because after checking around I noticed that everybody is just about finished. ["
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You have pictures with it and if you filled it in correctly, then you understand essentially how the heart functions and how it sticks together. [T] Okay? So, people who are still at Basic Subject Matter Six, should go back to Subject Matter Five. [T] And now we will go down the sentences. Katja"
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, very good. Atria contract, the blood flows into the ventricles. That's correct. If anyone, uh, has something else or it is going to fast, raise your hand, okay? [T] Number two, Katja? [T] The heart valves are open, right. At that moment the heart valves must be open, right? And then number "
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, that's very good. Yes, one into the pulmonary artery and one into the aorta. Now number five. \"The contraction can be noticed as...\"? Mathias, what did you fill in? [T] Right, that nice sentence of yours, \"The contraction can be noticed as the pulse beat.\" Okay? The pulse beat, you can inde"
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I understand you guys have done that during PE class, when you exert yourself then obviously you have a pulse rate that slowly increases. [T] We are also going to do that in the experiment. [T] Next is number six. \"What is the status of the heart valves, when the, uh, ventricles contract?\" John?"
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then the diastole, that follows- that happens next. Jolien? What happens during diastole? [T] Yes, very good. From the caval veins and the pulmonary veins the blood partly flows into the atria. [T] And because the valves are open, part of it, due to gravity, will just sink into the ventricles. R"
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The heart valves are then open, that's correct. And Maarten, the semilunar valves are? [T] And last one, why are the semilunar valves closed? [T] No, not so that it doesn't flow away prematurely. Why are the semilunar valves closed? Where is it not allowed back in? [T] And in which part of the h"
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] Sentence eight. Uh, \"Diastole. From the pulmonary veins and the caval veins... the blood flows into the atria and also partly into the ventricles.\" [T] Okay? Very well, is there anyone who still has questions about this section? [T] No? Then we will pack up- oh, I see, for you that doesn't count"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, usually you don't see it. [T] And where is the Earth? [T] But Pluto is no longer part of it, //right? [T] Yes, Pluto we will toss out as a planet. [T] We will toss Pluto out as planet."
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] We will toss Pluto out as planet. [T] What is your next class? [T] With Mr. De Vries? [T] You guys are on the right spot here. [T] Huh? [T] Yes. [T] Yes, I heard that. Every day. [T] Hey, were we supposed- supposed to do something for Spanish? I am sure we were, right? [T] Such as? [T] In the bo"
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes... thank you. But from the book? [T] Okay, then I will just go ahead and do that. Two, three, and four. Yes... But did you have a quiz last time? [T] But they did the numbers? [T] Everyone? [T] Indeed. So actually I should learn that, too. [T] Yes, but, you know... [T] (If you don't know it)"
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hey mister, leave that in one piece, please. [T] Because, uh, well- [T] Well, I mean, it's easy for me to accuse you right now, isn't it? You are being filmed from all sides. [T] You guys have to sit here for another hour. How terrible. [T] That isn't allowed either? Oh. [T] Are you doing okay n"
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Much better? You just didn't feel well? [T] Later, when we are in the lab, keep an eye on it yourself- [T] //Because I mean, you'll just get the introduction and if we, um- otherwise when we get to the heart, you just make drawings instead. [T] Because, uh- but just think of it yourself. Because"
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] When you...? [T] Yes, was that you? With- yes? [T] Yes, but what do you expect? [T] No, but- [T] But really, it's- [T] Yes, but it is very easy to fool someone that way. You were not hysterical, //but it is- [T] No, but you know- no, no, no. Those are just jokes that are- I mean- with field hock"
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then at some point, when something really happens, you'll think, forget it, it's just another practical joke from so and so, and then you leave //people alone. [T] But what do you mean? [T] And then? [T] Yes, and then no one wanted to help him then anymore. Yes. Right, but those are the kinds of"
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yes. You are- you are not going to tell someone, \"Okay, I don't believe it, it's fake,\" or such. [T] Hey, please air out, now. Because uh- Hey guys, you may breathe normal again."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] No, that's coming up. Very well, ladies and gentlemen, we are, uh, shh- [T] (And they were)... [T] You can, uh, demonstrate that in a minute... Okay people, we will start the second period with biology and I don't see it in front of everyone yet, so you can put it on your desk."
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This one looks a little more like the thing we see here, it gets a little closer to reality. [T] Well, yesterday a few people said, \"Now I really can't find the blood vessels anymore.\" [T] But you should get used to that little by little. Well, first you should try to figure out what is left and what is right. [T] Once you know that then you can always classify: atrium, ventricle. Once you know that, then you have to know which blood vessel comes out of the right ventricle. [T] And which one"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Um... does it bring anything? [T] No? Does it...? [T] Almost. Pick up oxygen. Then what does it take away? [T] No, no, no. This is the pulmonary blood circulation. What does it take away, what do you eventually exhale again? [T] Okay, good. So it picks up the oxygen and it takes the carbon dioxide away. That's the function of the pulmonary blood circulation. The systemic blood circulation. Um... Karel? [T] That is correct, the left ventricle. [T] Aorta."
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] All organs, right. [T] Caval veins. [T] Excellent, now we are back where we started. So we start in the left ventricle--we start again in a ventricle--then we get the aorta, the artery of the body. [T] Then all the organs: the heart, stomach, intestines, you name it, everything in between there. [T] Next are the caval veins, and finally I end up in the right atrium... Okay? Okay. Who has a question about this section? Sam?"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The second one, that follows immediately, is when the heart is pausing, then those valves close. [T] And that happens again with a thud. They shut closed. And again that gives a heart tone that the doctor can hear. [T] Yes, so with one of those stethoscopes you can listen, you can hear if someone's valves are closing properly or whether that is not the case, okay? [T] All right, that is the heartbeat. That's just one. [T] Okay, your heart beats about 60 times per minute. So that means that e"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And finally, during diastole, these open up and those close down. Anyway, that's how it is supposed to be. [T] All right? Okay. [T] If there are people who have questions in regards to the cutting book or who aren't sure whether it is correct, just give me a signal and I will come over to take a look. [T] //A signal. Like a hand up in the air. [T] Okay. [T] Let me see. This one, this is the other caval vein, right, so it also has been drawn in blue. It comes from there."
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What was that thing called? [T] No, almost. [T] Right. And what was it called? [T] Okay. So, where does- where does this one go and where does that one go? [T] Right, and how many lungs do we have? [T] Okay, so one goes to this one, one goes to the other. Right? And now you let them return together over here. [T] That is not really wrong, but if you take a close look at this one, then you can notice that you have two, one here and one there. [T] //So this one goes over here and the other one"
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, for assignment nine you have to make complete sentences, so please write everything down in full. [T] Careful. [T] What is coming? [T] //What did you get? [T] //Just words. [T] No, but this will make for a good summary, right? [T] Yes? When you, uh- when you feel your heart, for example here, this beating-"
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No, no, no. It has to be as precise as possible. Besides, you should use these words to fill in. [T] I see. Didn't read that. [T] [laughter] //Didn't see that. [T] Yes? [T] When? [T] Then can the blood still enter the ventricles? [T] No. You can see that here, in fact it's part of this, right? With the first picture."
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No. You can see that here, in fact it's part of this, right? With the first picture. [T] You see? They go, those are- //it just drops down by itself, it opens by itself. [T] Interesting, isn't it? [T] //I have to get used to this thing. [T] [laughter] [T] We'll do that in the last five minutes, okay? Show time... [T] [laughter] [T] But I'm sure you noticed that you are in the picture as well, //right? [T] I mean, I can see exactly who's, um, not paying attention."
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //You do. Because this is going to be a summary of the entire paragraph, so just fill that in for yourself. [T] Well, I //wouldn't believe Maarten either. [T] For eight. //Let me see- [T] Yes. [T] //Yes, correct. [T] Okay, it flo- if it- \"The caval veins and the pulmonary veins\" is correct. So if it actually flows out of those, then where in the heart will it end up?"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Correct. [T] Yup. Those are the same valves, they are now positioned like this, so they- [T] Yes, it sinks- they're not blocking anything now. So the moment it sinks into the atrium, //part of it goes down along with it. [T] Figure that out by yourself."
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You can't really pretend that it is not there, right? [T] Yes. [T] Yes? [T] Yes. [T] Right. [T] Yes, that is correct. Well, you could follow your own arrows. So, when this one contracts, that one, where does the blood go by itself?"
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, that is correct. Well, you could follow your own arrows. So, when this one contracts, that one, where does the blood go by itself? [T] //Okay. [T] That's fine. And now //you should- [T] That's correct. [T] And the (artery), right. [T] Okay, and he can't go that way because these //valves close. [T] Really? You finished Basic Subject Matter Six already? [T] That is the next one, right? [T] //You did? Then you can just work on, okay? [T] Yes, I think so, I have already been (inaudible)."
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] When? [T] Yeah. [T] Okay? [T] All right, what would you make those? [T] That is over here, right, this phase."
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, we have that, right. [T] You can only feel it on one side? [T] Somewhere there. [T] [laughter] [T] You can also feel it in your neck. [T] //That is (nice). [T] Can I try if I feel it on you?"
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] Can I try if I feel it on you? [T] I can feel it, up here. [T] Yes? Are you sure, or not? [T] Yes, so you can- you can, in principle, feel how often your own heart beats per minute. [T] //Right, then you have to practice. [T] Right, but you may--and this you will learn at PE as well--you may never use your thumb because it beats in there, too. You should always use your other, uh, fingers. [T] If you feel it well just on one side, then that is no problem. What you could do, too, is to... fee"
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] Yes, you will also get a bio grade for that, but we are doing those together, right? PE and bio. [T] No, that won't be filmed, no. [T] All right, uh, ladies and gentlemen, please, put in front of you assignment nine because after checking around I noticed that everybody is just about finished. [T] So we will just check these and then finish off that section and then we'll start tomorrow with the heart attack. [T] But first let's see whether you succeeded. Uh, you had to write full sentences "
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] Sentence eight. Uh, \"Diastole. From the pulmonary veins and the caval veins... the blood flows into the atria and also partly into the ventricles.\" [T] Okay? Very well, is there anyone who still has questions about this section? [T] No? Then we will pack up- oh, I see, for you that doesn't count as \"packing up.\" [T] //Uh, we will- [laughter] We are quitting now. [T] For tomorrow, Basic Subject Matter Six. No, that's for Friday, right? Basic Subject Matter Six and the exercise that comes with"
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] We will toss Pluto out as planet. [T] What is your next class? [T] With Mr. De Vries? [T] You guys are on the right spot here. [T] Huh? [T] Yes. [T] Yes, I heard that. Every day. [T] Hey, were we supposed- supposed to do something for Spanish? I am sure we were, right? [T] Such as? [T] In the book? [T] Yes... thank you. But from the book?"
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] When you...? [T] Yes, was that you? With- yes? [T] Yes, but what do you expect? [T] No, but- [T] But really, it's- [T] Yes, but it is very easy to fool someone that way. You were not hysterical, //but it is- [T] No, but you know- no, no, no. Those are just jokes that are- I mean- with field hockey training they pull something like that too sometimes. [T] Then at some point, when something really happens, you'll think, forget it, it's just another practical joke from so and so, and then you l"
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then at some point, when something really happens, you'll think, forget it, it's just another practical joke from so and so, and then you leave //people alone. [T] But what do you mean? [T] And then? [T] Yes, and then no one wanted to help him then anymore. Yes. Right, but those are the kinds of jokes of which I think, well, okay, those- [T] Yes, he was very (scared). No, but- [T] Yes. [T] But I mean, what would, what would you do in a situation like that?"
+    }
+  ]
+}

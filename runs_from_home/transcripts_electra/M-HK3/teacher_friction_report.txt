@@ -1,0 +1,43 @@
+Teacher Friction Report
+=======================
+Video: /home/jw310/comp646-friction-detector/data/math/transcripts/Math HK3 transcript.txt
+Work directory: runs/transcripts_electra/M-HK3
+
+Alignment bins (30 s grid): 69
+Heuristic candidates: 7
+Multimodal fusion entries: 7
+
+--- Event 1 [570.0s – 600.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 2 [660.0s – 690.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 3 [690.0s – 720.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 4 [900.0s – 930.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 5 [1080.0s – 1110.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 6 [2010.0s – 2040.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 7 [2040.0s – 2070.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move:

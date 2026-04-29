@@ -1,0 +1,1185 @@
+{
+  "lesson_id": "M-US4",
+  "transcript": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math US4 transcript.txt",
+  "n_bins": 91,
+  "n_risky_bins": 9,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] We're doing nine point four today. [T] Are you ready? [T] If you need to sharpen your pencil, you better do that right this second. [T] Probably not there, Matt. Oh, goodness."
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I hope you guys have your activities ready from the boxes from nine point four. [T] That was the only other thing that I asked you to do. [T] Ben, you don't even have your books open, ready to go. What's going on? [T] I thought you were going to be the star of my show."
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] We're gonna go through the activities kind of quickly, 'cause you should have already had them done and ready to go. [T] Okay? Here's your problem of the day. [T] Ready to go."
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Ready to go. [T] A little review from nine point three. [T] You may already have this in your notes. [T] You might have to look back, try it from memory or look in your notes."
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You might have to look back, try it from memory or look in your notes. [T] I wanna know about the inscribed angle theorem, the right angle corollary, and the arc intercept corollary."
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I wanna know about the inscribed angle theorem, the right angle corollary, and the arc intercept corollary. [T] Page 582 if anybody's wondering."
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Page 582 if anybody's wondering."
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Page 582 if anybody's wondering."
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Page 582 if anybody's wondering."
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Page 582 if anybody's wondering. [T] Okay. [T] Help me out with the inscribed angle theorem. Tell me what- what it is. [T] In your own words, how would you describe that one? [T] Anybody? [T] Suzy? [T] Okay. It ends up coming out to be half of the measure of the arc that it intercepts. Right?"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. It ends up coming out to be half of the measure of the arc that it intercepts. Right? [T] How about right angle corollary? [T] Matt. [T] Okay. If it intercepts a semicircle, then angle turns out to be- [T] A right angle. Okay? [T] And arc intercept corollary, Margaret. [T] Okay. Good. When"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Good. When they intercept the same arc, then they have the same- [T] Measure. Good. [T] Okay. [T] You can open to nine point four, page 588. [T] The first thing we're gonna look at is what kind of angles that we're gonna be talking about today. [T] They're angles formed by secants and tang"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] They're angles formed by secants and tangents. Here's all different cases. [T] It all depends on where the vertex is... and the type of lines that it- that it includes. [T] If the vertex is actually on the circle, you have secant and a tangent right here, or two secants here."
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If the vertex is actually on the circle, you have secant and a tangent right here, or two secants here. [T] The second group is where the vertex is inside the circle, but it's not on the center usually. [T] Okay. Talking about here. [T] Last- the last group, the vertex is outside the circle. You"
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Take that- out, whatever you brought from Friday for homework. [T] We're not gonna go over each one of these in deep detail, 'cause you should have already had most of them done. [T] We'll go over the first, probably, row or two, and then we're gonna talk about the general pattern at the end wit"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You have this circle with secant and tangent. The secant and tangent angle is a right angle here. Okay? [T] The secant contains the center of the circle. What do you think the measure of A V C, angle A V C is? [T] What'd you come up with? Michaela? [T] Why do you say 90 degrees? [T] Okay. So- an"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So what can you get from that? If the whole arc is 180 and the angle is 90, what does that kind of remind you of? [T] What's that? [T] Okay. Yes. Kind of like the right angle one or where- basically because it's half. Right? [T] It's 180 degrees and this is 90, you can come up with this checkpoi"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] the inscribed angle and the intercepted arc is the fact that it's half of what that arc is. [T] That was the easy part. [T] Okay. Look at number two. The secant tangent angle- we're gonna go over- this was the- if it's the tangent and it's a right angle. [T] Next we're talking about the acute an"
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It tells you that it's 120 degrees and then it gives you 120 degrees for angle one, here. [T] How do you know that? How can- how do they justify that? Leah? [T] Good. That's back to the beginning of the chapter where the central angle is gonna be the same as whatever that arc that it intercepts."
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. [T] Very good. You get 30 degrees. [T] So where do we come up with this one? P V C. P V C."
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That's the one they left blank in this first- first box. [T] You're on a roll, let's go. [T] Okay. They say radius to that tangent we learned that- [T] Back in the beginning, nine two or nine three. It had to be nine two because we just went over nine three."
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Back in the beginning, nine two or nine three. It had to be nine two because we just went over nine three. [T] Nine two, that- the radius that intercepts that has that same tangent point... that's gonna be 90 degrees. [T] That wasn't the hard part. [T] Measure of angle A V C. How would you get t"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. And you get 60. [T] This kind of- this being 60 degrees, how does that relate to back here, the arc? [T] Matt says it's half. Mike says it's half. [T] Okay. So the measure of an acute secant tangent angle with its vertex on the circle is- [T] One half the measure on the intercepted arc. [T"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So we got two cases down. We got- if it's a 90 degrees angle with a secant and tangent, we got acute angles. [T] What do you think this... general statement... here, measure of arc A V- if it's X, what's angle one gonna be? [T] X. [T] Okay. What about the measure of angle two? Michaela, describe"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Divide it by two. [T] These angles are gonna be the same. [T] Okay? [T] How about P V C? That's going to be- [T] Ninety degrees. Okay. That's not gonna- that's not gonna change. [T] And so the last here- this angle is going to be what? [T] Which is?"
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] X. Okay. [T] So we know it works for that same intersected arc- intercepted arc theorem, works for 90 degrees, works for acute angles. [T] Last case is obtuse angles. [T] This one is a little bit more tricky. You might have a little bit more trouble doing this one. [T] If it's obtuse, they give "
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If it's obtuse, they give you A X V around this way, is 200 degrees- [T] And they come up with this measure of angle one being 160. [T] How do you think they got that? [T] Melissa? [T] Good. If you add that whole circle it's 360, then the central angle on the other side- [T] We take away 200, it"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Measure of angle two here. How do you get that one? [T] Triangle \"um\"... [T] Okay. Equal 180, so- [T] Good. That leaves you with 20, which means one of them has to be 10. [T] Okay. How about P V C? [T] Anything different about that one than the other example? [T] No. It's gotta be 90."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I'm just gonna copy that one down right now. [T] And how about the last one, this whole A V C. The actual obtuse angle. It says it's 100. [T] If you're following a pattern, what are you getting? [T] It's gonna be- [T] Half. [T] Okay? So, I'm just gonna fill this in now. [T] Measure of an obtuse "
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So let's fill this in. [T] For measure of angle A V C, how would you relate that back to X for any- for any measure? [T] X over two. [T] Okay. I'm just gonna work my way backwards. We know the 90. [T] Well, let's go to angle one. [T] How would you figure out angle one if you know X for A X V? [T"
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And Katie, how would you do that last one, that angle two? [T] This one's a little bit tricky. [T] Okay. [T] So tell me what to do and we'll try to put it in X for you."
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Okay. [T] That's 360 minus X. [T] Okay. [T] Okay. [T] So, 180 minus what we get from angle one. I'm gonna put measure of angle one right here."
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So, 180 minus what we get from angle one. I'm gonna put measure of angle one right here. [T] Minus measure of angle one, and then you take that and divide it by... two. [T] Good. Sorry. [T] I couldn't fit all that in that little, little box. [T] So you get the theorem. This kind of- all these bu"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It could be a chord and a tangent, you're gonna come up with what? [T] If you have an angle that intersects with a secant and a tangent all in the circle? [T] It's always gonna come up to be- [T] Half of that arc. [T] You have any questions on that? [T] I'm gonna wait to give you an example for "
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Turn the page. [T] I guess I don't have one for this page, so we're gonna have to do this, just out loud together. [T] So look at the top for activity two. [T] They're kind of similar, but you have now where the vertex is inside the circle- [T] You have the intersection of two secants inside the"
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You have the intersection of two secants inside the circle, and they want to figure out how you can get those angle measures. [T] So look at the first one across for number- table two. [T] You have the measure of arc A C gives you 160. [T] Then you have B D. That gives you 40 degrees. [T] How ab"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It says 80 degrees. Where do you think they got that? [T] Leah? [T] Yes. Good. [T] Good. Good. [T] That's what we actually just talked about reviewing from nine point three. [T] So, how about angle two? [T] Melissa?"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Good. [T] How about A V C? [T] It's 100 degrees. [T] Similar to what we were doing- been doing, but it's got a slightly different twist on it. [T] Where do you think they could have gotten the 100 degrees if you're looking at that circle? [T] A V C is the angle we're looking at."
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] A V C is the angle we're looking at. [T] We know arc A C and we know arc B D. [T] Where could they have gotten that 100 degrees? [T] Michaela? [T] Okay. [T] So Michaela says there's two ways. [T] She thinks you can do 160 plus 40 and you get 200, divide it in half, and that gives you 100."
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] She thinks you can do 160 plus 40 and you get 200, divide it in half, and that gives you 100. [T] Or she got 80 plus 20 equals 100. [T] Okay? Do we have anything to back up either one of those more than the other? [T] Or do you want to just do the next row and see what we come up with? [T] Let's"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Let's do the next row. So the next one says if A C is 180 degrees, B D is 70 degrees, what about angle one? [T] Or angle two? [T] Those are the inscribed angles. [T] If A C is 180, what does that angle one have to be? [T] Ninety degrees. Okay? Half. [T] How about B D? [T] Seventy degrees. Sevent"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Seventy degrees. Seventy degrees. What do you think? Inscribed angle. [T] Thirty-five. [T] So what does that leave us with for A V C? [T] With Michaela's first method, it would be- what did we come up with? Ninety and 35 added together. What would that give us? [T] One twenty-five. [T] What abou"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Divide that in half, you get- [T] One twenty-five. They both work. [T] That's interesting. [T] What do you think? [T] Okay. What Matt says-"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. So you feel like we're talking about the general one again, he says, we're down to the last row with X- [T] Measure of angle one has to be half of A C. Do we agree with that? [T] That's inscribed angle. [T] How about measure of angle two has to be half of- [T] B D. X two. [T] So what do yo"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Say that again. [T] Okay"
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. You're talking about A V C or D V B? [T] Okay. [T] Is that a lot to do for a general rule? [T] It works? Okay. [T] So now we have maybe three different ways to find it? [T] Which one there? She did two."
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It proves that both of them work. [T] The 125 and the 100 that we already went over? [T] Okay. [T] Okay."
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Okay. [T] Okay. Well, so let's look at the theorem that it wants us to fill in. [T] The measures of an angle formed by two secants or chords that intersect the interior of the circle is what? [T] Blank the blank of the measures. [T] Which one of those methods would fit into that? We have three d"
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Which one of those methods would fit into that? We have three different ways, which one would fit into there? [T] Okay. So if you take the sum of the two arcs and you divide them in half, I think that's the one that fits best in there. [T] Any of your methods were pretty good. [T] Okay. Michaela"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The measures end up being half of whatever those two sums are. [T] Because not all the examples are gonna be as specific as these are to follow through with your other- with the third way to do it. [T] Do you understand what I mean? [T] You could probably do it yourself on every example, but tha"
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] B D, measure of arc B D is 200 degrees. Now we have the vertex of two secants outside the circle. [T] Okay. We had it on the circle. We had it inside the circle. Now we're dealing with the outside of the circle. [T] A lot of you guys had this question last week when you were talking about that t"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Measure of angle one. Kind of following right along. Melissa? [T] Good. Intercepted. [T] Good. So it has to be half. Good. [T] Two. Measure of angle two. They say 20 degrees. What do you think? [T] Go ahead. [T] Good. You guys are following right along. [T] The same reason. Okay? The other one's"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If it's outside the circle. What do you think they- how do you think they got that 80 degrees? [T] Ben? [T] Okay. So you were going with that whole large triangle-"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. So you were going with that whole large triangle- [T] Sum. [T] So he said V C B, if you do that minus angle one, which was 100, that leaves you with what? [T] That leaves you with 80. [T] Okay? You have 80- you have measure of angle two, which is- [T] Twenty. So that gives you 100 so that "
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Which one- A C what? The arc? [T] A V C. Angle A V C. [T] Okay. [T] Maybe it's 40 times two? Do you have something to back that up? [T] No?"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No? [T] Okay. [T] Mm-hm. [T] Okay. [T] Okay. 'Cause we're trying to stick with this general pattern of it ending up being- what's it end up being every time?"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. 'Cause we're trying to stick with this general pattern of it ending up being- what's it end up being every time? [T] If you've been following this pattern of the angle it turns out to be- [T] Half- you're scaring me- it ends up being half of whatever- whatever pattern you're following. Oka"
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It's still gonna be half, but Leah says it might be half of subtracting them because now you're outside the circle. Okay. [T] So if you're- if you have your- what side's it on? [T] If you have your B D and then you're a C arc here, the angle's way over here. Subtracting them might make sense. [T"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] But that might take you a little extra work every time. [T] If you're only given the measure of two arcs that it intercepts, it's gonna be, probably, a lot easier just to subtract them. [T] Boom. Get your answer. [T] So, go for it Raul. Read that theorem for me and fill in the blanks. [T] Half o"
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Half of the- [T] What's it called? [T] The... [T] Difference. We're subtracting them this time. [T] You did say that. I was trying to see if Raul would get that. [T] Okay. [T] That was Ben's way of the triangle- the triangle sum. We were trying to get down to that same general pattern of it bein"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That was Ben's way of the triangle- the triangle sum. We were trying to get down to that same general pattern of it being half. [T] Okay. So if you- if you subtract them, if you get the difference, that's gonna be a quicker way to do it. [T] 'Cause you might not always have that triangle working"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You're going an extra step. Basically they just want to get the general pattern. It's gonna be a lot easier for you if you subtract them. [T] So you do it by half. Divide it in half. [T] All right. I have an example for you. [T] This is... what we just did with a little twist on it. [T] This is "
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] This is my example with a little twist on it. [T] Given the measure of angle A V C is 60 degrees, the measure of arc A C is a 130 degrees, [T] you have to find the measure of arc B D."
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] you have to find the measure of arc B D."
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] you have to find the measure of arc B D."
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] you have to find the measure of arc B D. [T] I like how you wrote that like that. [T] How did you get your answer there? [T] What did you do? [T] How, though? How did you use it?"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You did something? [T] Okay. See now I like how you're filling in those blanks. [T] Write it out, show me what you did."
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Write it out, show me what you did. [T] You want to go write that up there for me? [T] Take your book with you if you need it. [T] Good, Katie."
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Good, Katie. [T] Some people had to draw a picture. That's good. Draw your own picture. Some people like to draw it and write an equation. [T] Either way you do it, you gotta show me what you did. [T] Yep, I want you to solve it. [T] Leah did hers with an equation?"
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Leah did hers with an equation? [T] She followed the subtraction, 130 minus X divided by two should give you 60 degrees, she says. [T] She moved the two over and got 120. One thirty minus X equals 120. So she filled in her blank with the X."
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] She moved the two over and got 120. One thirty minus X equals 120. So she filled in her blank with the X. [T] X has to be 10 degrees. One thirty minus 10 degrees is 120 degrees. [T] Good. [T] Anybody else want to tell a different way that you did it? [T] Nobody? [T] You? [T] No? [T] No? [T] You "
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That is absolutely amazing. That is absolutely amazing. Nobody can- Okay. I'll let it go. [T] Okay. That one was the- that one was the- the nice one. [T] That one was the nice one. [T] Not me. [T] No, you gotta show the work. [T] You have to actually do it."
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You have to actually do it."
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You have to actually do it. [T] Okay. That one's good. Good start on that one. [T] What are you gonna do first? Which one are you gonna work on first? The R S U? [T] R S U looks like the vertex is on the circle. [T] What can you do for that? [T] Sometimes it helps if you draw a picture. It helps"
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Sometimes it helps if you draw a picture. It helps me to draw a picture. [T] Raul, what are you doing over here? [T] Which angle are you doing first?"
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Why do you think that one's easier? Why is that? [T] Oh, I see. You're finding this arc first. [T] Oh! Okay. I like that. Not bad."
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] How'd you get this one, Melissa? [T] It has to be half. It's the inscribed angle. Okay. [T] It looks like just about everybody got the first one, R S U. Anybody want to tell me what you did? [T] Katie, did you get that one? R S U. What did you do?"
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Because the R S U, the point, is on the circle- [T] So it has to be... [T] Okay. It has to be half of that intercepted arc. Good. [T] Where are you, Margaret? [T] R V U. What did you come up with?"
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] R V U. What did you come up with? [T] R V U. Well, think about what we just did in the- in the last example. [T] When it's outside the circle. You know R U, that was given. And you know R S- oh, not R S. S T. [T] So, you have 140 and you have 30 degrees."
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So, you have 140 and you have 30 degrees. [T] Okay, you started to subtract. [T] You changing your mind? [T] No? Okay. [T] So, what are you gonna do with that? You got 110. [T] No, yes, no. Maybe? Yes? [T] Look back here. What did we just come up with for this one?"
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Look back here. What did we just come up with for this one? [T] Think about it. I'll be back to you. [T] U S V. U S V. How did you get that one, Leah?"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Okay. [T] Did you follow- [T] Hmm. Show- explain that to me again. Tell me what you just did again. [T] Okay. [T] Okay."
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Oh, okay. You were doing U S V. Okay. Okay. At first- at- at first I thought you were doing the triangle. [T] The triangle sum. But you ended up doing... 180 degrees. [T] Minus... [T] Okay. Okay."
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Okay. [T] I like how you did that different. I wasn't expecting that. I'm sorry, that's why I'm thinking. I wasn't expecting that one. [T] Okay. Good, good. [T] Okay. We're gonna go on with R V U really quickly. R V U. [T] This one, R V U. Here. That's kind of like the example we just did,"
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] This one, R V U. Here. That's kind of like the example we just did, and the very last activity we did. Margaret, go for it. [T] Okay. [T] Good. One thirty- 140 minus 30 gives you 110. Divided in half... 55 degrees. [T] Okay, that's the last theorem we just went over. How about U S V? Let's point"
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] U S V. Going here. I actually got a different way from one person that I w- just really wasn't expecting. [T] I had it one way in my mind, and somebody else gave me a whole different way to think about it. [T] Michaela? [T] Okay. [T] Okay. So she knows that this one is 55. Okay. [T] This one. [T"
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Inscribed angle to get this one. Fifteen, 'cause it's half. Okay. So, so far we have 55 and 15. [T] Okay. She did 180 minus 170, got 110 for this angle here. So she ended up with 110 for this by doing triangle sum. [T] Okay. How about- Leah, tell me what you did, 'cause it just- I was on a whole"
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I was on this inscribed angle and getting the triangle sum theorem. It didn't even occur to me. [T] Okay. We did this, RSU, which was... 70. [T] Okay. [T] Okay. It's a straight angle. It has to be 180."
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And she got 110. [T] That's an easy way. Well, we didn't even- it didn't- it didn't even click in my head. I'm- I'm sure it didn't- took- I was surprised Leah got that. [T] And last one. R W S. [T] Real quick. Don't go. R W S. How would you get that one? [T] She says 95. You say? [T] Ninety-five"
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You did triangle sum? [T] Good. Okay. Thank you, guys. [T] Study, study, study, study, study, study. Tomorrow. [T] Tomorrow. [T] Final."
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Final."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] We're gonna go through the activities kind of quickly, 'cause you should have already had them done and ready to go. [T] Okay? Here's your problem of the day. [T] Ready to go."
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Ready to go. [T] A little review from nine point three. [T] You may already have this in your notes. [T] You might have to look back, try it from memory or look in your notes."
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You might have to look back, try it from memory or look in your notes. [T] I wanna know about the inscribed angle theorem, the right angle corollary, and the arc intercept corollary."
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Say that again. [T] Okay"
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] This is my example with a little twist on it. [T] Given the measure of angle A V C is 60 degrees, the measure of arc A C is a 130 degrees, [T] you have to find the measure of arc B D."
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] you have to find the measure of arc B D."
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] you have to find the measure of arc B D."
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Leah did hers with an equation? [T] She followed the subtraction, 130 minus X divided by two should give you 60 degrees, she says. [T] She moved the two over and got 120. One thirty minus X equals 120. So she filled in her blank with the X."
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You have to actually do it."
+    }
+  ]
+}

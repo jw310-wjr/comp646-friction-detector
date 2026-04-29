@@ -1,0 +1,2321 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science CZ3 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good afternoon, boys and girls. Have a seat. [T] Even though we have had this subject for a short time. [T] We have done a few lessons. We've already discovered some things about chemistry."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We have done a few lessons. We've already discovered some things about chemistry. [T] We've learned something about chemistry. What exactly is chemistry, youngsters? Evo? [T] It's transformations and compositions. Correct. [T] And later on in the other half of today's lesson, we'll get to it. We will get to the fundamentals of the chemically pure substances. [T] We also discussed mixtures right? What are mixtures? Don't be afraid."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We also discussed mixtures right? What are mixtures? Don't be afraid. [T] Yes. Mixtures are matter of different components. What are the ingredients? [T] So, it's your turn. [T] Yes, they are chemically pure matter. How are chemically pure matters distinguished? [T] By the values of the physical variables. What kind of value of physical variables do you know of? Yes? [T] The boiling point, the melting point, and the density. Those are the three most important quantities. Correct."
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The boiling point, the melting point, and the density. Those are the three most important quantities. Correct. [T] Good. And, I'd like to go back to the mixtures for a bit. [T] I'm going to make some mixtures here, and you are going to identify them and characterize them as well. So, let's begin. [T] Here is white chalk, which is used in school. I'll combine it with the chemically pure //distilled water."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Here is white chalk, which is used in school. I'll combine it with the chemically pure //distilled water. [T] What is the distinguishing characteristic of distilled water? [T] It consists of pure water molecules. Very well. So it's just the chalk and water. [T] I'll shake it, and watch what's going to happen. [T] Yes, it's settling down. What kind of mixture is it? Homogenous or heterogeneous? Nicolo? [T] Why?"
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, we recognize the parts of the chalk, because they are way too- [T] Great. So, that would be a suspension. [T] Good, let's try another one. [T] I'll take oil. [T] So I have oil in there and let's put some water in it. I'm mixing it again and what do we see?"
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So I have oil in there and let's put some water in it. I'm mixing it again and what do we see? [T] So, all of you participate, don't be afraid. Veroniko! [T] It is insoluble liquid matter in another liquid. Correct. So, that was another mixture. Let's try a new one."
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'll take a little bit of a soap and put it in the test tube. Again I'll add distilled water to it. [T] And what is it? [T] What is foam? [T] Think about it!"
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Think about it! [T] Yes, it's insoluble gas matter in a liquid. Where do we come across foam on a regular basis? [T] More you play with it //the more foam you make. [T] Correct. Let's try something else. [T] I have one matter here, you pay very close attention."
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I have one matter here, you pay very close attention. [T] I'll add a little drop, a little drop."
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What do you see? [T] Yes, it's burning. We'll talk about it later, but what is this? [T] It is smoke. What is smoke? I can see it clearly even though I put a little amount of it there, so we wouldn't get smoked out. [T] That's right. You are absolutely correct. Where do we experience smoke? [T] Of course. And we have a lot of trouble with it, because it's polluting the air and so on."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Of course. And we have a lot of trouble with it, because it's polluting the air and so on. [T] So we have practiced some of the heterogeneous, heterogeneous mixtures. And I also wanted to show you one more thing. [T] I have some blue vitriol here and you've seen it already, of course. [T] But I'd like you to see the difference between what we just did and what we're about to do now."
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But I'd like you to see the difference between what we just did and what we're about to do now. [T] So, I'm putting the blue vitriol into the test tube, and I'll mix it with the distilled water again. [T] I shake it up and now, everybody, watch the reaction. Look at the difference between this one and that one. [T] Simon, can you see it here in the first row? Go ahead, please. [T] What kind of mixture is this? We've already said that. You identified this correctly the first time."
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Correct. Can you see it? And why? [T] We don't recognize the differences between the two components. Why not? [T] They are not visible just to the eye because it's in what kind of form? You know that from your physics class? [T] Possibly? [T] Possibly? Anything else? [T] Molecules. Correct. Possibly the bigger molecules. So that is the basic difference between homogenous and heterogeneous mixtures."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Molecules. Correct. Possibly the bigger molecules. So that is the basic difference between homogenous and heterogeneous mixtures. [T] The purpose of chemistry and physics is to separate each component, so we can get to the chemically pure matter. [T] Do you know some of the methods of separation of matter? You've seen some already. [T] It is distillation. What is distillation? [T] Only one student knows? That would be a shame. [T] Temperatures at which ingredients boil. That's right. We've also paid some attention to the air."
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And we talked about the oxygen and //nitrogen and other gases which are made by distillation of liquefied air at its boiling point. [T] Tell me some of the boiling points. Do you remember them? [T] Yes. [T] //Yes. [T] Yes. Another method of mixture separation //is crystallization. [T] Look at this. You have already done it, and we talked about it during your laboratory work. And here I have little crystals of blue vitriol."
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Look at this. You have already done it, and we talked about it during your laboratory work. And here I have little crystals of blue vitriol. [T] I'd like to show you one important thing. I hope that I'll be successful. I want to show you a different kind of crystallization. [T] I'll use a substance which you already know. It's naphthalene. And next, I'll take- I'd like to ask you first? [T] Is naphthalene soluble? Do you remember? In water?"
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is naphthalene soluble? Do you remember? In water? [T] In what is naphthalene soluble? [T] In organic solvents. Correct. So now, I put little bit of the naphthalene into the test tube. [T] So far, I have a little too much of it in here, so I'll put that aside. I have to scoop it up again."
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So far, I have a little too much of it in here, so I'll put that aside. I have to scoop it up again. [T] So now I have the naphthalene in the test tube, and let's add the organic solvent. [T] As you can see, the naphthalene is really dissolving, isn't it."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] As you can see, the naphthalene is really dissolving, isn't it. [T] Now, I'll take a Petri dish and we'll try something. [T] So now you can see the reflection and I drop a little bit of the dissolved naphthalene- I'll put a drop in the Petri dish."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And now, you can keep watching it. [T] If anything is going to happen. So, keep watching it."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If anything is going to happen. So, keep watching it. [T] So now you can see it. It's appearing in the reflection and everybody can see it. What do you see, //slowly? [T] Yes. You can start seeing little crystals. It's quite fast crystallization and now I'll tell you why. [T] When there is crystallization of blue vitriol, it takes a lot longer. Here, you see, I haven't raised the temperature at all. [T] Because the organic solvent quickly-"
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Because the organic solvent quickly- [T] Correct. It evaporates quickly and I think it's obvious that it was a successful experiment. [T] So that's information regarding the mixtures. [T] One of the most important mixtures- the mixtures for our survival is for example- [T] That's not a mixture. [T] Water, good. And also the other gas mixture? [T] It is the air. Can any of you tell me- we have little time for this. Can you tell me, what kind of ingredients are in the air?"
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It is the air. Can any of you tell me- we have little time for this. Can you tell me, what kind of ingredients are in the air? [T] So, Ivono, I think you know this stuff very well today. Please, go ahead. [T] No. Definitely not the cobalt. [T] //Yes. [T] Inert gases. Now, we're not going to discuss any details, but I'd like to show you three different types of gases."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Inert gases. Now, we're not going to discuss any details, but I'd like to show you three different types of gases. [T] And you should be able to recognize them and characterize them. So I'm going to start now. [T] So into this test tube, I'll put-."
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So into this test tube, I'll put-. [T] Potassium permanganate, yes. [T] So that's enough. I've put calcium carbonate in this beaker. I'm only going to tell you that it's a marble. It's calcium carbonate. [T] And in this test tube, I have hydrogen. I'm sorry, it's zinc. I apologize. It's zinc. And now we'll watch the reaction."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And in this test tube, I have hydrogen. I'm sorry, it's zinc. I apologize. It's zinc. And now we'll watch the reaction. [T] I'll put hydrogen chloride into the first beaker. And I'd like you to notice that the dishes are set next to one another. [T] So I added hydrogen chloride to that, okay? Look at it."
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So I added hydrogen chloride to that, okay? Look at it. [T] Here, I have that potassium permanganate, and I'm going to warm it up. [T] So now, I'll take... okay? We can turn this off and you can see the crystals here, okay?"
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So now, I'll take... okay? We can turn this off and you can see the crystals here, okay? [T] So now we're going to take a look at the changes. Here you can see that it's effervescing and foaming. [T] I'll put it in this first beaker. It's burning."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It died immediately. [T] You could be correct because you're not so familiar with chemistry yet. It definitely shut down the flame. [T] So we know that there is a passive component of the air which doesn't support the burning. I completely agree. [T] But I've told you kids, that I put calcium //carbonate in there. So I think that should help you little bit. [T] So now, I'm going to do something different."
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So now, I'm going to do something different. [T] We have to wait little longer. It's already visible even if this wasn't very successful. Did you see how it flamed up? [T] Now, it's more obvious, okay? There is a substance, which is- [T] Yes, correct, it supports burning. So what is it going to be? [T] Yes, it's oxygen. And some of you already realize that the previous element wasn't nitrogen because I'm not able to create it here."
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, it's oxygen. And some of you already realize that the previous element wasn't nitrogen because I'm not able to create it here. [T] It is carbon dioxide. Vero, could you possibly characterize the oxygen, please? [T] Yes, it's also used in fire extinguishers. Correct. And oxygen is an active air component- let someone else answer the question. So you go ahead. [T] Where and what for, do we use oxygen?"
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Where and what for, do we use oxygen? [T] //For welding and cutting metals. Oxygen- acetylene, oxygen- hydrogen flame. Correct. [T] And now I'm going to add little bit of hydrogen chloride into the zinc. So. [T] From the layout of the beakers, you could've realized- when I left it out here, that-"
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Than the air and over here- [T] //Also. And here you can see that I have a little different position, and I have to let it sit for a while. [T] Yes, yes, that's correct. It's the lightest- [T] //Gas. Correct. What was the hydrogen used for? I've said used. [T] Why can't we use it anymore? I think it's obvious. [T] Yes. It's very explosive. I've also said, that it's going to be hydrogen, so let's prove it."
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. It's very explosive. I've also said, that it's going to be hydrogen, so let's prove it. [T] And because we're running out of time. What time is it? [T] Nine twenty, great. So soon enough we'll move on."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, let's see if it's there. [T] Yes. So, we will pay attention to this a little more. [T] First of all it was a little explosion and the second part is, who watched it carefully see, that the test tube got //foggy. [T] That means, there is- [T] Steam. [T] Because hydrogen was combined with oxygen, and we've got water. Water. Good. Now, we're going to pay attention to a new subject. [T] Because, to my knowledge, you covered this very well. So again, what do I have here (inaudible)?"
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Because, to my knowledge, you covered this very well. So again, what do I have here (inaudible)? [T] Distilled water. Distilled water. It is- [T] Correct. It contains only... Don't be afraid. [T] Molecules of pure water. That means that the basic building blocks of chemically pure compounds are- [T] The molecules. And now, please take your notebooks and write it down."
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The molecules. And now, please take your notebooks and write it down. [T] The subject of today's lesson is elementary composition of matter. Elementary composition of matter."
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The subject of today's lesson is elementary composition of matter. Elementary composition of matter. [T] As you formulated correctly, the basic building blocks of compounds are molecules. By the way, I think you should know that from physics. [T] So, the building blocks of compounds are molecules... are molecules. The building blocks of compounds are molecules."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, the building blocks of compounds are molecules... are molecules. The building blocks of compounds are molecules. [T] And of course, we mean chemically pure compounds. [T] And today, we're going to pay attention to the typical characteristics of matter. Let's try it out. I'll take another Petri Dish."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And today, we're going to pay attention to the typical characteristics of matter. Let's try it out. I'll take another Petri Dish. [T] And I'll take chemically pure water again and-"
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And I'll take chemically pure water again and- [T] Now, I'll take the different matter which is the organic matter. It's called camphor. Camphor is very light and that is its typical quality. [T] So, I'll put some of it there and add little bit of water."
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, I'll put some of it there and add little bit of water. [T] I have to remind you that it's distilled water. [T] And again, I'll turn on the overhead projector and now I'll put down little bit of the camphor. You can probably see it."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And again, I'll turn on the overhead projector and now I'll put down little bit of the camphor. You can probably see it. [T] And now you know it from physics, and I'm glad I can continue on that- [T] Yes, there is water, molecules of water, nothing else. We also have the camphor there and like you've said, it's Brownian motion. [T] Mr. Robert Brown was observing this motion in a slightly different form in the year 1827 when he observed- you might know."
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Mr. Robert Brown was observing this motion in a slightly different form in the year 1827 when he observed- you might know. [T] Yes, water and pollen grains. He was a botanist and he observed water and pollen grains. And, all of a sudden, he saw this movement. [T] Originally, he thought that it's done by some vital force, by vitality of the pollen. [T] But because he was a scientist, he knew that in chemistry, physics, and any other natural science, you need to do a controlled test. [T] So he did it. And instead of pollen grains, he used a printer's ink, and he got the same reaction."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So he did it. And instead of pollen grains, he used a printer's ink, and he got the same reaction. [T] So now we understand Brownian motion. What is hitting the molecules of camphor? What is pushing it? [T] There are molecules of water. Yes, molecules of water. So the first basic quality of molecules is? [T] Yes, and its chaotic movement. Very well. Random. So now we're going to write it down."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, and its chaotic movement. Very well. Random. So now we're going to write it down. [T] Yes. So Brownian motion is constant and random movement of molecules."
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. So Brownian motion is constant and random movement of molecules. [T] And now we're going to investigate... [T] How molecules move in different environments. I'm going to use the environment of the classroom. Pavel, what is it?"
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] How molecules move in different environments. I'm going to use the environment of the classroom. Pavel, what is it? [T] Great. So I'm going to use what state of matter? [T] Gaseous state. I'm going to use //liquid state as well. [T] And I'm also going to use some kind of unusual state of matter which I made before. It is a thick gelatinous matter."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, let's begin. First of all, gaseous matter. And watch. [T] By the way, what is it? [T] Fog, yes. Great. It's an aerosol. It's a fog. And look at this. And now use your other sense. [T] Is it done?"
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is it done? [T] Good. You are resisting; I know you. Here, I have water. [T] And on the top of the test tube with water, I put nothing else than filter paper. And I'll add to it, something we've already used today..."
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And on the top of the test tube with water, I put nothing else than filter paper. And I'll add to it, something we've already used today... [T] Potassium permanganate. [T] Now, you're going to watch it. I'll add little bit of water."
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now, you're going to watch it. I'll add little bit of water. [T] And keep watching it. [T] Girls and boys, I have four complex chemical compounds here for you. They are salts of heavy colored //metals. [T] We don't really care about the names at this point. I'll show it to you later on, but first, I need to put it there. [T] Here, I have the thick, very thick solutions. Can you see it? Yes, it is the gelatin. I put iron trichloride into one of them, for example."
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Here, I have the thick, very thick solutions. Can you see it? Yes, it is the gelatin. I put iron trichloride into one of them, for example. [T] Iron trichloride. Later on, I'll show you that closer. [T] Into the second one, I put nickel sulfate."
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Into the second one, I put nickel sulfate. [T] Here we go. [T] Yes, I put it here. Into the third one, I put copper sulfate."
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, I put it here. Into the third one, I put copper sulfate. [T] For example into the next one I add copper nitrate. Look at this- beautiful blue crystalline matter. [T] Girls, wouldn't you like that?"
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And now, I let it react, kids. [T] So, we do a lot of it together, but you can see the great penetration. Are you able to see that the potassium permanganate- [T] And here I take it, so you can see it better. It's much slower even though here you can see //the penetration."
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And here I take it, so you can see it better. It's much slower even though here you can see //the penetration. [T] In this kind of experiment, the waiting period is 24 hours. Of course we're not going to wait that long. [T] But still today, after the break, you should come back and check out how far the penetration went. Here, you can see it very nicely. [T] But I wanted to get one thing out of it. In what kind of environment did the molecules expand the fastest?"
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But I wanted to get one thing out of it. In what kind of environment did the molecules expand the fastest? [T] In gas, correct. It was very obvious. The next one was //liquid matter. [T] And the slowest one was in the thickest environment- gelatinous matter. [T] In the solid state, absolutely solid state, penetration is very, very slow, almost none."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] In the solid state, absolutely solid state, penetration is very, very slow, almost none. [T] The penetration of molecules from one substance into another substance. Not \"into another\" but between the molecules of another substance. What is it called? [T] Does anyone know? This effect is called? Ireno? //You should know it. [T] Yes, it is diffusion. [T] So diffusion is penetration of molecules of one substance- But be careful. Not the molecules into another substance, but between the molecules of another substance."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So diffusion is penetration of molecules of one substance- But be careful. Not the molecules into another substance, but between the molecules of another substance. [T] I told you to pay attention to this experiment because I did something very different with this potassium permanganate. [T] I warmed it up and the potassium permanganate started //cracking, yes. There was some releasing of water. [T] But most definitely, the potassium permanganate was decomposing because there was the formation of oxygen."
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But most definitely, the potassium permanganate was decomposing because there was the formation of oxygen. [T] So that means that it was a chemical change. A new chemical substance was formed. [T] And I'm asking you: Is this a chemical or physical change? [T] This is maybe a bit difficult for you, but one more time. This is all, obviously, a chemical //change. There is a formation of new substances. [T] This is a //physical change. [T] The base of potassium permanganate //is not changing."
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So please, write it down. Diffusion... [T] It is the penetration of molecule one of one substance..."
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It is the penetration of molecule one of one substance... [T] Between molecules, molecules... [T] Of different matter. [T] Between molecules of different substances. [T] Between molecules of different substances."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Between molecules of different substances. [T] So the fastest one, like you've said before, is //gaseous state. [T] Just for your interest, I'm going to mention that the speed of the hydrogen molecules- the lightest element- is fantastic. [T] It is around seven or eight thousand kilometers in one hour. The speed of molecules of oxygen is 1,800. [T] Molecules of carbon dioxide, which we made here is 1,200 kilometers in an hour."
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Please, tell me. [T] Why are the molecules of hydrogen the fastest, molecules of oxygen slower, and molecules of carbon dioxide the slowest? [T] Only two of you? It should be more of you. So, Simone, try it. [T] Hydrogen is the lightest element. It has the smallest molecules, yes. After that is oxygen, after is... good. [T] So write it down. You can do it by yourself. I'm just going to dictate. The speed of movement of molecules..."
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So write it down. You can do it by yourself. I'm just going to dictate. The speed of movement of molecules... [T] The speed of movement of molecules is the fastest... [T] In a gaseous state."
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] In a gaseous state. [T] A dot. In a gaseous state. [T] Good. Some of the molecules are very simple, and some of them are very difficult. [T] Can any of you draw some simple molecules on the blackboard? Don't be afraid. Come here, take a chalk. You can choose a color."
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Can any of you draw some simple molecules on the blackboard? Don't be afraid. Come here, take a chalk. You can choose a color. [T] It depends on what you're going to draw, good. Come on. [T] Some of the molecules are very simple. Today we prepared hydrogen and oxygen. [T] So, yes."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What does the one blue... mean? One blue circle? [T] Yes, it's an atom. Great, Simone. What did you draw there exactly? Tell us something about that in your own words. Don't worry. [T] Yes, an atom of oxygen. [T] Atom. [T] Becomes? [T] So you can see that an oxygen molecule is very simple. It has two atoms. Can somebody draw a hydrogen molecule? [T] Come on up. You can sit down, Simone. Very good job."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Come on up. You can sit down, Simone. Very good job. [T] And, Nikolo, you can try to draw the water molecule. Let's go. [T] So you put it together this way. I agree."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So you put it together this way. I agree. [T] And we talked about how water originated on our planet. Does anyone remember that? [T] Yes. So, simply put during the condensation. [T] And Norbert is trying to outline, at the board, what is being said."
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And Norbert is trying to outline, at the board, what is being said. [T] What does it mean? Please explain. [T] //Yes, we can- [T] The molecule of water. So, kids. Some of the molecules are very simple. Some of them are very simple. [T] For example, you saw- I don't know where I put it now, but that's not important now. A solution of blue vitriol. [T] Or here, you can see the solution of potassium permanganate. But I'll show you at the end of today's class that some of the molecules,"
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Or here, you can see the solution of potassium permanganate. But I'll show you at the end of today's class that some of the molecules, [T] Are very complex. These are primary molecules that can be found in natural substances. I have a simple egg here. [T] And girls should help me now, girls. And I'm trying to do one thing."
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And girls should help me now, girls. And I'm trying to do one thing. [T] And I'm separating- [T] Not very successful and yet I've done it all right. So I separated the egg yolk from //the egg white. [T] Correct. So now, I have the egg white here. What state of matter is it?"
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, it's a liquid. That means that it's a //solution. [T] Solution. But be careful. Look at this solution and look at this one as well. [T] It has higher density. I agree. But if you again look at this solution, is it clear or it is not?"
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It has higher density. I agree. But if you again look at this solution, is it clear or it is not? [T] It is cloudy. It's cloudy. This cloudiness is called opalescence in foreign terminology. It is cloudy. Do you know why it's cloudy? [T] Why is this one clear even though it's colored? [T] No. It's not because of that, but why? We've said that homogeneous mixtures are the kind of mixtures... yeah..."
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No. It's not because of that, but why? We've said that homogeneous mixtures are the kind of mixtures... yeah... [T] where we do not recognize each... Ok, I'll finish this myself... each ingredient. Because in another form are molecules. [T] The molecules are so little here, so we can't see them. [T] But here in the complicated organic compounds, the molecules are so small, so we can't see them with the naked eye."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But here in the complicated organic compounds, the molecules are so small, so we can't see them with the naked eye. [T] But they are so big that they reflect //the light. So that's why we have the cloudiness here, and that's why we have the opalescence. [T] We call this a colloid solution. A colloid solution, or different name, is a false solution. All right. [T] Some of the molecules are so big that they can reflect the light. How do you translate big in a different language? It's a prefix."
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Some of the molecules are so big that they can reflect the light. How do you translate big in a different language? It's a prefix. [T] That's good. I'm glad you know it in German. So, small- Let's do it this way: One meter, one thousandth of one meter is? [T] Milli, milli, small is milli, milli, milli. [T] Yes, it could be mega. And here it is macro, so I'll finish it myself so we can finish the class on time. Macro."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, it could be mega. And here it is macro, so I'll finish it myself so we can finish the class on time. Macro. [T] You know the huge supermarkets, don't you? Macro. That's why we call it macro. So these are macromolecules. [T] So now, let's write it down: Some of the molecules are simple. They are simple."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So now, let's write it down: Some of the molecules are simple. They are simple. [T] What kind of solutions do they make? The ones where we do not recognize, these solutions we call the true simple solutions. Simple molecules create true solutions. You already know the symbol for solution, don't you? So, the true solutions. [T] Some of the molecules are simple, true solutions."
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Some of the molecules are simple, true solutions. [T] Some of the molecules are complicated, big. We call them macromolecules. Macromolecules, big, complicated."
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Some of the molecules are complicated, big. We call them macromolecules. Macromolecules, big, complicated. [T] Macromolecules, macro, big, kids write it down. Macro. [T] And they make colloid solutions... colloid solutions."
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And they make colloid solutions... colloid solutions. [T] And we have to mention that they are mostly natural substances. [T] So now, I'm going to write it over here. You're going to continue under... mostly natural matter, natural matter. [T] What kind of natural matter, for example, did you see here? The one what makes a colloid solution?"
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. That is true, Petre. But I mean the colloid solution. [T] The egg white. Yes. So proteins, for example. So I'll write it down. Proteins. [T] And in today's life, they come into our lives more and more. And what about these substances? Like I have it right here. [T] Yes, it is plastic. Plastic is also formed by macromolecular matter. So now we're going to add it there, plastic."
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, it is plastic. Plastic is also formed by macromolecular matter. So now we're going to add it there, plastic. [T] And so on- [T] So, girls and boys, have you finished writing it down? So today we repeated mixtures, some substances. For example, oxygen, hydrogen. [T] Next we talked about new substances, like molecules and their unsteady and random movement."
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Next we talked about new substances, like molecules and their unsteady and random movement. [T] And then where the movement is the biggest, the fastest, the smallest. And next, we discussed the true solutions and colloid solutions. [T] I'd like to say that you worked very well. I won't have time right now to go around and look at your work, but I pretty much know how you work. [T] So at the beginning of the next lesson, I'll go over that and grade your work. We'll consider today's lesson as a little oral grading. Yes."
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So at the beginning of the next lesson, I'll go over that and grade your work. We'll consider today's lesson as a little oral grading. Yes. [T] We'll do the grading later. Please, take out your textbooks. The big new books on pages 20 and 21, please. [T] And you have a section there- [T] Why didn't you excuse yourself? [T] You forgot again. All right."
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You forgot again. All right. [T] So, pages 20 and 21. So, on pages 20 and 21, you have an article about the things I was talking about. [T] Everything I've mentioned today is in this section here. And we finished on the page 21 at the macromolecules, right here. [T] Okay. So that was good timing. And next time, you're going to know something about molecules."
+      }
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So that was good timing. And next time, you're going to know something about molecules. [T] And I'll come back to the grading of your work. That would be all. [T] You can leave now. Bye."
+      }
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2730.0,
+        "t_end": 2760.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The boiling point, the melting point, and the density. Those are the three most important quantities. Correct. [T] Good. And, I'd like to go back to the mixtures for a bit. [T] I'm going to make some mixtures here, and you are going to identify them and characterize them as well. So, let's begin. [T] Here is white chalk, which is used in school. I'll combine it with the chemically pure //distilled water."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I have one matter here, you pay very close attention. [T] I'll add a little drop, a little drop."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So far, I have a little too much of it in here, so I'll put that aside. I have to scoop it up again. [T] So now I have the naphthalene in the test tube, and let's add the organic solvent. [T] As you can see, the naphthalene is really dissolving, isn't it."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] As you can see, the naphthalene is really dissolving, isn't it. [T] Now, I'll take a Petri dish and we'll try something. [T] So now you can see the reflection and I drop a little bit of the dissolved naphthalene- I'll put a drop in the Petri dish."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So into this test tube, I'll put-. [T] Potassium permanganate, yes. [T] So that's enough. I've put calcium carbonate in this beaker. I'm only going to tell you that it's a marble. It's calcium carbonate. [T] And in this test tube, I have hydrogen. I'm sorry, it's zinc. I apologize. It's zinc. And now we'll watch the reaction."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And in this test tube, I have hydrogen. I'm sorry, it's zinc. I apologize. It's zinc. And now we'll watch the reaction. [T] I'll put hydrogen chloride into the first beaker. And I'd like you to notice that the dishes are set next to one another. [T] So I added hydrogen chloride to that, okay? Look at it."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So I added hydrogen chloride to that, okay? Look at it. [T] Here, I have that potassium permanganate, and I'm going to warm it up. [T] So now, I'll take... okay? We can turn this off and you can see the crystals here, okay?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So now, I'll take... okay? We can turn this off and you can see the crystals here, okay? [T] So now we're going to take a look at the changes. Here you can see that it's effervescing and foaming. [T] I'll put it in this first beaker. It's burning."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It died immediately. [T] You could be correct because you're not so familiar with chemistry yet. It definitely shut down the flame. [T] So we know that there is a passive component of the air which doesn't support the burning. I completely agree. [T] But I've told you kids, that I put calcium //carbonate in there. So I think that should help you little bit. [T] So now, I'm going to do something different."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The molecules. And now, please take your notebooks and write it down. [T] The subject of today's lesson is elementary composition of matter. Elementary composition of matter."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The subject of today's lesson is elementary composition of matter. Elementary composition of matter. [T] As you formulated correctly, the basic building blocks of compounds are molecules. By the way, I think you should know that from physics. [T] So, the building blocks of compounds are molecules... are molecules. The building blocks of compounds are molecules."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, the building blocks of compounds are molecules... are molecules. The building blocks of compounds are molecules. [T] And of course, we mean chemically pure compounds. [T] And today, we're going to pay attention to the typical characteristics of matter. Let's try it out. I'll take another Petri Dish."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And today, we're going to pay attention to the typical characteristics of matter. Let's try it out. I'll take another Petri Dish. [T] And I'll take chemically pure water again and-"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And I'll take chemically pure water again and- [T] Now, I'll take the different matter which is the organic matter. It's called camphor. Camphor is very light and that is its typical quality. [T] So, I'll put some of it there and add little bit of water."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, I'll put some of it there and add little bit of water. [T] I have to remind you that it's distilled water. [T] And again, I'll turn on the overhead projector and now I'll put down little bit of the camphor. You can probably see it."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And again, I'll turn on the overhead projector and now I'll put down little bit of the camphor. You can probably see it. [T] And now you know it from physics, and I'm glad I can continue on that- [T] Yes, there is water, molecules of water, nothing else. We also have the camphor there and like you've said, it's Brownian motion. [T] Mr. Robert Brown was observing this motion in a slightly different form in the year 1827 when he observed- you might know."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Mr. Robert Brown was observing this motion in a slightly different form in the year 1827 when he observed- you might know. [T] Yes, water and pollen grains. He was a botanist and he observed water and pollen grains. And, all of a sudden, he saw this movement. [T] Originally, he thought that it's done by some vital force, by vitality of the pollen. [T] But because he was a scientist, he knew that in chemistry, physics, and any other natural science, you need to do a controlled test. [T] So he did it. And instead of pollen grains, he used a printer's ink, and he got the same reaction."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is it done? [T] Good. You are resisting; I know you. Here, I have water. [T] And on the top of the test tube with water, I put nothing else than filter paper. And I'll add to it, something we've already used today..."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now, you're going to watch it. I'll add little bit of water. [T] And keep watching it. [T] Girls and boys, I have four complex chemical compounds here for you. They are salts of heavy colored //metals. [T] We don't really care about the names at this point. I'll show it to you later on, but first, I need to put it there. [T] Here, I have the thick, very thick solutions. Can you see it? Yes, it is the gelatin. I put iron trichloride into one of them, for example."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Into the second one, I put nickel sulfate. [T] Here we go. [T] Yes, I put it here. Into the third one, I put copper sulfate."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, I put it here. Into the third one, I put copper sulfate. [T] For example into the next one I add copper nitrate. Look at this- beautiful blue crystalline matter. [T] Girls, wouldn't you like that?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And now, I let it react, kids. [T] So, we do a lot of it together, but you can see the great penetration. Are you able to see that the potassium permanganate- [T] And here I take it, so you can see it better. It's much slower even though here you can see //the penetration."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So diffusion is penetration of molecules of one substance- But be careful. Not the molecules into another substance, but between the molecules of another substance. [T] I told you to pay attention to this experiment because I did something very different with this potassium permanganate. [T] I warmed it up and the potassium permanganate started //cracking, yes. There was some releasing of water. [T] But most definitely, the potassium permanganate was decomposing because there was the formation of oxygen."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So please, write it down. Diffusion... [T] It is the penetration of molecule one of one substance..."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Can any of you draw some simple molecules on the blackboard? Don't be afraid. Come here, take a chalk. You can choose a color. [T] It depends on what you're going to draw, good. Come on. [T] Some of the molecules are very simple. Today we prepared hydrogen and oxygen. [T] So, yes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Come on up. You can sit down, Simone. Very good job. [T] And, Nikolo, you can try to draw the water molecule. Let's go. [T] So you put it together this way. I agree."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No. It's not because of that, but why? We've said that homogeneous mixtures are the kind of mixtures... yeah... [T] where we do not recognize each... Ok, I'll finish this myself... each ingredient. Because in another form are molecules. [T] The molecules are so little here, so we can't see them. [T] But here in the complicated organic compounds, the molecules are so small, so we can't see them with the naked eye."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Some of the molecules are simple, true solutions. [T] Some of the molecules are complicated, big. We call them macromolecules. Macromolecules, big, complicated."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Some of the molecules are complicated, big. We call them macromolecules. Macromolecules, big, complicated. [T] Macromolecules, macro, big, kids write it down. Macro. [T] And they make colloid solutions... colloid solutions."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, it is plastic. Plastic is also formed by macromolecular matter. So now we're going to add it there, plastic. [T] And so on- [T] So, girls and boys, have you finished writing it down? So today we repeated mixtures, some substances. For example, oxygen, hydrogen. [T] Next we talked about new substances, like molecules and their unsteady and random movement."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/S-CZ3"
+}

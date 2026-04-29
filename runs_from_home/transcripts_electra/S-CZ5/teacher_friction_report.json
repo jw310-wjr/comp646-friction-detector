@@ -1,0 +1,1809 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science CZ5 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This one. And something else yet. Which one is it? [T] This one. [T] So, good morning. [T] So, kids. I think that we can start to work with enthusiasm. Let's see what we can do."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, kids. I think that we can start to work with enthusiasm. Let's see what we can do. [T] Before we even start. What are we trying to do? What are we trying to understand or which goal to set, Kristinko? [T] Buoyancy. To figure out what it depends on. We already know; who identified buoyancy? [T] Archimedes. So, he'll keep an eye on us from the rear to see if we understand him correctly. [T] Or, if we still have a gap in our knowledge which we can fill together."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Or, if we still have a gap in our knowledge which we can fill together. [T] Let's try it now. All that I need from you is your attention. [T] I see already that a mistake has been made. Now I have it here. So, we can start. [T] I have prepared a stone. And how will I find the Earth's force which pulls the stone down? How can I find out? Petre?"
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I have prepared a stone. And how will I find the Earth's force which pulls the stone down? How can I find out? Petre? [T] We measure it with a spring scale. So, I'll try it. Let's watch carefully. [T] We don't need a precise value, it's enough to watch the red and white strip. How much? [T] And now let's watch what is going to happen. What do we notice? What do we notice, Adelko?"
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And now let's watch what is going to happen. What do we notice? What do we notice, Adelko? [T] So, this was very difficult for me to understand. Let's try it in parts. [T] Regardless of the physics involved, what is the first thing that you observe. What is all that we can observe, Marketko?"
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It indicates less. Has anyone noticed something else? Marketko? [T] The level of the water has gone up. Excellent. Let's pay attention one more time and try to put everything together. [T] We'll watch the stone and the spring scale. Are you noticing anything overall? Zitko?"
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Do you think that the gravity is less? Daso? [T] The buoyancy is greater. So, exactly what is the spring scale indicating? Does it indicate the buoyancy or the difference between gravity and buoyancy? [T] Buoyancy and gravity. Do you think that my hand feels the difference or not?"
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Do you think that it is easier for me to hold the spring scale or is it easier now... or now? Tadeas, Jirko? [T] I can hold it easier. Why? [T] It helps me, right, it helps me. Look, I have two containers with water. Let's pay close attention. I'll put it into the second container."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It helps me, right, it helps me. Look, I have two containers with water. Let's pay close attention. I'll put it into the second container. [T] Kveta will come closer to be able to read it. Kveto, come. What value does the spring scale indicate now? [T] One and a quarter. [T] One and a quarter. I'll pull it up a bit so that you'll be able to see the whole scale, okay? [T] One and a quarter. What does it indicate now? [T] One and a half. Kveto, you may sit down. How come? How is it possible? Oto?"
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] One and a half. Kveto, you may sit down. How come? How is it possible? Oto? [T] And the other one, which one do you mean? [T] This one? So, how might I find out whether it is really salty? What? How shall I find out, Zito? [T] Taste it. And do you really think if we are here with the chemists that I can taste it? [T] What? So, we have to rely on what we know. Please, Oto, how did you decide that the other water is salty?"
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What? So, we have to rely on what we know. Please, Oto, how did you decide that the other water is salty? [T] It is more buoyant. So, I'll try to write down what we were able to find out. [T] We're able to find out that buoyancy is connected with the volume of an object."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We're able to find out that buoyancy is connected with the volume of an object. [T] You will help me with the symbol. Which? For the volume of an object? [T] Petro? [T] The letter V. And with what else will it be connected? What did Ondra say, Tadeasi? [T] With the density of water. It'll be water or we may use- any liquid. And help me with the symbol here?"
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] With the density of water. It'll be water or we may use- any liquid. And help me with the symbol here? [T] The symbol rho, excellent. So, the truth which we've demonstrated is that buoyancy is related to these. [T] An we'll try to inquire into- to point out how big the buoyancy is. [T] We have an aid for that reason. One cylinder is full, the other is empty and they fit ideally into each other. And when they fit into each other, it means-"
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We have an aid for that reason. One cylinder is full, the other is empty and they fit ideally into each other. And when they fit into each other, it means- [T] What does it say? What does it say, Martino? [T] That they have the same volume. This will be very handy. This aid was made by someone who already knew the Archimedes' principle. And therefore he wanted to help us, to make it easier for us. [T] I'll try it now. And we'll pay attention again."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'll try it now. And we'll pay attention again. [T] So. Before we do it let's get some water. Like this. We'll prepare it and I need more water."
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, let me use this one, for example. So I'll prepare a bowl. I have a beaker in this bowl and I'll pour the water in a way that the surface will remain smooth, okay? [T] The surface should be level with the edge of the beaker. Let's watch. [T] Let's look. The spring scale shows three white and two red stripes. The last white one is not shown completely. Let's look again. Which force is measured, Kristinko?"
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Let's look. The spring scale shows three white and two red stripes. The last white one is not shown completely. Let's look again. Which force is measured, Kristinko? [T] We measure gravity. How the Earth pulls on it. Let's look. I should turn that around. What else should I notice? What else should I notice? Zito?"
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The spring scale indicates less. Why, Tadeasi? [T] The water overflowed. How much of that water overflowed? How much of that water overflowed? Kristinko? [T] The same as is the volume of that roller. Therefore the spring scale indicates less, because the water is helping me. [T] And pay attention. If I pull on it to get the primary value, you tell me... How big of a force is in my hand?"
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] And pay attention. If I pull on it to get the primary value, you tell me... How big of a force is in my hand? [T] How big of a force is in my hand now, Martino? [T] Or as is? Petre? [T] How big is the buoyancy. So, now I'll use the displaced water instead of pulling with my hand. So, let me try it this way."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] How big is the buoyancy. So, now I'll use the displaced water instead of pulling with my hand. So, let me try it this way. [T] And what do we expect? What do we expect if I add the displaced water now? What does the spring scale indicate, Jirko? [T] Hmm, excellent. How big is the buoyancy? How big is the buoyancy? Kristinko?"
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Hmm, excellent. How big is the buoyancy? How big is the buoyancy? Kristinko? [T] Which was displaced and which we added back. And we were able to see it. Excellent. [T] So, let's us look, let's us look at the formula, which Mr. Archimedes subsequently drew up. [T] We've already seen how big the buoyancy is. We described that in words and now we need to mark it in the formula."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] We've already seen how big the buoyancy is. We described that in words and now we need to mark it in the formula. [T] So, the force will play a role in there. It is the buoyancy. And repeat it one more time that the buoyancy is as big as what? [T] As the gravitational force of water displaced by an object. So, I'll try it. The mass of an object multiplied by g, which for our country is 10 Newtons per kilogram."
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] As the gravitational force of water displaced by an object. So, I'll try it. The mass of an object multiplied by g, which for our country is 10 Newtons per kilogram. [T] Excellent. How will I continue? What now? It is the mass of an object multiplied by a g. Do you I have the object correct or not? [T] Is there a mistake? Repeat it one more time? Is it a mass, gravitational force of what?"
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is there a mistake? Repeat it one more time? Is it a mass, gravitational force of what? [T] Water should be there, you said that correctly, but my thoughts are somewhere else, therefore I wrote that incorrectly. [T] I was one step ahead. What mass is it? A mass of displaced water. Okay."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] I was one step ahead. What mass is it? A mass of displaced water. Okay. [T] So, I would have to- you have to watch over me. Displaced water. And how can I write down that displaced water? [T] How can I write that down? Can I use the mass and the volume? May I write that mass with the help of a density and a volume? Is that possible? [T] What do you think? I'll help you. Look in here, mass, density, volume. I want to calculate a mass. How can I help myself, Tadeasi?"
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What do you think? I'll help you. Look in here, mass, density, volume. I want to calculate a mass. How can I help myself, Tadeasi? [T] //Uh-huh. [T] Excellent. The volume of an object and I'll multiply it by its density. And I won't forget the g. [T] So, that is the mathematical formulation of what we saw. Okay."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] So, that is the mathematical formulation of what we saw. Okay. [T] Swimming is certainly connected to buoyancy. Have you ever thought of why we have to learn to swim? [T] Who has a dog at home? Does anyone have a dog? So, did you have to teach your dog to swim or does he know how to? Who knows that his dog can swim?"
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Who has a dog at home? Does anyone have a dog? So, did you have to teach your dog to swim or does he know how to? Who knows that his dog can swim? [T] Vojto? Does he know how to swim? [T] He knows. Did anyone teach him how to swim? [T] Nobody did. How is it possible that the dog can swim automatically, but humans can't, Tadeasi? [T] And aren't we? [T] He could be self-taught. He knows how to do it. Now, tell me, how is this possible? Picture a dog swimming in the water."
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] He could be self-taught. He knows how to do it. Now, tell me, how is this possible? Picture a dog swimming in the water. [T] What sticks out of the water while he swims? [T] What is sticking out of the water when a dog is swimming? Kveto? [T] A head. All of it? [T] Probably not. For us to be able to breathe, the water must be to here. What about a dog? His snout is also as low? [T] He has it relatively high. Therefore the ears, eyes, and snout stick out and he is relatively deep in the water."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] He has it relatively high. Therefore the ears, eyes, and snout stick out and he is relatively deep in the water. [T] Is there any reason for the dog- that only a small part of the body sticks out? Daso? [T] And it is just enough for him. With regard to humans who are afraid and stick the whole head out. [T] Which results in our constant improvement of swimming techniques. Okay. So."
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Which results in our constant improvement of swimming techniques. Okay. So. [T] And what do you think? Does modeling clay float? How will I find out if it floats? How will I find out if it floats? Oto? [T] I'll throw it in the water. So, I'll throw modeling clay in the water and be able find out if it floats or not, okay? [T] So, what do you think? Is it going to float?"
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Whoever thinks that modeling clay floats, please, raise your hand. [T] //So. What Petre? [T] If I teach it. So, you realized, what I meant by that. So, you've said, throw it in and I'll find out. So. And, now, tell me why? [T] Why did that happen? Why did that happen? Why did that happen?"
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Than the buoyancy. Excellent. So I would like to write that down. [T] So, we'll indicate that, for this modeling clay, we'll find out that the force of gravity... Martino, how is it? [T] Is larger or smaller? [T] //Than. [T] The buoyancy. We abbreviate a buoyancy force. The force of gravity is larger."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The buoyancy. We abbreviate a buoyancy force. The force of gravity is larger. [T] And, now, tell me where the modeling clay will float? What is necessary for the forces? In terms of the forces, what is required for flotation? Adelko? [T] Greater, or what would be //enough for us? [T] When it's equal. So. Our goal is, to do it in such a way that gravity and buoyancy are equal in value."
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] When it's equal. So. Our goal is, to do it in such a way that gravity and buoyancy are equal in value. [T] That is our goal. How can we do it? We won't tell. You'll open it and your goal is to teach the modeling clay to float."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, I'll try myself- you help yourselves somehow. I warmed up the clay, so I think that it will form well. [T] Who is done? Who has taught the clay to float? Raise your hand? [T] So, you are successful. I'll try it a little longer."
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, you are successful. I'll try it a little longer. [T] So, in case of those whose clay floats, try to see if it can carry a load. [T] Well, try it."
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So. [T] So, how are we doing? [T] Are we done. Excellent. [T] So, okay. [T] So. [T] Petriku? What does it mean? So, okay?"
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Petriku? What does it mean? So, okay? [T] So, please, did everyone teach the clay how to float? Who did it? Who did it? Excellent, put your hands down. [T] Who did teach the clay to float on the first try? Excellent. So, some of you did it on the second try."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Who did teach the clay to float on the first try? Excellent. So, some of you did it on the second try. [T] And now pay attention for a minute. It is very important. [T] Please, tell me, why the clay didn't float on the first try? [T] What did you do to it and yet it didn't float? Adelko? [T] You didn't shape it into a bowl. But it had a slight bowl shape and still it didn't float. So, not every clay bowl will float. [T] According to the laws of physics what was missing? According to physics what was missing, because, although it is shaped as a bowl it doesn't float?"
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] According to the laws of physics what was missing? According to physics what was missing, because, although it is shaped as a bowl it doesn't float? [T] Considering the forces involved, what was missing? [T] Gravity was still greater. Please, what are we able to tell about the density of modeling clay in general? [T] It has a greater density than water. So, please, now I need your undivided attention."
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It has a greater density than water. So, please, now I need your undivided attention. [T] Let your boats float. I've prepared some symbolic drawings for you, which will help. [T] The first drawing is a surface of the water level without clay. The second is a surface of water with the clay shaped as a ball. And now I'll put it in..."
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The first drawing is a surface of the water level without clay. The second is a surface of water with the clay shaped as a ball. And now I'll put it in... [T] My boat. I still don't know if it will float. [T] And Tadeasi come and look. Where should I mark it? Where should I mark it? [T] We'll mark it right here, okay? And what would you tell me? Is the level of the water the highest? Look precisely against it? [T] It is the highest. So, let's pay attention. It is a very important finding."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It is the highest. So, let's pay attention. It is a very important finding. [T] When we had clay- let me draw what we marked. I had the water and then I put- threw clay into the water. [T] How should I mark it? I have to mark it a little higher. We marked this. Without the clay, with the clay."
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] How should I mark it? I have to mark it a little higher. We marked this. Without the clay, with the clay. [T] And the third picture, when the clay already floats, shows that the level of the water is even higher and the clay was in the shape of a boat. [T] This way we write in Russian, Russian d as a g. I don't know what came over me."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Mo-de-ling clay. Okay, what have we done? Okay. So, it should have been mentioned immediately. So. [T] Please, let's look at it now. We had a volume of water. Then we threw in the clay, which didn't know how to float. [T] And then we put in the clay which knows how to float. At the same time the level is the highest there."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And then we put in the clay which knows how to float. At the same time the level is the highest there. [T] What does this indicate again? What did we increase in the clay? [T] We were increasing its volume, which it actually displaced in the water. The space will be taken up in the water. [T] Looking at the forces involved we were increasing the buoyancy. How did we do it? How did we do it?"
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Looking at the forces involved we were increasing the buoyancy. How did we do it? How did we do it? [T] How did we increase the volume of the clay? Adelko? [T] And formed the sphere, excellent. That is correct. [T] So, we taught the modeling clay to float. We found out that we can do that in a way such that the clay takes up a greater volume of water. Excellent. [T] Please, take your notebooks out. And we'll note quickly- copy the pictures involving the floating of the clay. Okay."
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Please, take your notebooks out. And we'll note quickly- copy the pictures involving the floating of the clay. Okay. [T] Put everything aside. Petriku, you may sit somewhere else or let me give you a cloth to clean up. Okay. [T] Heading: Modeling Clay. And copy down only the three pictures."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Heading: Modeling Clay. And copy down only the three pictures. [T] I placed it in a way that wouldn't allow you to see through it."
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] I placed it in a way that wouldn't allow you to see through it."
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I placed it in a way that wouldn't allow you to see through it. [T] So, write it down. When you're finished, please close your notebooks. [T] Okay."
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, Petre, don't play with it. Put it aside. Who is done, raise you hand. Petre, you got it wet. [T] When you work with your math tables, be careful, or get another one. Okay, Petre? [T] So, let's finish."
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, let's finish. [T] So. [T] So, may we continue? May we continue? Let's finish the drawings and continue."
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I've prepared something for you that you should already know. [T] Can you see better? Sure? I have two different things. What are those, Adelko? [T] Water and oil. Please, are you surprised that the oil is on the top? [T] No. It didn't surprise you. Describe a real situation, where, almost every day, you're exposed to oil that is on top of water. Oto?"
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] No. It didn't surprise you. Describe a real situation, where, almost every day, you're exposed to oil that is on top of water. Oto? [T] In soup. [T] In soup. Excellent. Or while we bake meat or cook, the fat stays on the top. Tell me why, please? [T] How does it know that it should stay on the top, and water down? Kristinko? [T] Water has greater; water has a greater density. What kind of mixture is it? What do you remember from chemistry? Water and oil?"
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Water has greater; water has a greater density. What kind of mixture is it? What do you remember from chemistry? Water and oil? [T] What kind? Can you recall, it was long time ago? [T] Heterogeneous mixture. Correct. Do you know how to separate them? Do you know how to separate them? How could we separate them? [T] In the separating funnel. How would I do it if I were not a chemist? If I didn't remember the separating funnel? Could I do it at least partially?"
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] In the separating funnel. How would I do it if I were not a chemist? If I didn't remember the separating funnel? Could I do it at least partially? [T] To collect it from the top with a syringe. We do it sometimes when we don't want the fat food. So, this way we can collect oil or fat from the top. [T] Excellent. So, this is water and oil. Do you know the Czech proverb about the truth? The truth will float on the top as-"
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Excellent. So, this is water and oil. Do you know the Czech proverb about the truth? The truth will float on the top as- [T] As oil, oil on water. Excellent. So, this is water and oil. [T] What will happen, what would happen, if I were to have ice and water. What is your experience? Mix ice with water? What will happen? Vojto?"
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] What will happen, what would happen, if I were to have ice and water. What is your experience? Mix ice with water? What will happen? Vojto? [T] Ice is on top. Please, why? Why is ice on top? Marketko? [T] It has a lower density. What can I derive from that? Consult the physics table to confirm that ice has a lower density. Look there. [T] Consult table F11 to verify."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Consult table F11 to verify."
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, do we have it? [T] Nine hundred and seventeen kilograms per cubic meter. Please, is it good that ice, by nature, has a lower density than water in a liquid state? [T] Or is it not good? Is it better for us that lakes freeze from the top, or would it be better if ice had the greater density and lakes froze from the bottom up?"
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Or is it not good? Is it better for us that lakes freeze from the top, or would it be better if ice had the greater density and lakes froze from the bottom up? [T] Is it good? Why, Tadeasi? [T] Hmm, that's one thing, but what would happen to life in the water?"
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It would die out. Excellent. [T] Please, do you have any idea as to what happens to crude oil and water? [T] Crude oil will float on water. I'll ask again? Is it good? Is it good that crude oil floats on water? Consult your physics table. Confirm its truth."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Crude oil will float on water. I'll ask again? Is it good? Is it good that crude oil floats on water? Consult your physics table. Confirm its truth. [T] So. What did we find in the tables? Jitko? [T] That is correct. Is that good from an ecological point of view?"
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That is correct. Is that good from an ecological point of view? [T] What is better? Both scenarios are bad when crude oil gets into our waters. But if we were to take care of it, [T] Is it easier for us when the crude oil is atop the water or vice versa? Petro?"
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is it easier for us when the crude oil is atop the water or vice versa? Petro? [T] When it is on the top of water. On television we often hear about ecological catastrophes. [T] When a tanker has an accident in the middle of the ocean, please tell me why after all does the crude oil appear on the shores anyhow? [T] It will reach the shores. Which forces are involved or what is the reason for it?"
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] It will reach the shores. Which forces are involved or what is the reason for it? [T] Regardless of our effort to clean up after an accident and eliminate the presence of crude oil, why will it still reach the shore? What is the reason, Jirko? [T] Sea currents and wind. What else did we forget? The wind could blow in the other direction. It wouldn't help us. [T] But something what is certain to get to the shore, at the same intervals, Daso?"
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But something what is certain to get to the shore, at the same intervals, Daso? [T] Ebb and flow. Does anyone know the reason for it? [T] Petriku, did you want to entertain us, please? You are not serious. So? [T] It is the gravity between the Earth and the moon. Pavel is humorous today. So, excellent. [T] So far we have had liquids, solid matter in liquid, and now we could experiment with substances which are not visible."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So far we have had liquids, solid matter in liquid, and now we could experiment with substances which are not visible. [T] But they still have different densities and might either stay at the bottom or not. Let's see. [T] We have enough air. So let me try. This is- looks like a liquid, but once it leaves the bottle it becomes gas."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We have enough air. So let me try. This is- looks like a liquid, but once it leaves the bottle it becomes gas. [T] This is lighter gas. So, what characteristic does it possess? What characteristic does it have? Tadeasi? [T] It'll burn. So, when it burns, let us try, let us see if it really will burn, okay. [T] So, we clean up a little. Now I'll try, to see if the gas will burn, okay. So let me try to ignite it."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, we clean up a little. Now I'll try, to see if the gas will burn, okay. So let me try to ignite it. [T] So, //it burns. [T] Let's try something different. Since we are discussing density, let me show you one more thing."
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Let's try something different. Since we are discussing density, let me show you one more thing. [T] I'll try to put the gaseous fluid in here- cover it and pour it in here. [T] Under what circumstances will I be able to do it? When will I be able to do it? What must be the case? [T] What will allow me to do it? If I'll have this- oh, this is salty water, which we might still need."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What will allow me to do it? If I'll have this- oh, this is salty water, which we might still need. [T] This way. I want to do it exactly this way. What must be the case to do it? What is the rule? Petre? [T] Gas must be heavier than air. We would say that it has greater density. [T] Well, let's see if this is going to work. I'll put it in here. Now I'll try to transfer it by pouring it."
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, let's see if this is going to work. I'll put it in here. Now I'll try to transfer it by pouring it. [T] What do you think? Now? Or a little longer? So let me try, if I was successful. Can you see that my hand is shaking? Completed successfully. Nothing is left in here. [T] Please consult your physics tables to see if any inflammable gas really has- it might be a combination of propane and butane."
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Please consult your physics tables to see if any inflammable gas really has- it might be a combination of propane and butane. [T] Try to find out if propane really has greater density than air. [T] Try it. Look it up. [T] So, Petro, what did you find?"
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Has greater density, therefore I knew ahead of time that my experiment would be successful. If a gas were to have lower density, how would I have to do it? I would have to- [T] It would dissipate, I would have to catch it. Excellent. And we still have one more experiment ahead of us. How will we start it? Let's do it this way."
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Excellent. So, I want to show you this. [T] I have a glass cup, okay. Honey, water, and oil. What do you know with certainty about the honey? What do we know about the honey? Jitko? [T] And? [T] Oil. Excellent. what do we know about oil? What do we know about oil? Sono? Not Sona."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oil. Excellent. what do we know about oil? What do we know about oil? Sono? Not Sona. [T] Lenka? [T] Density. Excellent. So we can continue to investigate. Here, I have a Lego piece and I'll throw it in. Okay. What do we observe? [T] Where is the piece? Where did the piece land? Where did it land? It went through... what? Where did it land? Kristinko?"
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Where is the piece? Where did the piece land? Where did it land? It went through... what? Where did it land? Kristinko? [T] Did it land in the oil, or did it remain partially in the water as well? Lenko? [T] It is also partially in the water. What does it tell us about the Lego's density? What is its density in comparison with the oil? Martino?"
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It is also partially in the water. What does it tell us about the Lego's density? What is its density in comparison with the oil? Martino? [T] It has greater density. In comparison with water? [T] Lower. And quite certainly its density is lower than the honey. Excellent. And I brought cork as well. Here it is. What do you think, cork? [T] What do you think that cork will do? Vojto? Milane? [T] It will even float on oil. Excellent."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It will even float on oil. Excellent. [T] Now, let's do the last problem. I am not sure what is the best way of doing it. I'll distribute colored strips of paper to you. [T] You'll write numbers on them and then we'll determine the identities. So this way. And the paper strips will indicate substances."
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You'll write numbers on them and then we'll determine the identities. So this way. And the paper strips will indicate substances. [T] So our physics tables stay at hand and let's determine what each strip represents. [T] Perfect. Get your pencils ready and I would be glad if you take your //excellent."
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Perfect. Get your pencils ready and I would be glad if you take your //excellent. [T] Please start with the brown paper strip and write: 1260 cubic kilograms. Write at the edge to leave enough space for the name. Okay? [T] So write down 1260 on the brown strip."
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So write down 1260 on the brown strip. [T] Take the yellow strip. One point twenty-nine kilograms per cubic meter."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Take the yellow strip. One point twenty-nine kilograms per cubic meter. [T] The blue one, 998 kilograms per cubic meter. [T] The red one, two thou- excuse me, two point one kilograms per cubic meter."
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The red one, two thou- excuse me, two point one kilograms per cubic meter. [T] I am missing one. The green one, the last one, 917. Find the name in your tables. What different substances are symbolized by the colored paper strips? Okay?"
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Find it. [T] Excuse me? [T] Write it next to the corresponding number, okay."
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, find it. You are acting as detectives right now. [T] Whoever is done with solving the problems, please raise your hand."
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Whoever is done with solving the problems, please raise your hand. [T] It appears that everybody is finishing. [T] So, excellent. Tadeasi, what did you determine that the brown strip represents? [T] The brown is glycerol. So I will write the name next to it. Please, somewhere... I have a little bottle. Oh, here it is. Glycerol."
+      }
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The brown is glycerol. So I will write the name next to it. Please, somewhere... I have a little bottle. Oh, here it is. Glycerol. [T] You'll find it as glycerine in cosmetic and drug stores. It is a substance widely used in the cosmetics industry. [T] It is a moisturizer. So, you'll certainly find it in hand creams. So, glycerine is the same as glycerol. [T] Yellow, Kristinko? [T] Air. Excellent. [T] Blue. We didn't have to look it up. Tadeasi?"
+      }
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2730.0,
+        "t_end": 2760.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Blue. We didn't have to look it up. Tadeasi? [T] Water. Green, Lenko? [T] Green. I made a mistake; we're talking about the green strip. //Okay? [T] Ice. And we are left with red- propane. I picked red because when propane burns, we have fire. [T] Okay, kids, let's get on the ball! How might we organize them by density?"
+      }
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2760.0,
+        "t_end": 2790.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, kids, let's get on the ball! How might we organize them by density? [T] Let's do it."
+      }
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2790.0,
+        "t_end": 2820.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] So, check to see if I did it correctly. Do you agree with me? Do agree with the way that I've done it? I will stop at propane. [T] Please, who has a gas heater at home? Who? Excellent. [T] Where is- does anybody know where the gas meter is located? The one that indicates gas usage? Where is it usually? Jirko?"
+      }
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2820.0,
+        "t_end": 2850.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Where is- does anybody know where the gas meter is located? The one that indicates gas usage? Where is it usually? Jirko? [T] In the basement. And have you ever thought of why it would be in the basement? Why not on an upper floor? Why in the basement? [T] We also have a pipe with gas here. The pipes are usually yellow. [T] Next to the igniter, next to the meter there are a lot of connections that must be tightly made so that gas will not escape and leak."
+      }
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2850.0,
+        "t_end": 2880.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Next to the igniter, next to the meter there are a lot of connections that must be tightly made so that gas will not escape and leak. [T] Gas can escape at the connections, not from the pipe itself. So, is there any advantage to a gas leaking in the basement? [T] It is dangerous in any case. But is there at least little advantage of gas escaping in the basement, rather than upstairs? Where will the gas accumulate? Petre? [T] To the ground and when we breathe we would breathe a smaller concentration of gas than we would if the gas were coming from above."
+      }
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2880.0,
+        "t_end": 2910.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] To the ground and when we breathe we would breathe a smaller concentration of gas than we would if the gas were coming from above. [T] So. The remaining problem will be your homework. I distributed pictures, which are on your desks. Please, this is a fish, and what is this? [T] Bunny, or rabbit? Please you will investigate what the differences are between the skeletons of fish and rabbits. Okay?"
+      }
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2910.0,
+        "t_end": 2940.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Bunny, or rabbit? Please you will investigate what the differences are between the skeletons of fish and rabbits. Okay? [T] See if you find any differences and using physics, determine why the skeleton of a rabbit is the way that it is. [T] And why the fish has such small and flexible bones. Why is it this way?"
+      }
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2940.0,
+        "t_end": 2970.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And why the fish has such small and flexible bones. Why is it this way? [T] So, that will be where we pick up next week's lesson. Okay? [T] So. That's all. You have a break. I will ask someone to clean up the teaching aids. Okay?"
+      }
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2970.0,
+        "t_end": 3000.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'll try it now. And we'll pay attention again. [T] So. Before we do it let's get some water. Like this. We'll prepare it and I need more water."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, you are successful. I'll try it a little longer. [T] So, in case of those whose clay floats, try to see if it can carry a load. [T] Well, try it."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It has a greater density than water. So, please, now I need your undivided attention. [T] Let your boats float. I've prepared some symbolic drawings for you, which will help. [T] The first drawing is a surface of the water level without clay. The second is a surface of water with the clay shaped as a ball. And now I'll put it in..."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So far we have had liquids, solid matter in liquid, and now we could experiment with substances which are not visible. [T] But they still have different densities and might either stay at the bottom or not. Let's see. [T] We have enough air. So let me try. This is- looks like a liquid, but once it leaves the bottle it becomes gas."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, find it. You are acting as detectives right now. [T] Whoever is done with solving the problems, please raise your hand."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/S-CZ5"
+}

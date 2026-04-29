@@ -1,0 +1,2062 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math JP2 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] Um, do you remember what we did last period?"
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Sakurai, what kind of things did we do? [T] Um. This topic, okay? [T] Yes. [T] That's right, huh? Um, we studied the idea that parallel, parallel lines, [T] the triangles between them, uhm, with the same base are all the same... like this. For example, here."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] the triangles between them, uhm, with the same base are all the same... like this. For example, here. [T] This. [T] We studied this, okay? It says since all of... uhm, these become the same height the areas become equal, okay? [T] Uhm, we have this as the foundation for what we will be going to study today."
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uhm, we have this as the foundation for what we will be going to study today. [T] Then, prepare just your notebooks. We won't need your textbooks. Close your textbooks. [T] Just take out your notebooks. Uhm. The date. Oh. It's er- erased. The date is November. [T] What day is it? [T] It's the twenty-ninth, right? [T] It's the twenty-ninth. [T] Uhm."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uhm. [T] Uhm. Right now over here, okay? There is Bando's land. [T] It's okay, huh? Okay. There is Bando's land. [T] Okay? Over here is Chiba's land, okay?"
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is it okay? Let's say that there is a land like this. [T] And. Is it okay? Chiba. [T] And these two people's, uhm, border line is bent like this but we want to make it straight, okay? [T] Bando. [T] Is it okay with it around here? [T] Is that okay? [T] Then, we'll end today's class, okay? [T] [Laughter] [T] Chiba, is it okay with it around here? [T] No? [T] Around where would you like it?"
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Around where would you like it? [T] Huh? A little more over here? [T] Around where would you like? [T] More over here? [T] Oh. [Laughter] [T] Bando. Is it okay with it around here? [T] It's not okay, right? [T] Then, around where would it be good? [T] Date. Around where do you think would it be good? Approximately. [T] Well, try doing it. [T] Approximately. Estimate. [T] Yes."
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] We got an estimate that says it may be okay if it's in the middle. I see. How about other people? [T] Okay? Then, well in your notebook, okay? Draw a figure like this and- [T] Please try thinking about it a little, methods of changing this shape without changing the area. [T] Okay? [T] Okay, then everybody... let's try thinking about it. The work time is... would you think about it for three minutes?"
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, then everybody... let's try thinking about it. The work time is... would you think about it for three minutes? [T] First of all, please think about it individually for three minutes. Okay begin."
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] First of all, please think about it individually for three minutes. Okay begin."
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] First of all, please think about it individually for three minutes. Okay begin."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] First of all, please think about it individually for three minutes. Okay begin. [T] Are you done? [T] (inaudible) You made it straight here? Is it the same? Definitely? Is it the same? [T] If it's approximate. Wouldn't they fight over it if it was approximate? [T] The middle of it? [T] I think it's good if you draw it exactly in the middle. I see."
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I think it's good if you draw it exactly in the middle. I see. [T] That's sharp. [T] What was the thing we studied last time? [T] If it's like this, for all we know they will fight. [T] A method that uses the same method as last time. [T] First of all, draw a figure and- [T] The idea from last time. Is there a method that uses the area of the triangles?"
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The idea from last time. Is there a method that uses the area of the triangles? [T] That's sharp. [T] You were able to make this a triangle, right? Okay? Then if you do what... [T] Okay? Would you get triangles with the same area. Would you make this the base? [T] The question is that somewhere there are parallel lines, okay? [T] Hm. We did it like this and in the last class we did it like this... we get a triangle."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hm. We did it like this and in the last class we did it like this... we get a triangle. [T] Okay. Then since the three minutes are up, so... uhm... [T] People who have come up with an idea for now go to Teacher Ebina and do it with him, [T] and people who want to discuss it with his or her friends, discuss it with your friends. [T] And for now I have placed some hint cards up here so people who want to refer to this can refer to it. [T] Now then, uhm, in three minutes... [T] Uhm, well, think about it and please try doing it with your friend or by yourself. Okay, begin."
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uhm, well, think about it and please try doing it with your friend or by yourself. Okay, begin."
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now. [T] Draw it. [T] Hum? [T] Hm. You see it is. You see Fujita's is. If these are parallel then you can say something like this."
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Do you understand? Since it's like this if you l- compare the area over here and over here, [T] well it seems the one over here is smaller, right? [T] Oh. It's the same, huh? If they are parallel then, okay? Well, I also have a feeling they will be the same. Yes. [T] Yes. [T] But the way of thinking was good. It was quite a sharp thought, okay? The assumption was good. [T] Yes. [T] (inaudible)"
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh. Did you get it? [T] Oh. Take this. You make a triangle somewhere. [T] You make a triangle like this. And, then you make this like that TV. [T] To make the triangle you move your neck like this. Okay? [T] If you do that you get a triangle, right? [T] And here, here all you have to do is draw a parallel line somewhere. [T] Then where would you draw a parallel line? [T] Over there isn't (inaudible). [T] You draw it here, huh? Hm, well where is it the same area with this triangle?"
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hm. [T] Yes. And then. Yes. The area that is the same with this triangle becomes like this and it also becomes like this, okay? [T] That's right, huh? Well. [T] That's right. That's right. That's- that's right. It's good if you do it like that. [T] There aren't any complaints for that, right? If you do that. [T] [Laughter] [T] Yes. And is it just here and here? [T] (inaudible) right? That's right, huh? Okay."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] [Laughter] What are you doing putti- marks? [T] [Laughter] It's okay now. Did you get it? You don't get it? [T] Did you get it? [T] If you were to make a triangle somewhere if you draw a line where would you get a triangle? [T] Where? [T] Here, right? You get one triangle, right? [T] Then where is the same area as this triangle? [T] Oh. If you were to draw a line parallel to th- this triangle where would you draw it?"
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You would draw it here, right? [T] Right? Then where would you get a triangle that is the same area as this triangle? [T] Hm? [T] You can also make one like this, you can also make one like this. You can make a lot, right? You can make multiple numbers of it, right? [T] Then to make this nicely into one line somewhere where should we move this? [T] What should we do?"
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. That's right. Okay? [T] That's right. That's right. That's, that's right. [T] In the end."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] In the end. [T] Is it just this one line? [T] Hm. That's right, huh? You also need the side over there, right? [T] That's right, huh? [T] Yes. What is it? [T] Yes. Now then, okay? You got a triangle here, right? And they're parallel, right? [T] All you have to do is look at it like this, like last period. [T] Then since here it is parallel so... where is the area that is the same as this triangle? [T] Like this. [T] Yes. You can get one like this. You can get one like this. You can get a lot of (inaudible), huh?"
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. You can get one like this. You can get one like this. You can get a lot of (inaudible), huh? [T] Then for this to neatly become straight where does the triangle form? [T] This becomes a straight line- we want to make it straight. [T] Yes. Or... [T] That's right. That's right. That's right. That's- that's right. [T] Yes. [T] Hm. [T] Hm. [T] Hm. Hm. Hm. [T] Hm. [T] Hm. [T] Hm."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You're sharp. [T] Okay. [T] Uhm. Hamada. [T] Hm? [T] How did you do it? [T] Try explaining it. [T] Hm. [T] Yes. [T] Oh, okay. [T] Wait a second. [T] Ikeda. Ikeda. [T] Wait- wait a second, okay? [T] Excuse me. Wai-"
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Excuse me. Wai- [T] Mos- have you finished most of it? [T] How about the height? [T] Uhm. Jimbo. [T] Would you do the one you were showing just now up at the front? [T] Yes. [T] Yes. An explanation. [T] Please go ahead. [T] Well you see. [T] This is okay? You look at it like this and then you think about it. You look at it like this. [T] If you do that, this will become the same, like last time. [T] Do you get it? [T] If you look at it this way... you have to change the way you're thinking. And if you look at it like this, and if it's a triangle with parallel lines drawn then..."
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If you look at it this way... you have to change the way you're thinking. And if you look at it like this, and if it's a triangle with parallel lines drawn then... [T] Which one is the same area as this triangle? [T] The area that's the same as this triangle? [T] You won't get any numbers, right? [T] And, for example, in what kind- what situations does this become a straight line? [T] Yes. We want to make it a straight line. We want to make the border line a straight line. [T] Hm. Hm? [T] The triangle is the one that moves, okay? [T] So a triangle like this becomes a triangle like this? Then when it goes to here does it become a straight line? [T] It's at the end of the (inaudible), right?"
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's at the end of the (inaudible), right? [T] It's okay with this. [T] With this. This- this original side. The triangle and the area over here are the same. [T] Do you understand what I am saying? [T] This triangle. [T] Yes. Over here is the same from the beginning, okay? It's not involved, right? [T] Because here. Right now only here is involved, right? [T] Make it into a straight line. Did you get it? [T] Jimbo hurry up. [T] Please go ahead. [T] Don't worry. We'll cheer for you. [T] Do it with confidence. [T] Well, it's time, huh? Fifteen minutes."
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, it's time, huh? Fifteen minutes. [T] Then Ikeda will you do it? [T] Please go ahead. [T] Will you do it in the two ways for us? Then, Ikeda, this side. Please draw this side. [T] Jimbo, this side. [T] Bottom? [T] From right to left? [T] Oh. I'm sorry left to right. [T] From left to right."
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] From right to left. [T] Hurry. Hurry. Hurry. [T] Yes. [T] Of course, it can be said, right? [T] It's the same even from the top, right? The area, okay? You're sharp. [T] What? You thought very hard? [T] Okay, go ahead. [T] Can you explain it? [T] Yes. [T] Yes."
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hm. Wait a second. I'm sorry. [T] Then I'll draw it for you so, okay? Mostly the same as the original. [T] Just the base. [T] Okay. [T] Whichever is fine. [T] Do you want to use a ruler? [T] (inaudible) but I have only two. [T] Hm? Assistance, okay? Next, okay? Chiba. [T] Next, next."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Next, next. [T] Yes. In the meantime today since Chiba, you are the main character, right? You're cool, okay? Huh? [T] Do the ones that are wrong? [T] Huh? [T] No... well, okay? That is okay? The mistake is what's important. [T] Huh? [T] Because okay? If people can do it from the beginning then they don't have to come to school. [T] Huh? [T] It's not okay. What? Don't worry about me. It's you who is learning. [T] Hm."
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hm. [T] Do it as fast as you can. [T] Anyway do it fast. [T] Either one is fine. [T] Do it like as you did it. Your own method. [T] Yes."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What's up? Kada. What's up? Were you able to do it? Oh. You're sharp. [T] That's right. Lai, right? You got it right? Good. [T] Okay. Is this just this side? [T] Yes. Right? [T] Oh? [T] This is okay? Is it okay? [T] This isn't parallel, right? It's bent, right? [T] It's bent, right? That means that for example when you have drawn it like this, okay?"
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's bent, right? That means that for example when you have drawn it like this, okay? [T] When you have drawn it like this, of the area over here and the area over here, which seems to be bi- bigger? [T] Since it's bent like this, okay? [T] The area over here and over here. [T] It seems to be sma- smaller, huh? [T] If it's between over here and over here which seems to be smaller? [T] Doesn't it seem somewhat that they are the same, huh? Seems somewhat? [T] It doesn't seem like it? If this is parallel then don't you think it's okay with this? I think it's okay- okay but. [T] They aren't parallel, right? They are bent like this, right?"
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They aren't parallel, right? They are bent like this, right? [T] All you have to do is draw it more exaggerated. In a figure like this, okay? [T] Um. For example, if there is one like this and okay? When we cut it like this and did it... [T] How is that? [T] Are the areas of the triangles the same? [T] It's okay if this and this are the same, right? This and this are the same and... this and this are the same- ahh, which is it? [T] Oh. It's this. It's okay if these are the same but. The same- oh, it's wrong. [T] It's over here. I'm sorry. It's okay if this and this are the same, right?"
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's over here. I'm sorry. It's okay if this and this are the same, right? [T] Well, I don't understand something, but- Hm. [T] Oh. I'm sorry. [T] Then- oh, it took a little bit of time, huh? Okay. [T] Okay. Good. [T] Okay, then. Please return to your seats. [T] Don't write it. [T] Okay, then the explanation. It'll take too much time. Okay then. Everyone please return once to your seats. [T] Okay. [T] It's okay. Good luck. [T] Okay, then."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. Good luck. [T] Now it's time to listen. [T] Pay attention, okay? Okay. [T] Go ahead. [T] Okay. Hurry. Please do it."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uhm. The red triangle. [T] Yes."
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Over here. Over here. Over here. [T] The tri- over here. [T] Yes. [T] Hm. [T] No. We can understand enough, right? [T] Is there anybody who does not understand? [T] Oh. You don't understand?"
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh. You don't understand? [T] You don't understand? Then one more time then. With this side. [T] This time please explain it, Ikeda. You're saying that it was a good explanation. [T] Okay, then applause. Wonderful. [T] Okay. [T] People who didn't understand it please listen to it closely, okay? [T] [Laughter]"
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The height is e- [T] Yes."
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Okay. Thank you. Wonderful. [T] Okay."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Uhm, for now, okay? Since it's hard to see we will make it clearer. [T] The areas of this triangle and the red triangle over here, and this triangle and the yellow triangle over here are the same areas. [T] So we want to do it so this here becomes straight like this, okay? [T] So that the corner here is gone. The angle, okay? Then we were able to draw a straight line here. [T] That's what we can say. People who were able to d- who did it like this? [T] People who can say I drew it like this over here? People who say I was able to draw it. [T] People who say I was able to do it like this way? People who say they were able to do both? [T] Okay. That's good. Uhm, then, okay? Next, uhm, using this as a foundation, okay?"
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. That's good. Uhm, then, okay? Next, uhm, using this as a foundation, okay? [T] Oh. I don't know if it's using it as a foundation or not but- A quadrilateral. [T] Oh. Of course it can be crooked like this. Well for now, um, (inaudible) quadrilateral. [T] Taking this quadrilateral... without changing the area... make it into a triangle. [T] This shape of the quadrilateral, without changing the area, please try making it into a triangle."
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This shape of the quadrilateral, without changing the area, please try making it into a triangle. [T] Okay, then... please think for three minutes and try doing it in your own way. Okay begin. [T] Right? [T] Hm? The textbooks? First try thinking about it by yourselves. [T] Okay? [T] You know that it was in the textbook, huh?"
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You know that it was in the textbook, huh? [T] You're sharp, huh?"
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You're sharp, huh? [T] You're sharp. [T] We- well Maehata. [T] You can't do it with it just as it is, right? [T] Uh huh. It's a quadrilateral, right? If it becomes wha- what sided shape can you do the problem? [T] Yes. [T] If it becomes- what sided shape can you do the problem?"
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If it's just as it is it's a quadrilateral, right? [T] Yes. [T] Right? If everybody had a triangle and parallel lines then they can do it, huh? [T] That's right. You're sharp. [T] That's good. [T] Hm. That's right, that's right, that's right. You noticed a good point. That's right. That's right. That's right. That's right. [T] Huh? [T] No. [T] It may be that you can get many types, huh?"
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's okay even if it's two types or even it's three types. [T] Okay? [T] Bando. You're sharp. [T] You're quite sharp. [T] What do we need to do to change this into that? How can we do it? [T] Triangle and yes. That's right, huh? [T] Since you can't do it just as it is so. [T] Hm. [T] Oh. That's sharp, huh? You noticed a good point. A triangle has been made, right? Then, okay? [T] When you look at it like this then there is a triangle and how can we change it, may I ask?"
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] When you look at it like this then there is a triangle and how can we change it, may I ask? [T] Hm? [T] For example, do you want to think about it with the triangle over he- over here? [T] What did we have to do to make a triangle that has the same area as this triangle, may I ask? [T] Can't you use what you saw on the TV screen. [T] That's right, huh? That's right, huh? Yes. (inaudible) nicely at the bottom. [T] Are there anymore other than this one? [T] The fact that you can get one on this side means that... then if we extend it a little like this then... huh?"
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The fact that you can get one on this side means that... then if we extend it a little like this then... huh? [T] The fact that you got one like this means that... can't you make one on this side? [T] Okay? [T] Are you done? You're sharp. Then people who are done please go to Instructor Ebina again. [T] And, uhm, then people who want hints I will leave hint cards here so please look at them and try doing it. [T] It's also fine to do it with your friends. Okay begin."
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's also fine to do it with your friends. Okay begin. [T] Uhm. It's also fine for people who don't understand to ask me. [T] Yes. [T] Yes. [T] I wonder how many can you make? [T] Hm? [T] Yes. It's okay if first of all you get one, but-"
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is one all you made? [T] In all? There's three. [T] Hm. I wonder how many all of you can mak- make. [T] Yes. The answer is not just one."
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] There is no possibility. [T] Yes. If you got one on this side then- [T] Hum? [T] You can do that too. And can't you make a triangle over here that is the same as this? [T] Right? The same as before. You can get it on the opposite side, right?"
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hm. You'll notice them- If you notice them then that will be great. [T] I wonder how many ways it can be made? [T] You're sharp."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You're advanced to a good place in the problem. [T] Yes. [T] Yes. [T] Yes. You've gotten up to a good place in the problem. [T] Yes. Then okay? [T] If this corner- for example it's good if the corner here was gone, right?"
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If this corner- for example it's good if the corner here was gone, right? [T] I'll draw a line longer here, okay? Ones that are same as the area of this. [T] Things like these dr- are also the same, right? Things like these are also the same, right? There's a lot, right? [T] For example, if the corner here becomes straight with this here and here then this is... [T] Wai- It's okay to come to me to have your work looked at. [T] The fact is we're making a triangle- a quadrangle into a triangle you do what to one angle? [T] All you have to do is decrease it, right? That means that to reduce angles you take one-"
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All you have to do is decrease it, right? That means that to reduce angles you take one- [T] Yes. We have to make it straight, right? Then you get a triangle like this. A triangle like this. And also? [T] If you get one over here then this time also on this side... [T] Yes. We get the same thing. Okay? Are there any others? You can also do this side, right? [T] Please think about it in many ways. [T] If you notice this one then, okay? [T] You'll notice it, right? [T] Why can't you d- it when you know it? [T] Hm. Ohba, how are you doing?"
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hm. You've gotten to a good place in the problem, huh? [T] The fact that we're making a quadrilateral into a triangle means what happens to the number of angles? [T] Hm. The number of angles goes from four to... [T] It becomes three, right? It's reduced by one, right? That means that here, [T] it's good if the angle in this quadrilateral is gone. For example, if here were to become straight. [T] You get a triangle like this? Do you understand? Here and here are the same, right?"
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You get a triangle like this? Do you understand? Here and here are the same, right? [T] This okay? How about this side? Can't we make somewhere? Straight like this? [T] How will it be I wonder? [T] Are you done? [T] Then would you draw four. [T] Ahh. Can I borrow four. Ah. We don't have time. Ti- [T] Hm, okay?"
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Do you have your notebook? [T] Hm. [T] What is it? Snobbishly. (inaudible) [T] If it has become this, then can we do it? [T] You can't do it as it is a quadrilateral? [T] Yes. [T] And also? [T] Don't you have to draw a parallel line to the triangle? [T] Triangle and- hm."
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Triangle and- hm. [T] Yes. [T] Then- wait a moment. I'm sorry, okay? Then where is the tri- quadrilateral, oh, triangle that's equal to the area here? Hm. [T] No, it's not. Since it's parallel like this so in the parallel lines where is the qua-... that's equal to here? [T] Hm. That's right. It becomes more off. [T] Hm. Hm. You drew this and this?"
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then okay? If you have drawn it on this side, okay? Isn't there one more parallel line- a triangle? [T] You cut it doing like this- doing it like this- into two- doing it like this, right? The triangle is over here, right? [T] If you cut it like this, then here with this one diagonal line, would you get a triangle just over here? [T] Yes. [T] Is it just over here? Won't it extend to this side? [T] Look. [T] You noticed things like this on this side, right? [T] Then. This area and over here are the same, right? Isn't there anything like this over here, okay?"
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hm? Oh. It's over here, huh? Over here. Over here. Things like this. (inaudible) On this side. [T] Right? If there is a right side then there is a left side also, right? [T] Yes. Then triangles that are the same with this area are, hm... there are a lot of these, right? Ones like this. [T] Many different kinds. [T] And the fact that we're making a quadrilateral into a triangle means that we do what to one angle? [T] All you have to do is get rid of it, right? Please get rid of one somewhere. When it moves to where would it disappear? [T] Yes. Here if you make this straight like this then this angle disappears, right?"
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. Here if you make this straight like this then this angle disappears, right? [T] This is one answer, right? The one before this one. Triangles like this. Also? [T] If there is one on this side then how about this side? [T] Hm. Where is it? [T] Yes. [T] That's right. That's right. That's right. That's right. [T] That's right (inaudible) keeps on bending and the angle disappears. [T] Hm. Since we want to lose this angle so this... hm, isn't it a little bent? [T] Did you get it?"
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Did you get it? [T] Yes. That's right. That's right. That's right. You're at a good point, [T] and then we want to get rid of this angle, right? From four to three. If it becomes like this then this angle? [T] It disappears, right? [T] And if you get one on this side, then this time can't you also get it on this side? [T] Phuse. For this there are t- two more, more. [T] Hm? [T] You're kidding. [T] You found a new one? That's good. Then would you draw it then like this? If you have another one. [T] Hm. Please draw it. It's okay, it's correct."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Can you shrink it? [T] Well you don't understand it well? [T] But you were able to do it? You made this triangle and this the same, right? [T] This. Then can't you get one on this side? [T] You don't understand it well? Is it okay? [T] There is something like this here, right? A triangle, huh? [T] Then how many triangles are there that are the same as this triangle? [T] The ones we call triangle's ar- triangles that are the same as this triangle's area."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] There are ones like this and there are ones like this and the fact is there are a lot of them. [T] Also a lot of them over here. Oh. This is. This. [T] If you look at it like this then it's a triangle and parallel lines, right? [T] And to fix triangles into quadrilaterals- Oh, I'm sorry. The fact that we're making a quadrilateral into a triangle means... [T] all we have to do is reduce the angles by one, right? [T] That means that if this becomes straight, then the angle here disappears, so you get [T] a triangle like this. [T] Then on the other side. Then is this the only triangle that we can get?"
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. That's right, huh? You can also do that, right? [T] Hm? [T] It hasn't become a diagonal line. [T] First of all this diagonal line like this. [T] Please do a different one. [T] Uhm. [T] The diagonal line isn't done, okay? [T] You made a mistake? [T] Hey, you. This isn't good if it's the middle point."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's not good if it's the middle point. It's not a triangle. This. [T] Huh? [T] You drew it like this? [T] This becomes straight and- [T] Oh. [T] This is where it's supposed to be straight, okay? [T] It doesn't look straight, okay? [T] Oh. That's right. That's right. That's right. Hey, it's crooked. [T] If it's that, it's okay. Okay, okay, okay. Please have it drawn neatly. [T] How many methods have you found? [T] You don't know anymore? The reasons? Yes. Quoi. [T] You've gotten to a good point in the problem. Then okay?"
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You've gotten to a good point in the problem. Then okay? [T] Since we're making a triangle into a quadri- oh, I'm sorry a quadrilateral into a triangle- [T] So all you have to do is get rid of one angle okay? [T] For example, if you do it like this how is it? [T] Is better over here? [T] For example, when this becomes straight how about it? [T] If it becomes like this? [T] How about a triangle like this? [T] The area of the triangle over here is the same, right? This triangle and [T] this triangle are the same, right? This has become straight, right? [T] Then this becomes a triangle, right?"
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Do you understand? The problem? [T] Are you okay? Is there another one? [T] Yes. Then if you make this straight over here then what kind of triangle will it be? [T] Yes. Oh, you're making two triangles, huh? [T] Hm? It's good if you make it into- a triangle. Just like before draw a line somewhere and try making a triangle. [T] If you draw a line wh- where then would you get a triangle? [T] It's like this, right? It's like this or like this, huh? Area. Okay? What's up?"
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] How many methods did you get? [T] First of all this is correct, huh? [T] Hm. Hm. Hm? You said it might be wrong. Why did you think it might be wrong? [T] That's right. That's right. That's right. That's right. You're sharp. [T] Chiba. How many methods did you get? [T] You got two, right?"
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. You're done, right? [T] Yes. That's right. That's right. That's right. It's good, okay? Then is it over with these with two? [T] Then how about this side? This side? Isn't there one that's the same as this triangle? [T] How many did you get Ryu? [T] Are you worried thinking about it? [T] You were able to get one? This okay? [T] You got it, right? Something like this. [T] You got something like this, right? [T] One that is the same as this, is this, right?"
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is the area that is the same as this triangle just this? [T] Hm? Can't you make one on th- this side? [T] You can, right? With that for now it will be two methods, right? [T] Did you understand the meaning? [T] Then is it just this side where we can draw parallel lines? [T] You can draw it, right? [T] Hm. [T] How about it? Are you done? [T] Oh. [T] How many methods did you get? [T] Two?"
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Two? [T] You found ones like these? Hm? This. Hm? Which is it? [T] Yes. [T] Oh. Over here, huh? [T] Then, okay? There are parallel lines like this, right? [T] If the one that is the same as this triangle is this, then also at this side, [T] you got it huh? [T] You want to do it? [T] Then would you do one of a different type? After you look for it. [T] Hm?"
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Eight? You noticed the fact that there are eight? Splendid. [T] Oh. That's good, huh? Uh, you're doing well. [T] Are there others, Taniguchi? [T] Hm? [T] Then okay? Which ones did you get? This and... one like this and one like this, huh? [T] Now then, is it just this side where we can draw parallel lines? [T] You can also draw them over here, right? Then can't you transform this triangle?"
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. If you draw it over here, then the area that is the same as this triangle is... [T] this original figure has become somewhat harder to understand but- [T] Yes. Then it's okay to draw one more- one more or. [T] Hm. [T] That's good. This, okay? [T] You did it so it says this triangle and the triangle over here are the same, right? [T] Is it just this side where you can get it? [T] Hm?"
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] On this side? [T] We can do it, right? Then we can do it over here, right? [T] Then how about this? Is it just this side where we can do it? [T] We can do this side also, right? How about this? [T] Oh. You were able to do this. Over here. Hm? [T] This is- you drew it like this and oh, you drew it like this? Yes. Yes. Yes. This is good, huh? Oh. [T] This- it's the same as this, huh? Draw over here and you can do this, right? If you do that. [T] You've gotten to a good point in the problem."
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You've gotten to a good point in the problem. [T] You found eight? [T] That's amazing. [T] How many did you get? [T] How many did you get? [T] How many? One. Did you get one? It's okay if you get one. [T] Okay? You were close in getting the other, huh? How did you get one? [T] Hm. Oh. It's okay, right? You got one, right? [T] Then these are parallel, right? [T] This. This is parallel, right? This and this."
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then the triangle and this orange-colored object is the same, right? [T] Then do you get it only on this side? [T] Which side? [T] Hm? We can get it over here also, right? Already you found two. [T] Yes. [T] Is it okay? This? [T] [Laughter] (inaudible)"
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Huh? [T] It's an excellent class right? [T] One more. Lastly... would you do it for us, okay? [T] Well, please draw one that is not already there. After you look for it yourself. Okay? [T] Try looking for it. [T] Hm. Look for it. One that's not there. [T] (inaudible) [T] Hm?"
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hm? [T] Hm. You don't understand? [T] You got one here, right? It's good with this as one. (inaudible) With this you got one. [T] These are parallel, right? This triangle and the triangle over here are the same, right? [T] And so you got a triangle here. See? [T] Right? Then if you get one on this side then? [T] Yes. We can get it there, right? You've already got it."
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. We can get it there, right? You've already got it. [T] Now then. Wait a minute. I don't know anymore which ones are which. [T] Yes. [T] Oh. You noticed a lot, huh? How many types did you f- notice? [T] Hm. First of all, this is one, right? Two, right? Over here is three. Four. [T] Okay. Now, then this time is drawing diagonal lines just on this side? [T] Hm? Other than this side can't you get a triangle? A way to partition it?"
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hm? Other than this side can't you get a triangle? A way to partition it? [T] That's right. That's right. That's right. Even on this side it's good if you think about it in the same way, okay? [T] What? You want to make a hexagon into a triangle? [T] All right. Then. [T] Since you, Phuse, are asking for it let's do it, okay? [T] Hm."
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hm. [T] Do you want to do them all at once? [T] I don't mind. [Laughter] [T] (inaudible) [T] Who was that who said he or she found eight? [T] Did you (inaudible)? [T] Next, okay? Challenge to change a pentagon, okay? Make a pentagon into a triangle."
+      }
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? [T] You found it... did you? Okay, then... one two... one two... three... four, okay. One, huh? [T] One. Of this side. One. [T] Also isn't there one like this? [T] One two. There isn't one on this side, right?"
+      }
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2730.0,
+        "t_end": 2760.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is there one like this? Oh. Is it this? [T] Is it this? [T] Normal. [T] Also what else? [T] Is it over with this? [T] One, two. [T] What is this? This? [T] One two. [T] Hm? [T] Are all of them there? One, two, three, four, five, six. There are only seven, see? [T] What is that over there? [T] Is it this? Then it's this. Since it's the top of this."
+      }
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2760.0,
+        "t_end": 2790.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's this, right? This one's [T] I think we don't have the top one see? [T] Okay. Thank you. [T] Okay then everyone please return to your seats at once. [T] Okay. I'm sorry. [T] Everyone, let's get to our seats. [T] Okay? [T] Okay, then... everybody, okay? Did it for us, okay? [T] Huh? [T] There isn't time? That's true, huh? Now then... well, okay?"
+      }
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2790.0,
+        "t_end": 2820.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] There isn't time? That's true, huh? Now then... well, okay? [T] For the convenience of explanation we will put in symbols. [T] There were some who were doing it already labeled them, but okay? We will make them A, B, C, D, okay? [T] And right now in the beginning we draw a diagonal line through A to C and [T] draw a diagonal line from A to C and we will make a triangl- we were able to make two, right? [T] And, uhm, if you ask which ones are the triangles we found that go through this D are... this and"
+      }
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2820.0,
+        "t_end": 2850.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And, uhm, if you ask which ones are the triangles we found that go through this D are... this and [T] this, right? This one is made like this on the bottom side like this. This one is on the top side. [T] Since this triangle and the original triangle are the same, [T] so it becomes a fact that we changed this, um, quadrilateral into a shape like this, right? [T] Uhm, next we drew in the same way through A C but this time we drew the parallel line on the B side."
+      }
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2850.0,
+        "t_end": 2880.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? Those are this and... this, okay? [T] It's this and this, okay. Is everything okay? Then I will ask. [T] Uhm. About how many people are there who says he or she found this i- were able to find it? [T] Okay. People who say they were able to find this one. [T] There are about the same number of people, huh? Um how about this one? [T] The D one. The sharp tri-. How about this one? [T] Okay. That's good. Thank you. Okay. What is it? You don't understand? [T] On this side this time we will draw it on the B D side. Then in the same way, um, which one is it?"
+      }
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2880.0,
+        "t_end": 2910.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ones that we drew through B D and drew a parallel line through vertex A are this and... this, okay? [T] Those are the triangle that we make on this side and the triangle we make on the top, right? [T] And also the ones where we drew a line through B D and we drew a parallel line on the C side are this and... which one is it? [T] Which one is it? [T] Is there none? [T] Is this it? [T] Huh? [T] It's wrong? Is this it? [T] This? Huh? Is it? Okay then... for the time being, okay?"
+      }
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2910.0,
+        "t_end": 2940.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This? Huh? Is it? Okay then... for the time being, okay? [T] We don't have much time but with the computer... I will explain it a little, okay? [T] It's something. We have done it, but- [T] Well, the screen is not showing up. [T] It's showing. Uhm, right now, well, the symbols are different from over there, but on B D... for now... we'll draw a line. And we will connect A. [T] The parallel line is done. It's two parallel lines. [T] Then there are a lot of them like this which are the same area as this triangle, okay?"
+      }
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2940.0,
+        "t_end": 2970.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then there are a lot of them like this which are the same area as this triangle, okay? [T] There are many of them, but... within these... since, the fact is, we're making the quadrilateral into a triangle- [T] Meaning all we have to do is lose one of the angles. The angle here, okay? [T] When it becomes a straight line then that will become a triangle. Similarly, [T] if it's this side when this becomes straight... we get a triangle. [T] Then we have done quadrangles. Next what do you want to do? (inaudible)"
+      }
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2970.0,
+        "t_end": 3000.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] [Laughter] [T] Phuse. You [Bell] want to do six by all means. Then five. Transform pentagons into triangles. [T] This. A pentagon's- try drawing a pentagon of your liking. Then penta- [T] It's impossible? [T] Okay? Then let's try making the pentagon- [T] into a triangle. [T] No. I'll make that homework. [T] Okay? People who are interested you can do ten-angled or twenty-angled or one hundred-angled or anything."
+      }
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3000.0,
+        "t_end": 3030.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] A circle? [T] You'll make a circle into a triangle? It's not impossible. [T] Yes. [T] Oh. Yuki has just now told us the method of doing it. [T] The fact is... won't it be okay if, first of all, you make the pentagon into a quadrilateral, and then make the quadrilateral into a triangle- [T] is all. Okay then you worked very hard... amazingly hard. Okay? [T] It's wonderful, huh? [T] What? [Laughter] Okay, then we will end class."
+      }
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3030.0,
+        "t_end": 3060.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Then let's say the farewell properly."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uhm. [T] Uhm. Right now over here, okay? There is Bando's land. [T] It's okay, huh? Okay. There is Bando's land. [T] Okay? Over here is Chiba's land, okay?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, then everybody... let's try thinking about it. The work time is... would you think about it for three minutes? [T] First of all, please think about it individually for three minutes. Okay begin."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] First of all, please think about it individually for three minutes. Okay begin."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] First of all, please think about it individually for three minutes. Okay begin."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uhm, well, think about it and please try doing it with your friend or by yourself. Okay, begin."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. Good luck. [T] Now it's time to listen. [T] Pay attention, okay? Okay. [T] Go ahead. [T] Okay. Hurry. Please do it."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This shape of the quadrilateral, without changing the area, please try making it into a triangle. [T] Okay, then... please think for three minutes and try doing it in your own way. Okay begin. [T] Right? [T] Hm? The textbooks? First try thinking about it by yourselves. [T] Okay? [T] You know that it was in the textbook, huh?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You know that it was in the textbook, huh? [T] You're sharp, huh?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. That's right, huh? You can also do that, right? [T] Hm? [T] It hasn't become a diagonal line. [T] First of all this diagonal line like this. [T] Please do a different one. [T] Uhm. [T] The diagonal line isn't done, okay? [T] You made a mistake? [T] Hey, you. This isn't good if it's the middle point."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hm? [T] Hm. You don't understand? [T] You got one here, right? It's good with this as one. (inaudible) With this you got one. [T] These are parallel, right? This triangle and the triangle over here are the same, right? [T] And so you got a triangle here. See? [T] Right? Then if you get one on this side then? [T] Yes. We can get it there, right? You've already got it."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2820.0,
+        "t_end": 2850.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And, uhm, if you ask which ones are the triangles we found that go through this D are... this and [T] this, right? This one is made like this on the bottom side like this. This one is on the top side. [T] Since this triangle and the original triangle are the same, [T] so it becomes a fact that we changed this, um, quadrilateral into a shape like this, right? [T] Uhm, next we drew in the same way through A C but this time we drew the parallel line on the B side."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2910.0,
+        "t_end": 2940.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This? Huh? Is it? Okay then... for the time being, okay? [T] We don't have much time but with the computer... I will explain it a little, okay? [T] It's something. We have done it, but- [T] Well, the screen is not showing up. [T] It's showing. Uhm, right now, well, the symbols are different from over there, but on B D... for now... we'll draw a line. And we will connect A. [T] The parallel line is done. It's two parallel lines. [T] Then there are a lot of them like this which are the same area as this triangle, okay?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3030.0,
+        "t_end": 3060.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Then let's say the farewell properly."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/M-JP2"
+}

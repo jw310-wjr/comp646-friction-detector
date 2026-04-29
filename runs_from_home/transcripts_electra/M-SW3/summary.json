@@ -1,0 +1,1397 @@
+{
+  "lesson_id": "M-SW3",
+  "transcript": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math SW3 transcript.txt",
+  "n_bins": 98,
+  "n_risky_bins": 22,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right, good morning everybody. [T] Well, let's imagine today to- eh, we are getting closer to Christmas time. [T] We want to send a present to our friends. A present that has a long and narrow shape. [T] It could be a thin straw, it could be I don't know- [T] Has anybody an idea? I heard tha"
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No idea? A long and narrow object. So we ask at the post office, has anybody noticed, [T] at the post office there are boxes with different shapes. And these are the six shapes you can see over there. [T] There is box number zero, box number one, number two, three, four, [T] and five, and those "
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now ever- every group- you sit together in groups of three and one group of two- [T] will receive a box. Start observing this box a little bit, there are [T] some instructions in common that they give together with the box. Look to see what [T] your box number is, the measurements, the dimension"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] whole straw, it's very possible that it doesn't fit even in the biggest box, [T] and try to obtain the longest straw by cutting the straw from the start [T] of the point in which you think you received the longest straw. [T] That means to insert it that way, insert it horizontally. Try to find o"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] cut it, you can keep the rest of the straw if it helps you for further observations you can [T] also cut it. Measure it, you have a tape measure, you have a ruler, measure the maximum length that you can obtain. [T] At this point you have a measure. Check with the calculations if the measure you"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] the length of this straw. The calculations, do them, eh, one copy per group. [T] Write a draft of your calculations trying out the reasoning that you need. [T] Then everybody will receive a worksheet and will complete the space where the number of your [T] box is, by writing the solution that yo"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] need are: Calculator, mmh, a draft sheet per group. And you work in [T] groups of three or two. Only one person can move the chair, okay?"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] groups of three or two. Only one person can move the chair, okay? [T] You're welcome. [T] Yes."
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Yes. [T] (inaudible)"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] (inaudible) [T] Also observe your instructions a little bit, eh?"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Also observe your instructions a little bit, eh? [T] Of course you can already cut it, yes. [T] No. [T] Cut the straw already. Have you found the best position?"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Well, cut it. [T] In case it's wrong you take another piece and then you use the rest of the straw."
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Look, you have instructions, eh, that are already given. [T] Try to cut it and then if it doesn't work you'll take another piece of straw and- try."
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Try to cut it and then if it doesn't work you'll take another piece of straw and- try. [T] Find the longest straw that you can place in your box, m-hm, yes. [T] Try to think about- it isn't that complicated."
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So did you already cut the straw? [T] Go on, cut it and also if you fail, you can do it again. Look, you have already got the- the instructions. [T] You have it already- then- okay. Complete the sheet. [T] You have inserted, cut and measured it. [T] Okay. Then now you can try with the calculatio"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Then now you can try with the calculations to check if this length corresponds to what you have measured. [T] So complete: Here with your situation, with your straw, you have the box number two and you put it- do it again here. [T] And then start doing this, call me to have a look at it wh"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now have you found the straw and have you measured it? [T] Now observe the box then put it aside. [T] Insert the straw: What- if I- so in your opinion, what is the longest straw laying in the box?"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] One that's shorter. [T] So in reality I could take a very shallow box, if I place the straw [T] that way- a very shallow box, it's of no use that the box is that high. [T] Could I have it low like this? (inaudible) a box this big but it's of no use. [T] Try to think about if you somehow can use "
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] is high, that you have a box high like this. [T] If not, I'll give you another straw, if you need one. [T] So, then. Try to complete this sheet. Everybody has his own. [T] Try if you reach- yes, yes together. Here you write the calculations you've done, [T] drawing the straw and then try to do t"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] those that aren't yours. So in a few words, with the straw inserted like this, [T] in reality it isn't of any use that the box is high, it could also be a box that's very flat. [T] It's already very flat, yours is really. [T] But in reality you won't use the fact that- that it's high. Try to thi"
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So from you we won't make up for a lot, but in fact... [T] This distance here. [T] Eh, calculate now think- le- leave this like it is. Try to [T] do the other. Now you may have to replace it. Try now to cut [T] the right one here again. Like you said (inaudible). [T] Try to cut it."
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It's a little bit too much. You have to cut a bit more. [T] Yes, without forcing it. [T] Now how can I calculate the length of this straw? [T] So, do you have the instructions of the box. Where are the instructions? [T] Then you know how long it is, how wide it is, how high it is."
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now reason within the group, explain it to them. [T] Have you found the longest straw? [T] So then, how is it? [T] Without bending it, eh, you can't bend the straw. [T] No, no, no, without bending it, eh, without bending it... [T] You haven't found it yet, try to thin- try to place the straw int"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You haven't found it yet, try to thin- try to place the straw into it without bending it, eh? [T] So I- have you found the straw? What is the position? [T] This one. Now are you calculating its length? [T] How do you do it? [T] Okay, measure, that was the first operation. Now you have to calcula"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, measure, that was the first operation. Now you have to calculate the length of the straw. [T] But try to cut the straw corresponding to the diagonal and insert [T] the straw corresponding to the diagonal."
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. This is the diagonal, more or less. Also if no- now however you, with Pythagoras- [T] I can calculate this, okay, with this and this, you have also the measures. [T] But now I'm interested in this. But it- I know-"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Listen to Boris and then try to observe this sheet and complete it. [T] M-hm, yes. [T] Yes."
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. [T] We try to be as exact as possible and not lose the precision in our calculations. [T] Or as we said: Instead of writing this, I can write-"
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Or as we said: Instead of writing this, I can write- [T] Directly. M-hm, yes. [T] You can also write here afterwards. [T] But now try- you are calculating other boxes. [T] You are already at the second one. After some time it seems to be the same thing. [T] Look a bit at the measurements. Look h"
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Look a bit at the measurements. Look here, they have the same length... [T] The width, instead look at number zero, pay attention to number one. [T] It's quite a lot wider, eh. [T] And then there's the- and then there is the- [T] Afterwards there is the height, which is different, but the- after"
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] are calculating, but I'd like to see if you can shorten the calculation- also write the unit, eh. [T] Found? [T] M-hm, yes. [T] Reason. If you cut that right one, go on- this one you can leave down like this."
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If you cut this one it's too short. You should have found- well, I won't tell you. [T] I don't know if everybody failed, it doesn't matter, we will correct it later. So complete [T] the sheets, this part here and- and it tells you what to do with your box. Then here, [T] there are the dimensions"
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The? How do you complete the title? What is it that you apply? [T] By doing these calculations, what did you apply? [T] Pythagorean theorem, eh. Pythagorean theorem in solid geometry. [T] So now complete your solution in your exercise book: The calculations in blue, the solutions in red in the m"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. [T] In your exercise book, eh. [T] Start filling in your part. When you have finished yours, continue filling in from the other groups too, yes. [T] No, no, there is space here. [T] Now. You are at a good point, you only have to check if it's correct. Complete this"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] and draw and do your calculations which Andrea has now written here. Everybody write it on their own sheet. [T] And then there you have the dimensions of the other boxes. There is the box zero, the bo- and start doing the calculations like this [T] for the others, seeing what the others found wi"
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That means that you haven't finished calculating yet. It means that what you calculated isn't the length of the straw. [T] But it's only the diagonal from the box- from- from the circumference of the base from the box, from the rectangle, let's say the base. [T] M-hm, yes... Use this- the measur"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] M-hm, yes... Use this- the measure you have already found. [T] You can write it with a pen because I think you did it right. [T] Do it like this, maybe: Cut the straw that you measured, the one placed on the base. Cut it. That way you can observe it. [T] So now, is this one here the right one? ["
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Place it on the base. Eh, cut it again a bit more, that... [T] Ah, still too long."
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Ah, still too long. [T] Okay. It's good, it's good. Now place the other. It gets placed in the same... [T] In the same posit- eh. [T] Now here you have already calculated? [T] You calculated this. Now observe how to calculate the other."
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Your calculations, write them here so that you have more space. Afterwards you can also solve them underneath it. [T] No. [T] No, it's okay. Afterwards write it also here, but start- afterwards write it again."
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. [T] Done? [T] Have you completed the transparency?"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It isn't because you're slow, but you can do it with a single calculation, eh. [T] Yes. Think about it for a moment. You square it plus square this. [T] And find a result. Then take this, and form the other. Didn't I tell you to do it like this yesterday? Isn't it like I told you yesterday? [T] "
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Eh- I'll take that. I and then- in reality instead of writing this. [T] Try to think about what I have to write. [T] Wait, eh. Tell me. [T] You have found it. Then put- take these papers. Now write, well, everybody calculate your calculations. [T] In this area here. Write your calculations, draw"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] In this area here. Write your calculations, draw the straw, read what's written and start doing this- [T] Tell me. [T] Have you finished, have you completed- here you write me- here you haven't completed yet, eh? [T] M-hm, yes. [T] Afterwards yes. Number three you can- you only have to fill in t"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] M-hm, yes. [T] Well, I think there will be something wrong. [T] You're done. Then now complete in your exercise book where there is- what do you have? Box number? Two?"
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You're done. Then now complete in your exercise book where there is- what do you have? Box number? Two? [T] Complete case number two with your solution. [T] Shall I leave it here?"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Will you complete the title? What did you apply to find these measurements? [T] M-hm, yes, then the Pythagorean theorem in solid geometry. [T] Sit down correctly, please. [T] And here write down the calculations of your box too, eh. [T] Never mind, you can transfer it- the idea was writing it ab"
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Never mind, you can transfer it- the idea was writing it above and transferring it down here... [T] Here, label it I. Maybe their- in the drawing- draw it. The I- Your I is only this one, isn't it? [T] It's the hypotenuse. Draw it in and write the I. [T] No, do it in colors. [T] No, here afterwa"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No, here afterwards, give it another name, also if there- this is also a hypotenuse. Call it straw or call it... [T] Or the diagonal of the base, that's the same, yes. [T] Ready, Lucia? [T] Do you still need the box? [T] So box, tape measure, instructions and scissors. Bring everything to the ta"
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] with the measurements from your partners. [T] Have you finished yours, eh? [T] So in the transparency you have the box number zero. [T] Yes, yes. [T] What (inaudible)? [T] I don't know if it's wrong. [Laughter] Complete it and then we'll correct them. Complete it here with your calculations. [T]"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] There: In your exercise book, in zero. Then if you don't need it any more, bring you box, scissors, tape measure to the table. [T] Also the straws are to be brought here, eh, not to be played with. [T] M-hm, yes. It's okay."
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] M-hm, yes. It's okay. [T] Try to think a little bit while calculating. That means every time you square a measurement, add the square of the other, then the [T] square root. Then you take this number here, it- square it again and add the third dimension in the square."
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] square root. Then you take this number here, it- square it again and add the third dimension in the square. [T] Think a bit now if this result that I have here, I square it, if I can't instead of taking, he... [T] That (inaudible). [T] Take the first calculation. [T] Now yes, but if you have fin"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Now you do the same calculations with the other boxes. [T] No, don't take- look, as many measurements are written here, the reasoning is always the same. [T] Bring the material over there, now I'll give you the transparency to complete."
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No, in blue. [T] Doesn't matter, doesn't matter. [T] Thanks. [T] And then, Isabella, put the box in its place, eh. Wait, I'm coming. Eh- you, complete in your exercise book [T] (inaudible) the calculations (inaudible) similar..."
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] (inaudible) the calculations (inaudible) similar... [T] Tell me. [T] Try to do it with your own and look: If you find the same result, it's right. If you don't find the same result, that means [T] it's wrong. [T] Have you done yours? [T] But it gives you a straw of 880 centimeters? [T] But was i"
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] This one here? But take it out. [T] But also if you take it out a bit, this one here is 880 centimeters? [T] There's something that doesn't work. [T] But take care that- Let's look at your- what did you do before, explain it to me in words. Marisa, what did you do?"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] M-hm, yes. [T] But what did Pythagoras say? Having a rectangular triangle? [T] Eh- in that triangle which is the right angle side? Which is the hypotenuse? [T] Eh, yes."
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] But this triangle here. [T] This is a side, that is a side, and this is the hypotenuse. So if you have found this, you already have calculated it. [T] It's 55. [T] Do you agree? [T] And where can I simplify again?"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And where can I simplify again? [T] [Laughter] [T] Is it right or can you simplify something else? Are you done with the transparency? [T] This goes ahead, two remains. Have you already completed the transparency? [T] The transparency. You have to complete with- are you doing number three or num"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, put it over there- put it over there."
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, put it over there- put it over there. [T] Found? [T] And some of you bring back the box, please. In the meanwhile, Andrea-"
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And some of you bring back the box, please. In the meanwhile, Andrea- [T] In the meanwhile put them away. Later I'll give them to you. Go on, put it inside, Claudio (inaudible). [T] No, mine."
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Finished? Now try to think a while, to see if you can find a faster way to do- to find [T] the same result. Instead of doing two calculations every time, do one calculation only. [T] What do I do? Sqaure this plus fourteen point seven squared, root."
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What do I do? Sqaure this plus fourteen point seven squared, root. [T] Be careful, I squar- [T] Barbara is right. Here is the square root, now the sum, then extract the root, I square. [T] First we extract the root, then we square it. [T] Which root can I take away?"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No, pay attention, eh. Here I extract the root of it all, and then I square it again. [T] Try to write the simplified version. Have you done? [T] Now what have you found? The measurement corresponds to? Have you measured it? [T] Okay. So now write here in your- you are the box number four? Write"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. So now write here in your- you are the box number four? Write the solution here on the transparency. [T] The result you found. [T] Yes, exactly. [T] Yes, and afterwards try to do what the others have done with the other- other boxes."
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] And pay attention, extract the root but you have to extract what else? [T] Yes. [T] Why do you take the box?"
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I told you that- however it's enough to look at the calculations, eh, not- the calculations you are doing. Try to reason with some of the numbers you take [T] if you couldn't do it in an easier way."
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] if you couldn't do it in an easier way. [T] If you would have to write a title. What did you apply in solid geometry? [T] The Pythagorean theorem. So you can write it... Finished?"
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The direct square root, what- what is that? [T] Eh, yes and no. Yes, it hits a bit. But instead of doing two calculations try to see if you could do it with a single one. [T] Try to write it. [T] Try to write it."
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What you just told me now. [T] Yes, now you are doing more then the rest. In the meantime the others, you have to write the same thing here. [T] If not, then- try to do- from now on let's continue all together. [T] Okay, stop, interrupt- shh- [silence] Andrea. Interrupt the things you are doing."
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] the length of the straw to be longer then it was in the real box. Now there is- who has already finished calculating? [T] All the others who are still calculating, please go back to your seats now, not in groups anymore, and then look forward."
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All the others who are still calculating, please go back to your seats now, not in groups anymore, and then look forward."
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All the others who are still calculating, please go back to your seats now, not in groups anymore, and then look forward. [T] All right, first of all let's complete the title. Not everybody has done that. What have we applied in solid geometry [T] that we haven't ever done, Neluca? [T] The Pytha"
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The Pythagorean theorem. So whoever hasn't written it yet can add it. [T] The Pythagorean theorem in solid geometry. Okay, now we will observe the transparency that you have completed. [T] It seems to me that all the groups have understood what the method was, let's say, to apply. Let's start wi"
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] which was the most shallow box. To find the longest straw that was the straw... let's call it diagonal. [T] And now not anymore the diagonal of an area, but the diagonal of the box. I did it like this, first of all I calculated the diagonal [T] of the base's surface and then by using the height "
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] of the base's surface and then by using the height I found the diagonal of the box. [T] So all of you- look- looking at the transparency, what do you have? First you calculated the diagonal of a surface and then [T] by taking this diagonal, you have, with the height of the box, you have found th"
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All the groups did it this way. For those who have completed the sheets, you can see the various measurements. [T] Everybody used the same method: Always the diagonal of the base and then the diagonal of the box. [T] Now one of you was finished a bit earlier. He tried to find a single calculatio"
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] of the diagonal. So that instead of doing one calculation and then doing the second, he has found a single possible calculation to find [T] this length. Now let's take the example- so Barbara and Andrea were able to find it. You had box number? [T] One or two? [T] Box number one. So their calcul"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Well Barbara, would you like to try to come and explain it at the blackboard? Do it at the blackboard. [T] Write it again here? Yes... So, observe the difference between the written calculation on the overhead and the calculation that she is writing now on the blackboard."
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Write it again here? Yes... So, observe the difference between the written calculation on the overhead and the calculation that she is writing now on the blackboard."
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] The result? [T] Good, thanks. Now I don't know if it's clear for everybody, so that instead of writing here- look the second passage of the transparency:"
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Good, thanks. Now I don't know if it's clear for everybody, so that instead of writing here- look the second passage of the transparency: [T] On the second passage, what did we write? Twenty-seven point two squared plus nine point five squared. [T] Now instead of writing twenty-seven point two h"
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] point two. Instead of writing the number directly, they wrote the calculation that allowed me to find [T] twenty-seven point two. Then Barbara correctly said: I do the root and then I square it, I can annul it because [T] one is the inverse operation of the other. Therefore the shorter way to fi"
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] They are right, eh, also all of the ways that you all did it. This one here makes it easy to understand the reasoning I used. [T] That I first have to find the diagonal of the base, then the diagonal of the box. You can find this method after doing some [T] calculations. At the beginning it isn'"
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] that your partners had. On the other hand, whoever's finished, I'll give everybody a sheet of exercises. Try to work on them with your partner. [T] I'll leave the solutions here, who- you can come to correct the solutions as usual. [T] But first complete this, without looking, then, eh, check if"
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] But first complete this, without looking, then, eh, check if it's right. [T] Yes, eh... Yes, I'm raising it now. [T] First do it without looking. That means first complete the sheet, then... [T] The overhead projector doesn't work well. [T] Have you finished? [T] Checked? Are they correct?"
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Have you understood the shorter version? I saw you looking with the face a bit. [T] M-hm, yes, yes. Now I say if you have understood how you did this, do the others. You can always use this method, can't you? [T] You don't have to do the other, don't (inaudible)- start doing this, afterwards, in"
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Practically, what did you do here? This number here you transferred here. [T] Do you agree? This number, you transferred here. On the other hand if you have to transfer this number here, I can transfer the [T] calculation that allowed me to find this number. [T] And I used that to find this numb"
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Instead of writing this number, I could write this calculation. [T] It's the same thing because this calculation gives me the same result. So I can, instead of writing two thousand one hundred fourteen point five- [T] I can write this squared plus this squared. [T] (inaudible) plus 166, which wo"
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] M-hm, yes, yes. [T] Why? [T] But it's the same as you told me last time (inaudible) is 2,000. Do you remember that you told me already last time that there- [T] Was this problem with your calculator?"
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Eh... [T] Now you have to extract the root, yes. (inaudible) the result down here, if you extract the root."
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Did you understand well here? Do it on a sheet by side, on a squared sheet of paper. [T] Vera, got it all right? [T] Boris, got it? [T] Cinzia?"
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Cinzia? [T] Is it right now? [T] Two plus eight, then it depends on how you approximate. [T] When do I have to finish the lesson?"
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] When do I have to finish the lesson? [T] Now stop what you are doing, put away everything and we'll continue next time."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right, good morning everybody. [T] Well, let's imagine today to- eh, we are getting closer to Christmas time. [T] We want to send a present to our friends. A present that has a long and narrow shape. [T] It could be a thin straw, it could be I don't know- [T] Has anybody an idea? I heard that- Joel you were about to say something?"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Look, you have instructions, eh, that are already given. [T] Try to cut it and then if it doesn't work you'll take another piece of straw and- try."
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Try to cut it and then if it doesn't work you'll take another piece of straw and- try. [T] Find the longest straw that you can place in your box, m-hm, yes. [T] Try to think about- it isn't that complicated."
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] is high, that you have a box high like this. [T] If not, I'll give you another straw, if you need one. [T] So, then. Try to complete this sheet. Everybody has his own. [T] Try if you reach- yes, yes together. Here you write the calculations you've done, [T] drawing the straw and then try to do the calculations from the other boxes too, [T] those that aren't yours. So in a few words, with the straw inserted like this,"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] those that aren't yours. So in a few words, with the straw inserted like this, [T] in reality it isn't of any use that the box is high, it could also be a box that's very flat. [T] It's already very flat, yours is really. [T] But in reality you won't use the fact that- that it's high. Try to think about if you utilize the fact that this one is high."
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. This is the diagonal, more or less. Also if no- now however you, with Pythagoras- [T] I can calculate this, okay, with this and this, you have also the measures. [T] But now I'm interested in this. But it- I know-"
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That means that you haven't finished calculating yet. It means that what you calculated isn't the length of the straw. [T] But it's only the diagonal from the box- from- from the circumference of the base from the box, from the rectangle, let's say the base. [T] M-hm, yes... Use this- the measure you have already found."
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Place it on the base. Eh, cut it again a bit more, that... [T] Ah, still too long."
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Your calculations, write them here so that you have more space. Afterwards you can also solve them underneath it. [T] No. [T] No, it's okay. Afterwards write it also here, but start- afterwards write it again."
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] There: In your exercise book, in zero. Then if you don't need it any more, bring you box, scissors, tape measure to the table. [T] Also the straws are to be brought here, eh, not to be played with. [T] M-hm, yes. It's okay."
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] M-hm, yes. It's okay. [T] Try to think a little bit while calculating. That means every time you square a measurement, add the square of the other, then the [T] square root. Then you take this number here, it- square it again and add the third dimension in the square."
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Now you do the same calculations with the other boxes. [T] No, don't take- look, as many measurements are written here, the reasoning is always the same. [T] Bring the material over there, now I'll give you the transparency to complete."
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, put it over there- put it over there."
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, put it over there- put it over there. [T] Found? [T] And some of you bring back the box, please. In the meanwhile, Andrea-"
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All the others who are still calculating, please go back to your seats now, not in groups anymore, and then look forward."
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Write it again here? Yes... So, observe the difference between the written calculation on the overhead and the calculation that she is writing now on the blackboard."
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] The result? [T] Good, thanks. Now I don't know if it's clear for everybody, so that instead of writing here- look the second passage of the transparency:"
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] They are right, eh, also all of the ways that you all did it. This one here makes it easy to understand the reasoning I used. [T] That I first have to find the diagonal of the base, then the diagonal of the box. You can find this method after doing some [T] calculations. At the beginning it isn't that evident to find this- this calculation. [T] So now, whoever, eh, still has to finish the sheet, complete this sheet with the measurements of the other boxes [T] that your partners had. On the o"
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] But first complete this, without looking, then, eh, check if it's right. [T] Yes, eh... Yes, I'm raising it now. [T] First do it without looking. That means first complete the sheet, then... [T] The overhead projector doesn't work well. [T] Have you finished? [T] Checked? Are they correct?"
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Have you understood the shorter version? I saw you looking with the face a bit. [T] M-hm, yes, yes. Now I say if you have understood how you did this, do the others. You can always use this method, can't you? [T] You don't have to do the other, don't (inaudible)- start doing this, afterwards, in case, we'll see next time to- to work on it again."
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Eh... [T] Now you have to extract the root, yes. (inaudible) the result down here, if you extract the root."
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Did you understand well here? Do it on a sheet by side, on a squared sheet of paper. [T] Vera, got it all right? [T] Boris, got it? [T] Cinzia?"
+    }
+  ]
+}

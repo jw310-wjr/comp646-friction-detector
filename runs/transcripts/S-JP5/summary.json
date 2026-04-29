@@ -1,0 +1,1556 @@
+{
+  "lesson_id": "S-JP5",
+  "transcript": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science JP5 transcript.txt",
+  "n_bins": 105,
+  "n_risky_bins": 28,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] We will start. [T] I'll appreciate your attention. [T] Well today... since last class we have been studying water in the air, but do you remember?"
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Well today... since last class we have been studying water in the air, but do you remember? [T] Starting with a review of last class, what is dew point? [T] What is the dew point? [T] Hey, hey, hey. [T] What is dew point?"
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What is dew point? [T] Mayumi-san. [T] Yes, the temperature is called the dew point at which condensation takes place when the air was cooled. Today, relating to this, clouds which you can see all over the place. [T] We are going to study how clouds form. [T] Where are clouds formed?"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Dirt! Dirt makes clouds. [T] Sea! [T] Sky! [T] Mountain! Wait a minute. [T] Dirt. What do you mean by that? [T] What? [T] It oozes from the bottom. [T] Oh, fog. So, fog and clouds are the same. [T] The same. The same. You they are the same things. [T] Hmm. We will learn about how the fog is form"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hmm. We will learn about how the fog is formed after we learn about clouds. When you learn it, you will understand whether fog and clouds are the same or not. [T] What else did you say? Sea. [T] What do you mean by sea? [T] Huh? Everything is oozing. From the sea, from the bottom. All you say is"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Someone said it. I will leave it here. What else? [T] Mountains. Sky. Most of them are abstract. Sky. And what was it? Mountains. You listed these things. [T] What do you mean by sea? What do you mean by clouds are formed from the sea? [T] There is a lot of water- [T] It evaporates and-"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Clouds are formed at the sea. Then, there must be clouds around here too, right? We can see them right now. [T] Were those clouds formed at sea and floated here? [T] Wrong? We don't know. Then how about the sky? [T] Clouds are in the sky, right? [T] Haven't you seen clouds actually forming?"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Haven't you seen? No? [T] Today I want you to make clouds experimentally. Not outside, but in the lab. [T] Except, please watch this. [T] This... this is a tool to take out the air inside. This is a vacuum pump. [T] And inside of this... you can take this out, like this. Inside of this, there is"
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And inside of this... you can take this out, like this. Inside of this, there is air just like the air around here. [T] And in here, things like oil, Vaseline, was applied, so air won't get in from outside. And you let air out, so what happens to the air inside? [T] Yes, if you say it in technic"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] A state like this happens in nature too. Think about the sky. The upper air. What is the air like far up in the sky? [T] Thin, right? It's thin. Compared to the air around here, the air in the sky is of course thinner. We produce that state in here. Do you understand what I mean? [T] The air in "
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The air in this glass container becomes thinner. Naturally... I haven't explained this, but there is a balloon in here. This balloon is a little bit inflated. [T] It's not broken. Can you see it? When the air around becomes thinner, what happens to this balloon? What do you think? [T] Huh? It in"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] When the air inside of this glass container gets thinner, this balloon shrinks, stays as it is, inflates, breaks. Is that all you can think of? Which one do you think it is? [T] Say something. Inflates? Shrinks? [T] I will show you. It may take a little time. [T] Watch carefully. [T] That was a "
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I am now drawing air from this. [T] Can people in the back see this? What is going on? [T] Can you see that it is inflating? [T] Can you see it inflated more than before? [T] Tama, can you see it? You cannot see? If you cannot see, try to move. Did you see?"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Tama, can you see it? You cannot see? If you cannot see, try to move. Did you see? [T] It is inflating, right? If you wait a little longer, it gets even bigger. [T] Now you can see it is inflating. Did everyone see? Did everyone confirm this? Susumu. You can see it, can't you? [T] What does this"
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The air around this gets thinner means, uh, it gets thinner and this balloon gets inflated. I am going to turn this off and let the air come in. [T] It shrinks, right? [T] This was conducted in nature too, rather it is happening. [T] In short, the air around here goes up. Then, as you saw with t"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] In short, the air around here goes up. Then, as you saw with this balloon, it grows. In short, the air expands in volume. Can you understand the meaning of \"expand in volume\"? [T] Huh? Expand in volume. Expand in volume. What does \"expand in volume\" mean? [T] Yes, simply said, it grows. It is in"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I want you to create the state of this expansion with these one, two, three, four, four types of tools, these and these are the same, and these and these are the same. [T] First, I will explain the procedure. This is a tool with which you can put more air in here. What is happening to the air in"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] It is increasing. That means... does this container itself expand? [T] It expands a little bit, but when you keep adding the air, this container itself does not change, so what happens to the air inside? [T] Why are you so quiet? What happens? [T] Is it difficult? [T] I'm putting in more air, ri"
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] I'm putting in more air, right? Putting in air. I am putting in more air. That means, if I say it in non-technical words, the air is compressed. Opposite of expansion. Opposite of expansion. [T] Do you understand? I am putting in more and more air. In short, the air is shrinking. I will do the o"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Do you understand? Mirai, do you understand? Don't be spacing out. [T] Do you understand? Do you understand? Tell me whether you understand or not. [T] You understand, right? When I put air in, it almost bursts. By removing this, the air is released. So this is the same state as when I took out "
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then what happens inside of this? You saw a little bit. This pattern is one. There are five of them. The other one is the same, but inside of this, candle, no, incense. [T] You put the smoke of incense and do the same thing, then what will happen? [T] You don't put anything to this one. Well, pu"
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, you will do it like this, to this one, you put a little smoke and close it. Then you observe what happens to the inside of this. Okay? These two. And these two. [T] With a round-bottom flask. And this. What is this? This? What is this? [T] Does it look like a measurement cylinder? It goes "
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This cannot be a measurement cylinder no matter how you look at it. [T] This is... a syringe, right? It is also called an enema syringe. [T] It's true. This says a syringe. And below this with a small letters it says an enema syringe. Can you see? It is also called an enema syringe. You do enema"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You use this. How do you use this? You put a little water in here, and close the cap. Pull out the piston. People in the back may not be able to see it, but I will do it by putting it down. [T] I cannot pull it out and hold these with two hands. [T] You pull this. What kind of state is this when"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Compress. At that time, what happens to inside of this? Do you understand what I mean? [T] When I pull it like this, it is expanding. When I push it, the inside of this is compressed. Observe the appearance in these cases. Did you understand what I mean? [T] And this. In the same manner, you put"
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And this. In the same manner, you put smoke of incense a little bit. And do the same. How is it different when you push the piston and when you pull the piston? [T] Did you get the procedure? [T] Who didn't get it? [T] Okay, right? Then there are four patterns, so I will prepare them in the fron"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I would like you to do this for about 20 minutes, so take about five minutes per tool as a group. Should we make a big group? Group one and five. Two and six. Three and seven. [T] Four and eight. Rotate tools among those groups. [T] There is a handout for the record. So summarize things you noti"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] There is a handout for the record. So summarize things you noticed in this handout. Anything is okay. [T] Give these to the people in the back. [T] You know what you are doing, don't you? [T] Huh? Wait a minute. [T] Give these to the people in the back."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then write your name. [T] Write your name and question number one. Where are clouds formed? And why do you think so? I just explained it to you, so you can predict the answer more or less. [T] Think in your own words and summarize the location and the reason. Within two minutes. After two minute"
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Think in your own words and summarize the location and the reason. Within two minutes. After two minutes, we will start the experiment."
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Think in your own words and summarize the location and the reason. Within two minutes. After two minutes, we will start the experiment. [T] If you can't think of it, you can discuss it within your group. [T] You don't have to look at the textbook. Write what you think is right. [T] Write the rea"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I said you don't have to look at the textbook. [T] Can we start now?"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Can we start now? [T] Can we start now?"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Two minutes has passed, are we ready? Can we start the experiment? [T] Then people in the front, start the preparation. [T] I prepared the matches for the group who uses incense, so you can light the incense now. [T] You don't need to extinguish it. Since you don't need to put it out, leave it b"
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What are you doing? [T] The groups in the back, please do the experiment together with the groups in the front when it's ready. [T] You don't need to light three incenses. One is enough. You should light one incense. Just one for now. [T] You don't need to break it. Use as it is. [T] That's too "
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] That's too much. Too much. It should be enough to wet it. [T] The water in the bottle... don't put so much. Don't put it like this. It should be just enough to wet it. [T] This is too much. You wet it once and discard all the rest. The water remaining on the surface of the bottle is enough. This"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] This is too much. You wet it once and discard all the rest. The water remaining on the surface of the bottle is enough. This is fine. Don't put so much (that it remains in the bottom.) [T] I thought you would do it. [T] I know, I know. It's fine. [T] Listen up! Hey, listen up!"
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Listen up! Hey, listen up! [T] This syringe... how did you do before it exploded? Did you press too much? Did you press too hard? [T] How did you do it? [T] You pressed it normally. This one... doesn't have a stopper, so if you press it too much, it breaks. Like this. [T] So if you don't stop at"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Don't do things like this. [T] This group, you work with one. [T] I think it wasn't unnecessary to put water in. Make sure that this part is not bent. [T] Didn't you put anything inside? [T] Fine. Both, both. You do the same experiments with that."
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Fine. Both, both. You do the same experiments with that. [T] How is it? How is it? Make sure that it is not bent. [T] Watch the inside when you press and when you pull. [T] What happens when you pull? [T] How does it change?"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] How does it change? [T] When you pull, the air expands, right? What happens at that time? [T] What is formed? [T] Clouds. I see. Clouds are formed. When you press it? This is smoke. [T] Is this smoke from the incense? [T] Why? Both are fine. [T] Like this, right? This is smoke. This is smoke fro"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Like this, right? This is smoke. This is smoke from the incense. Why does it disappear when I press it? [T] That's (inaudible). Hold it. Don't break it. Don't break it. Don't break it. [T] Yes. It's fine that there is no change. [T] Yes. That's it. [T] Write down that there was no change. [T] Ho"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This is smoke from incense, right? [T] That's how it turned out? Take this out. [T] You put too much smoke. [T] You need only a small amount of smoke. [T] Try it with this."
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hey, you watch this. You watch this. [T] This? Smoke of incense. [T] No! We got rid of the smoke of incense, didn't we? [T] Hey watch this carefully. It's not white right now, isn't it? See?"
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hey watch this carefully. It's not white right now, isn't it? See? [T] Huh? [T] Ready? [T] It became white, right? Is this smoke from the incense? [T] Think hard. [T] Then you move."
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Change. [T] Move to a different table. Group one, come here. [T] You put too much water in. You can get rid of all the water. [T] The group over there, come here. Move to another table. [T] This one is without incense and you just press it. Try it."
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This one is without incense and you just press it. Try it. [T] You watch the change. Did you put the smoke of incense? You have to. This is the one to which you are supposed to put smoke. [T] Yes, yes, yes. All you have to do is to put it in a little bit. Try to put the smoke in a little bit."
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, yes, yes. All you have to do is to put it in a little bit. Try to put the smoke in a little bit. [T] That's fine. [T] This part is bent. [T] What are you doing by pulling it off? [T] Do it like this. Watch the inside. [T] Can you see? [T] Try it."
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Try it. [T] I see why it broke the last time. Because after it was pulled off- [T] This part is bent. [T] Do you understand? What happens when you pull it? Do it slower. Do it slower. [T] Smoke? Huh? When you pull it. When you pull it. [T] This. This white one. What is it? [T] Water vapor? You u"
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Water vapor? You understand that this is not smoke, right? [T] Try to press it. [T] If this were the smoke of incense, when you pull it, it becomes white, but if this were the smoke of incense, when you press it, it should not disappear. [T] So you understand that this is not the smoke of incens"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, it's fine. Is this the smoke of incense by any chance? Smoke? [T] This is too much. [T] Too much smoke. [T] Is this smoke of incense? [T] All of it? [T] Huh? How much smoke was there in the beginning? [T] This much? Well then, you can understand that this is not smoke."
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This much? Well then, you can understand that this is not smoke. [T] This is- [T] Clouds. [T] I will do it. Watch it. This is not white right now, right? [T] It became white. [T] It became white when the air got in. What does it mean that the air got in?"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This is not the case the air got in. Since it was full- [T] Yes, the air went out. [T] It became white when the air went out. What does it mean? [T] Did you try it? [T] What happened? [T] (inaudible). [T] What does that mean that the air gets in? That's the point. Okay everyone? Change the table"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What does that mean that the air gets in? That's the point. Okay everyone? Change the table. Move the table. This group, go over there. Move to the next table. Move to the next table. [T] No, move to the next table. This group, go all the way there. I told you to move to the side. You moved in t"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No, move to the next table. This group, go all the way there. I told you to move to the side. You moved in the reverse direction. Oh well. [T] Move to the table where you didn't do the experiment yet. [T] If you moved in the right direction, everything should've been fine. [T] You put too much w"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] (inaudible) [T] Susumu. Put the burnt matches and things. [T] Okay, that's enough. [T] All you have to do is it put in a little. Okay, okay."
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] All you have to do is it put in a little. Okay, okay. [T] Okay. Okay. [T] That's too much. [T] You can get rid of it. All you have to do is to put in a little bit. It is even stuck at the bottom."
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] ( ) [T] Let's put some water in. [T] I put a little bit in. [T] No, no. (inaudible) [T] Get rid of the water and try to put the smoke inside of it again."
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Get rid of the water and try to put the smoke inside of it again. [T] Do you see the change? [T] What happens when you pull it out? [T] When you push it? [T] It's clear, right? What is this white? [T] If you do it like that, it will break again. [T] This is?"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Water vapor. So what is this? [T] Clouds. (inaudible). You put in too much. [T] Yes, yes, yes, yes. [T] Yes. So in short, when it expands, the clouds are formed, right? When you push it and compress it, the clouds disappear. You see that change, right?"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What happens when you pull it. [T] It becomes white, right? [T] What happens to the air itself when you pull it. [T] When you pull it? [T] When you pull it. What happens when you pull it? [T] It expands. When you press it, it shrinks. It's okay as long as you understand that (the clouds) are for"
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Did the group over there do it? Next experiment will be the last one. This is the last change. [T] Clouds. [T] Takao, that's too much. [T] Yes, it becomes white. Sometimes. I think this one will. [T] Then the last change. This will be the last one. Change."
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Then the last change. This will be the last one. Change. [T] Now nobody should be doing the same experiment. [T] This is the last one. [T] Last one, last one. [T] You put too much smoke in. That's enough. That's enough. All you have to do is put in only a little bit."
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You put too much smoke in. That's enough. That's enough. All you have to do is put in only a little bit. [T] That's how they broke it. [T] Okay, okay. [T] You can leave it here. Here. And hold it here so that this won't bend. [T] How is it? When you pull it-"
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Do you get it? Do you understand that the smoke from the incense does not make it white, Takao? [T] Why is that? [T] That's the problem! [T] Because it gets hot. That's the problem. Why when you put incense- [T] Because it is smoke? [T] That's no good. I'll tell you later."
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's no good. I'll tell you later. [T] Did you try? [T] Didn't you (inaudible)? [T] Oh, you will do it from now."
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Oh, you will do it from now. [T] Did you do it? [T] Don't put in too much."
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] It got wet?"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] It got wet?"
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Are you done? Then go back to your seat. [T] Then go back to your own seat."
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then go back to your own seat. [T] Susumu, can you see the blackboard? [T] Okay. [T] Put all the experiment tools in there. [T] You did four types of experiments. I want you to present what you have noticed. First. Number one. In the case when you used a syringe and there was smoke inside."
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You did four types of experiments. I want you to present what you have noticed. First. Number one. In the case when you used a syringe and there was smoke inside. [T] What happened in this case? [T] Huh? It became white? When did it become white? [T] You pull it. Then it becomes white. And when "
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You pull it. Then it becomes white. And when you press it- [T] Smo- It didn't change? [T] Smoke... The thing, which became white, disappeared, right? [T] Did you all have the same result? [T] You confirmed that, right? [T] You cannot see it if I write with too little letters."
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And piston. P-i-s-t-o-n. Pull and push- [T] Uh, when you pull the piston, it becomes white and when you push the piston, the white thing disappeared. [T] What will happen to the air when you pull. [T] It expands, right? [T] Expand... expand... expand... expand... how do you write expand in Chine"
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Expand... expand... expand... expand... how do you write expand in Chinese characters? [T] With the moon radical... Oh, I see. It was written there. [T] Dot, dot, dot and another character. [T] What does pressing the piston mean? [T] Compress. Compress, compress."
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Compress. Compress, compress. [T] Like this? [T] Compress- [T] Compress... Uh? I feel something is wrong. Expands and compress? \"Contracts\" is better? Well, it has become too difficult, so it's okay. Do you understand what to contract means? [T] You don't understand, right? You can understand th"
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] At that time... it becomes white. [T] Uh- [T] Well then... Number one, number one point two, when you use a syringe and there is no smoke, what happens? [T] Huh? [T] Was there no change? It did not become white? [T] It didn't. In either case... whether you pull the piston-"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It didn't. In either case... whether you pull the piston- [T] Then... did anyone have a different result? Did everyone have the same results? Everyone's got the same results, right?"
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Then the second type, number one. Pump-type tool. Over there and there. When there is smoke inside. [T] Yes, when you remove the cap- [T] It got white. [T] Remove the cap. [T] Remove-"
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Removing the cap will cause what to the air? [T] In the same way as this? [T] Expand, right? When it expands... it got white."
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Is this clear? [T] When you are pressing the air in, did the white thing appear or not? [T] It didn't appear, right? When we are putting more and more air in, the white thing didn't appear. [T] Then type two, number two. Using the pump and there is no smoke in it... what happened to this when yo"
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You didn't see any change? [T] In short, this is expansion, too, but- [T] This had no change? [T] No one has seen the change? [T] Which one? [T] Hmm. Perhaps you are thinking that because this one did not have any changes, this one won't have any change either, but you must have seen a change."
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hmm. Perhaps you are thinking that because this one did not have any changes, this one won't have any change either, but you must have seen a change. [T] A little bit. Yes. It changed to white a little bit. [T] So from four experiments, we found out these things, right? [T] When we look at all f"
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] When we look at all four of these experiments, can we say that it becomes white when there is smoke or it becomes white when there is no smoke? It's obvious. [T] When there is smoke, it becomes white. I'm sure that you have noticed already, but this white thing is- [T] A cloud. This is a cloud. "
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Formation of clouds is, simply said, based on this principle. [T] By expansion of air, the clouds are formed, simply said. Then in nature, how do you think this is done? [T] Before, in the beginning I showed you this experiment. The state of a vacuum. When the air gets thinner, it expands. In th"
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Before, in the beginning I showed you this experiment. The state of a vacuum. When the air gets thinner, it expands. In the upper atmosphere, compared to the air around here, the air is? [T] //Thinner. [T] Then what happens in nature, what happens to the air around here? [T] It is carried up. Fi"
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] Actually, when expansion of the air, compression of the air, uh... contraction of the air, shrinking of the air happens, the temperature changes. The temperature. What kind of change? [T] It has a lot to do with the dew point which we studied in the last lesson. I will confirm with you one more "
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] When you cool the air, condensation, simply said water, is formed. That time, no, that temperature is called dew point, right? That has a lot to do with this. [T] To become white... what is this white substance? You are saying during the experiment, but this is water vapor. [T] In short, when th"
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Expands- [T] Then what happens to the temperature? [T] What happens to the temperature? [T] What can you predict? [T] It increases, it decreases, it stays the same."
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It decreases. Can you understand that? [T] In today's experiment, we didn't change anything in terms of the temperature. So what we found from this experiment is that when it expands, it becomes white. [T] Actually, when the air expands, the temperature decreases. [T] The character for \"decrease"
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The character for \"decrease\" cannot be this. [T] When the air expands, the temperature decreases. [T] Then... when you put more air in, when you compress the air, the temperature? [T] Rises. Haven't you experienced that? With a bicycle pump, you put the air in... You have probably never touched "
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Rises. Haven't you experienced that? With a bicycle pump, you put the air in... You have probably never touched the pump. Have you? No? You haven't, right? [T] When you put the air in, if you touch the bottom part, it is warm. That is because the air is compressed and the temperature goes up. [T"
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] In the case of compression, the temperature goes up. [T] We don't have enough time. [T] In conclusion, when the air around here goes up, it expands, right? Then, when it expands, the temperature goes down. [T] When the temperature goes down, it reaches the dew point which we learned about in the"
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] It reaches to the state in which it cannot stay as water vapor in the air anymore, it reaches to the state in which it cannot exist as water vapor anymore, then it condenses and becomes clouds which we can see with our eyes. [T] In our experiment, it became white, but you can probably not tell t"
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] In our experiment, it became white, but you can probably not tell there was a change in the temperature. But this change is happening. The dew point. [T] The clouds are formed. Okay? Did you understand how the clouds are formed? Somehow? [T] Then, the question. Why do we see the differences in f"
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, the question. Why do we see the differences in formation whether there is smoke or not. Why did we put the smoke in it? [T] The clouds, no the smoke... the clouds are easy to be formed when there is smoke. Then, when you think about this normal air, what is that that works as the smoke? [T"
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The water vapor becomes clouds. [T] The bell is ringing. [T] Actually, there are lots of things in the air, such as dust. [T] In technical terms, we call this the nucleus. Nucleus. Do you understand? In the chapter of the atom, I explained a little bit about the nucleus. [T] It has the same func"
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It has the same function. So as a result, water vapor attaches to these particles and forms drops of water which are visible. Do you understand? [T] We will continue from here. [T] We don't have time to summarize the handout, but write quickly at the section, \"Self Evaluation.\" [T] You can summa"
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You can summarize in the next class. [T] Right. Bring the handout in the next class. Keep it. Put it in your notebook. [T] This? This is not written there. Fine."
+    },
+    {
+      "t_start": 3090.0,
+      "t_end": 3120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Five? Which five? The five in the self evaluation? [T] Write it down in the section. [T] What is the next class? Gym? [T] It's not, right? Then we will finish, so summarize your handout when you have time. Then we will finish. [T] That can be after our greeting."
+    },
+    {
+      "t_start": 3120.0,
+      "t_end": 3150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Thank you very much. [T] Bring your experiment tools to the front."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What is dew point? [T] Mayumi-san. [T] Yes, the temperature is called the dew point at which condensation takes place when the air was cooled. Today, relating to this, clouds which you can see all over the place. [T] We are going to study how clouds form. [T] Where are clouds formed?"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Dirt! Dirt makes clouds. [T] Sea! [T] Sky! [T] Mountain! Wait a minute. [T] Dirt. What do you mean by that? [T] What? [T] It oozes from the bottom. [T] Oh, fog. So, fog and clouds are the same. [T] The same. The same. You they are the same things. [T] Hmm. We will learn about how the fog is formed after we learn about clouds. When you learn it, you will understand whether fog and clouds are the same or not."
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] When the air inside of this glass container gets thinner, this balloon shrinks, stays as it is, inflates, breaks. Is that all you can think of? Which one do you think it is? [T] Say something. Inflates? Shrinks? [T] I will show you. It may take a little time. [T] Watch carefully. [T] That was a mistake. [T] Now. [T] I am now drawing air from this."
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Like this, right? This is smoke. This is smoke from the incense. Why does it disappear when I press it? [T] That's (inaudible). Hold it. Don't break it. Don't break it. Don't break it. [T] Yes. It's fine that there is no change. [T] Yes. That's it. [T] Write down that there was no change. [T] How did it turn out to be? [T] This is smoke from incense, right?"
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hey watch this carefully. It's not white right now, isn't it? See? [T] Huh? [T] Ready? [T] It became white, right? Is this smoke from the incense? [T] Think hard. [T] Then you move."
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Change. [T] Move to a different table. Group one, come here. [T] You put too much water in. You can get rid of all the water. [T] The group over there, come here. Move to another table. [T] This one is without incense and you just press it. Try it."
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, yes, yes. All you have to do is to put it in a little bit. Try to put the smoke in a little bit. [T] That's fine. [T] This part is bent. [T] What are you doing by pulling it off? [T] Do it like this. Watch the inside. [T] Can you see? [T] Try it."
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Try it. [T] I see why it broke the last time. Because after it was pulled off- [T] This part is bent. [T] Do you understand? What happens when you pull it? Do it slower. Do it slower. [T] Smoke? Huh? When you pull it. When you pull it. [T] This. This white one. What is it? [T] Water vapor? You understand that this is not smoke, right?"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This much? Well then, you can understand that this is not smoke. [T] This is- [T] Clouds. [T] I will do it. Watch it. This is not white right now, right? [T] It became white. [T] It became white when the air got in. What does it mean that the air got in?"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This is not the case the air got in. Since it was full- [T] Yes, the air went out. [T] It became white when the air went out. What does it mean? [T] Did you try it? [T] What happened? [T] (inaudible). [T] What does that mean that the air gets in? That's the point. Okay everyone? Change the table. Move the table. This group, go over there. Move to the next table. Move to the next table."
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No, move to the next table. This group, go all the way there. I told you to move to the side. You moved in the reverse direction. Oh well. [T] Move to the table where you didn't do the experiment yet. [T] If you moved in the right direction, everything should've been fine. [T] You put too much water in. You can pour off all the water. Okay. Do it now. [T] Didn't you do it with this before? Move to another table. [T] (inaudible)"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] (inaudible) [T] Susumu. Put the burnt matches and things. [T] Okay, that's enough. [T] All you have to do is it put in a little. Okay, okay."
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] All you have to do is it put in a little. Okay, okay. [T] Okay. Okay. [T] That's too much. [T] You can get rid of it. All you have to do is to put in a little bit. It is even stuck at the bottom."
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] ( ) [T] Let's put some water in. [T] I put a little bit in. [T] No, no. (inaudible) [T] Get rid of the water and try to put the smoke inside of it again."
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Did the group over there do it? Next experiment will be the last one. This is the last change. [T] Clouds. [T] Takao, that's too much. [T] Yes, it becomes white. Sometimes. I think this one will. [T] Then the last change. This will be the last one. Change."
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You put too much smoke in. That's enough. That's enough. All you have to do is put in only a little bit. [T] That's how they broke it. [T] Okay, okay. [T] You can leave it here. Here. And hold it here so that this won't bend. [T] How is it? When you pull it-"
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then go back to your own seat. [T] Susumu, can you see the blackboard? [T] Okay. [T] Put all the experiment tools in there. [T] You did four types of experiments. I want you to present what you have noticed. First. Number one. In the case when you used a syringe and there was smoke inside."
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Compress. Compress, compress. [T] Like this? [T] Compress- [T] Compress... Uh? I feel something is wrong. Expands and compress? \"Contracts\" is better? Well, it has become too difficult, so it's okay. Do you understand what to contract means? [T] You don't understand, right? You can understand this better? Then, this is fine. [T] At that time... it becomes white."
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] At that time... it becomes white. [T] Uh- [T] Well then... Number one, number one point two, when you use a syringe and there is no smoke, what happens? [T] Huh? [T] Was there no change? It did not become white? [T] It didn't. In either case... whether you pull the piston-"
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Then the second type, number one. Pump-type tool. Over there and there. When there is smoke inside. [T] Yes, when you remove the cap- [T] It got white. [T] Remove the cap. [T] Remove-"
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Before, in the beginning I showed you this experiment. The state of a vacuum. When the air gets thinner, it expands. In the upper atmosphere, compared to the air around here, the air is? [T] //Thinner. [T] Then what happens in nature, what happens to the air around here? [T] It is carried up. First it goes high up in the sky. It goes high up in the sky and? [T] The air expands. At that time, the clouds are formed. [T] Actually, when expansion of the air, compression of the air, uh... contrac"
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] Actually, when expansion of the air, compression of the air, uh... contraction of the air, shrinking of the air happens, the temperature changes. The temperature. What kind of change? [T] It has a lot to do with the dew point which we studied in the last lesson. I will confirm with you one more time what the dew point was. What was it? [T] When you cool the air, condensation, simply said water, is formed. That time, no, that temperature is called dew point, right? That has a lot to do with t"
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] When you cool the air, condensation, simply said water, is formed. That time, no, that temperature is called dew point, right? That has a lot to do with this. [T] To become white... what is this white substance? You are saying during the experiment, but this is water vapor. [T] In short, when the air expands, [T] The air-"
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Expands- [T] Then what happens to the temperature? [T] What happens to the temperature? [T] What can you predict? [T] It increases, it decreases, it stays the same."
+    }
+  ]
+}

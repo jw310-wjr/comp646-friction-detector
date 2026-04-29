@@ -1,0 +1,1878 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science NL4 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, ladies and gentlemen. If everybody, uh, could pay very close attention. We have- [T] Today we have an- a guest, someone who's here to film us. This has to do, as I understand, with an international study. [T] I don't know the exact purpose of it, but, anyway, they asked permission to, uh, film a number of lessons. [T] Among which, this lesson. Um, so it's not for commercial purposes, like you'd suddenly show up in a commercial or something."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Among which, this lesson. Um, so it's not for commercial purposes, like you'd suddenly show up in a commercial or something. [T] So don't you worry. Uh, today we will- like I said last time, right? We're- [T] Young man, this applies to you too. [T] We already lost a lesson for that BAVO test. Last time was the sports day. [T] I just heard you came in third there. Not bad. [T] However in this last lesson we'll be very busy, for we still need to finish a section with many problems that will return in the test."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] However in this last lesson we'll be very busy, for we still need to finish a section with many problems that will return in the test. [T] Last time we ended with, uh, the opening in the eye, the iris, which can become bigger and smaller... [T] Becomes bigger and smaller with the aid of small muscles. [T] Well, we still need to look at the lens, whose shape you can change. These are two things that seem very similar. [T] People confuse them frequently. [T] So we have to pay, uh, some attention to that. Other than that, we still have to discuss Basic Subject Matter Eight and Nine very briefly."
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So we have to pay, uh, some attention to that. Other than that, we still have to discuss Basic Subject Matter Eight and Nine very briefly. [T] Those are very simple, for the most part you can find your way through them on your own. [T] In a moment you will get the scores for the BAVO test back. At the end of the lesson you get the report back. It has a mark as well. [T] Furthermore you'll get- [T] People, please, uh, stay focused. [T] Where are you coming from, this late? [T] //Well yeah, but you were almost here and then I saw you turn around."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] //Well yeah, but you were almost here and then I saw you turn around. [T] That's not necessary, is it? Sit down quickly. 'Cause you're always late, aren't you? [T] Um, so at some point you get answer sheets. We won't do it with the book this time. [T] You'll get those at the end, you take them home. So you can do the checking at home. [T] We don't need to spend any time on that here. [T] And I hope that we have completed everything for the test week. You've been told what will be covered, right? Topic Six."
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And I hope that we have completed everything for the test week. You've been told what will be covered, right? Topic Six. [T] All the basic subject matter and part of the additional enrichment material. It's in the brochure, too. We had that on the blackboard last week. So... [T] What did I- or I assigned Three for you, right? Enrichment Material //Three. [T] Yes, for Enrichment Material One there are no questions, so this can go. [T] And now we'll look at Basic Subject Matter Six in the book. //So-"
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hello. In just a moment. [T] We start at page 231. Put that in front of you, all of you. So get page 231. [T] Karen, please react when I ask something. First, you arrive late, and now you're just sitting there looking around. [T] If you had been on time you would have been explained what is going on. But you were late again. [T] So, just let it be with all that's going to happen. [T] Page 231. Here we had, we had this on the blackboard last week, right?"
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Page 231. Here we had, we had this on the blackboard last week, right? [T] We were discussing the opening in the eye, then, the iris opening. [T] And the iris opening can be made larger and smaller. [T] Well, um, this little drawing represents that again. The book has more or less the same thing. [T] The central section is the pupil, the opening, it is just a hole. It can become larger or smaller. [T] And that had to do with the circular muscles and the radial muscles. These. [T] Now, if the circular muscle--or any muscle--contracts, it gets smaller. So if the circular muscle contracts, the opening becomes smaller."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now, if the circular muscle--or any muscle--contracts, it gets smaller. So if the circular muscle contracts, the opening becomes smaller. [T] If the radial muscles contract the opening is made larger. [T] What can you compare this to in a camera? Who knows that? What's it called? [T] Not the lens. [T] Right, the diaphragm. The diaphragm is actually the opening that lets through the amount of light that is allowed to fall on the film."
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If you look at a very simple camera, those real old cameras, [T] I once had one myself, it had a little cloud, a sun and a sun with half a cloud. [T] And what it had inside was, there was a knob which you could turn. And what really happened was: [T] you had a disc in there, and the disc had holes in it. [T] And you can imagine what position the little sun indicated. Here, at the small opening, was the little sun."
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And you can imagine what position the little sun indicated. Here, at the small opening, was the little sun. [T] And if there was a lot of light outside, you only needed a small opening. [T] Then not too much light would fall on the film, otherwise the film would be overexposed. [T] Too much light, if you take a picture almost directly into the sun, you hardly get anything on the picture. [T] Well, then, of course, the little sun with the small cloud was here. And here the little cloud. [T] The less light, the greater the opening behind the lens has to be. So you have the lens, the opening, and there you have the film. [T] That film is light-sensitive. You want to be able to limit the amount of light that passes through."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That film is light-sensitive. You want to be able to limit the amount of light that passes through. [T] Well, in our eye we do this by making the pupil larger or smaller. And what represents the film in our eye? [T] The retina. That's the light-sensitive part. [T] And we also have a lens. In a camera the lens is in front of the diaphragm. [T] And, actually, in the eye that's the same."
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And, actually, in the eye that's the same. [T] There too, um- well actually, no, it's just the other way around. The lens is behind the diaphragm. [T] Because our diaphragm is, let's say, the opening, the pupil. And the iris we can shrink and enlarge. [T] With the aid of these little muscles. [T] Now we'll, we'll skip a bit and go to page 200- let me see, uh, 256 in the book. [T] Just get that. [T] And there you see the following story, which is often confused with this one. There you see a lens."
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And there you see the following story, which is often confused with this one. There you see a lens. [T] So this is the lens. And around the lens there is a muscle. [T] And this muscle they call the \"ciliary body.\" Yes, and that, of course, sounds a little bit like \"radial muscles.\" [T] So these terms tend to get mixed up. So, the ciliary body."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So these terms tend to get mixed up. So, the ciliary body. [T] And in the ciliary body there are circular muscles. [T] The ciliary body and the lens are connected with zonules. Those are not muscles. [T] Those zonules cannot change form. They cannot become longer or shorter. [T] But they are attached to the lens. [T] Now, you can imagine that if the muscles in the ciliary body, if they contract, what will happen to that ciliary body?"
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now, you can imagine that if the muscles in the ciliary body, if they contract, what will happen to that ciliary body? [T] Does it get larger or smaller? [T] Becomes smaller, right? When muscles contract they become smaller. So this gets smaller. What would happen to the zonules? [T] They loosen up, right. So if you- I'll make another sketch, in miniature. [T] This is contracted and then those zonules, they are a little loose."
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes? Well, the lens, it can change shape a little. [T] That also has to do- the eye, is on the inside filled up with a jelly-like mass. [T] A kind of liquid-like material, and there is a certain pressure behind it. [T] Well, if the lens, if the zonules are a little loose, then the lens looks like this. It is rounded. [T] If the zonules are taut, then the lens is pulled, so then the lens will be... flatter."
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If the zonules are taut, then the lens is pulled, so then the lens will be... flatter. [T] So that's in fact what happens. So you can- all you can do is make the lens more flat or round. [T] When does it get rounder? [T] Well? When does it get rounder? [T] When these muscles are contracted, so in the ciliary body the muscles are contracted,"
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] the zonules are relaxed, then the lens gets rounder, automatically. [T] Well, if it gets flatter, then this muscle is relaxed, while the pressure of the eye pulls the zonules taut again, [T] And the lens is made flatter. At what cost- [T] //Yes, yes."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, if everybody is ready again. Uh, last part of this. If you uh, compare this with a camera- [T] Ladies, ladies. If you compare this with a camera, what is the similarity?"
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ladies, ladies. If you compare this with a camera, what is the similarity? [T] This, uh, rounding or flattening? You can't do that with a camera, of course. You can't just change the shape of the lens. [T] But what is it that you can do? [T] Zooming in, right? Focusing. [T] So, this, what happens here, has to do with focusing. If... [T] If the lens is rounded, then you can see clearly up close. [T] If the lens is flat, you'll see better, say, at a distance. Focused for distance."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If the lens is flat, you'll see better, say, at a distance. Focused for distance. [T] Well, what takes more energy, looking far away, or looking up close? [T] Close by, why? [T] Karin, why does that take more energy, looking close? [T] Why don't you tell me. [T] Why does it take more energy if I want to look up close?"
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Why does it take more energy if I want to look up close? [T] But looking up close my eye get tired. Why? [T] And your neighbor may think with you. [T] Go //ahead. [T] Right, the muscles in the ciliary body contract. So that takes energy."
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Right, the muscles in the ciliary body contract. So that takes energy. [T] Muscles will get tired. If you, uh, have to hold something continuously, keep your muscles contracted, [T] Even with a small weight, even if I was to hold just one kilogram in my arm, and I'd I have to hold my arm like this, [T] Then after a minute that one kilogram gets to be pretty heavy. [T] And you'll never last five minutes. Yes, and that's just one little kilogram. If you have to contract your muscle all the time, it will get tired. [T] That's how it is with the muscles in the, uh, ciliary body. They get tired. And at some point you can't keep it up anymore."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's how it is with the muscles in the, uh, ciliary body. They get tired. And at some point you can't keep it up anymore. [T] It's not working as well anymore. You're not seeing as well up close anymore, because the lens automatically flattens a bit. [T] So looking closely takes more energy. But staring into the distance hardly takes any energy. [T] Okay, well, that's the part on this enrichment material. It's important that you understand this very well. [T] I formulated 15 questions, uh, specifically and only about the eye. They are at the end. [T] Uh, you can already guess that those will count heavily, of course."
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, you can already guess that those will count heavily, of course. [T] I have the test, the breakdown of the score is given this time. Uh, the last part counts a little heavier again. [T] After all, I have to create some variation in the choice of standards. [T] And these problems, I 'm not afraid to say, they are, uh final exam problems from \"MAVO, MAVO 4.\" [T] And I, I took a look at them. And you should be able to- you should be able to work out a number of those problems perfectly."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And I, I took a look at them. And you should be able to- you should be able to work out a number of those problems perfectly. [T] Uh, the smart ones- [T] Or those with a bit of luck, maybe all of them. [T] So, I'll see to what extent everybody manages. [T] //Wait a minute. They are multiple choice questions. [T] //No. [T] A, B, C, D. [T] Yes?"
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, we do have a couple of open questions. [T] In a minute (inaudible), in a minute. [T] We will now, uh, look at Basic Subject Matter Eight. [T] Page 235 in the book, please turn to that. [T] And those are, uh, the last assigned problems."
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Guys, please get with it, okay? These are the last assigned problems we have to do. [T] Uh, Basic Subject Matter Eight is about behavior. We talked about control and behavior. [T] The greater part, the most is of course about control. Behavior is the last part. [T] Uh, the last part is about, uh, all kinds of behavior, human and animal. [T] An important part in it is the behavior for the survival of the species, and behavior for the survival of the individual."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] An important part in it is the behavior for the survival of the species, and behavior for the survival of the individual. [T] Well, an individual is one, singular, one organism. [T] It's easy to compare that with the things you do yourself. [T] Behavior for your personal survival is for instance making sure that you lead a healthy lifestyle. [T] That you stay alert on the road, if you ride your bike in the morning, so that you don't ride into a truck or under a train. [T] Uh, those are all actions that you do yourself, for your own protection. [T] If you look at nature, you will see that many animals, uh, serve as food for some other animal."
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If you look at nature, you will see that many animals, uh, serve as food for some other animal. [T] And conversely, of course. And many animals just don't let themselves be taken that easy. They try to escape. [T] They have developed all kinds of techniques to flee. [T] And, that behavior, escaping from a predator, making sure you're not getting caught, is an example of behavior for the survival of the individual. [T] And everything that has to do with reproduction-"
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I don't know what you're explaining, but it has nothing to do with behavior. So please stay with it. [T] Yes, so, everything that has to do with reproduction, and with the success of that, has to do with behavior for the survival of the species. [T] A species can survive only if new individuals are born. [T] Yes, that's the most important of course when you take a look at the evolution, you will get that later some time. [T] That really focuses on: which animals are most successful? Those are the animals that reproduce the most."
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That really focuses on: which animals are most successful? Those are the animals that reproduce the most. [T] Because reproduction, survival in the future, that's really what we call success in evolution. [T] We'll do a few problems about that. They can be done very quickly, so we can easily do that during the lesson. [T] Uh, Basic Subject Matter Nine, Human Behavior, that's a very short piece, what you have there, less than half a page of text, [T] That has to do- behavior has to do with biological causes."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They say that behavior has to do with psychological causes and with socio-cultural causes. [T] Well, I think you guys have had this in Health. And that certain cultures- [T] Ladies in the back. That certain cultures have different behaviors. [T] Uh, furthermore, I think it is crystal clear that, uh, apart from culture, uh, parents, friends, caregivers influence your behavior."
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, furthermore, I think it is crystal clear that, uh, apart from culture, uh, parents, friends, caregivers influence your behavior. [T] The school you attend can influence your behavior. [T] But, of course, also your own will. It's determined by a large number of factors. They wrote a very short piece here. [T] Just go ahead and read it. There's only a few questions about that. [T] And two assignments relate to it. We'll do those, and then we are done with the chapter. [T] Okay? So we'll do those problems. [T] I'll read out your grades for the BAVO test. I'll return the report at the end of class."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] BAVO test counts once, as a quiz. One time. [T] One time. [T] No, no, no, that's impossible, mate. [T] There is even a ten for the BAVO test. [T] Yes, I will, I'll come across it automatically, right. Okay Marieke, and nine and a half. Theo, eight and a half. Bob, eight and a half. Milan, eight point eight."
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Elsbeth, a ten. [T] Mireille, seven and a half. Juliette, nine. Stefan, seven point eight. [T] Carolien, a ten. John, seven point eight. Tineke- [T] Uh, let me see. I better make sure I see this right. [T] Uh, Tineke a seven point eight. Nanet, nine. Klaas, eight point eight. Fiona, eight point three. [T] Maria, nine and a half. Anja, nine. Marc, a nine. Sue, a nine. Lennard, nine. Leo, an eight."
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Maria, nine and a half. Anja, nine. Marc, a nine. Sue, a nine. Lennard, nine. Leo, an eight. [T] Anne, seven and a half. Karin, an eight. Teresa, seven and a half. Stephanie, a ten. [T] Matthew, nine and a half. Mieke, eight point eight. Connie, nine. And Susan, a nine point three."
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Of course this was a real easy one, this test. That's why. [T] Yes, you will get answer sheets from me. [T] Because we are going to do assignments still. [T] Yes, we'll review those, then. [T] Okay, guys, we are, uh, going to do the last assignments now. And I'll hand out some sheets. Fiona... Fiona? //Or-"
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, guys, we are, uh, going to do the last assignments now. And I'll hand out some sheets. Fiona... Fiona? //Or- [T] Well, I mean your neighbor. I always mix you up. [T] We're going to do the last assignments. You interrupted me. [T] We will do the last assignments and then we'll review them. [T] No, later, at the end. [T] Ladies, please get to work, too, doing the last assignments. For now, here are the solutions up to 17. [T] Solutions up to 17."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You have- yes, up to 17, up to 17. The last you don't have. [T] Ladies, go on, go to work, nicely, here. [T] So how far did you get? [T] Yes, then- well then you take- you take this- this- this chapter. [T] And make the assignments that are part this. Now. [T] Yes?"
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What do you have? [T] No, that's no problem. But you didn't finish the enrichment material, did you? [T] So just do Enrichment Material Three. That is //important. [T] No, no, no, no. [T] Are you also getting to work, gentlemen? [T] Did you do Enrichment Material Three yet? [T] //Just start doing that then, go practice. [T] Yes, and Enrichment Material Three."
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Uh, can't you just skip them? [T] Why not? [T] Do it- yes... Just do that later during the break. [T] Yes, that's a study. That's some kind of study."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, that's a study. That's some kind of study. [T] No, no, no. [T] I don't know. [T] Yes, I guess. I guess so. [T] I would think so. [T] Through 29 and Enrichment Material Three. And especially Enrichment Material Three, guys, is important, okay?"
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Through 29 and Enrichment Material Three. And especially Enrichment Material Three, guys, is important, okay? [T] Practice that one properly, because I really thought of a couple of questions that you can answer only if you understand it. [T] Yes, you may. [T] This is the last lesson. [T] Now- oh- [T] No, no, no, of course not. [T] Ladies, you are not working on Enrichment Material Three. I'd like some action now."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ladies, you are not working on Enrichment Material Three. I'd like some action now. [T] If you don't understand it then you just ask it later."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Those are important terms that I underlined. [T] Gentlemen, just start doing those last things. Clear up that mess."
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, you can keep it. [T] I also have the answers of the D test, uh, guys. And for this last piece there is still the enrichment material to go. [T] You can keep it all."
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, yes, yes, you can keep this."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ladies, please start working industriously. (inaudible). [T] (inaudible) [T] You'll get another one later. But I'll wait with that for now. Because it includes Enrichment Material Three."
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You'll get another one later. But I'll wait with that for now. Because it includes Enrichment Material Three. [T] Up to where have you gotten with this thing? [T] Twenty-three. [T] What don't you get about it?"
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] \"What kind of image of an object is formed on the retina.\" Well, that, //that- [T] No, no, that's what we see here. We demonstrated that last time. [T] Smaller //and inverted. [T] And your brains turn it around automatically. //So this is what you see, smaller and upside down. [T] //No, no, no, no, no, no. [T] \"An image inverted and reduced in size,\" is in fact the answer you should write down here. And what else don't you understand? [T] Well, this. How is this, then?"
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, this. How is this, then? [T] Yes, your brain turns it around, right? [T] And if you keep hanging upside down long enough, like I said, they will also turn it around once again, right? [T] Okay? Make sure you understand it. And don't pop your chewing gum like that, okay?!"
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] //All right, how far did you guys get? You completed everything? [T] //Looked at Enrichment Material Three yet? Then take a look at Enrichment Material Three. [T] No, but you'll need to be able to do those, (inaudible)- [T] Yes, yes, yes, yes. So if you'd like to take a look. Where is it? [T] This one, and then actually for //the assignment-"
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This one, and then actually for //the assignment- [T] //Yes. One and two, you should just do those. And make sure you are familiar with those pictures and that you understand them. [T] All right? So knowing that the first story I told you is about this thing here. The iris opening, actually. [T] Right? Those small muscles are attached to this little organ. And the second story is attached to the lens. [T] So they're located very closely to each other, but they're two completely different things."
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You have to understand it. Otherwise you can't answer the questions. There is no point in just memorizing it. [T] Understanding, okay? Understanding. [T] All right. [T] No, Enrichment Material Three, yes. [T] No. [T] Well, that's how- I'd first planned that but we had the BAVO test. I had- I had forgotten about that sports day. [T] I had counted on two more lessons. Then you would have gotten this, too. [T] Okay? So I abbreviated it."
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? So I abbreviated it. [T] Yes, normally we do all of the enrichment material. So this time it's a little less. [T] Because, if I- and don't you dare write in my book. [T] Ladies, how far did you get? [T] What is what? [T] Well, what is that? [T] Do you know what a response is? [T] Right, correct."
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, what is the response? [T] Just think about it. [T] Yes, but, what behavior were we talking about just now? Let's have a look. [T] The cat yes. What does that cat do? He chases a bird. [T] What is the response then? It wants to catch //the bird. [T] Yes, it wants to catch it."
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] How far are you, um...? [T] All done? [T] Yes, of course. [T] Yes, [laughter], that way anyone can do it. And Enrichment Material Three, what happened to it? [T] Because you don't have that yet, do you? You didn't do Enrichment Material Three yet. [T] Well, then get that out- [T] And start thinking about it. [T] Okay? So Enrichment Material Three."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? [T] Yes, however, you should- Because which drawing did you use for that? This one? [T] //Yes, yes, yes. [T] Did you close one eye? [T] //Yes. [T] That should work, though. Then you should increase- then you should increase or reduce the distance a little. [T] Either move it closer or farther away. Everybody has a blind spot,"
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Either move it closer or farther away. Everybody has a blind spot, [T] and you should- you should be able to find it. [T] //Just move your book up and down. [T] Yes. [T] Okay, you can check it at home. [T] But what you- what you didn't do is Enrichment Material Three. [T] //Did you? Well, that one you can- For that one you should check and see if you really understand it."
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Like I said, that's very important. So, take a good look at it. [T] Yes. [T] Then you, probably- you must have gone very slowly with one eye, not as fast. [T] It can't be that you kept the same pace. Impossible. [T] It is impossible to work more accurately with one eye than with two. [T] So I think that the pace at which you put down the dots, that there is a large variation in that."
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So I think that the pace at which you put down the dots, that there is a large variation in that. [T] While actually you're supposed to be at the same pace. And then it must be that with two eyes you can see much better. [T] Yes? [T] How far did you guys get? [T] So almost everything is done? [T] Yes, we checked that already I believe. Can I see what you produced so far?"
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, we checked that already I believe. Can I see what you produced so far? [T] Your handwriting is, uh... [T] Lousy, huh? Getting lousy. [T] But you could type real fast, right? [T] That's what I thought. Okay, now just do Enrichment Material Three. //Yes? [T] And that is? [T] No, but, the lens does not get bigger, does it? It gets rounder or flatter."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, but, the lens does not get bigger, does it? It gets rounder or flatter. [T] The lens cannot get bigger, so... What question were you talking about? [T] Three. \"Someone is looking at the tip of a pencil while that's...\" [T] So how does it shape-? They are talking about the shape, aren't they? A shape is not larger or smaller. [T] You have- have something far off and you bring it closer and you want to keep seeing it clearly. [T] No."
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It gets rounder, yes. [T] That is what it says up here, see? [T] //Look, look. No, you have to look at this picture. Here something is at a distance. Yes, then you see the lens is flat. [T] And you see the zonules here, they are taut. [T] Here you have the zonules, and they drew the muscles heavier there, you see? [T] And those zonules a little more loose. So yes, it is drawn small, but... [T] Here you see something up close, in focus. That will cost me energy, I said earlier."
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You have to tense that muscle. At a distance it takes no energy. [T] So when I bring something closer I have to make the lens more and more rounded. Simply because the light rays, I have to break those more. [T] Yes? [T] //That's what this is all about. The light has to be broken more and more acutely. And that's what it's all about. [T] Yes, you can keep the whole thing. You //may take it with you. [T] Why not?"
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, take it anyway. That you //can- [T] Enrichment Material Three, yes. [T] What do you mean? They're asking you for your own opinion, I think, or not? [T] \"(Determine) whether the following examples are, or are not examples of behavior.\" Yes, you can, you'll get questions about that, yes. [T] Yes."
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, that's not too difficult, is it? [T] It goes with the basic subject matter. You get a test on all basic subject matter. [T] Well, ladies, where- how far have you gotten? [T] Written down the important terms. [T] Okay, so, the last things."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, you get this one now. Guys, these are the last solutions, also from the, um, enrichment material. In a moment you also get the reports back."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Wasn't there anything like, um, a form the students needed to fill out? You've got that with you? Okay."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay people, these are the last solutions. [T] That was nonsense. There you had left it out. [T] Yes, so Enrichment Material Three, is included, there, right? [T] Yes, yes, yes. Yes, I left One in there, too. I just figured, for whoever is interested."
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, the reports, just a moment, ladies and gentlemen. I should tell you this. [T] I, um, discussed this with Mr. Verhoeven, and you know that normally I never give tens. [T] Unless you really earned it in terms of points. For reports I consider it just a little too much. [T] It may distort your image a bit at some point. [T] Mr. Verhoeven said that it won't hurt for once. He has looked at a few things with me. [T] We checked if it was in a little folder."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If the cover looked decent. Naturally, if all assignments were in fact completed. [T] Uh, I read a number of the assignments. Well, you did a great job. The assignments were all done excellently. [T] Most of you put a fair amount of time into it. //And therefore we also have- [T] Okay, \"a lot.\" [T] And therefore we awarded some tens this time. [T] Uh, it counts twice, so no- You can note it twice."
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, it counts twice, so no- You can note it twice. [T] And, um, we hand it out- Yes, of course. [T] Two helpers. [T] All right, hand it out quickly."
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You had- did you already have a ten? [T] For the BAVO? [T] Yes. [T] I did- I did it also because the test is difficult."
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, um, I can't remember just like that. [T] Can you- can you stay seated? Stay seated. Please."
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Can you- can you stay seated? Stay seated. Please. [T] Do they have to fill in those forms now? [T] Oh, there's- [T] Yes, but I'm not talking about (how things are being marked down). [T] I have looked like--because you're going one class higher, right--how should a project look? [T] Is it in a neat folder? That's one. Next thing you're going to look at is: how does the front page look?"
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That is- if you're in tenth grade, you can't turn in something looking like this. It's not badly done. You've put some time in it. [T] But altogether it should look more professional, let's put it that way. You see? [T] Yes, or- or at least so that it looks professional. For the rest you did it pretty well. [T] But there are also people who have--and that's just what makes that ten-- [T] they've got all the assignments, they've got it in a folder, they've also got a front page. [T] They did just a few extra things. Searched an extra picture to go with certain subject."
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They did just a few extra things. Searched an extra picture to go with certain subject. [T] And you didn't do that. Well, and Mr. Verhoeven said, \"When there's nothing extra, then you'll take a half a grade off. [T] If it is not in a folder you'll take half a grade off.\" That's how we had certain rules. [T] For the rest the assignments are worked out very well. But just that little extra something, for the //ten. [T] Okay? Guys, don't stand in front of the door. Just go sit on your seats. [T] We're not going to hang around at the door. Come on, this is not a bar."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, thank you. [T] Oh, yes, yes, yes. Written test. Tomorrow I'll be surveillant at the written test. [T] That I don't know. Okay, guys study well, all right? [T] Yes. [T] See you later."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] See you later."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Right, the muscles in the ciliary body contract. So that takes energy. [T] Muscles will get tired. If you, uh, have to hold something continuously, keep your muscles contracted, [T] Even with a small weight, even if I was to hold just one kilogram in my arm, and I'd I have to hold my arm like this, [T] Then after a minute that one kilogram gets to be pretty heavy. [T] And you'll never last five minutes. Yes, and that's just one little kilogram. If you have to contract your muscle all the time, it will get tired. [T] That's how it is with the muscles in the, uh, ciliary body. They get tired. And at some point you can't keep it up anymore."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's how it is with the muscles in the, uh, ciliary body. They get tired. And at some point you can't keep it up anymore. [T] It's not working as well anymore. You're not seeing as well up close anymore, because the lens automatically flattens a bit. [T] So looking closely takes more energy. But staring into the distance hardly takes any energy. [T] Okay, well, that's the part on this enrichment material. It's important that you understand this very well. [T] I formulated 15 questions, uh, specifically and only about the eye. They are at the end. [T] Uh, you can already guess that those will count heavily, of course."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, you can already guess that those will count heavily, of course. [T] I have the test, the breakdown of the score is given this time. Uh, the last part counts a little heavier again. [T] After all, I have to create some variation in the choice of standards. [T] And these problems, I 'm not afraid to say, they are, uh final exam problems from \"MAVO, MAVO 4.\" [T] And I, I took a look at them. And you should be able to- you should be able to work out a number of those problems perfectly."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, we do have a couple of open questions. [T] In a minute (inaudible), in a minute. [T] We will now, uh, look at Basic Subject Matter Eight. [T] Page 235 in the book, please turn to that. [T] And those are, uh, the last assigned problems."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Guys, please get with it, okay? These are the last assigned problems we have to do. [T] Uh, Basic Subject Matter Eight is about behavior. We talked about control and behavior. [T] The greater part, the most is of course about control. Behavior is the last part. [T] Uh, the last part is about, uh, all kinds of behavior, human and animal. [T] An important part in it is the behavior for the survival of the species, and behavior for the survival of the individual."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They say that behavior has to do with psychological causes and with socio-cultural causes. [T] Well, I think you guys have had this in Health. And that certain cultures- [T] Ladies in the back. That certain cultures have different behaviors. [T] Uh, furthermore, I think it is crystal clear that, uh, apart from culture, uh, parents, friends, caregivers influence your behavior."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, furthermore, I think it is crystal clear that, uh, apart from culture, uh, parents, friends, caregivers influence your behavior. [T] The school you attend can influence your behavior. [T] But, of course, also your own will. It's determined by a large number of factors. They wrote a very short piece here. [T] Just go ahead and read it. There's only a few questions about that. [T] And two assignments relate to it. We'll do those, and then we are done with the chapter. [T] Okay? So we'll do those problems. [T] I'll read out your grades for the BAVO test. I'll return the report at the end of class."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Maria, nine and a half. Anja, nine. Marc, a nine. Sue, a nine. Lennard, nine. Leo, an eight. [T] Anne, seven and a half. Karin, an eight. Teresa, seven and a half. Stephanie, a ten. [T] Matthew, nine and a half. Mieke, eight point eight. Connie, nine. And Susan, a nine point three."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Through 29 and Enrichment Material Three. And especially Enrichment Material Three, guys, is important, okay? [T] Practice that one properly, because I really thought of a couple of questions that you can answer only if you understand it. [T] Yes, you may. [T] This is the last lesson. [T] Now- oh- [T] No, no, no, of course not. [T] Ladies, you are not working on Enrichment Material Three. I'd like some action now."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ladies, you are not working on Enrichment Material Three. I'd like some action now. [T] If you don't understand it then you just ask it later."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Those are important terms that I underlined. [T] Gentlemen, just start doing those last things. Clear up that mess."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, you can keep it. [T] I also have the answers of the D test, uh, guys. And for this last piece there is still the enrichment material to go. [T] You can keep it all."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, yes, yes, you can keep this."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It gets rounder, yes. [T] That is what it says up here, see? [T] //Look, look. No, you have to look at this picture. Here something is at a distance. Yes, then you see the lens is flat. [T] And you see the zonules here, they are taut. [T] Here you have the zonules, and they drew the muscles heavier there, you see? [T] And those zonules a little more loose. So yes, it is drawn small, but... [T] Here you see something up close, in focus. That will cost me energy, I said earlier."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, you get this one now. Guys, these are the last solutions, also from the, um, enrichment material. In a moment you also get the reports back."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay people, these are the last solutions. [T] That was nonsense. There you had left it out. [T] Yes, so Enrichment Material Three, is included, there, right? [T] Yes, yes, yes. Yes, I left One in there, too. I just figured, for whoever is interested."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, it counts twice, so no- You can note it twice. [T] And, um, we hand it out- Yes, of course. [T] Two helpers. [T] All right, hand it out quickly."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They did just a few extra things. Searched an extra picture to go with certain subject. [T] And you didn't do that. Well, and Mr. Verhoeven said, \"When there's nothing extra, then you'll take a half a grade off. [T] If it is not in a folder you'll take half a grade off.\" That's how we had certain rules. [T] For the rest the assignments are worked out very well. But just that little extra something, for the //ten. [T] Okay? Guys, don't stand in front of the door. Just go sit on your seats. [T] We're not going to hang around at the door. Come on, this is not a bar."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] See you later."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/S-NL4"
+}

@@ -1,0 +1,1558 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math HK4 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Very very happy? [T] Okay, okay. Shh. Stand up please. Good morning class. [T] Miss Tam, okay, [T] returned this for you."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] returned this for you. [T] Okay, we will start a new chapter today."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] On the blackboard, there are two different equations. Okay? Two different equations. It is the equation in X, one unknown only. [T] Therefore, I think that you are familiar with this. [T] I want two of you, okay, to come out and find the solution for these two equations. Any? None of you?"
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I think that you will like to come out today. [T] Kwan Chi Chung, please. This one. Okay, another beautiful girl, right? Chow Suk Fun. [T] Okay. You try to use what you have learned in equations to find the value for X. Okay?"
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Okay. You try to use what you have learned in equations to find the value for X. Okay? [T] Some of you laughed, it means that you find some mistakes, which one? Equation one or equation two?"
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Some of you laughed, it means that you find some mistakes, which one? Equation one or equation two? [T] Two? Yeung Cho Yee. You try to correct this. Equation two you found some mistakes. [T] Really? [Laughter] [T] Okay, it should not be four X. Two X on the right-hand side, to the left-hand side, it should be minus two X."
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, it should not be four X. Two X on the right-hand side, to the left-hand side, it should be minus two X. [T] Okay? Therefore, left-hand side is zero. [T] And 10, positive 10 on the left-hand side, right-hand side? Negative 10, okay? Therefore, 10 minus 10, it is zero. Okay, this, too. [T] For the first one, you found that the solution is X equals two. What does it mean? X equals two. [T] If I say that X equals two is the solution, what does it mean? What does it mean?"
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If I say that X equals two is the solution, what does it mean? What does it mean? [T] It means, when X equals two, left-hand side will equal right-hand side. Let's check it. [T] Okay, when X equals two, what is the left-hand side? It is two X plus four, okay? Two X plus four."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Okay, when X equals two, what is the left-hand side? It is two X plus four, okay? Two X plus four. [T] Two, X, plus four, what's the result? [T] Eight. All right? And for the right-hand side, it is X plus six. X, we found that X equals two. [T] Therefore, it is eight again. Are they the same?"
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Therefore, it is eight again. Are they the same? [T] Yes. Okay? X equals two, then left-hand side right- equals right-hand side. That is the solution for equation one. [T] How about the others? Lau Wai Fung, give me one more number for X, other than two. Any one? [T] Three. Okay. Let's substitute X equals three. Okay? In equation one. Another value for X."
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Three. Okay. Let's substitute X equals three. Okay? In equation one. Another value for X. [T] The left-hand side, two X plus four. This time, X equals three. What's the value for the left-hand side? [T] You will find that it is 10. But for the right-hand side, X plus six, X plus six."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You will find that it is 10. But for the right-hand side, X plus six, X plus six. [T] Nine. All right? They are not equal. Therefore, we will not say that X equals three is a solution. The solution is X equals two. [T] All right? Of course, you can test for the others. Okay, how about equation two, I get zero equals zero, what does it mean?"
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] All right? Of course, you can test for the others. Okay, how about equation two, I get zero equals zero, what does it mean? [T] Do you think that there is no solution? There is no solution. Any one of you say that there is no solution? [T] I can't find X, therefore, no solution. No? Then what will be the solution? [T] Sorry? Anything. What do you mean by anything? [T] Any number. Okay. Let's check it. We have two and three, okay?"
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Any number. Okay. Let's check it. We have two and three, okay? [T] Let's try this two firstly. When X equals two. Left-hand side, right-hand side. [T] I try to compare these two when X equals two. Left-hand side is two X plus 10. Two X plus 10. Answer?"
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I try to compare these two when X equals two. Left-hand side is two X plus 10. Two X plus 10. Answer? [T] Fourteen. Right-hand side? Two X plus five. Two plus five. It is? [T] Fourteen again. Seven times two. Are the two sides equal? [T] Yes. Left-hand side equals right-hand side, therefore, even if I can't find the solution, in fact, two, itself, is one of the solutions."
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. Left-hand side equals right-hand side, therefore, even if I can't find the solution, in fact, two, itself, is one of the solutions. [T] How about three? When X equals three. Of course, both the left-hand side and right-hand side, the values will be changed. Okay? [T] On the left-hand side, it is two X plus 10. And on the right-hand side, it is two X plus five. For the left-hand side, it is?"
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] On the left-hand side, it is two X plus 10. And on the right-hand side, it is two X plus five. For the left-hand side, it is? [T] Sixteen. Six plus 10. But for the right-hand side? [T] It is also 16. This time it is two times eight, is it equal? [T] Yes, the left-hand side is still equal to the right-hand side. Not no solution, in fact, at least we have found two. Okay?"
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes, the left-hand side is still equal to the right-hand side. Not no solution, in fact, at least we have found two. Okay? [T] More than one. How many? From the book, you still have three trials, try to test whether these three are the solutions or not. [T] Page one-four-four. Page one-four-four. In fact, the equation listed is the equation two. Okay? [T] Two X plus 10 equals two brackets, X plus five. Test for the other three solutions of X. Part one, part two and part three."
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Two X plus 10 equals two brackets, X plus five. Test for the other three solutions of X. Part one, part two and part three. [T] X equals zero, X equals negative one and also X equals negative one over two. Zero, negative integer and negative fraction. [T] Test for the left-hand side and right-hand side, okay? Are they equal? Do it now. Just mark it on your book. [T] And answer the question, whether they are equal or not, for the left-hand side and also the right-hand side."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And answer the question, whether they are equal or not, for the left-hand side and also the right-hand side."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And answer the question, whether they are equal or not, for the left-hand side and also the right-hand side. [T] It's better not to use a calculator, okay? But if you use it, just use it to check the answer. It is simple calculation only."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] It's better not to use a calculator, okay? But if you use it, just use it to check the answer. It is simple calculation only. [T] Errors?"
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Errors? [T] Don't use this, this kind of ball pen, you can't see it clearly. [T] Have all of you finished? Okay, let's check the result. Page one-four-four. The three values for X. Uh... okay, Mak Pui Ling. You are nine."
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Have all of you finished? Okay, let's check the result. Page one-four-four. The three values for X. Uh... okay, Mak Pui Ling. You are nine. [T] Tell me the result, when X equals zero, what will be the left-hand side and right-hand side? Left-hand side? [T] Equals 10. How about the right-hand side? [T] Then is the left-hand side equal to the right-hand side? [T] Yes. Okay? We have test the third value for X. When X equals zero, it is still left-hand side equals right-hand side. [T] Okay, how about the fourth trial, when X equals negative one. Sung Wai Ling, okay."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, how about the fourth trial, when X equals negative one. Sung Wai Ling, okay. [T] Therefore, do you think that they are equal? [T] Yes. When X equals negative one, both the left-hand side and right-hand side equal eight. Okay? [T] Therefore, it is still left-hand side equals right-hand side. How about the fifth trial? This time, Lee Shan."
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Therefore, it is still left-hand side equals right-hand side. How about the fifth trial? This time, Lee Shan. [T] Okay. Therefore, equal. This time, when X equals negative one over two. Both the left-hand side and right-hand side, the result is nine. Okay? [T] Therefore, we have the same result. Left-hand side equals right-hand side. How many solutions now? [T] Five. Okay? Two on the blackboard with the three in the book, you have five results. Do you think it is only five?"
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Five. Okay? Two on the blackboard with the three in the book, you have five results. Do you think it is only five? [T] No. It has many many. Infinitely, many results. Why? Okay, let's use another trial. [T] This time, this time, we just simplified these two parts. Okay. Left-hand side and right-hand side."
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This time, this time, we just simplified these two parts. Okay. Left-hand side and right-hand side. [T] In the expressions, you have learned two forms. The one, all the terms add or minus together. [T] It is called? It is called? How do we call them? Add or minus together, it is called?"
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Expanded form, okay? Expanded form. You have other ways to express the terms, for example, like that. [T] This time, the terms are times together. Of course we will, we will not call them terms, we should call him- call them? [T] Factors. Therefore, this is called? Factorized form, okay?"
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Factors. Therefore, this is called? Factorized form, okay? [T] You may express different expressions in expanded form or factorized form. Now we try to change them, with the same kind of form. [T] Which form, is more easy for you? Expanded form or factorized form?"
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Which form, is more easy for you? Expanded form or factorized form? [T] Some say expanded, some say factorized. In fact, if you want to find expanded form, what are you doing? Just multiplication. Okay? [T] But if you want to find the factorized form, you need to find common factors, or maybe groupings, etcetera. Okay? [T] Therefore, usually, expanded form will be more common, more usual. Just use multiplication, expand it one by one. Okay?"
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Therefore, usually, expanded form will be more common, more usual. Just use multiplication, expand it one by one. Okay? [T] We'll try to change both sides, to be expanded form and compare. Left-hand side, is it expanded form? [T] It is already expanded form. Two X plus 10. [T] The left-hand side, it is factorized form."
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] What will be the expanded form for the right-hand side? [T] It will be? [T] Two X. [T] Plus 10. Constant terms, both are the same, ten. X term, the same, two X. Therefore, will they be always the same? [T] Yes. In fact, on both sides, the expressions are exactly the same. Or we say that they are identically the same."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. In fact, on both sides, the expressions are exactly the same. Or we say that they are identically the same. [T] Therefore, no matter what's the value of X, it is- you substitute for X, the changes will be the same. [T] Therefore, you will get the same value. Okay? You cannot see it very easily because at first, they appear in different forms. [T] But if you change them to be the same, same form, then you can see that in fact, they are identically the same. All right?"
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But if you change them to be the same, same form, then you can see that in fact, they are identically the same. All right? [T] Therefore, not just one solution, you have many many solutions. [T] For this kind of solution, uh, that's- this kind of equation, we will give them a name. [T] Identity. Identity means that they are exactly the same. Okay? Follow me. Identity."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Identity. Identity means that they are exactly the same. Okay? Follow me. Identity. [T] Identity. [T] Okay? And therefore, for this kind of identity, we will give it a symbol, this time, not just two lines. [T] We use three lines as a symbol. It means both sides are identically the same."
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] We use three lines as a symbol. It means both sides are identically the same. [T] We say that, two X plus 10, is identically equal two bracket, two, uh- X plus five. Okay? It's identically equal. [T] They are in fact, exactly the same. Okay? All right, then how to prove identity? Do you think that we try all the values for X?"
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] They are in fact, exactly the same. Okay? All right, then how to prove identity? Do you think that we try all the values for X? [T] First try, second try, third try, and then, oh, five trials. Then I can conclude they are identity. [T] No, because, that maybe the sixth trial- it fails. All right? Therefore, to prove identity, we will use this method."
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] We will try to change the left-hand side or right-hand side to be expanded form and then compare each term. [T] When all the terms are the same, then we say that it is an identity. [T] But if there are some different terms, then we will not say that it is an identity. Then it will be a normal equation only. Okay? [T] All right, I will give you some examples, who's on duty please clean it."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Clean the blackboard please. [T] Can you see the blackboard clearly? [T] Yes?"
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes? [T] Just leave the word identity, okay? [T] Therefore, the difference between identity and equation, equation it may be only one solution, two solutions. [T] But for identity, you have infinite many solutions."
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But for identity, you have infinite many solutions. [T] It will be always true, okay? For any value of X."
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay here, I have two other equations. Of course, now, they are equations only. Okay? We don't know how many solutions for each one. [T] Therefore, they are still equations only. I want to prove that, whether these equations are identities or not."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Therefore, they are still equations only. I want to prove that, whether these equations are identities or not. [T] Are they identities? Or are they just equations? [T] The main steps will be, we try to expand the left-hand side and right-hand side, and then compare the terms. Okay? [T] If they are, okay, they are expanded form already. No need to simplify it. But if they are not, simplify it one by one."
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If they are, okay, they are expanded form already. No need to simplify it. But if they are not, simplify it one by one. [T] And then compare the sides. Okay? You can start with the left-hand side or right-hand side. No matter. [T] Okay? It doesn't matter. Left-hand side... expand it. It should be... [T] Five X."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Minus 15. [T] Minus three X and... [T] Plus three. Therefore, how many X? [T] Two X only. And the constant term? [T] Minus 12. Okay? Expanded form. Simplify that expanded form. And for the right-hand side, after expansion, it is two X."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Minus 12. Okay? Expanded form. Simplify that expanded form. And for the right-hand side, after expansion, it is two X. [T] Are they equal? [T] All right? They are equal. Therefore, do you think that it is an identity? Or an equation? [T] Identity. Therefore, you can write down the result like that. Five X minus three minus three X minus one."
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Identity. Therefore, you can write down the result like that. Five X minus three minus three X minus one. [T] Two X minus six bracket. With this symbol. It's identical to the left- uh, right-hand side. [T] Okay? Or you can write it as a written form. It is an identity. Okay? But of course it is not so clear, to just write down it is."
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay? Or you can write it as a written form. It is an identity. Okay? But of course it is not so clear, to just write down it is. [T] Therefore, I think this is better. With the symbol, one, two, three, three lines. Okay, how about the second one? [T] How about some helper? So Wing Chung. You need to practice some more about your handwriting."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] How about some helper? So Wing Chung. You need to practice some more about your handwriting. [T] Try to simplify the left-hand side and right-hand side. [T] How about the bracket? Are you too nervous?"
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] He is very careful. [T] Very very careful. [Laughter] How about the right-hand side? Is he correct for the left-hand side?"
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Okay, thank you. Firstly, is he correct for the simplification in the left-hand side and right-hand side? [T] Okay. After simplification, you have two expanded forms, are they equal? No."
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. After simplification, you have two expanded forms, are they equal? No. [T] Although it is the same five X, but one is positive, another is negative. Okay? [T] Even the 10 is the same, it is not identically equal. But of course now, it is not the same, negative 10, positive 10, okay? [T] Therefore, we can say that, the left-hand side is not equal to the right-hand side. [T] Then can we say that it is an identity? [T] No. Then your answer, you may just write down. Or you complete this, okay? Uh, write down the whole equation."
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No. Then your answer, you may just write down. Or you complete this, okay? Uh, write down the whole equation. [T] We have the conclusion, this equation is not an identity. Okay? If it is not identity, we can still call it an equation. Okay?"
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It is only an equation, not an identity. If it is an equation, it may be one solution only. Because it is one unknown, one equation. [T] Therefore, you may find the solution for it. Just one. But for identity, you have, in fact, infinite many solutions. Okay? [T] It will be satisfied for all the values of X for identities. Understand? Know the difference between identity and equation."
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It will be satisfied for all the values of X for identities. Understand? Know the difference between identity and equation. [T] And for identity, in between the two sides, you can use a new symbol with three lines. And we read it as, is identical to. [T] Or you can say that they are identically equal. Okay? You have some class practices here. Page one-four-seven, page one-four-seven."
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Or you can say that they are identically equal. Okay? You have some class practices here. Page one-four-seven, page one-four-seven. [T] Seven equations are given to you. Okay? Seven equations are given to you. Some of them are already in the expanded form. [T] But some are still in factorized form. Use the method, okay? Use the method listed on the blackboard. [T] Tell whether they are identities or not. Understand? Try to prove whether they are identities or not."
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Tell whether they are identities or not. Understand? Try to prove whether they are identities or not. [T] Number one to number seven. Those simple ones, just write down the answers in the book. [T] But if you need to simplify it, for that kind of equation, please do your work on your class workbook. [T] All right? Class practice number one to number seven. Any more questions? Number one to number seven. Please complete that."
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] All right? Class practice number one to number seven. Any more questions? Number one to number seven. Please complete that. [T] If you need to expand it, simplify it, please do it in your classwork book. Don't just write yes or no."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If you need to expand it, simplify it, please do it in your classwork book. Don't just write yes or no. [T] Just in the case, both sides are in expanded form, you can completely- [T] Uh, you can directly compare it, then you can write down the answer. [T] But if they are not exactly the same, in different forms, in your classwork, show some steps. [T] Okay? How to simplify the left-hand side, how to simplify the right-hand side. And then compare the terms. Okay?"
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay? How to simplify the left-hand side, how to simplify the right-hand side. And then compare the terms. Okay? [T] Remember, before the conclusion, write down the result. Whether the left-hand side or right-hand side are equal. Okay? [T] Before your conclusion, you should have the result. Left-hand side equals, or does not equal right-hand side. [T] Classwork book."
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Classwork book. [T] Is there any question? Write down whether it is left-hand side or right-hand side. Okay?"
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Is there any question? Write down whether it is left-hand side or right-hand side. Okay? [T] Stop for a while. After the expansion, remember, you must tell whether they are equal- or not. And then your conclusion. [T] Okay? If the left-hand side equals the right-hand side, then it is an identity. [T] But if they are not equal. Then this one, or you can simply say that, it is not an identity."
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But if they are not equal. Then this one, or you can simply say that, it is not an identity. [T] All right? Okay, finish the work at home and we will check it tomorrow. Stand up please. [T] Bye class. [T] Yes. And please say thanks to Miss Tam."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. And please say thanks to Miss Tam. [T] [Laughter]"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] What will be the expanded form for the right-hand side? [T] It will be? [T] Two X. [T] Plus 10. Constant terms, both are the same, ten. X term, the same, two X. Therefore, will they be always the same? [T] Yes. In fact, on both sides, the expressions are exactly the same. Or we say that they are identically the same."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Identity. Identity means that they are exactly the same. Okay? Follow me. Identity. [T] Identity. [T] Okay? And therefore, for this kind of identity, we will give it a symbol, this time, not just two lines. [T] We use three lines as a symbol. It means both sides are identically the same."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If they are, okay, they are expanded form already. No need to simplify it. But if they are not, simplify it one by one. [T] And then compare the sides. Okay? You can start with the left-hand side or right-hand side. No matter. [T] Okay? It doesn't matter. Left-hand side... expand it. It should be... [T] Five X."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Minus 15. [T] Minus three X and... [T] Plus three. Therefore, how many X? [T] Two X only. And the constant term? [T] Minus 12. Okay? Expanded form. Simplify that expanded form. And for the right-hand side, after expansion, it is two X."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Minus 12. Okay? Expanded form. Simplify that expanded form. And for the right-hand side, after expansion, it is two X. [T] Are they equal? [T] All right? They are equal. Therefore, do you think that it is an identity? Or an equation? [T] Identity. Therefore, you can write down the result like that. Five X minus three minus three X minus one."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Identity. Therefore, you can write down the result like that. Five X minus three minus three X minus one. [T] Two X minus six bracket. With this symbol. It's identical to the left- uh, right-hand side. [T] Okay? Or you can write it as a written form. It is an identity. Okay? But of course it is not so clear, to just write down it is."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay? Or you can write it as a written form. It is an identity. Okay? But of course it is not so clear, to just write down it is. [T] Therefore, I think this is better. With the symbol, one, two, three, three lines. Okay, how about the second one? [T] How about some helper? So Wing Chung. You need to practice some more about your handwriting."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Okay, thank you. Firstly, is he correct for the simplification in the left-hand side and right-hand side? [T] Okay. After simplification, you have two expanded forms, are they equal? No."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. After simplification, you have two expanded forms, are they equal? No. [T] Although it is the same five X, but one is positive, another is negative. Okay? [T] Even the 10 is the same, it is not identically equal. But of course now, it is not the same, negative 10, positive 10, okay? [T] Therefore, we can say that, the left-hand side is not equal to the right-hand side. [T] Then can we say that it is an identity? [T] No. Then your answer, you may just write down. Or you complete this, okay? Uh, write down the whole equation."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No. Then your answer, you may just write down. Or you complete this, okay? Uh, write down the whole equation. [T] We have the conclusion, this equation is not an identity. Okay? If it is not identity, we can still call it an equation. Okay?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Tell whether they are identities or not. Understand? Try to prove whether they are identities or not. [T] Number one to number seven. Those simple ones, just write down the answers in the book. [T] But if you need to simplify it, for that kind of equation, please do your work on your class workbook. [T] All right? Class practice number one to number seven. Any more questions? Number one to number seven. Please complete that."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] All right? Class practice number one to number seven. Any more questions? Number one to number seven. Please complete that. [T] If you need to expand it, simplify it, please do it in your classwork book. Don't just write yes or no."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If you need to expand it, simplify it, please do it in your classwork book. Don't just write yes or no. [T] Just in the case, both sides are in expanded form, you can completely- [T] Uh, you can directly compare it, then you can write down the answer. [T] But if they are not exactly the same, in different forms, in your classwork, show some steps. [T] Okay? How to simplify the left-hand side, how to simplify the right-hand side. And then compare the terms. Okay?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay? How to simplify the left-hand side, how to simplify the right-hand side. And then compare the terms. Okay? [T] Remember, before the conclusion, write down the result. Whether the left-hand side or right-hand side are equal. Okay? [T] Before your conclusion, you should have the result. Left-hand side equals, or does not equal right-hand side. [T] Classwork book."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Classwork book. [T] Is there any question? Write down whether it is left-hand side or right-hand side. Okay?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But if they are not equal. Then this one, or you can simply say that, it is not an identity. [T] All right? Okay, finish the work at home and we will check it tomorrow. Stand up please. [T] Bye class. [T] Yes. And please say thanks to Miss Tam."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. And please say thanks to Miss Tam. [T] [Laughter]"
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts/M-HK4"
+}

@@ -1,0 +1,93 @@
+Teacher Friction Report
+=======================
+Video: /home/jw310/comp646-friction-detector/data/science/transcripts/Science NL5 transcript.txt
+Work directory: runs/transcripts_electra/S-NL5
+
+Alignment bins (30 s grid): 81
+Heuristic candidates: 17
+Multimodal fusion entries: 17
+
+--- Event 1 [0.0s – 30.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 2 [390.0s – 420.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 3 [600.0s – 630.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 4 [630.0s – 660.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 5 [870.0s – 900.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 6 [1140.0s – 1170.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 7 [1410.0s – 1440.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 8 [1500.0s – 1530.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 9 [1560.0s – 1590.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 10 [1620.0s – 1650.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 11 [1920.0s – 1950.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 12 [1980.0s – 2010.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 13 [2010.0s – 2040.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 14 [2130.0s – 2160.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 15 [2310.0s – 2340.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 16 [2340.0s – 2370.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move: 
+
+--- Event 17 [2400.0s – 2430.0s] ---
+Friction: None
+Rationale: transcript-only mode — no vision/VLM fusion
+Suggested move:

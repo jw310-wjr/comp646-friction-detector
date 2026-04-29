@@ -1,0 +1,583 @@
+00:00:00	T	We're doing nine point four today.
+00:00:01	SN	(inaudible)
+00:00:06	T	Are you ready?
+00:00:07	SN	No.
+00:00:09	T	If you need to sharpen your pencil, you better do that right this second.
+00:00:17	SN	(inaudible) homework?
+00:00:19	T	Probably not there, Matt. Oh, goodness.
+00:00:22	SN	(inaudible)
+00:00:35	T	I hope you guys have your activities ready from the boxes from nine point four.
+00:00:40	T	That was the only other thing that I asked you to do.
+00:00:43	SN	I heard a couple of things-
+00:00:44	T	Ben, you don't even have your books open, ready to go. What's going on?
+00:00:52	T	I thought you were going to be the star of my show.
+00:00:54	SN	I'm definitely the star.
+00:01:00	T	We're gonna go through the activities kind of quickly, 'cause you should have already had them done and ready to go.
+00:01:19	T	Okay? Here's your problem of the day.
+00:01:23	T	Ready to go.
+00:01:35	T	A little review from nine point three.
+00:01:53	T	You may already have this in your notes.
+00:01:58	T	You might have to look back, try it from memory or look in your notes.
+00:02:17	T	I wanna know about the inscribed angle theorem, the right angle corollary, and the arc intercept corollary.
+00:02:53	T	Page 582 if anybody's wondering.
+00:02:58		
+00:04:37	T	Okay.
+00:04:39	T	Help me out with the inscribed angle theorem. Tell me what- what it is.
+00:04:43	T	In your own words, how would you describe that one?
+00:04:48	T	Anybody?
+00:04:49	T	Suzy?
+00:04:51	SN	If an angle's inscribed in a circle and it intercepts part of the circle, then the angle's measure is equal to half of the other angle.
+00:04:59	T	Okay. It ends up coming out to be half of the measure of the arc that it intercepts. Right?
+00:05:05	T	How about right angle corollary?
+00:05:07	T	Matt.
+00:05:09	SN	If an inscribed angle intercepts a semicircle, then the angle is a right angle.
+00:05:13	T	Okay. If it intercepts a semicircle, then angle turns out to be-
+00:05:17	S	Right angle.
+00:05:18	T	A right angle. Okay?
+00:05:20	T	And arc intercept corollary, Margaret.
+00:05:22	SN	When you have two inscribed angles and they intercept the same arc (inaudible).
+00:05:28	T	Okay. Good. When they intercept the same arc, then they have the same-
+00:05:33	S	Measure.
+00:05:34	T	Measure. Good.
+00:05:36	T	Okay.
+00:05:37	T	You can open to nine point four, page 588.
+00:05:44	T	The first thing we're gonna look at is what kind of angles that we're gonna be talking about today.
+00:05:51	T	They're angles formed by secants and tangents. Here's all different cases.
+00:06:08	T	It all depends on where the vertex is... and the type of lines that it- that it includes.
+00:06:19	T	If the vertex is actually on the circle, you have secant and a tangent right here, or two secants here.
+00:06:31	T	The second group is where the vertex is inside the circle, but it's not on the center usually.
+00:06:36	T	Okay. Talking about here.
+00:06:38	T	Last- the last group, the vertex is outside the circle. You have two tangents, two secants over here or a secant and a tangent. Okay?
+00:06:46	T	That's all gonna help you determine how to find the measure.
+00:06:51	T	Are you ready for the activities?
+00:06:53	T	Take that- out, whatever you brought from Friday for homework.
+00:07:09	T	We're not gonna go over each one of these in deep detail, 'cause you should have already had most of them done.
+00:07:14	T	We'll go over the first, probably, row or two, and then we're gonna talk about the general pattern at the end with X.
+00:07:21	T	So, first one.
+00:07:24	T	You have this circle with secant and tangent. The secant and tangent angle is a right angle here. Okay?
+00:07:31	T	The secant contains the center of the circle. What do you think the measure of A V C, angle A V C is?
+00:07:37	T	What'd you come up with? Michaela?
+00:07:40	SN	Ninety degrees.
+00:07:41	T	Why do you say 90 degrees?
+00:07:43	S	Because it says that secant and tangent angle is a right angle and it (inaudible).
+00:07:51	T	Okay. So- and the measure of a semicircle here, arc A V is what?
+00:07:55	S	A hundred and eighty degrees.
+00:07:57	T	A hundred and eighty degrees.
+00:07:58	T	So what can you get from that? If the whole arc is 180 and the angle is 90, what does that kind of remind you of?
+00:08:05	S	(inaudible)
+00:08:07	T	What's that?
+00:08:08	S	The right angle corollary.
+00:08:09	T	Okay. Yes. Kind of like the right angle one or where- basically because it's half. Right?
+00:08:18	T	It's 180 degrees and this is 90, you can come up with this checkpoint here that says the relationship between
+00:08:26	T	the inscribed angle and the intercepted arc is the fact that it's half of what that arc is.
+00:08:33	T	That was the easy part.
+00:08:36	T	Okay. Look at number two. The secant tangent angle- we're gonna go over- this was the- if it's the tangent and it's a right angle.
+00:08:43	T	Next we're talking about the acute angles. What happens if the angle's acute? It's not a straight.
+00:08:48	T	It's not coming straight through the center, so it's gonna be a little more tricky for you.
+00:08:54	T	Look at arc A V.
+00:08:57	T	It tells you that it's 120 degrees and then it gives you 120 degrees for angle one, here.
+00:09:05	T	How do you know that? How can- how do they justify that? Leah?
+00:09:10	SN	Because it's the central angle, and the central, and the arc that they intercept equals the measure.
+00:09:15	T	Good. That's back to the beginning of the chapter where the central angle is gonna be the same as whatever that arc that it intercepts.
+00:09:21	T	Correct?
+00:09:23	T	Angle two. Thirty degrees. Where do they come up with that one?
+00:09:27	T	Go ahead.
+00:09:29	SN	Triangle A P V is isosceles, so angle three and angle two have to be congruent.
+00:09:36	T	Okay.
+00:09:37	S	And since all angles in a triangle have to add up to 180 degrees, you take 180-
+00:09:43	S	You subtract 120 and you divide them into 65.
+00:09:46	T	Very good. You get 30 degrees.
+00:09:50	T	So where do we come up with this one? P V C. P V C.
+00:10:00	T	That's the one they left blank in this first- first box.
+00:10:10	T	You're on a roll, let's go.
+00:10:12	SN	Yeah, P V C has to be a right angle because it intercepts V C.
+00:10:19	T	Okay. They say radius to that tangent we learned that-
+00:10:22	S	Oh, yeah.
+00:10:24	T	Back in the beginning, nine two or nine three. It had to be nine two because we just went over nine three.
+00:10:31	T	Nine two, that- the radius that intercepts that has that same tangent point... that's gonna be 90 degrees.
+00:10:41	T	That wasn't the hard part.
+00:10:43	T	Measure of angle A V C. How would you get that one?
+00:10:49	T	A V C. They say 60 degrees.
+00:10:54	T	Go ahead.
+00:10:55	SN	If A V C is 90 degrees and angle two is 30 degrees (inaudible).
+00:11:02	T	Okay. And you get 60.
+00:11:03	T	This kind of- this being 60 degrees, how does that relate to back here, the arc?
+00:11:09	SS	Half.
+00:11:10	T	Matt says it's half. Mike says it's half.
+00:11:14	T	Okay. So the measure of an acute secant tangent angle with its vertex on the circle is-
+00:11:20	SN	Half.
+00:11:21	T	One half the measure on the intercepted arc.
+00:11:25	T	So we got two cases down. We got- if it's a 90 degrees angle with a secant and tangent, we got acute angles.
+00:11:35	T	What do you think this... general statement... here, measure of arc A V- if it's X, what's angle one gonna be?
+00:11:48	SS	X.
+00:11:49	T	X.
+00:11:50	T	Okay. What about the measure of angle two? Michaela, describe that for us.
+00:11:57	T	Suzy?
+00:11:59	SN	You first have to do 180 minus X (inaudible) and then you divide it by two.
+00:12:05	T	Divide it by two.
+00:12:06	S	Then they'll be the same as three.
+00:12:07	T	These angles are gonna be the same.
+00:12:09	T	Okay?
+00:12:10	T	How about P V C? That's going to be-
+00:12:16	SN	Ninety degrees.
+00:12:17	T	Ninety degrees. Okay. That's not gonna- that's not gonna change.
+00:12:22	T	And so the last here- this angle is going to be what?
+00:12:25	SN	Half of the arc.
+00:12:27	T	Which is?
+00:12:29	S	Half X.
+00:12:30	T	X. Okay.
+00:12:34	T	So we know it works for that same intersected arc- intercepted arc theorem, works for 90 degrees, works for acute angles.
+00:12:45	T	Last case is obtuse angles.
+00:12:49	T	This one is a little bit more tricky. You might have a little bit more trouble doing this one.
+00:12:56	T	If it's obtuse, they give you A X V around this way, is 200 degrees-
+00:13:02	T	And they come up with this measure of angle one being 160.
+00:13:05	T	How do you think they got that?
+00:13:13	T	Melissa?
+00:13:15	SN	Full circle has to equal 360 degrees, take away the 200.
+00:13:20	T	Good. If you add that whole circle it's 360, then the central angle on the other side-
+00:13:25	T	We take away 200, it's gonna leave you with 160.
+00:13:28	T	Okay. So that gives you angle one.
+00:13:30	T	Measure of angle two here. How do you get that one?
+00:13:35	SN	Um, the triangle-
+00:13:39	T	Triangle "um"...
+00:13:41	S	Serum- theorem. It has to be equal to 180.
+00:13:42	T	Okay. Equal 180, so-
+00:13:44	S	If angle one is already 160, then angle two and angle three are equal.
+00:13:48	T	Good. That leaves you with 20, which means one of them has to be 10.
+00:13:53	T	Okay. How about P V C?
+00:13:56	T	Anything different about that one than the other example?
+00:13:58	SN	No.
+00:13:59	T	No. It's gotta be 90.
+00:14:00	T	I'm just gonna copy that one down right now.
+00:14:02	T	And how about the last one, this whole A V C. The actual obtuse angle. It says it's 100.
+00:14:11	T	If you're following a pattern, what are you getting?
+00:14:13	SN	Half.
+00:14:14	T	It's gonna be-
+00:14:15	S	Half.
+00:14:16	T	Half.
+00:14:17	T	Okay? So, I'm just gonna fill this in now.
+00:14:19	T	Measure of an obtuse secant tangent angle with its vertex on a circle is one half the measure of its intercepted arc.
+00:14:29	T	So let's fill this in.
+00:14:32	T	For measure of angle A V C, how would you relate that back to X for any- for any measure?
+00:14:36	SN	X over two.
+00:14:37	T	X over two.
+00:14:39	T	Okay. I'm just gonna work my way backwards. We know the 90.
+00:14:43	T	Well, let's go to angle one.
+00:14:44	T	How would you figure out angle one if you know X for A X V?
+00:14:48	SN	Three sixty minus X.
+00:14:49	T	Three sixty minus X.
+00:14:53	T	Oh, I was gonna write X over two. Three sixty minus X.
+00:14:59	T	And Katie, how would you do that last one, that angle two?
+00:15:03	SN	Angle two would be (inaudible).
+00:15:09	T	This one's a little bit tricky.
+00:15:11	S	The 180 thing works like- I know how to explain it- I'm not sure exactly what the equation is, but I could do it.
+00:15:18	T	Okay.
+00:15:19	S	Like I-
+00:15:20	T	So tell me what to do and we'll try to put it in X for you.
+00:15:23	S	All right. You have to get the measure of angle A P V.
+00:15:30	T	Okay.
+00:15:31	S	And then-
+00:15:32	T	That's 360 minus X.
+00:15:33	S	Yeah.
+00:15:34	T	Okay.
+00:15:35	S	And then you would take the other two since it's an isosceles triangle and-
+00:15:39	S	(inaudible) have to be equal so you have divide whatever the original angle is.
+00:15:44	S	Like it- I don't know. I'm sorry.
+00:15:47	S	You subtract A P V from 180 and then divide it by two.
+00:15:54	S	That's what I would do anyway.
+00:15:55	T	Okay.
+00:15:56	T	So, 180 minus what we get from angle one. I'm gonna put measure of angle one right here.
+00:16:01	T	Minus measure of angle one, and then you take that and divide it by... two.
+00:16:06	S	Two.
+00:16:07	T	Good. Sorry.
+00:16:10	SN	(inaudible)
+00:16:12	T	I couldn't fit all that in that little, little box.
+00:16:15	T	So you get the theorem. This kind of- all these build upon each other, you get the 90, the acute, and the obtuse angles.
+00:16:22	T	They all come out to this theorem, where no matter what, if you have that secant and the tangent-
+00:16:28	T	It could be a chord and a tangent, you're gonna come up with what?
+00:16:33	SN	Nine.
+00:16:34	T	If you have an angle that intersects with a secant and a tangent all in the circle?
+00:16:39	T	It's always gonna come up to be-
+00:16:40	SN	Half.
+00:16:41	T	Half of that arc.
+00:16:48	T	You have any questions on that?
+00:16:51	T	I'm gonna wait to give you an example for that one until we get to the other side.
+00:16:55	T	Turn the page.
+00:17:06	T	I guess I don't have one for this page, so we're gonna have to do this, just out loud together.
+00:17:13	T	So look at the top for activity two.
+00:17:21	T	They're kind of similar, but you have now where the vertex is inside the circle-
+00:17:28	T	You have the intersection of two secants inside the circle, and they want to figure out how you can get those angle measures.
+00:17:37	T	So look at the first one across for number- table two.
+00:17:42	T	You have the measure of arc A C gives you 160.
+00:17:47	T	Then you have B D. That gives you 40 degrees.
+00:17:50	T	How about- where did they get measure of angle one, do you think?
+00:17:56	T	It says 80 degrees. Where do you think they got that?
+00:18:01	T	Leah?
+00:18:03	SN	Arc A C equals 160, and angle one is an inscribed angle, so it's half of A C.
+00:18:13	T	Yes. Good.
+00:18:14	S	And since A C is 160, half is 80.
+00:18:16	T	Good. Good.
+00:18:20	T	That's what we actually just talked about reviewing from nine point three.
+00:18:25	T	So, how about angle two?
+00:18:28	T	Melissa?
+00:18:29	SN	B D is 40 (inaudible), so angle of that, so it's half.
+00:18:37	T	Okay. Good.
+00:18:39	T	How about A V C?
+00:18:41	T	It's 100 degrees.
+00:18:45	T	Similar to what we were doing- been doing, but it's got a slightly different twist on it.
+00:18:48	T	Where do you think they could have gotten the 100 degrees if you're looking at that circle?
+00:18:53	T	A V C is the angle we're looking at.
+00:19:04	T	We know arc A C and we know arc B D.
+00:19:09	T	Where could they have gotten that 100 degrees?
+00:19:16	T	Michaela?
+00:19:17	SN	There's two ways you can get it. The first way is to add the measures of angle one and angle two together.
+00:19:22	S	And the second way is to add the measure of the two arcs together and divide it by two.
+00:19:26	T	Okay.
+00:19:27	T	So Michaela says there's two ways.
+00:19:28	T	She thinks you can do 160 plus 40 and you get 200, divide it in half, and that gives you 100.
+00:19:36	T	Or she got 80 plus 20 equals 100.
+00:19:42	T	Okay? Do we have anything to back up either one of those more than the other?
+00:19:47	T	Or do you want to just do the next row and see what we come up with?
+00:19:50	SN	Yeah.
+00:19:51	T	Let's do the next row. So the next one says if A C is 180 degrees, B D is 70 degrees, what about angle one?
+00:20:04	T	Or angle two?
+00:20:08	T	Those are the inscribed angles.
+00:20:16	T	If A C is 180, what does that angle one have to be?
+00:20:21	SN	Ninety.
+00:20:22	T	Ninety degrees. Okay? Half.
+00:20:23	T	How about B D?
+00:20:29	T	Seventy degrees. Seventy degrees. What do you think? Inscribed angle.
+00:20:33	SN	Thirty-five.
+00:20:34	T	Thirty-five.
+00:20:35	T	So what does that leave us with for A V C?
+00:20:42	T	With Michaela's first method, it would be- what did we come up with? Ninety and 35 added together. What would that give us?
+00:20:50	SS	One twenty-five.
+00:20:51	T	One twenty-five.
+00:20:52	T	What about the other way? If we do 180 plus 70, what does that give us?
+00:20:58	SS	Two fifty.
+00:20:59	T	Two fifty.
+00:21:00	SN	Divide that.
+00:21:01	T	Divide that in half, you get-
+00:21:02	SS	One twenty-five.
+00:21:03	T	One twenty-five. They both work.
+00:21:06	T	That's interesting.
+00:21:13	T	What do you think?
+00:21:20	SN	First angle is half the A C.
+00:21:26	T	Okay. What Matt says-
+00:21:29	S	That for measure of angle one has to be half of the arc A C.
+00:21:34	T	Okay. So you feel like we're talking about the general one again, he says, we're down to the last row with X-
+00:21:40	T	Measure of angle one has to be half of A C. Do we agree with that?
+00:21:45	T	That's inscribed angle.
+00:21:47	T	How about measure of angle two has to be half of-
+00:21:52	S	B D.
+00:21:53	T	B D. X two.
+00:21:56	T	So what do you think about measure of A V C? Katie?
+00:22:00	SN	What if you added the two angles together at the top and that was- whatever that is, if it's the triangle-
+00:22:06	S	You get that other measure, and then it's an 80 degree thing. See if you subtract that from 180. Like-
+00:22:15	T	Okay. Say that again.
+00:22:16	S	And then it's on the 180 degrees line cause that's where the line is-
+00:22:23	T	Okay
+00:22:24	S	All right. That you add the two angles at the top, and subtract that from one- that from 180 because it makes a triangle.
+00:22:28	S	So you subtract that from 180 and that gives you what the other angle is.
+00:22:33	T	Okay. You're talking about A V C or D V B?
+00:22:36	S	A V C. The first one.
+00:22:40	S	And it works for the other one, too.
+00:22:42	T	Okay.
+00:22:44	T	Is that a lot to do for a general rule?
+00:22:47	S	Maybe, but it works.
+00:22:48	T	It works? Okay.
+00:22:50	T	So now we have maybe three different ways to find it?
+00:22:53	SN	But that actually- that actually proves that- what Michaela said works.
+00:22:58	S	'Cause (inaudible).
+00:22:59	T	Which one there? She did two.
+00:23:00	S	Both of them.
+00:23:01	SN	Well both of them-
+00:23:02	T	It proves that both of them work.
+00:23:03	SN	Both of them got the same thing.
+00:23:04	SN	Both of them got the same answer as the other one that Katie just said, and that really proves it.
+00:23:08	T	The 125 and the 100 that we already went over?
+00:23:11	S	Yeah.
+00:23:13	T	Okay.
+00:23:14	SN	Because basically just adding angle one and angle two together is simplifying adding A C and B D- B D together and divide it by two.
+00:23:22	SN	'Cause if you do 180-
+00:23:24	T	Okay.
+00:23:25	S	You do 180 minus 125, you get 55.
+00:23:28	S	Well then, if you do 180 minus 55 you get 125 again.
+00:23:32	T	Okay.
+00:23:34	SN	It's longer, but it proves it.
+00:23:35	T	Okay. Well, so let's look at the theorem that it wants us to fill in.
+00:23:39	T	The measures of an angle formed by two secants or chords that intersect the interior of the circle is what?
+00:23:48	T	Blank the blank of the measures.
+00:23:54	SN	(inaudible)
+00:23:55	T	Which one of those methods would fit into that? We have three different ways, which one would fit into there?
+00:24:02	SN	Half the sum of the two arcs.
+00:24:05	T	Okay. So if you take the sum of the two arcs and you divide them in half, I think that's the one that fits best in there.
+00:24:11	T	Any of your methods were pretty good.
+00:24:14	T	Okay. Michaela had the two that I was thinking of and then Katie had a third one that was really good.
+00:24:21	T	The measures end up being half of whatever those two sums are.
+00:24:31	T	Because not all the examples are gonna be as specific as these are to follow through with your other- with the third way to do it.
+00:24:40	T	Do you understand what I mean?
+00:24:42	T	You could probably do it yourself on every example, but that might be time consuming.
+00:24:47	T	All right. Let's look at the very last one.
+00:24:50	T	You guys are doing really good with these patterns.
+00:24:55	T	B D, measure of arc B D is 200 degrees. Now we have the vertex of two secants outside the circle.
+00:25:04	T	Okay. We had it on the circle. We had it inside the circle. Now we're dealing with the outside of the circle.
+00:25:09	T	A lot of you guys had this question last week when you were talking about that test.
+00:25:14	T	You have measure of arc B D. That's at 200 degrees.
+00:25:18	T	And then you have A C, the smaller one right before they intersect at 40 degrees.
+00:25:22	T	Then you have the measure of angle one. They give you one hundred. Where did they get that?
+00:25:28	SN	(inaudible)
+00:25:30	T	Measure of angle one. Kind of following right along. Melissa?
+00:25:33	SN	(inaudible) intercepted arc of- for angle of B D has to be half.
+00:25:36	T	Good. Intercepted.
+00:25:37	T	Good. So it has to be half. Good.
+00:25:40	T	Two. Measure of angle two. They say 20 degrees. What do you think?
+00:25:47	T	Go ahead.
+00:25:48	SN	The same reason as for measured angle.
+00:25:50	T	Good. You guys are following right along.
+00:25:51	T	The same reason. Okay? The other one's 40. This one's half. It's gotta be 20.
+00:25:56	T	And they get A V C.
+00:25:57	T	Back to this measure angle A V C.
+00:25:59	T	If it's outside the circle. What do you think they- how do you think they got that 80 degrees?
+00:26:05	T	Ben?
+00:26:08	SN	You can do- first you gotta do 180 minus one and that gives you the measure of B C D-
+00:26:17	S	And then you do that plus adding the two, and then subtract that from 181, and then you have A V C.
+00:26:27	T	Okay. So you were going with that whole large triangle-
+00:26:31	S	Yeah.
+00:26:32	T	Sum.
+00:26:33	T	So he said V C B, if you do that minus angle one, which was 100, that leaves you with what?
+00:26:42	T	That leaves you with 80.
+00:26:43	S	Eighty.
+00:26:45	T	Okay? You have 80- you have measure of angle two, which is-
+00:26:48	S	Twenty.
+00:26:49	T	Twenty. So that gives you 100 so that angle V- A V C has to be-
+00:26:54	S	Eighty.
+00:26:55	T	Eighty. That works. Right? That works.
+00:26:58	SN	Or you can do A C is the (inaudible) outside, the angle is outside the circle.
+00:27:08	T	Which one- A C what? The arc?
+00:27:10	S	A V C.
+00:27:11	T	A V C. Angle A V C.
+00:27:12	S	It's outside there, but it intercepts A C. The arc A C-
+00:27:17	T	Okay.
+00:27:18	S	The arc's 40 degrees, and since angle A V C is 80, maybe it's 40 times- times two, (inaudible).
+00:27:26	T	Maybe it's 40 times two? Do you have something to back that up?
+00:27:29	T	No?
+00:27:31	S	It also intercepts arc B D.
+00:27:35	T	Okay.
+00:27:37	S	But, if you do B D which equals 200 plus A C (inaudible) 240.
+00:27:44	T	Mm-hm.
+00:27:46	S	At- no, wait. Do 200 minus 40 and then you get 160.
+00:27:51	T	Okay.
+00:27:52	S	Divide that by two and that equals 80.
+00:27:55	T	Okay. 'Cause we're trying to stick with this general pattern of it ending up being- what's it end up being every time?
+00:28:03	T	If you've been following this pattern of the angle it turns out to be-
+00:28:07	SS	Half.
+00:28:08	T	Half- you're scaring me- it ends up being half of whatever- whatever pattern you're following. Okay.
+00:28:17	T	The last one we added the two arcs together because it was inside the circle.
+00:28:22	T	Now we have a different case.
+00:28:23	T	It's still gonna be half, but Leah says it might be half of subtracting them because now you're outside the circle. Okay.
+00:28:31	T	So if you're- if you have your- what side's it on?
+00:28:34	T	If you have your B D and then you're a C arc here, the angle's way over here. Subtracting them might make sense.
+00:28:40	T	Okay?
+00:28:41	SN	I see.
+00:28:42	T	Do you see what I mean? Subtracting them might make a little bit more sense.
+00:28:44	SN	(inaudible)
+00:28:45	T	Okay?
+00:28:46	T	And now Ben's idea still worked, but it might be difficult for you.
+00:28:52	T	You're trying to get something quick and easy that's a gen- you're following this pattern. The triangle sum works. Right?
+00:28:58	T	But that might take you a little extra work every time.
+00:29:02	T	If you're only given the measure of two arcs that it intercepts, it's gonna be, probably, a lot easier just to subtract them.
+00:29:12	T	Boom. Get your answer.
+00:29:14	T	So, go for it Raul. Read that theorem for me and fill in the blanks.
+00:29:20	SN	The measure of an angle formed by two secants that intersect the exterior of a circle is half the sum of the measures of the intercepted arcs.
+00:29:28	T	Half of the sum?
+00:29:30	SN	(inaudible)
+00:29:32	T	Half of the-
+00:29:34	T	What's it called?
+00:29:40	T	The...
+00:29:41	SN	Difference.
+00:29:42	T	Difference. We're subtracting them this time.
+00:29:44	SN	I thought I said that.
+00:29:45	T	You did say that. I was trying to see if Raul would get that.
+00:29:49	SN	I thought that angle one was 100 degrees. Right?
+00:29:54	T	Okay.
+00:29:55	S	And then in order to find A B C, you had- oh, yes.
+00:29:57	T	That was Ben's way of the triangle- the triangle sum. We were trying to get down to that same general pattern of it being half.
+00:30:06	T	Okay. So if you- if you subtract them, if you get the difference, that's gonna be a quicker way to do it.
+00:30:14	T	'Cause you might not always have that triangle working for you there.
+00:30:19	T	That's a little- like you're taking- you're doing it- but you're taking an extra step.
+00:30:22	SN	Mm-hm.
+00:30:23	T	You see what I mean?
+00:30:24	T	You're going an extra step. Basically they just want to get the general pattern. It's gonna be a lot easier for you if you subtract them.
+00:30:33	T	So you do it by half. Divide it in half.
+00:30:37	T	All right. I have an example for you.
+00:30:42	T	This is... what we just did with a little twist on it.
+00:30:48	SS	(inaudible)
+00:30:57	T	This is my example with a little twist on it.
+00:31:01	SN	(inaudible)
+00:31:20	T	Given the measure of angle A V C is 60 degrees, the measure of arc A C is a 130 degrees,
+00:31:29	T	you have to find the measure of arc B D.
+00:32:32	T	I like how you wrote that like that.
+00:32:48	T	How did you get your answer there?
+00:32:50	SN	I used a theorem.
+00:32:52	T	What did you do?
+00:32:55	S	I just used that theorem.
+00:32:57	T	How, though? How did you use it?
+00:32:59	S	I don't know. I did something.
+00:33:03	T	You did something?
+00:33:04	S	All right.
+00:33:25	T	Okay. See now I like how you're filling in those blanks.
+00:33:28	T	Write it out, show me what you did.
+00:33:41	T	You want to go write that up there for me?
+00:33:46	T	Take your book with you if you need it.
+00:33:56	SN	(inaudible)
+00:33:59	T	Good, Katie.
+00:34:04	T	Some people had to draw a picture. That's good. Draw your own picture. Some people like to draw it and write an equation.
+00:34:12	T	Either way you do it, you gotta show me what you did.
+00:34:17	SN	Ms. Lancour, should we solve it?
+00:34:18	T	Yep, I want you to solve it.
+00:34:29	T	Leah did hers with an equation?
+00:34:37	SN	(inaudible)
+00:34:42	T	She followed the subtraction, 130 minus X divided by two should give you 60 degrees, she says.
+00:34:53	T	She moved the two over and got 120. One thirty minus X equals 120. So she filled in her blank with the X.
+00:35:01	T	X has to be 10 degrees. One thirty minus 10 degrees is 120 degrees.
+00:35:06	T	Good.
+00:35:10	T	Anybody else want to tell a different way that you did it?
+00:35:16	T	Nobody?
+00:35:18	T	You?
+00:35:19	T	No?
+00:35:20	T	No?
+00:35:22	T	You all did it the exact same way as Leah did it?
+00:35:24	SN	Yep.
+00:35:25	T	That is absolutely amazing. That is absolutely amazing. Nobody can- Okay. I'll let it go.
+00:35:33	T	Okay. That one was the- that one was the- the nice one.
+00:35:40	T	That one was the nice one.
+00:35:41	SN	(inaudible)
+00:35:42	SN	I like nice ones.
+00:35:45	T	Not me.
+00:35:46	SN	Now I don't have to show my work.
+00:35:48	T	No, you gotta show the work.
+00:35:50	SN	(inaudible)
+00:35:55	T	You have to actually do it.
+00:36:31	SN	(inaudible)
+00:36:33	T	Okay. That one's good. Good start on that one.
+00:36:43	T	What are you gonna do first? Which one are you gonna work on first? The R S U?
+00:36:46	SN	Yes.
+00:36:50	T	R S U looks like the vertex is on the circle.
+00:36:52	S	Yes.
+00:36:53	T	What can you do for that?
+00:36:56	SN	(inaudible)
+00:36:58	T	Sometimes it helps if you draw a picture. It helps me to draw a picture.
+00:37:21	T	Raul, what are you doing over here?
+00:37:24	SN	Well, I don't have any (inaudible).
+00:37:25	T	Which angle are you doing first?
+00:37:27	S	Well, I don't- I haven't (inaudible) problem, but I'm doing U T before (inaudible) anything else. Makes it simple for me.
+00:37:34	T	Okay. Why do you think that one's easier? Why is that?
+00:37:38	S	'Cause then I feel like the question would be R S U. There's R S U. Oh, that would be half of that. (inaudible) that.
+00:37:45	T	Oh, I see. You're finding this arc first.
+00:37:47	S	Yeah, this one first.
+00:37:48	T	Oh! Okay. I like that. Not bad.
+00:38:00	T	How'd you get this one, Melissa?
+00:38:03	SN	That, it intercepts arc R U, so it has to be half. (inaudible).
+00:38:09	T	It has to be half. It's the inscribed angle. Okay.
+00:38:15	T	It looks like just about everybody got the first one, R S U. Anybody want to tell me what you did?
+00:38:21	T	Katie, did you get that one? R S U. What did you do?
+00:38:25	SN	Since the point's on the circle, I just divided the arc by two.
+00:38:30	T	Okay. Because the R S U, the point, is on the circle-
+00:38:34	S	Yeah.
+00:38:35	T	So it has to be...
+00:38:37	S	Half of the arc.
+00:38:39	T	Okay. It has to be half of that intercepted arc. Good.
+00:38:55	SN	Where is (inaudible)?
+00:38:56	T	Where are you, Margaret?
+00:38:58	S	Right here.
+00:38:59	T	R V U. What did you come up with?
+00:39:01	S	(inaudible)
+00:39:07	T	R V U. Well, think about what we just did in the- in the last example.
+00:39:13	T	When it's outside the circle. You know R U, that was given. And you know R S- oh, not R S. S T.
+00:39:24	S	(inaudible)
+00:39:25	T	So, you have 140 and you have 30 degrees.
+00:39:33	T	Okay, you started to subtract.
+00:39:36	S	Well-
+00:39:37	T	You changing your mind?
+00:39:38	S	No.
+00:39:39	T	No? Okay.
+00:39:41	S	(inaudible)
+00:39:43	T	So, what are you gonna do with that? You got 110.
+00:39:48	S	Divide it in half. No. Yeah. No.
+00:39:51	T	No, yes, no. Maybe? Yes?
+00:39:54	S	Maybe.
+00:39:55	T	Look back here. What did we just come up with for this one?
+00:40:04	T	Think about it. I'll be back to you.
+00:40:12	T	U S V. U S V. How did you get that one, Leah?
+00:40:19	SN	'Cause R S U is half of 140, so it's 70. And that's a line (inaudible) equals 180. One eighty minus 70 equals 110.
+00:40:31	T	Okay. Okay.
+00:40:38	T	Did you follow-
+00:40:44	T	Hmm. Show- explain that to me again. Tell me what you just did again.
+00:40:50	S	This angle, R S U, is 70-
+00:40:53	T	Okay.
+00:40:54	S	That's half of that.
+00:40:55	T	Okay.
+00:40:56	S	And this equals 180, so 180 minus 70 is 110.
+00:41:02	T	Oh, okay. You were doing U S V. Okay. Okay. At first- at- at first I thought you were doing the triangle.
+00:41:13	S	No.
+00:41:14	T	The triangle sum. But you ended up doing... 180 degrees.
+00:41:21	S	'Cause the line equals-
+00:41:22	T	Minus...
+00:41:23	S	Yeah.
+00:41:24	T	Okay. Okay.
+00:41:31	T	I like how you did that different. I wasn't expecting that. I'm sorry, that's why I'm thinking. I wasn't expecting that one.
+00:41:39	T	Okay. Good, good.
+00:41:42	T	Okay. We're gonna go on with R V U really quickly. R V U.
+00:41:51	T	This one, R V U. Here. That's kind of like the example we just did, and the very last activity we did. Margaret, go for it.
+00:42:01	SN	You do 140 degrees-
+00:42:02	T	Okay.
+00:42:03	S	Minus 30 degrees, and you get 110. So, you divide that in half and get 55 degrees.
+00:42:08	T	Good. One thirty- 140 minus 30 gives you 110. Divided in half... 55 degrees.
+00:42:13	S	(inaudible)
+00:42:14	T	Okay, that's the last theorem we just went over. How about U S V? Let's point that one out.
+00:42:23	T	U S V. Going here. I actually got a different way from one person that I w- just really wasn't expecting.
+00:42:32	T	I had it one way in my mind, and somebody else gave me a whole different way to think about it.
+00:42:36	T	Michaela?
+00:42:37	SN	I used the triangle sum theorem.
+00:42:38	T	Okay.
+00:42:39	S	And we just did R V U, so I know that that is 55 degrees.
+00:42:45	T	Okay. So she knows that this one is 55. Okay.
+00:42:48	S	And since S U V-
+00:42:51	T	This one.
+00:42:52	S	I used the- oh, what's it called? The arc intercept theorem.
+00:42:55	T	Right. Okay.
+00:42:56	S	To find out that that was 15.
+00:42:58	T	Inscribed angle to get this one. Fifteen, 'cause it's half. Okay. So, so far we have 55 and 15.
+00:43:05	S	I added them together and I got 70, so I did 180 minus (inaudible).
+00:43:10	T	Okay. She did 180 minus 170, got 110 for this angle here. So she ended up with 110 for this by doing triangle sum.
+00:43:21	T	Okay. How about- Leah, tell me what you did, 'cause it just- I was on a whole 'nother different-
+00:43:26	T	I was on this inscribed angle and getting the triangle sum theorem. It didn't even occur to me.
+00:43:33	SN	Angle R S U, we already figured that (inaudible) 70.
+00:43:37	T	Okay. We did this, RSU, which was... 70.
+00:43:43	S	Because if the R equals 140 and then R line- segment R S V-
+00:43:53	T	Okay.
+00:43:54	S	(inaudible) that line, the- the angle of it equals 180.
+00:43:58	T	Okay. It's a straight angle. It has to be 180.
+00:44:00	S	Yeah.
+00:44:01	S	And so you do 180 minus 70. You get 110.
+00:44:04	T	And she got 110.
+00:44:06	SN	That's the easy way.
+00:44:07	T	That's an easy way. Well, we didn't even- it didn't- it didn't even click in my head. I'm- I'm sure it didn't- took- I was surprised Leah got that.
+00:44:15	T	And last one. R W S.
+00:44:19	T	Real quick. Don't go. R W S. How would you get that one?
+00:44:26	SN	Ninety-five.
+00:44:27	T	She says 95. You say?
+00:44:28	SN	Ninety-five.
+00:44:29	T	Ninety-five.
+00:44:30	SN	(inaudible) triangle sum again.
+00:44:31	T	You did triangle sum?
+00:44:33	SN	I did triangle sum.
+00:44:34	SN	I did was to figure out what arc U T equals. It equals 90. You do 100 plus 90 divided by two.
+00:44:42	T	Good. Okay. Thank you, guys.
+00:44:48	T	Study, study, study, study, study, study. Tomorrow.
+00:44:51	SN	Tomorrow?
+00:44:52	T	Tomorrow.
+00:44:53	SN	Tomorrow's the what?
+00:44:54	T	Final.
+Ê

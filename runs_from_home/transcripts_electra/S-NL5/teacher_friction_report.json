@@ -1,0 +1,1806 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science NL5 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well you guys sure got in here in time. Beautiful. [T] Anyway, lets agree that we're going to be ourselves no matter what. Okay? [T] Don't let the camera bother you. Don't let the fact that I'm wearing a microphone bother you either. [T] That would be totally unnecessary. Just be yourselves. [T] Um, I see you guys have all of your stuff there already. I'd like you to keep your biology things shut for the moment, [T] And that you all take a sheet in front of you. It doesn't matter whether that's a test sheet, or a scrap sheet, or a binder sheet, I don't care."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And that you all take a sheet in front of you. It doesn't matter whether that's a test sheet, or a scrap sheet, or a binder sheet, I don't care. [T] No, no notes. A sheet and a pen. No quiz. [T] From one of them. Yes. [T] Guys, the sheet is meant to take notes for yourself, but it is not subject material. You just need a sheet, that's all. [T] No, not that either. [T] Yes, you can."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What do you think? [T] What do you think? [T] What do you think? [T] No. Exactly, exactly. Just a minor question to all. Ronald? [T] Why don't you have a pen with you? [T] How handy. [T] Okay. Um. Before we start to write let's make sure if all noses are facing the right way, whom of you guys have paragr-"
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Um. Before we start to write let's make sure if all noses are facing the right way, whom of you guys have paragr- [T] Oh, I guess you need to open up your workbook in order to check that. [T] Who knows by heart whether he has completed section two four? [T] Let me ask that differently, who knows for sure that he has not completed it? [T] Okay. Thanks. No this way I know what to expect. [T] Ladies and gentlemen, I have a question for you. I'd like to discuss a small part of section four today. [T] If you have problems with the rest of the content of section four, than I advise you to ask those questions at the end of the hour,"
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If you have problems with the rest of the content of section four, than I advise you to ask those questions at the end of the hour, [T] Or otherwise visit the \"KWT\". Not today though because today I have mentor hour. But you are always welcome. [T] However today I'd like to focus on a tiny little thing from section four, and for this you'll need pen and paper in a moment. [T] I'm going to place an overhead sheet here and then I'd like to see the hands of people who think they know- [T] Hang on, I need to place something on this. What is it that I just put down there? Only hands, okay? [T] That's right. That's at least one correct answer so far."
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's right. That's at least one correct answer so far. [T] For sure you can see my name. I want, raise your hand if you think you know what this- [T] Can you guys see this? Whatever you guys think this is. [T] Cam is my name, yes. C-A-M. Cam. We'll keep that one. Leo. What is this?"
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So this is a card that indicates I'm a donor. Shh. Who do you think possesses a card like this? [T] Guys, that clicking with ballpoints is very irritating. [T] Okay, okay. Jasper. Is it true that only people who are donors carry something like this, or do others carry it as well?"
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, okay. Jasper. Is it true that only people who are donors carry something like this, or do others carry it as well? [T] I am asking Jasper. [T] Do you know? [T] You don't know? Who does know it? Maria? [T] In that case you don't have this. [T] I'll return to Leo. You may finish your story in a second. Let me return to Leo for a moment. [T] What's this thing with over 18 years old. Because it seems to me you know more about it."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What's this thing with over 18 years old. Because it seems to me you know more about it. [T] No. Oh! [T] There it goes. Well it's still visible isn't it? Do you know something else, or not? [T] There you go. Once you turn 18 you are a grown up person according to the law. You know you can drive a car then, that you may uh, choose? vote- [T] Whiskey? What about whiskey?"
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, you're also allowed to drink whiskey. [T] Uh, you get a paper sent to your home, and then you have to fill in whether you want to become a donor, yes or no. [T] You can see that I covered my choice with a sheet. Underneath it has my choice of what I wished to be, or rather what I want to be. [T] That means that everybody of 18 years or older carries this card. [T] Now I'd like you to write down--entirely for yourself, so not as a group thing, so it should be completely silent for two minutes--"
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now I'd like you to write down--entirely for yourself, so not as a group thing, so it should be completely silent for two minutes-- [T] Now I'd like you to write down whether you know which organs we're dealing with here? [T] It doesn't matter if you don't know it, but try to think: about which organs we are talking, when we talk about being a donor? [T] Now two minutes of silence please. [T] Shh. You can ask questions in a moment. First write down whether you know to which organs this applies."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Shh. You can ask questions in a moment. First write down whether you know to which organs this applies. [T] It's no big deal if you don't know it, okay, Tineke? [T] Shh. Only a minute of silence. Come on, silence!"
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Shh. Only a minute of silence. Come on, silence! [T] Jasper! [T] Shh. It is only a minute, guys. Come on."
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Shh. It is only a minute, guys. Come on. [T] Okay, 15 more seconds to go."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, 15 more seconds to go. [T] Okay. In a while I'll check out the answers you wrote down. Now I'll let that rest for a moment. [T] Uh, Jasper. You just told me, \"This is only possible when you're dead.\" [T] No, I can't imagine that. How do you picture- suppose you're a donor, how do you picture this? What do you think is going to //happen? [T] All of your things?"
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Okay. Who has another picture of this? Leo? [T] What do you think this is about? Guys, cut it out. I'm not amused. What do you think this is about? [T] Exactly. This is about organ donation. So this is what Jasper said. When you die they'll check whether you're a donor or not and for which organs,"
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Exactly. This is about organ donation. So this is what Jasper said. When you die they'll check whether you're a donor or not and for which organs, [T] And then they'll use your organs to heal somebody else, hopefully. [T] When you're a blood donor though, then there's no need to indicate that because that's during your life. You're absolutely right about that. [T] Uh, who has another image than the one Jasper just painted? [T] Jasper said, \"Once you're dead, they cut you open and take your organs out and then they place them in somebody else.\" [T] Who has a different image of this? Mark? [T] In the Netherlands? [T] Uh, these are practices that take place in certain countries, very poor countries, at least that's what you read in the paper."
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, these are practices that take place in certain countries, very poor countries, at least that's what you read in the paper. [T] I'm pretty sure that doesn't happen in the Netherlands. At least let's hope so, that it's not done. [T] You indeed have two kidneys, you've got two lungs. Uh, it's possible that you can live without one. [T] In that sense you could sell one, but I really hope people don't actually do that, for money. [T] Who has another image than the one that Jasper painted? Ronald?"
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Don't you have those in a kidney? [T] Yes but is that not the case with a kidney then? [T] Well, let's check indeed what kind of organs you guys think about when you think about organ donation. [T] Who has written down a list of six organs? [T] Jasper. Tell us about it. [T] Heart, lungs- wait a minute, I'm going to write it down. Chalk. Heart. Lungs."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Heart, lungs- wait a minute, I'm going to write it down. Chalk. Heart. Lungs. [T] Kidneys. [T] Liver. [T] Skin. [T] And blood. Blood we just discussed right? That can be done while you're alive, so you don't have to use this registration for that. [T] Skin transplants do happen, right? For people who have been badly burned. Then they can use skin."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Skin transplants do happen, right? For people who have been badly burned. Then they can use skin. [T] That can happen as you're alive, that they take a little skin from your leg or your buttocks to put on your face or your arm, [T] But it can indeed also come from a- ladies! Marieke! It can also come from a dead person. [T] Liver is after your death. Liver transplants are possible. Kidney is possible. [T] Lungs... I don't think that's possible yet. I think that still a very complicated operation. And heart can be done."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Lungs... I don't think that's possible yet. I think that still a very complicated operation. And heart can be done. [T] Ronald, returning to your problem. Every organ is soaked with blood vessels. [T] So those blood vessels and nerves are always a problem. [T] But there are organs that are easier to implant than others. For instance the kidney is a bit easier than the liver, but it can be done. [T] Science has already progressed so far that it can be done. [T] Uh. Okay. I'm going to get back to this a little later. I'm going to show you the other side of this card now."
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh. Okay. I'm going to get back to this a little later. I'm going to show you the other side of this card now. [T] That I'll tell you in a while. Since you can- you need to make a choice. The moment you get this form you have to make a choice about what you want to be. [T] I'll read it out aloud because I don't think everybody will be able to read it. [T] It reads, \"Donor Statement. Your Donor Statement contains important and personal data about organ and tissue donation.\" [T] \"Would you like to change these data,\" blah, blah, blah. \"Explanation of the data in the front page.\""
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] \"Would you like to change these data,\" blah, blah, blah. \"Explanation of the data in the front page.\" [T] \"Option number one. You make your organs and tissues available for transplant after your death.\" [T] \"Option number two. You do not make your organs and tissue available for transplant after your death.\" [T] \"Option number three. You leave the decision to your relatives. Option number four. You leave the decision to a specific person.\" [T] That could be for example your partner, child, or someone like that. This is what you need to choose from."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That could be for example your partner, child, or someone like that. This is what you need to choose from. [T] Well I hope you realize that that choice is not a matter of putting a little circle down and ready! [T] It's not that simple. In order to make a decision you have to think about certain things. [T] Well, you guys are not yet 18 years old, but you heard from Maria that she has already decided to be an organ donor. [T] That's possible. Now once again I want you guys to be silent for two minutes, perhaps slightly longer, but we're starting of with two minutes. [T] I want you guys to come up with at least two advantages of organ donation and to write those down. Think about it carefully. Two advantages of organ donation."
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I want you guys to come up with at least two advantages of organ donation and to write those down. Think about it carefully. Two advantages of organ donation. [T] And I don't mean for yourself, though you may do that as well, but rather for the whole community. Two advantages."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] And I don't mean for yourself, though you may do that as well, but rather for the whole community. Two advantages."
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Try to come up with your own answer, guys. Because this is a choice that you are going to have to make all by yourself later on as well, and not together with others. [T] Try to think of it now for yourself. Ifyou don't know it, then you just don't know it. [T] At least two. If you know more that's okay. At least two. [T] If you have only one, then I want you to try very hard to think of another one. [T] And not only for yourself, but for the entire community."
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And not only for yourself, but for the entire community. [T] Yes that's true. Then they take a blood vessel from your upper leg, and place that close to your heart. Yes."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes that's true. Then they take a blood vessel from your upper leg, and place that close to your heart. Yes. [T] Uh, only with donation you are talking about giving something to another person. Whereas for a bypass they use your own blood vessels. [T] I'm not sure whether they use donors for that as well. That I don't know. [T] We'll talk about that in a second. [T] I see that some people are still writing, so I'll give you a little more time."
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I see that some people are still writing, so I'll give you a little more time. [T] Why don't you place little scores in front of it to indicate how many you have. That makes it easier to oversee. [T] Very nice, ladies. You've all got two. [T] Connie?"
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Come again? [T] At the end of the class hour. Isn't that how I always do it? At the end of the class hour. [T] Okay. I think most of you are done writing. I'm sure you know what the next one is going to be. Because there are disadvantages, too. [T] So once again two minutes of silence, if necessary. At least two disadvantages. For yourself as well as for the community. [T] Consider it from different points of view. Jasper, alone. Try to think of two disadvantages for the fact that you are a donor."
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Consider it from different points of view. Jasper, alone. Try to think of two disadvantages for the fact that you are a donor. [T] Or why you wouldn't want to be one. That's possible as well, right, also that can be considered a disadvantage. [T] Try to do it yourself, Marieke. Later you may discuss it together but do try to think about it for yourself first."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Try to do it yourself, Marieke. Later you may discuss it together but do try to think about it for yourself first. [T] Don't you know it anymore? [T] Also try to focus on it from somebody else's perspective. If you think, \"Yes, but I am in favor of this,\" try to put yourself in the position of somebody [T] Who wouldn't approve. Perhaps then you can think of a disadvantage. [T] Try to imagine somebody who would be opposed to it."
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Try to imagine somebody who would be opposed to it."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Try to imagine somebody who would be opposed to it. [T] Do you want to go through this class once more, Jasper? [T] Let's see, I still see some people writing."
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Let's see, I still see some people writing. [T] Edwin. [T] Lungs were also part of it. No, we haven't gotten to that yet. We don't need to yet. [T] Stomach transplant. My goodness. [T] No, intestines I don't think."
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, intestines I don't think. [T] //And she got a lung transplant? [T] Yes? Lung transplant, let's add that, then. [T] Okay. Ladies and gentlemen. You have to imagine that in about four years, five years, you'll be asked to take this decision. [T] So you don't have to decide now, you still have four or five years to go. Keeping in mind that you'll have to make that decision,"
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So you don't have to decide now, you still have four or five years to go. Keeping in mind that you'll have to make that decision, [T] I would like to see that in the group where you are seated, together- I'm not going to do this for too long, for a minute or six on that clock- [T] I would like you to exchange the advantages and the disadvantages, and that you guys discuss these together. And see if perhaps you think once, [T] \"Oh yes, I never thought about this. Oh right, that's a good one.\" So talk about each other's plusses and minuses for six minutes."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] No you should not tell that to me. But each other."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You mean to make oneself available for scientific //purposes. [T] That's not part of this, though. That's something else. [T] Everything needs to be researched, right? [T] But please talk about each other's plusses and minuses. If you feel funny about me being here then I'll disappear."
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right. Then talk. [T] No, it's voluntary, it's voluntary. John, what did you have? [T] Those are your advantages, right? [T] What advantages did you have?"
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] And now the disadvantages. [T] For whom? [T] And then there was only one left. Does she have to undergo kidney dialysis or not? She doesn't."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Because she's a grandma. [T] Sure, that happens. [T] I'm not sure about that, but for example the heart can be an issue, right? [T] Talk about all this together now. That'll come up later. Just talk with each other for a while."
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You're left with less ashes. Is that an advantage or a disadvantage? [T] Try to discuss that which each other. [T] How is it going here? [T] Were there similarities in what you thought or were there differences? [T] What did you say? [T] Where was the difference? [T] \"When you don't die then there is no donor organ. Some people only think about themselves and don't become //a donor\"."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] \"When you don't die then there is no donor organ. Some people only think about themselves and don't become //a donor\". [T] Yes, but why? What makes you think they're only thinking about themselves? [T] Yes, but why are they like that? Why do you think there are people who say, \"I will not donate any organs\"? [T] For example. They find it scary. Is that what you have? [T] That's right, people find it scary. Do you have a disadvantage like that as well? [T] Right. There are people who find it a crazy idea, right, when you get buried-"
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] There you go. Therefore, the way it's put here it seems very weird but one can think of many reasons why those people only think about themselves. [T] Try to write those reasons down as well if you can. Try to form an image of it. [T] What is what? The donor? [T] No, I'm pretty sure brain transplants are impossible, but-"
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, I'm pretty sure brain transplants are impossible, but- [T] I don't quite understand your question, but if you mean that uh- the donor is the one who gives- oh, you mean personality? [T] I think we're talking about something that's not possible in the first place."
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, I think- that's impossible. Those brains are connected with the rest of the body by numerous nerve paths that run through the entire spinal cord. [T] What did you say, Mark? [T] (inaudible) [T] But for now please don't talk about things that aren't possible. I want you to talk about what's relevant. Advantages and disadvantages, try that."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But for now please don't talk about things that aren't possible. I want you to talk about what's relevant. Advantages and disadvantages, try that. [T] Did you do that already? [T] Are you guys getting it resolved? [T] Big differences? [T] More or less the same. Disadvantages also the same? [T] I'll be back. Is it working out over here? [T] Many differences?"
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Not too bad. Let me see. [T] Ladies and gentlemen. Uh, as I'm circulating here, it appears that what you say corresponds pretty well. Especially the advantages. [T] Many of the advantages are: you can save lives. Another advantage I've seen is: when you turn ill yourself, then there's [T] an organ available for you as well. Those are most of the advantages I'm hearing. The disadvantages differ more, and Daan said,"
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] an organ available for you as well. Those are most of the advantages I'm hearing. The disadvantages differ more, and Daan said, [T] \"There are people who only think about themselves.\" That's a disadvantage. He considered that a disadvantage. [T] So I asked him, \"'Why would it be that people only think about themselves?\" [T] And then I asked to make a little list of that. Who of you guys knows any reasons why people would be opposed to organ donation? Ronald? [T] Okay, so because they think it's unpleasant for their relatives that the body is not complete."
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, so because they think it's unpleasant for their relatives that the body is not complete. [T] For example, that during the visit of condolence, and there is an open cast, that you can see the person has been cut. Is that what you mean? [T] Okay, that's possible. There are people who don't do it because of the relatives, that they're afraid the relatives find it scary. [T] Or maybe the relatives have even stated so, \"I find that scary. Please don't do it.\" Like with removing the retina from the eye, then people think that [T] When you view the body that the eyes will be completely gone. Well that's not the case."
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] When you view the body that the eyes will be completely gone. Well that's not the case. [T] Let me tell you that when the organs have been removed and the body can be viewed that one doesn't notice that. You don't notice anything. [T] But there are people who will bring this forward as a reason, and of course you have to accept every reason, right? [T] What else can be a reason why people only think about themselves? Thinking about themselves between quotation marks. Maria. [T] Religion. There are people who will say from their religious point of view, \"I want to knock on heavens gate in one piece.\""
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] \"Not with pieces cut out of me.\" There are people who believe in this, and you have to respect that. There are also religions that say that without [T] Your heart you're not complete, your soul has gone. You have to respect that. Religion, okay. Any another reason? Jasper? [T] I see. A reason can be that when you're sick then you should just die when that's a deadly disease."
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And you shouldn't cure people. It could be a reason. To tell you the truth, I hope people don't think that way, but there could be people who think that way. [T] What could be another reason why people say, \"I don't want to be a donor.\" Tineke? [T] Yes, the idea may simply be scary to you, exactly. It's possible, it's possible. Somebody else? Robert?"
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, the idea may simply be scary to you, exactly. It's possible, it's possible. Somebody else? Robert? [T] As soon as you are 18 years old you are the one who decides about your //body. [T] So because--in fact what we already said before--the relatives may find it awful. [T] Okay. [T] Yes, that you can find it a scary idea that you are not whole. That you've been cut."
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, organs. You're right. Organs, I agree with you, that's correct. [T] Uh, we've got advantages, those are clear I suppose. [T] The disadvantages are a little more complex, but they are definitely there. [T] Now you have to make a choice. I'm going to give you a couple of minutes so you can share, [T] Which doesn't necessarily mean you have to agree with each other. Let me make that clear, [T] With each other about which choice you would make at this moment."
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It may change, which is no problem at all. Perhaps you think to yourself, \"My opinion is different from the others.\" [T] Well then so be it. But we have been discussing for 15 minutes. I'll read them out to you one more time. [T] Choice one. You make your organs and tissues available for transplant after your death. [T] Option two. You do not make your organs and tissues available after your death. [T] Option three. You leave the decision to your relatives. And option four. You leave the decision to a specific person."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Option three. You leave the decision to your relatives. And option four. You leave the decision to a specific person. [T] Go ahead and decide what you would choose right now and then discuss that with each other. [T] You were saying? [T] I'm going to show you my choice later on. I leave- no otherwise you'll get influenced, \"Oh, she knows a lot about it, she probably knows.\" [T] No, you know a lot about it as well, and now it's time to find out. [T] You don't have to make the real decision yet, but whatever you would do at this moment."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But that's different than being a donor. Donor is really when you're dead, whether you make your donor organs available then. And if you would say, [T] \"I don't want to make my heart available but my liver and my kidneys are fine with me.\" Then that's possible."
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. Because that doesn't necessarily mean that all of your organs are sick as well. That's possible. [T] If you've had what? [T] If you have smoked. Then your lungs will not be of much use, but your liver might be working fine. Or your skin."
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Well in any case they'll examine the tissue. They have to know which blood group it is, how strong it is. They'll examine all that. [T] Whose choice is that? [T] No, whose choice is that?"
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, whose body is it? Whose body is it about? [T] Yes, and the moment they ask you, \"What would you choose?\" then there is no such thing like one choice being right and the other being wrong. You see? [T] It is however wise to discuss it with relatives, so they know. [T] And you can change it. If you later change your mind, then you can change it. [T] Sure. There is a phone number on it so that that can be arranged."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'll be, I'm going to say something about this in a second, I find this a good question. [T] Yes?"
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The moment you get all those papers in, then you receive a form with it. Next you have to complete all that. [T] And as proof that you have completed this, you'll get that card sent to your home. [T] But that registration is all safely kept elsewhere and hospitals have access to that. [T] Once they know you're a donor they will retrieve your information to see, [T] Hey, what are we allowed to and what not, and with whom do we have to discuss it, and- [T] Yes. Suppose you say, \"I don't want my heart, but they can have my liver and kidneys.\" Then you can register all those things."
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. Suppose you say, \"I don't want my heart, but they can have my liver and kidneys.\" Then you can register all those things. [T] Yeah, and then? [T] And then?"
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes but it's very sad altogether. [T] Yes, that is sad. [T] Ladies and gentlemen, pens down for a moment please. And all faces turned this way. [T] Whiteout down as well. Okay. [T] We've been thinking about this for half an hour now, and of course you do not have to make this decision as of yet. [T] But a couple of important questions have been asked to me which I would like to pose in front of the class."
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But a couple of important questions have been asked to me which I would like to pose in front of the class. [T] For example the question has been asked, suppose you take choice four, a specific person. [T] And together you have discussed endlessly what you do and do not want. And you're in the car together with that person, and then you die together. [T] Then what? Well, the moment I receive that form at home I need to complete the whole thing. [T] Then it gets sent in, and as proof that I completed it I'm receiving this card which I have to carry in my wallet."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then it gets sent in, and as proof that I completed it I'm receiving this card which I have to carry in my wallet. [T] The moment I die, due to illness or old age or due to an accident, I end up in a hospital. [T] There they'll immediately check what my registration is, whether I want to be donor, yes or no. And right away they can call up that information. [T] That also means that if you say, [T] \"It's fine if they take my skin and my liver, but my retina, that idea doesn't appeal to me. I don't want that,\" [T] Then you have the option to write that on that paper, then they won't do that. [T] So you can carefully register what you do and what you don't want. That's an option."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So you can carefully register what you do and what you don't want. That's an option. [T] Uh, a second question being asked was, how is it possible that when you're dead your organs carry on? That can't possibly be can it? [T] Well that's in fact the only, as far as I'm concerned, unpleasant part of this story. The moment you are dead, you are declared brain dead. [T] Your body is no longer controlled by your brain. But they keep you al- your body alive, by making the whole thing pump-"
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Your body is no longer controlled by your brain. But they keep you al- your body alive, by making the whole thing pump- [T] So by making the heart continue to pump, the blood keeps pumping so blood keeps flowing to the organs. [T] You're on artificial respiration so oxygen comes in. Oxygen goes into the blood so that those organs go on. [T] They only do this because when you're an organ donor, those organs are alive until the very last moment. [T] So that is very precarious. Equipment keeps you alive artificially, but in fact you're already dead. That's hard for relatives. [T] And this issue will differ from person to person. There will be relatives who say, \"Well, that person wants to become donor. Period. We'll do it, we'll accept this.\""
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And this issue will differ from person to person. There will be relatives who say, \"Well, that person wants to become donor. Period. We'll do it, we'll accept this.\" [T] There will also be relatives who'll find it very unpleasant that the person hooked on to the equipment appears to be alive, [T] But the moment the equipment is turned off, he is dead. That all of this happens for the sole purpose of organ donation. [T] But that is the most difficult part of this story for me personally. [T] But that's how it works, Connie. It's kept alive by the equipment, and then a phone call is made, \"Where is a need for an organ?\""
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But that's how it works, Connie. It's kept alive by the equipment, and then a phone call is made, \"Where is a need for an organ?\" [T] Does the blood group match? Do the blood factors match- something we also discussed before, right? [T] And then that organ is taken out, goes in a little box, with a trauma helicopter or whatever it'll go to the hospital where it's needed [T] And gets placed into the sick patient, or the patient as fast as possible. [T] Other organs they can keep stored. The skin they can keep stored so with that it's not really an issue. So that's how this is handled. [T] We've only got a few minutes left. Are there any urgent questions? John?"
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We've only got a few minutes left. Are there any urgent questions? John? [T] That's because muscles, they can be either relaxed or contracted and at the moment you die [T] Everything begins to relax. But not all at the same time. [T] So it could be that because of a certain movement, for example when the body gets washed that a certain relaxation takes place and then \"eehh.\" [T] You'll hear the corpse make a sound because those muscles start relaxing. So that's why. [T] Ronald another? Shh, guys! Jasper! Karel! Ronald?"
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ronald another? Shh, guys! Jasper! Karel! Ronald? [T] Okay. Uh, I must say that you- Yes, Ronald? You remembered it? [T] But you're not getting emptied out to the extent that nothing is left of you. It's not like that. [T] They take out a few things that are useful or that they can keep stored. [T] //they close you neatly. [T] No."
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, they won't keep you above the ground for weeks. That won't happen. [T] Guys! We need to do a few more things in a few minutes. I feel that you have the right to know my choice. [T] I choose option three. I am absolutely pro organ donation, as far as I'm concerned they can empty me out completely. [T] However, through discussions I learned that my relatives have some difficulties with that. [T] So I said, \"You guys know what I want, and when I die, decide for yourselves what you can handle.\" [T] So it's known that I want to get rid of everything--that everything may be taken out, that everything may be removed--"
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So it's known that I want to get rid of everything--that everything may be taken out, that everything may be removed-- [T] But if my children would have terrible difficulty with that, like, \"Geez, my mum, I can't handle this,\" then the choice lies- that's why the choice lies with them. [T] But they do know that I really want to be an organ donor. Maria? [T] But they're also my children. And that's a very special feeling. So I- now, they have that right. [T] Should you want to be a donor right now, you can get a form from me that you could complete. You have to discuss it with your parents."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Should you want to be a donor right now, you can get a form from me that you could complete. You have to discuss it with your parents. [T] And then, uh, you can already carry that with you. It's just not registered. It's just a little paper that you need to carry with you at all times. [T] If there is a need we can come back to this the next time, but right now I'm looking at the clock. [T] We have two more appointments to make, quickly get your planners for the weekly assignment and for the central exam."
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We have two more appointments to make, quickly get your planners for the weekly assignment and for the central exam. [T] Uh, the central exam is Tuesday next week? Wednesday? [T] Tuesday? Okay, Chapter Two, section one through section four. [T] Uh, I'm not sure about the hour, I still owe //you that one."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, I'm not sure about the hour, I still owe //you that one. [T] The third hour? Thank you very much. [T] Yes, as you can see my weekly assignment has been adapted to the central exam. [T] [bell] [T] I'll see you next Friday. Then you'll also have the opportunity to ask questions about the CP matter and about the organ donation."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well you guys sure got in here in time. Beautiful. [T] Anyway, lets agree that we're going to be ourselves no matter what. Okay? [T] Don't let the camera bother you. Don't let the fact that I'm wearing a microphone bother you either. [T] That would be totally unnecessary. Just be yourselves. [T] Um, I see you guys have all of your stuff there already. I'd like you to keep your biology things shut for the moment, [T] And that you all take a sheet in front of you. It doesn't matter whether that's a test sheet, or a scrap sheet, or a binder sheet, I don't care."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Shh. It is only a minute, guys. Come on. [T] Okay, 15 more seconds to go."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Skin transplants do happen, right? For people who have been badly burned. Then they can use skin. [T] That can happen as you're alive, that they take a little skin from your leg or your buttocks to put on your face or your arm, [T] But it can indeed also come from a- ladies! Marieke! It can also come from a dead person. [T] Liver is after your death. Liver transplants are possible. Kidney is possible. [T] Lungs... I don't think that's possible yet. I think that still a very complicated operation. And heart can be done."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Lungs... I don't think that's possible yet. I think that still a very complicated operation. And heart can be done. [T] Ronald, returning to your problem. Every organ is soaked with blood vessels. [T] So those blood vessels and nerves are always a problem. [T] But there are organs that are easier to implant than others. For instance the kidney is a bit easier than the liver, but it can be done. [T] Science has already progressed so far that it can be done. [T] Uh. Okay. I'm going to get back to this a little later. I'm going to show you the other side of this card now."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes that's true. Then they take a blood vessel from your upper leg, and place that close to your heart. Yes. [T] Uh, only with donation you are talking about giving something to another person. Whereas for a bypass they use your own blood vessels. [T] I'm not sure whether they use donors for that as well. That I don't know. [T] We'll talk about that in a second. [T] I see that some people are still writing, so I'll give you a little more time."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So you don't have to decide now, you still have four or five years to go. Keeping in mind that you'll have to make that decision, [T] I would like to see that in the group where you are seated, together- I'm not going to do this for too long, for a minute or six on that clock- [T] I would like you to exchange the advantages and the disadvantages, and that you guys discuss these together. And see if perhaps you think once, [T] \"Oh yes, I never thought about this. Oh right, that's a good one.\" So talk about each other's plusses and minuses for six minutes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, I'm pretty sure brain transplants are impossible, but- [T] I don't quite understand your question, but if you mean that uh- the donor is the one who gives- oh, you mean personality? [T] I think we're talking about something that's not possible in the first place."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Not too bad. Let me see. [T] Ladies and gentlemen. Uh, as I'm circulating here, it appears that what you say corresponds pretty well. Especially the advantages. [T] Many of the advantages are: you can save lives. Another advantage I've seen is: when you turn ill yourself, then there's [T] an organ available for you as well. Those are most of the advantages I'm hearing. The disadvantages differ more, and Daan said,"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, so because they think it's unpleasant for their relatives that the body is not complete. [T] For example, that during the visit of condolence, and there is an open cast, that you can see the person has been cut. Is that what you mean? [T] Okay, that's possible. There are people who don't do it because of the relatives, that they're afraid the relatives find it scary. [T] Or maybe the relatives have even stated so, \"I find that scary. Please don't do it.\" Like with removing the retina from the eye, then people think that [T] When you view the body that the eyes will be completely gone. Well that's not the case."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] \"Not with pieces cut out of me.\" There are people who believe in this, and you have to respect that. There are also religions that say that without [T] Your heart you're not complete, your soul has gone. You have to respect that. Religion, okay. Any another reason? Jasper? [T] I see. A reason can be that when you're sick then you should just die when that's a deadly disease."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'll be, I'm going to say something about this in a second, I find this a good question. [T] Yes?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. Suppose you say, \"I don't want my heart, but they can have my liver and kidneys.\" Then you can register all those things. [T] Yeah, and then? [T] And then?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes but it's very sad altogether. [T] Yes, that is sad. [T] Ladies and gentlemen, pens down for a moment please. And all faces turned this way. [T] Whiteout down as well. Okay. [T] We've been thinking about this for half an hour now, and of course you do not have to make this decision as of yet. [T] But a couple of important questions have been asked to me which I would like to pose in front of the class."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Your body is no longer controlled by your brain. But they keep you al- your body alive, by making the whole thing pump- [T] So by making the heart continue to pump, the blood keeps pumping so blood keeps flowing to the organs. [T] You're on artificial respiration so oxygen comes in. Oxygen goes into the blood so that those organs go on. [T] They only do this because when you're an organ donor, those organs are alive until the very last moment. [T] So that is very precarious. Equipment keeps you alive artificially, but in fact you're already dead. That's hard for relatives. [T] And this issue will differ from person to person. There will be relatives who say, \"Well, that person wants to become donor. Period. We'll do it, we'll accept this.\""
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So it's known that I want to get rid of everything--that everything may be taken out, that everything may be removed-- [T] But if my children would have terrible difficulty with that, like, \"Geez, my mum, I can't handle this,\" then the choice lies- that's why the choice lies with them. [T] But they do know that I really want to be an organ donor. Maria? [T] But they're also my children. And that's a very special feeling. So I- now, they have that right. [T] Should you want to be a donor right now, you can get a form from me that you could complete. You have to discuss it with your parents."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Should you want to be a donor right now, you can get a form from me that you could complete. You have to discuss it with your parents. [T] And then, uh, you can already carry that with you. It's just not registered. It's just a little paper that you need to carry with you at all times. [T] If there is a need we can come back to this the next time, but right now I'm looking at the clock. [T] We have two more appointments to make, quickly get your planners for the weekly assignment and for the central exam."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, I'm not sure about the hour, I still owe //you that one. [T] The third hour? Thank you very much. [T] Yes, as you can see my weekly assignment has been adapted to the central exam. [T] [bell] [T] I'll see you next Friday. Then you'll also have the opportunity to ask questions about the CP matter and about the organ donation."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/S-NL5"
+}

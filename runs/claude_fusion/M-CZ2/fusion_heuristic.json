@@ -1,0 +1,130 @@
+[
+  {
+    "friction": false,
+    "rationale": "The teacher is using legitimate pressing-for-reasoning moves to guide students toward recalling the perimeter formula, and there is no clear confusion signal or high-pressure dynamic evident in the transcript.",
+    "alternative_strategy": "",
+    "t_start": 150.0,
+    "t_end": 180.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher abruptly shifts from a straightforward perimeter concept to the harder concept of circle circumference without scaffolding, while instructional quality is flagged as low and no productive talk moves are being used, creating a pressure point where students may be lost.",
+    "alternative_strategy": "Pause and ask a guiding question such as 'We added straight sides for the triangle and rectangle — what is different about the boundary of a circle that might make it harder to measure?' to activate prior reasoning and bridge the conceptual gap before introducing the formula.",
+    "t_start": 270.0,
+    "t_end": 300.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is pressing a named student (John) for reasoning about Archimedes' circle perimeter formula without apparent scaffolding, and with dominant strategy marked unknown and no vision signal to confirm student readiness, this creates potential high-pressure exposure of a single student without support.",
+    "alternative_strategy": "Before pressing John, revoice the question as a pair-share prompt: 'Turn to your neighbor for 30 seconds — what do you think Archimedes might have measured or compared to find the perimeter of a circle?' This distributes the cognitive load and reduces individual pressure before cold-calling.",
+    "t_start": 330.0,
+    "t_end": 360.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is correcting a student's conflation of radius and diameter without pressing for the student's own reasoning, which combined with the 'Other' talk-move classification and unclear dominant quality suggests a missed opportunity for deeper conceptual engagement.",
+    "alternative_strategy": "Instead of directly stating the error, revoice the student's idea and press for reasoning: 'So you're saying the answer involves four—can you walk us through why you chose four, and what role the radius plays in that thinking?'",
+    "t_start": 480.0,
+    "t_end": 510.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is building conceptual understanding through progressive examples (polygon approximation of a circle), and the talk moves show pressing for reasoning rather than high-pressure or low-quality instruction, with no clear confusion signal beyond transcript-only mode limitations.",
+    "alternative_strategy": "N/A",
+    "t_start": 720.0,
+    "t_end": 750.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher asks a reasoning question ('what do you think it depends on?') but immediately answers it himself without pausing for student input, reflecting low-quality talk that bypasses genuine student thinking.",
+    "alternative_strategy": "After asking 'what do you think the circumference depends on?', pause for at least 10 seconds and cold-call a specific student to explain their reasoning before confirming or correcting, ensuring students construct the relationship between circumference and diameter themselves rather than receiving the answer immediately.",
+    "t_start": 930.0,
+    "t_end": 960.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is pressing students to recall a proportionality equation from seventh grade without scaffolding, while the low dominant quality signal and confusion indicator suggest students are not successfully retrieving or connecting the concept.",
+    "alternative_strategy": "Pause and revoice the relationship by asking a guiding question: 'If I double the diameter of a circle, what happens to the circumference — can someone describe that change in words before we write the equation?'",
+    "t_start": 960.0,
+    "t_end": 990.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is pressing for a specific numerical answer (where K falls between 3 and 4) using rapid-fire closed questions without giving students time to reason through the geometric logic themselves, creating pressure without scaffolding the underlying conceptual path.",
+    "alternative_strategy": "Pause and ask students to sketch or gesture why a circle must have a perimeter constant between the hexagon (K=3) and square (K=4) values, revoicing the geometric argument: 'Can someone explain in their own words why K must be between 3 and 4 based on what we see with these shapes?'",
+    "t_start": 1050.0,
+    "t_end": 1080.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is repeatedly pressing students with a closed historical trivia question ('Does anyone know? Anyone?') using a low-quality talk move that creates social pressure without scaffolding, likely causing confusion or silence since students have no conceptual foothold to answer a naming-convention question.",
+    "alternative_strategy": "Offer a bridging prompt to lower the stakes and activate reasoning: 'Ludolf van Ceulen spent most of his life calculating the digits of Pi — what does that tell us about how mathematicians in the past thought this number was important enough to spend a lifetime on?'",
+    "t_start": 1260.0,
+    "t_end": 1290.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 1530.0,
+    "t_end": 1560.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYUrnAwvDioHRvsQ6Eo'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1740.0,
+    "t_end": 1770.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYVCnhJQkHtuzmSkgvY'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1770.0,
+    "t_end": 1800.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYVYeYHYhRGQj6J3EzV'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1890.0,
+    "t_end": 1920.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYVtSAhECmzqbrebMxy'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1920.0,
+    "t_end": 1950.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYWEtjBpHv1Eq8UZT5s'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 2490.0,
+    "t_end": 2520.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYWapnYKoc6eiHSrtLZ'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 2520.0,
+    "t_end": 2550.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYWzvcnsU6S2qTYyR2F'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  }
+]

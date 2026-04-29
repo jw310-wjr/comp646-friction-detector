@@ -1,0 +1,2411 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science JP4 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, Yoshi-kun. Let's begin. [T] Masa-kun, please. [T] //Please pay attention. [T] Today, we ask Ms. Yasui to help us. Where is the white chalk?"
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Today, we ask Ms. Yasui to help us. Where is the white chalk? [T] Do you remember we did a survey the last time? Watch on the board."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Do you remember we did a survey the last time? Watch on the board. [T] Today everyone is very- [T] Quiet. [T] Very quiet. I've only experienced such quietness 2,3 times. Then everyone please read today's theme. One, two. [T] That's what I asked you the last time, right?When I asked enamel wire-Miso soup- [T] Refill lead of a mechanical pencil, things like that, your answers were clearly divided unexpectedly with these three items."
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Refill lead of a mechanical pencil, things like that, your answers were clearly divided unexpectedly with these three items. [T] I would like to confirm it again. [T] Enamel wire, miso soup, refill lead of a mechanical pencil. I will demonstrate an experiment now."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Enamel wire, miso soup, refill lead of a mechanical pencil. I will demonstrate an experiment now. [T] Will they generate heat? Raise your hand for the item which you think will generate heat. //Okay? [T] If you think all three will, then you can raise your hand three times. [T] Enamel wire. This. Enamel wire. [T] You must have made electromagnets in elementary school. It's the conducting wire which you wound at that time. [T] Then miso soup. Today, I will use one with red bean paste. Miso soup with read bean paste. [T] Yes. If there are leftovers, I will give it to Masa."
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. If there are leftovers, I will give it to Masa. [T] And some refill lead of a mechanical pencil. [T] Then I will ask you. Okay? Then who thinks that the enamel wire will generate heat? [T] One, two, three, four, five, six, seven, eight, nine, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23. Okay. Twenty-three. [T] Miso soup. Miso soup with read bean paste. [T] One, two, three, four, five, six, seven. Okay."
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then the lead of a mechanical pencil. [T] One, two, three, four, five, six, seven, eight, nine, 10, 11, 12. Okay. [T] Then. Can anyone tell that it is certain from your own experience? Anyone? [T] From your own experience, since you have done it before. Can anyone tell for sure? [T] Haven't you done it before? [T] Yes, Matsui-kun. Yes. Please stand up and speak."
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What? What? [T] Stand and speak. [T] Stand up and speak. [T] The teacher of shop class said so. [T] Said so. That's fine. You can sit down. [T] Then lead of a mechanical pencil. These 12 people may be right. Anything else? Do you have experience? [T] No? Then should we experiment in order? Then first we'll do it with an enamel wire. [T] Since it is hard to see my operation, Ms. Yasui will project it on that TV. But come to the front as usual. Please."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Since it is hard to see my operation, Ms. Yasui will project it on that TV. But come to the front as usual. Please. [T] Can people in the front squat down? [T] If you cannot see it, you can watch the monitor. Then a little bit- [T] Murai-kun, you are the assistant. Please hold this."
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Murai-kun, you are the assistant. Please hold this. [T] So everyone can see the thermometer. Can you see what the temperature is now? [T] Oh, it won't reach? [T] What is the temperature? [T] Eight degrees, right? Right now it's eight degrees. Then now I will make an electric current flow through this. [T] Here, at the tip of the thermometer, I have wound the enamel wire. If it generates heat, the thermometer will indicate it."
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Here, at the tip of the thermometer, I have wound the enamel wire. If it generates heat, the thermometer will indicate it. [T] Watch this. Oh, it is disconnected. [T] Wait. Okay. Watch. It is increasing, right? [T] What is the temperature now? [T] It was only eight degrees before, but it's already seventeen degrees. [T] It's still rising. Yes. It's almost 20. [T] I am not getting it at all. See?"
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's already 25. Should I show it to you? Look at the monitor. [T] Can you see that it has increased? [T] Did it increase? [T] This means that? [T] It's increasing, right? [T] Why don't you do it putting this down? [T] It's already 30 degrees. [T] It increased so much. It was eight degrees, so how many degrees did it increase?"
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Twenty-two. Very well. [T] That means that an enamel wire is fine. It generates heat. Then next let's do it with miso soup. Miso soup. [T] Miso soup is here, here. [T] This is a present far you, Matsui-kun. [T] It's okay."
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then we use this aluminum foil as an electric pole and put this in the beaker. [T] You can leave it here. [T] This one, right? I will give it to you, Matsui, so don't worry. Okay? [T] I put another electric pole here."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Don't worry about my cooking. [T] Right now... it's five degrees. Five degrees. Five degrees. [T] Now I will connect this to the power source. [T] Can you see? [T] Can you see the inside of the miso soup is moving as soon as the switch was turned on?"
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Can you see the inside of the miso soup is moving as soon as the switch was turned on? [T] It's rising, right? [T] //Can you see? [T] I will put it in the front. [T] Can you see? Imai-kun, is it on? [T] Is it on? [T] Is steam generating? It's also bubbling. What is the temperature now? What is the temperature now?"
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is steam generating? It's also bubbling. What is the temperature now? What is the temperature now? [T] Now 20 degrees. It was five but it went up 15 degrees. [T] Are bubbles oozing? [T] Try to touch it. It's warm. [T] It's warm, right? Touch it. [T] It's warm. [T] What is the temperature now?"
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is this about right to drink? [T] Fifty degrees? Then, Masa-kun, it's perfect to drink now. [T] This means? [T] Miso soup is also? [T] Okay. Then, next, at last, shall we do it with the lead of a mechanical pencil? [T] This got very hot. It will break. [T] Then next is the lead of a mechanical pencil."
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then next is the lead of a mechanical pencil. [T] Then first, since I had some steel wool, I brought it. This one I think everyone can see well. I will do it with the steel wool as well. [T] After I set it here. [T] That's fine. The connection is not good."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Did you see that it burnt? [T] This is steel wool. Right now, it's about two volts. [T] It's already burning. Steel burns. That means that it generated heat."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then, //at last, the mechanical pencil. [T] Of course. [T] Then I will do it with the mechanical pencil."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then I will do it with the mechanical pencil. [T] It started smoking. It started smoking, so wait for a while. [T] People in the front, be careful. It may jump. [T] Then I will increase the voltage. Right now I am increasing the voltage."
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then I will increase the voltage. Right now I am increasing the voltage. [T] Something is changing a little. [T] This means that the lead of mechanical pencils also? [T] Yes, it generates heat, right? [T] Rather, it means that it conducts electric current, and generates heat. [T] When it conducts heat?"
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It already got so thin. [T] Then go back to your seat. [T] Almost anything will generate heat when current flows through it. [T] That is what I showed you with electric discharge when we studied electric current and electrons. The flow of an electric current means the electrons are flowing."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That is what I showed you with electric discharge when we studied electric current and electrons. The flow of an electric current means the electrons are flowing. [T] Because the electron flow bumps atoms of the material, when they bump with atoms, it generates heat. [T] So today, the amount of heat generated, we will measure through an experiment the amount of heat that is generated. [T] What is this heat related to? As I just showed you, first, we increased the voltage, right?"
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What is this heat related to? As I just showed you, first, we increased the voltage, right? [T] So, it is probably related to the voltage. And if you increase the voltage, logically, what flows a lot? [T] Current flows, right? [T] So today, we will investigate through an experiment how heat increases in relation to the value derived from voltage times current."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then look at the OHP. [T] Ms. Yasui is giving you some worksheets like this now. [T] Today, you will confirm through an experiment that heat generated by electric current is related to the value of voltage times current. [T] I will explain to you how to do it. I think now you got the worksheet, but first set up the equipment like this figure."
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I will explain to you how to do it. I think now you got the worksheet, but first set up the equipment like this figure. [T] It doesn't show in this figure, but I think it will be good if you prepared a stand like this. [T] Then I will explain to you how to set up. First, in order to measure the amount of heat- [T] Are you okay? Could you keep looking at this? Watch the OHP. First, set up the thermometer. And hang the thermometer about in the middle of the water. [T] And in order to measure the voltage and the current, take a voltmeter and a ammeter."
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And in order to measure the voltage and the current, take a voltmeter and a ammeter. [T] The power source to use today is this power source. The container to put it in is this polystyrol container, so it will melt if it touches heat, right? [T] So the electric heating wire that generates heat, today we use this but when you put it in, make sure it doesn't touch the bottom or the side. [T] It may melt. So you hang a thermometer, but someone should be responsible and hold this heating wire with their hand. It won't hurt you."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It may melt. So you hang a thermometer, but someone should be responsible and hold this heating wire with their hand. It won't hurt you. [T] And the water will get warmer by the convection current, stir once in a while and measure the temperature. And- [T] Ammeter is in series circuit, voltmeter is in a parallel circuit, the tip is sticking out, so connect the clips here. Two each. [T] And, please measure the temperature of the water before you start. [T] When you did the survey the last time, I found that you forgot how to calculate heat energy."
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] When you did the survey the last time, I found that you forgot how to calculate heat energy. [T] But when you calculate heat energy, the amount of heat that was generated by this electric heating wire is the same as the value which the water receives. [T] So in order to calculate heat energy, the mass of water in this container multiplied by the increase in temperature. [T] In order for everyone to have the same amount of water, I have measured 100 grams and put in there today. Okay? [T] I have prepared 100 grams of water here which has been measured, so please take it from here. The thermometer is also in there."
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I have prepared 100 grams of water here which has been measured, so please take it from here. The thermometer is also in there. [T] And uh... each group read the value of the current with specified voltage. [T] And the number of increased temperature will be measured after five minutes. Since we have a limited time, I have a stopwatch and everyone will start at the same time. [T] So please tell me when your group finishes setting up the equipment and are ready. When everyone is ready, we will measure five minutes."
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So please tell me when your group finishes setting up the equipment and are ready. When everyone is ready, we will measure five minutes. [T] Now, since every group will measure with a specified voltage, can you please write the voltage here? Here. [T] First these three rows, no, these three groups. These three groups, please do it with three volts and six volts. So here, write three volts and six volts. [T] Then, this row, write three volts and six volts in here. [T] This row, write three volts and six volts."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This row, write three volts and six volts. [T] Then these two groups in the middle, write four volts and eight volts. And people over there, please do it with five volts and seven volts. [T] Yes. Please adjust seven volts with the voltmeter precisely. [T] Five volts and seven volts. [T] Then, I will explain to you again. Face this way."
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] For example, these groups have three volts and six volts here, right? [T] During the experiment, this group will give three volts of voltage at the same time as everyone and measure five minutes. [T] Read the ammeter, and see how many amperes it is. And after five minutes, write how much temperature increase there was. [T] And this part was to compare the values of voltage times current, so these three volts-And if this is zero point two amperes, for example, three times zero point two and this becomes one point five volt-amperes."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And this part was to compare the values of voltage times current, so these three volts-And if this is zero point two amperes, for example, three times zero point two and this becomes one point five volt-amperes. [T] And as for heat energy, you calculate mass of the water times temperature increase. Okay? [T] When you are done, you will have an OHP sheet which Ms. Yasui will give to you. OHP sheets look like this. [T] This graph is to record the relationship between the value of voltage times current and the number for increased temperature of the water. [T] And as for this one, please record the relation between the value of voltage times current and the amount of heat generated."
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And as for this one, please record the relation between the value of voltage times current and the amount of heat generated. [T] And when you record, just mark dots like this one. This group will have values for three volts and six volts, right? [T] This group will have values for four volts and eight volts, right? This group will have values for five volts and seven volts, right? [T] When everyone is ready, when we stick these sheets together-The relationship between the value of voltage times current and the number for increased temperature of the water or the amount of heat generated, [T] Will appear nicely as dots. So we should be able to infer the relationship between them. Okay? I spoke fast, but did you understand the procedure?"
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Will appear nicely as dots. So we should be able to infer the relationship between them. Okay? I spoke fast, but did you understand the procedure? [T] We will come over when you are not sure. What you have to prepare is the electric heating wire, here. Voltmeter and ammeter. [T] Take the power source from there as usual. And each group take two cups, okay? We measure twice, okay? For three volts and six volts. [T] So prepare those although we use one of them first. Do you have any questions?"
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So prepare those although we use one of them first. Do you have any questions? [T] You don't? Then each group, get ready. [T] Stands are over there. [T] Sorry, sorry. [T] I have to put the thermometer for the miso-soup as well."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I have to put the thermometer for the miso-soup as well. [T] You need two cups. One for five volts and another for seven volts. [T] You must change. [T] I told you to do well during the experiment. [T] Isn't' this (inaudible)? Don't touch it."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The thermometer too. [T] Don't drop it. [T] Wasn't there enough? [T] There must have been eight. [T] Should I do it with this group? OHP needs to be marked clearly so please write with this. Then first set up."
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Should I do it with this group? OHP needs to be marked clearly so please write with this. Then first set up. [T] When you are done setting up, everyone starts together. [T] Isn't it better to hang it in this side? It is unstable. [T] Hang it so that it will be in the water."
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] About five minutes. [T] Oh, electric heating wire? [T] Huh? There should be eight. Sorry, did anyone take two heating wires? There should have been eight of these. [T] Oh, you took too many, okay, okay. [T] Here they are. [T] Put the thermometer in the cup and set it up."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Put the thermometer in the cup and set it up. [T] Yes, yes. You measure the temperature of the water first. This is unstable, so from this side. [T] Since we want to measure the temperature of the water first, please hurry up and set up the water. [T] After hanging it, support it with your hand."
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] After hanging it, support it with your hand. [T] Kawai-san... Here, it's your turn, Masago. [T] Yes. That's why you should hang the thermometer. [T] Masago-kun, you turn that so that you can hang the string."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Why don't you put it here? [T] And set it in a series circuit. Which one is positive?"
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And set it in a series circuit. Which one is positive? [T] This one, right? Yes, yes. [T] This one is negative, right? And this one is positive. [T] This one, this one. [T] That's fine. [T] Yes. Then please wait if you finished setting up. [T] If you are behind in setting up, I will help you."
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Should I help you? Are you finished setting up? [T] Oh... milli ampere is hard to see, so leave it as a bigger ampere.This one, you can leave as fifteen volts, since we didn't predict how much current will flow yet. [T] Are you done? [T] Set the ammeter in a series circuit. [T] Plus five amperes, right? And this one? This one is positive, so connect the negative here. And put this one here."
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Plus five amperes, right? And this one? This one is positive, so connect the negative here. And put this one here. [T] Are you done? [T] Why don't you do it from the side? Like this. This clip is dirty so it may be better to change it."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Why don't you do it from the side? Like this. This clip is dirty so it may be better to change it. [T] This is a clean one. [T] Here you are. Please someone hold it. Here you are. [T] Then record the original water temperature when you are done setting up. [T] Record the original water temperature. [T] Are you done setting up? Hurry up and set up, since everyone is waiting for you."
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You have to connect one to the ammeter. Is this positive? Then put this to the positive. [T] And this? [T] Should we put this to here then? [T] Mei, the ammeter is not connected."
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Mei, the ammeter is not connected. [T] This one goes to positive. This one. This one is positive, Mei. Here. And... Bring this to here. Bring the five-ampere terminal to here. One more, one more. [T] Are you done? Yamase-kun's group, are you done? Okay? [T] Then we will start five minutes from now. Set the first voltage with the voltmeter."
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then we will start five minutes from now. Set the first voltage with the voltmeter. [T] Then we will start. [T] First, set it to your voltage. [T] If you do it with three volts and six volts, start with three volts first. If you do it with four volts and eight volts, start with four volts. [T] If you do it with five volts and seven volts, start with five volts. [T] You adjust with the voltmeter, you know? [T] Yes. Read with the voltmeter. Not that one. Read it with the voltmeter. Anyone that doesn't understand?"
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. Read with the voltmeter. Not that one. Read it with the voltmeter. Anyone that doesn't understand? [T] Ms. Yasui, are we ready? [T] Ms. Yasui, are we ready? [T] Ready? Then we will do it for five minutes. Okay? [T] Yes. Are we ready? Ready? Then ready, go!"
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. Are we ready? Ready? Then ready, go! [T] Then, put in the water. [T] Stir sometimes. Stir sometimes, please. [T] Read the voltmeter now. [T] You are doing it with four volts, right? Does it say four volts? [T] Yes?"
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You have to adjust it to four volts. [T] Did something move? [T] The current is not flowing. [T] Let's turn it off once. [T] Was it okay before? [T] Did it short circuit?"
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Did it short circuit? [T] Are the positive and the negative okay? [T] This is positive, so this is positive. This one is negative. This is correct. Then should we do it again? [T] That side- [T] It's not increasing, is it? [T] Why is it not increasing?"
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] A little bit. [T] Can I disconnect it once? I will (inaudible). [T] Your group was supposed to do it with four volts and eight volts, right? Then you can start next with eight volts. [T] It starts from positive and- [T] This one, right? It goes from positive and here, right? [T] And put the positive of the voltmeter here."
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And put the positive of the voltmeter here. [T] Yes, it's better if it's not touching. [T] Then let's try now. [T] It's not going up yet? [T] The voltmeter is working. How about the ammeter? The ammeter is not working either."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The voltmeter is working. How about the ammeter? The ammeter is not working either. [T] Nothing is wrong with the power source. [T] Did it touch the heating wire by mistake? [T] It went up? Then the connection was wrong, since you pulled these so they were not connected well. (Inaudible) Then, it's too bad, but you do it with eight volts."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It went up? Then the connection was wrong, since you pulled these so they were not connected well. (Inaudible) Then, it's too bad, but you do it with eight volts. [T] Yes, you can do the next one. [T] You can get the data from the neighboring group. [T] Did it work? [T] Did you connect correctly?"
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] How many volts are you suppose to have? [T] Did it work? [T] Then you start with the next seven volts also. [T] Since these five minutes have already started. Okay? [T] This part was bent, so I think the connection inside was not good. [T] Don't bend here. If you bend this, Yamase-"
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Don't bend here. If you bend this, Yamase- [T] Really? [T] Yes, yes. [T] Then, next you can measure the seven volts well, right? Then get the data from your neighboring group. [T] Stir it sometimes. [T] Thirty seconds more. [T] Thirty seconds more."
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Thirty seconds more. [T] That's fine. It's three volts, right? Then zero point six amperes, right? [T] Calculate here now. It's three volts times zero point six amperes, so how much? [T] You can calculate in your head. [T] Yes, one point eight... volt-amperes. [T] Then... write volt-amperes."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now, measure the temperature. How many degrees did it increase from the original temperature? [T] You guys... You (inaudible). [T] Then please write how many degrees it has increased. [T] Then we will do the next one. Change the cup."
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Change the cup. We will do it for the next five minutes. [T] Then your group is doing it with six volts, right? Six volts next, right? [T] While the thermometer settles down, you can calculate heat energy. In order to make the thermometer settle down, calculate heat energy."
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Next you will increase the voltage, so I think it is better to increase the ampere too. [T] Wait until the water temperature is settled. [T] Water mass was 100 grams. [T] Yes. [T] Your group only had a little increase? [T] Well, that's fine. That is your result. How many amperes was the current?"
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, that's fine. That is your result. How many amperes was the current? [T] How many amperes was the current at that time? [T] How many? [T] Was it zero point five? Then write here zero point five amperes. [T] Then, this was voltage times current, so three times zero point five."
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then, this was voltage times current, so three times zero point five. [T] Zero point five is half. So what is half of three volts? [T] One point five, right? One point five. [T] Read this, \"volt-ampere.\" [T] And write a dot here since this is multiplication."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And write a dot here since this is multiplication. [T] Then what about the amount of heat generated? It increased two degrees right? Then the water was 100 grams originally, so 100 times increased two degrees- [T] How many calories? One hundred times two equals? [T] Yes, 200 calories. Do it like that. [T] You have to read it as volt-ampere. [T] //Three times... your current was twelve point five amperes?"
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's voltmeter. How about the ammeter? [T] //This was twelve point five amperes? [T] Huh? [T] This was, right? You wrote twelve point five. Was the current really //twelve point five? [T] It was wrong, right? [T] This is a ammeter, so- [T] Ouch. How much? [T] It can only measure up to five amperes, so it cannot be possible to measure twelve point five amperes. [T] That's voltage. I'm asking about the electric current. Was the current flow twelve point five amperes?"
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's voltage. I'm asking about the electric current. Was the current flow twelve point five amperes? [T] The ammeter. //Did twelve point five amperes flow? [T] No, no. What I am saying is that you adjusted the voltmeter to three volts, right? At that time, //the ammeter- [T] What? [T] What did you adjust to three volts then? This is a ammeter."
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What did you adjust to three volts then? This is a ammeter. [T] This is the voltmeter. [T] Nobody noticed? [T] No, I said adjust it with this one. [T] This data... I thought the temperature went up too much. [T] Since you cannot use this data, start with six volts."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, no. [T] This is a ammeter. [T] Unless it is voltmeter, you cannot measure voltage. [T] Well then, we will start the next experiment. [T] Then please read the thermometer. [T] Then we will start. Okay? Measure voltage with voltmeter. You cannot measure it with a ammeter. We will start."
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then we will start. Okay? Measure voltage with voltmeter. You cannot measure it with a ammeter. We will start. [T] We will start. Ready. [T] Should I wait a little bit? [T] Hold it with your hand, don't be lazy. You are making everyone wait."
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hold it with your hand, don't be lazy. You are making everyone wait. [T] Ready? [T] The group over there. Did you read the thermometer? [T] Yoshikawa-kun, did you read the thermometer? [T] That's fine. Don't worry about it. [T] Oh, no. That group is- [T] I will start. Ready? Go."
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This should be eight voltage this time, right? [T] Yes. [T] That's fine. [T] Stir it once in a while. [T] Don't make a mistake this time. Oh. Oh. [T] Only five amperes, right? Yes. [T] Five amperes?"
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Why did you mix up a voltmeter and a ammeter again? We did it so many times... Oh well. [T] Then multiply this current and this voltage. [T] Yes. [T] Nine, right? [T] This time do it well, okay? [T] Don't worry, since that group made mistakes, your group's two degrees increase is just about right."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Don't worry, since that group made mistakes, your group's two degrees increase is just about right. [T] But I think this is unusual. [T] Then while you are waiting for five minutes, put dots for the previous data in the graph on an OHP sheet."
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then while you are waiting for five minutes, put dots for the previous data in the graph on an OHP sheet. [T] Should I tell you how to use this? [T] In the beginning it was one point eight, right? One point eight, this is two. When it is one point eight, the temperature increase was two. So, here? [T] Next, if it generated 200 calories, when it is one point eight, it is 200, so it goes here, right? You just put a dot here with a small circle. [T] The next one is the same way. Just put a dot. Okay? [T] Yes, just putting dots is fine."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then watch it carefully so that you won't make a mistake next time. The next data is with nine, right? [T] Since you will have only one dot, this is voltage multiplied by current, you will see how many degrees it increased after five minutes. [T] At that time, draw a point here. When you calculate heat energy, in the same way, nine, here, right? What is the amount of heat generated when it is nine? Put a dot. [T] The amount of heat energy is mass of water multiplied by temperature increase."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, today it was 100 grams. [T] But your group applied a fairly high voltage because in order to ten? three, three amperes. [T] Yes. [T] Oh, this one, right? It became one point five, right? This one goes two, four, six; so one point five is around here, right? [T] And then the number of increased temperature is two, right? Around here. So put a dot around here."
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And then the number of increased temperature is two, right? Around here. So put a dot around here. [T] Next is the same way. When it is one point five volt-ampere, it is 200 calories, right? [T] Since this side is for heat energy, so when it is one point five, circle at 200 calories. Okay? [T] How is it? You have only one datum. Then, first multiply current and voltage, first. Eight times one point three. [T] How much is it, Hirai-kun."
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ten point four. He said ten point four. [T] Then, you draw the number of the temperature increase after five minutes, right? And for calculating heat energy- [T] Since the heat that was given by the electric wire is the same as the heat that was received by the water- [T] The mass of the water is 100, right? And multiply the number of the temperature increase and get the amount of heat. Okay? [T] And when you write it in here, it is ten point four. This is 10 and 12, right? Find where ten point four is."
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And when you write it in here, it is ten point four. This is 10 and 12, right? Find where ten point four is. [T] And put the dot in here at the temperature increase. [T] In the same way, put a dot to indicate the amount of heat energy when it is ten point five. Did you understand? There is only one datum, so do it precisely. [T] Were you explained how to draw the graph? Okay? [T] That's fine. Big is fine."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's fine. Big is fine. [T] Twenty more seconds. [T] Get ready to read the thermometer. [T] Did you put dots? [T] Where? Oh, I cannot see it. Draw it clearly. [T] Yes. [T] This one? You got six point five, right? It's six point five, so is it about here? [T] Then read the next temperature."
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It increased four degrees, right? So it's four, yes, yes. [T] You know, right? [T] Did it increase 11 degrees? [T] This one is the number of increase, so you have to write four for this."
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, yes. And this... you draw a circle, but this is for calorie. [T] Then, when you draw on the sheet, bring it to me. [T] Make sure to turn off the power source. [T] When you are done with the sheet, bring it to me."
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] When you are done with the sheet, bring it to me. [T] Then next. Next is? [T] When you finished the sheet, bring it to me. [T] Should I make it thicker? Like fat people. It is clearer in this way. These are so reserved. Then I will take this. Thank you."
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Should I make it thicker? Like fat people. It is clearer in this way. These are so reserved. Then I will take this. Thank you. [T] When you are done, please bring it to me. [T] Are you done? Oh this was yours. [T] Bring the sheet quickly please."
+      }
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Bring the sheet quickly please. [T] The group who turned in the sheet, please look at the OHP. [T] That's fine. We will stick them."
+      }
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2730.0,
+        "t_end": 2760.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's fine. We will stick them. [T] Did everyone turn it in? [T] The group who turned it in, please watch this. [T] Thank you for bringing it to me. [T] One more group?"
+      }
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2760.0,
+        "t_end": 2790.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] One more group? [T] Thank you. [T] Then, let's take a look. [T] I stuck all of them together. Then the result of your measurement became like this. So should I draw a line?"
+      }
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2790.0,
+        "t_end": 2820.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I stuck all of them together. Then the result of your measurement became like this. So should I draw a line? [T] May I borrow your ruler? [T] Thanks. [T] This... when the voltage and the current are both zero, there is neither temperature nor heat energy. Here. Origin, okay? [T] Then I will draw a line so that it is close to all the dots."
+      }
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2820.0,
+        "t_end": 2850.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then I will draw a line so that it is close to all the dots. [T] Yes, some are exactly on the line. [T] That means- [T] What can we say from this? [T] Voltage times current equals... what kind of relationship is there in relation to temperature increase and heat energy?"
+      }
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2850.0,
+        "t_end": 2880.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Voltage times current equals... what kind of relationship is there in relation to temperature increase and heat energy? [T] What is it? One more time? [T] It has a proportional relationship, right? [T] Okay? [T] We found that heat energy is proportional to the product of voltage and current."
+      }
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2880.0,
+        "t_end": 2910.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We found that heat energy is proportional to the product of voltage and current. [T] Then using this result, please try to solve this question. [T] Okay? Heat energy is proportional to the product of voltage and current. [T] Then, this question. [T] This one is a parallel circuit combining a big resistance and a small resistance. This one is a series circuit combining a big resistance and a small resistance."
+      }
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2910.0,
+        "t_end": 2940.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This one is a parallel circuit combining a big resistance and a small resistance. This one is a series circuit combining a big resistance and a small resistance. [T] Then in this parallel circuit, which one produces more heat? This one or this one? In a series circuit, which one produces more heat? This one or this one? [T] Think hard. Heat energy is proportional to the product of voltage and current. [T] I will ask each group, so make a prediction for this first."
+      }
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2940.0,
+        "t_end": 2970.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I will ask each group, so make a prediction for this first. [T] First with the parallel circuit. [T] You have to listen carefully. [T] In that parallel circuit- [T] The big resistance and the small resistance-"
+      }
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2970.0,
+        "t_end": 3000.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Which one produces more heat? [T] Then, I will call your name next, Yamase-kun. [T] Then stop. Class will be over soon, so I will ask you now. [T] This one. Is there any group who has thought about this? Which one is larger? [T] Then, Yoshikawa-kun's group. [T] You answered. Yoshikawa-kun."
+      }
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3000.0,
+        "t_end": 3030.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You answered. Yoshikawa-kun. [T] Which one produces more heat? [T] Then Matsui-kun. [T] One with the smaller resistance. How about the other group? [T] Then Yoshikawa-kun, why does this one produce more heat? [T] Huh? Then Matsui-kun. Why does this one produce more heat? Huh? Oh, this gesture indicates that the girls thought this out. Then I'll ask the girls. Then Kimo-san."
+      }
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3030.0,
+        "t_end": 3060.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Huh? Then Matsui-kun. Why does this one produce more heat? Huh? Oh, this gesture indicates that the girls thought this out. Then I'll ask the girls. Then Kimo-san. [T] The more current flows, right? [T] Okay? In a parallel circuit, voltage is... the same everywhere. If that is the case, the more current flows, the greater the heat that is generated, right? [T] So this one produces more heat. Then how about the series circuit? We don't have time, so I will ask you. Who thinks this one produces more heat?"
+      }
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3060.0,
+        "t_end": 3090.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So this one produces more heat. Then how about the series circuit? We don't have time, so I will ask you. Who thinks this one produces more heat? [T] Then who thinks this one produces more heat? [T] Some people are undecided. Then I will ask you in the next class, but I will give you a hint. [T] In a parallel circuit, the voltage was the same, but what was the same in a series circuit?"
+      }
+    },
+    {
+      "t_start": 3090.0,
+      "t_end": 3120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3090.0,
+        "t_end": 3120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] In a parallel circuit, the voltage was the same, but what was the same in a series circuit? [T] Yes. The current is the same. Think about this question, this hint in your mind. [T] What does this mean? Then we will finish. Matsui-kun. [T] Then clean up after we greet."
+      }
+    },
+    {
+      "t_start": 3120.0,
+      "t_end": 3150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3120.0,
+        "t_end": 3150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then clean up after we greet. [T] Yoshi-kun, you have to clean up, too. [T] Thank you very much. [T] Yamase-kun, Yamase-kun, come here."
+      }
+    },
+    {
+      "t_start": 3150.0,
+      "t_end": 3180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3150.0,
+        "t_end": 3180.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yamase-kun, Yamase-kun, come here. [T] Oh, wait a minute. Stay seated for a little bit. There will be a survey, so please sit."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Do you remember we did a survey the last time? Watch on the board. [T] Today everyone is very- [T] Quiet. [T] Very quiet. I've only experienced such quietness 2,3 times. Then everyone please read today's theme. One, two. [T] That's what I asked you the last time, right?When I asked enamel wire-Miso soup- [T] Refill lead of a mechanical pencil, things like that, your answers were clearly divided unexpectedly with these three items."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Since it is hard to see my operation, Ms. Yasui will project it on that TV. But come to the front as usual. Please. [T] Can people in the front squat down? [T] If you cannot see it, you can watch the monitor. Then a little bit- [T] Murai-kun, you are the assistant. Please hold this."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then we use this aluminum foil as an electric pole and put this in the beaker. [T] You can leave it here. [T] This one, right? I will give it to you, Matsui, so don't worry. Okay? [T] I put another electric pole here."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Did you see that it burnt? [T] This is steel wool. Right now, it's about two volts. [T] It's already burning. Steel burns. That means that it generated heat."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then I will do it with the mechanical pencil. [T] It started smoking. It started smoking, so wait for a while. [T] People in the front, be careful. It may jump. [T] Then I will increase the voltage. Right now I am increasing the voltage."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It already got so thin. [T] Then go back to your seat. [T] Almost anything will generate heat when current flows through it. [T] That is what I showed you with electric discharge when we studied electric current and electrons. The flow of an electric current means the electrons are flowing."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I have prepared 100 grams of water here which has been measured, so please take it from here. The thermometer is also in there. [T] And uh... each group read the value of the current with specified voltage. [T] And the number of increased temperature will be measured after five minutes. Since we have a limited time, I have a stopwatch and everyone will start at the same time. [T] So please tell me when your group finishes setting up the equipment and are ready. When everyone is ready, we will measure five minutes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So prepare those although we use one of them first. Do you have any questions? [T] You don't? Then each group, get ready. [T] Stands are over there. [T] Sorry, sorry. [T] I have to put the thermometer for the miso-soup as well."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I have to put the thermometer for the miso-soup as well. [T] You need two cups. One for five volts and another for seven volts. [T] You must change. [T] I told you to do well during the experiment. [T] Isn't' this (inaudible)? Don't touch it."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The thermometer too. [T] Don't drop it. [T] Wasn't there enough? [T] There must have been eight. [T] Should I do it with this group? OHP needs to be marked clearly so please write with this. Then first set up."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Should I do it with this group? OHP needs to be marked clearly so please write with this. Then first set up. [T] When you are done setting up, everyone starts together. [T] Isn't it better to hang it in this side? It is unstable. [T] Hang it so that it will be in the water."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] After hanging it, support it with your hand. [T] Kawai-san... Here, it's your turn, Masago. [T] Yes. That's why you should hang the thermometer. [T] Masago-kun, you turn that so that you can hang the string."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Mei, the ammeter is not connected. [T] This one goes to positive. This one. This one is positive, Mei. Here. And... Bring this to here. Bring the five-ampere terminal to here. One more, one more. [T] Are you done? Yamase-kun's group, are you done? Okay? [T] Then we will start five minutes from now. Set the first voltage with the voltmeter."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. Read with the voltmeter. Not that one. Read it with the voltmeter. Anyone that doesn't understand? [T] Ms. Yasui, are we ready? [T] Ms. Yasui, are we ready? [T] Ready? Then we will do it for five minutes. Okay? [T] Yes. Are we ready? Ready? Then ready, go!"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. Are we ready? Ready? Then ready, go! [T] Then, put in the water. [T] Stir sometimes. Stir sometimes, please. [T] Read the voltmeter now. [T] You are doing it with four volts, right? Does it say four volts? [T] Yes?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It went up? Then the connection was wrong, since you pulled these so they were not connected well. (Inaudible) Then, it's too bad, but you do it with eight volts. [T] Yes, you can do the next one. [T] You can get the data from the neighboring group. [T] Did it work? [T] Did you connect correctly?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Change the cup. We will do it for the next five minutes. [T] Then your group is doing it with six volts, right? Six volts next, right? [T] While the thermometer settles down, you can calculate heat energy. In order to make the thermometer settle down, calculate heat energy."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then we will start. Okay? Measure voltage with voltmeter. You cannot measure it with a ammeter. We will start. [T] We will start. Ready. [T] Should I wait a little bit? [T] Hold it with your hand, don't be lazy. You are making everyone wait."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Don't worry, since that group made mistakes, your group's two degrees increase is just about right. [T] But I think this is unusual. [T] Then while you are waiting for five minutes, put dots for the previous data in the graph on an OHP sheet."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It increased four degrees, right? So it's four, yes, yes. [T] You know, right? [T] Did it increase 11 degrees? [T] This one is the number of increase, so you have to write four for this."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Should I make it thicker? Like fat people. It is clearer in this way. These are so reserved. Then I will take this. Thank you. [T] When you are done, please bring it to me. [T] Are you done? Oh this was yours. [T] Bring the sheet quickly please."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Bring the sheet quickly please. [T] The group who turned in the sheet, please look at the OHP. [T] That's fine. We will stick them."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2730.0,
+        "t_end": 2760.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's fine. We will stick them. [T] Did everyone turn it in? [T] The group who turned it in, please watch this. [T] Thank you for bringing it to me. [T] One more group?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3150.0,
+      "t_end": 3180.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3150.0,
+        "t_end": 3180.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yamase-kun, Yamase-kun, come here. [T] Oh, wait a minute. Stay seated for a little bit. There will be a survey, so please sit."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3150.0,
+      "t_end": 3180.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/S-JP4"
+}

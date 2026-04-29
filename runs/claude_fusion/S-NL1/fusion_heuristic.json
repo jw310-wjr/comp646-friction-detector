@@ -1,0 +1,170 @@
+[
+  {
+    "friction": false,
+    "rationale": "This segment is routine classroom management (attendance check) with no instructional content or student confusion signal present, so no pedagogical friction exists.",
+    "alternative_strategy": "N/A",
+    "t_start": 0.0,
+    "t_end": 30.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 90.0,
+    "t_end": 120.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZWf7d1KodRTaoTPr26'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is pressing for reasoning with a real-world analogy about wages but the dominant quality is rated low, suggesting the example may be generating confusion rather than clarifying the underlying concept (likely rounding or significant figures).",
+    "alternative_strategy": "Pause and ask students to first write down what they notice is different between 'ten guilders' and 'ten twenty-three per hour' before continuing, then cold-call one student to share their observation—this activates individual sense-making before the teacher resumes the explanation.",
+    "t_start": 150.0,
+    "t_end": 180.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is pressing students to read between scale markings (interpolation) but defaults to simply providing the answer (99.5) herself rather than scaffolding the reasoning, representing low instructional quality during a conceptually demanding estimation task.",
+    "alternative_strategy": "Instead of supplying the value, invite the student to articulate her reasoning: 'Sandra, you said 99.5 — can you tell us how you decided the liquid was exactly halfway between 99 and 100, rather than, say, closer to 99?'",
+    "t_start": 240.0,
+    "t_end": 270.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is using low-quality instructional talk while explaining a conceptually tricky estimation/precision idea (reading between scale markings), with pressing moves that lack clear scaffolding, creating a mismatch between cognitive demand and support.",
+    "alternative_strategy": "Pause and ask a guiding question anchored in the visual: 'If the stripe lands exactly halfway between 99 and 100, what digit would you write after the decimal point, and how did you decide?' — this invites students to articulate their own reasoning about interpolation rather than absorbing the teacher's narration.",
+    "t_start": 270.0,
+    "t_end": 300.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 1050.0,
+    "t_end": 1080.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZXyXvgo5TSxSqxKejC'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1110.0,
+    "t_end": 1140.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZYAdfeMrrp5qvWJLSi'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is transitioning between experiments and briefly introducing the concept of 'suspension' without pressure or confusion signals; the dialogue reflects routine procedural guidance rather than a high-pressure or low-quality instructional moment.",
+    "alternative_strategy": "",
+    "t_start": 1290.0,
+    "t_end": 1320.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 1500.0,
+    "t_end": 1530.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZYm3NKDi6BSHFRZLby'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1590.0,
+    "t_end": 1620.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZZ7Aas1315Gh1QChWm'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1620.0,
+    "t_end": 1650.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZZPQ9XE67b3nrESC6M'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1710.0,
+    "t_end": 1740.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZZeMZeRYiikcvb6RVN'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1920.0,
+    "t_end": 1950.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZZz4jC2Zy6k5rcutLq'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1950.0,
+    "t_end": 1980.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZaGzDRM7iEwSFsgSDU'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1980.0,
+    "t_end": 2010.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZb2mUHrSgy4ohPXAUY'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 2130.0,
+    "t_end": 2160.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZbJQZsQnm2WjirfCwE'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 2250.0,
+    "t_end": 2280.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZbbs3ZuRYFo5BgStAz'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 2280.0,
+    "t_end": 2310.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZbwuoZmgqieik9pifN'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 2310.0,
+    "t_end": 2340.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZcJwqhN8pmwefUGXPi'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 2340.0,
+    "t_end": 2370.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZca9Perp2m8PfUrh8D'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 2460.0,
+    "t_end": 2490.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZcvncRvqWGxjUpPDnE'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  }
+]

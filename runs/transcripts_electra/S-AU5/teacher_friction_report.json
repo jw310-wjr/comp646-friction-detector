@@ -1,0 +1,2537 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science AU5 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Looks good. Okay guys. We're all, uh, looking good. Feeling good? [T] Very good. [T] What we're going to do first- what we're going to do first is huddle. So let's move up for huddle."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] What we're going to do first- what we're going to do first is huddle. So let's move up for huddle."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What we're going to do first- what we're going to do first is huddle. So let's move up for huddle. [T] Adjusting microphone. Okay. All right I'll start talking to you while these are being passed around. What you need to do is to take, uh, one copy. [T] This is going to be yours so would you start there and pass them around that way, and David, you start there."
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This is going to be yours so would you start there and pass them around that way, and David, you start there. [T] Uh, you can start having a look at those as they come around and listen to me at the same time because, uh, I want to ask you a- a rather strange question first of all. [T] And if you want more clarification, if you think you- if you think you can answer it straight away that's fine, go ahead. But if you want more clarification you must ask me some questions, okay?"
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And if you want more clarification, if you think you- if you think you can answer it straight away that's fine, go ahead. But if you want more clarification you must ask me some questions, okay? [T] Um, you may not have heard this question before, but I'm not going to tell you the answer straight away. We'll move on and we'll discover the answer as we go. [T] Okay, this is a question that, uh, really was put some hundreds of years ago and people, uh, philosophers, as they were then called, not scientists, uh, thought about it and talked about it. [T] And that is, any solid object that you might consider, whether it be this mass or this trolley or indeed, anything, the question is, what is its natural state? What is its natural state?"
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And that is, any solid object that you might consider, whether it be this mass or this trolley or indeed, anything, the question is, what is its natural state? What is its natural state? [T] Now in old days- yeah, you'll be first, just wait a minute. [T] In old days philosophers used to be considered a lot or concerned a lot about considering questions like this of natural state and the perfect shape. [T] Anyone know what was considered to be the perfect shape?"
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Anyone know what was considered to be the perfect shape? [T] Close. Three dimensional circle. [T] Sphere. That's right. Yes. So they talked about things very philosophically. Didn't do a lot of experiments or measurements. That came quite a bit later. [T] So one of the questions was, to be considered, what's the natural state of a body? Now you were first, Olivia?"
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, a body or an object. That's all right. Yeah. [T] //We- we're talking about a solid. Diane? [T] Untouched, we're getting there. Anyone want to ask me any questions to, uh, clarify the question a bit more? What is the natural state of a body? A body is just an object. [T] As I said, it can be anything. Yourself. You're- you're a body. Any other ideas? Anyone want to- I mean, is that question clear to you? [T] Do you think you know what it means? Do you think I- you know what I'm after? Then you should ask me some questions now. What do you mean by this or-"
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Do you think you know what it means? Do you think I- you know what I'm after? Then you should ask me some questions now. What do you mean by this or- [T] A body, good. You're a body. This is a body. I'm a body. My pen's a body. Any solid object. [T] Not from where- not where it came from. We're not concerned about where it came from. We're concerned about its natural state."
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Not from where- not where it came from. We're not concerned about where it came from. We're concerned about its natural state. [T] Well, a rock is a body, but it's not in a- Yeah? [T] What's it? [T] No. Not what's its use. I'll give you a clue now with a little demonstration. Um, if I take this mass and just give it a little force, what's it do? [T] It moves. Is it still moving?"
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What's its natural tendency to do? [T] Everything do that? [T] Even a trolley? [T] Eventually. What if you throw a ball? [T] All right, what if you fire a bullet? [T] What if you fire a rocket? [T] Into space? [T] Oh. [T] It floats? [T] Once it gets away from earth, does it stop?"
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ryan says no. [T] Not until it hits something. [T] Okay. If- If we can say that about rockets that we fire into space, then it wouldn't- And rockets are bodies in- in orbit, yeah? [T] And- and rockets are bodies. This is a body. Then when we talk about the natural state we're really talking about the natural state of motion."
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Right? We're talking about the natural state of motion of bodies and- and philosophers used to wonder, is it a natural state for things to come to rest or be at rest or to keep moving. [T] From what we've talked about- talked about so far, what would your conclusion be? Do things tend to come to rest? Keep moving? [T] Or something else that you might like to suggest. Ideas. Doris? [T] They tend to stop like rockets that are going into space."
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They tend to stop like rockets that are going into space. [T] Except for that, but we want- do- do we want to include everything? We want a statement that will include everything. [T] And if- if rockets don't stop, if their natural tendency is not to stop, maybe the natural tendency of this mass is not to stop nor of this trolley to stop eventually. [T] All right. How do you stop it, Ryan?"
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right. How do you stop it, Ryan? [T] And by putting your hand there you're applying what? [T] A force. Okay. What tends to stop things? [T] Forces. Gravitational forces? Do you reckon? Okay, forces generally. All right. Okay, rocket moving in space, is there any force acting on it if the rocket engines have stopped firing? [T] Uh, let's say it's got well away from earth and it's well away from stars. It's traveling through interstellar space. Long way-"
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, let's say it's got well away from earth and it's well away from stars. It's traveling through interstellar space. Long way- [T] No forces? [T] Any other opinions? [T] //Jemma? [T] You think it should have a force on it because it's still moving. [T] Ah, that's good thinking. What do you reckon? If something's moving it's got to have a force on it to keep it moving. What do you think about that? [T] Sounds reasonable, doesn't it? [T] It all sounds feasible. That's what tricked people, you know, when they looked at things like this. Comes to rest. Stops. Must be its natural state of motion is to stop."
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It all sounds feasible. That's what tricked people, you know, when they looked at things like this. Comes to rest. Stops. Must be its natural state of motion is to stop. [T] That's its natural state. Everything should be at rest. Everything tends to come to rest eventually. Sooner or later. Rockets don't. That's the problem. [T] It's good just was well the ancients didn't have rockets to contend with. It would have been a- a real fly in their theory, wouldn't it?"
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Would have mucked up that theory. So now these days we've got to have a theory which explains why they were wrong or why rockets do indeed keep moving after the engines are turned off. [T] What do you reckon? Which way do we go? Do we try to explain why a rocket will keep moving when the engines are turned off? [T] Or do we try to explain why the ancients got it wrong in saying that everything should come to rest? Let's look at the rocket situation."
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Or do we try to explain why the ancients got it wrong in saying that everything should come to rest? Let's look at the rocket situation. [T] We were- Who's- who's in agreement on this that things that are moving have got to have a force behind them to keep them moving? Who thinks that's right? Don't be shy. [T] It's okay to think that. All right, who disagrees? All the heretics put their hands up. Oh, this is good. I like the heretics. Murray? [T] Why do you disagree?"
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Why? Tell us why. [T] You got a gut feeling about this, have you? [T] All right. Who else said they disagreed? [T] Justin. [T] What forces stopping what? What? What? [T] Yeah. All the- [T] Friction."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Very good. Right. Okay. Now look at your sheets. You'll see- where did the- where did the stray ones get to? [T] Up there? Here we are. Thank you. You didn't notice that, did you Ryan? [T] You weren't going to help me. Ever heard of Galileo? [T] Well, this is a little bit of a riddle to start with and you should get it easy now. Galileo thought about it. Ever heard of Newton?"
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, this is a little bit of a riddle to start with and you should get it easy now. Galileo thought about it. Ever heard of Newton? [T] Good. Newton formalized it which means that he wrote it down, made laws out of it. While we're all affected by it and experience it even if we're not aware of it in scientific terms. [T] What is it? [T] Oh, there you go. Pass that down to Ashley, please. What is it? [T] Oh, Rachel. how can we miss out two lovely ladies like you? There you go. Okay. What is it? Anyone got a clue yet?"
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, Rachel. how can we miss out two lovely ladies like you? There you go. Okay. What is it? Anyone got a clue yet? [T] Yes? [T] Yes. That's right. I said it'd be easy. Now let's read on and see what other clues I'd given. [T] It caused people for hundreds of years to think that the natural state of motion is at rest because it makes moving things stop just as Justin pointed out. Okay. [T] Then there's another list- there's a list of things there about, um, friction and some of it's effects and some of it's influences. All right. Put the sheet aside for a minute."
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then there's another list- there's a list of things there about, um, friction and some of it's effects and some of it's influences. All right. Put the sheet aside for a minute. [T] Is friction- Is friction important to us? If so- [T] Why? Where? Where- I mean, um, anybody got a pen in their hand at the moment? [T] Got a good grip on it? All right, you're sitting on a seat aren't you?"
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Got a good grip on it? All right, you're sitting on a seat aren't you? [T] Got a good grip on the seat? [T] What- what if the seat was really slippery? [T] You'd need- [T] To? [T] //Stay on. [T] Stay on. Right, very good. What- what- Before we look at, um, friction in our lives some more, what do you think friction is? It is firstly and foremostly what? Yeah?"
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Forces and gravity? [T] Forces. [T] Let's- let's just say it's a force. How about that? [T] All right? Now we were comfortable with it being a force. [T] Okay. Friction is a force. Now, let's just go- for a moment go back to the rocket and the, um, majority of opinion here that things that are moving need a force to keep them going. [T] Who's still comfortable with that? Want to still support that idea. We've talked about friction. We've talked about things stopping. Diane, you still comfortable with that?"
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Who's still comfortable with that? Want to still support that idea. We've talked about friction. We've talked about things stopping. Diane, you still comfortable with that? [T] Good. Who else? There seems to be a lot less at the moment. What's the matter with you? You giving up so easy. Come on. A little bit of fight in there, //hey? [T] Say- say that again. Go on."
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Air up there. No air up there. [T] Okay. But there's no force pushing it along. We agreed there was no force acting on the rocket, didn't we? Did we agree on that? [T] Anybody disagree? [T] Diane again. You're a real fly in the ointment, aren't you? I like it. I like it. What- [T] Diane. If- if we're all saying there's no force acting on the rocket as it's traveling through empty space with nothing around it, what force do you think is acting on the rocket?"
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Diane. If- if we're all saying there's no force acting on the rocket as it's traveling through empty space with nothing around it, what force do you think is acting on the rocket? [T] You're still convinced it needs something to make it go? [T] You agree with Diane. Who agrees with Diane? Good, okay. Who's changed their mind in the process? Anybody agreed at first and has changed their mind now? [T] Um, one, two, okay, three, right-o. Okay, we'll come back to that a little bit more later on because we need to talk about forces and things moving. Okay?"
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Um, one, two, okay, three, right-o. Okay, we'll come back to that a little bit more later on because we need to talk about forces and things moving. Okay? [T] Let's just look at this one more time. Does this take a force to get it moving? [T] Does it take a force to stop it moving? [T] What force was that? [T] Friction. Okay. Now what if there was no friction?"
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It would keep going? [T] Okay. Would- Diane, would you agree that after- after I'd given that a force, a shove like that, and I'm not touching it anymore, would you agree that I'm not applying any more force to it? [T] Yeah but, I'm just talking about- what- it's sitting there. [T] Loses the force."
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, energy is different from force, isn't it? We learned that earlier on. Okay. All right. Is- is- is there any force being applied to this by me at the moment? [T] No. Is there now? [T] All right. I'll just give it a short burst of force. Once it left contact with my hand, are we agreed that I was no longer exerting a force on it? [T] Okay, but would you agree that the force of friction stopped it?"
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, but would you agree that the force of friction stopped it? [T] Okay. Was there any other force stopping it other than friction? [T] Well, um, gravity you say? Okay. Uh, which direction does gravity- gravity act in? [T] Down. Which direction is it moving? [T] To stop something moving that way don't we need something acting that way rather than that way?"
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] To stop something moving that way don't we need something acting that way rather than that way? [T] See- [T] Air acts against it. Right? Air resistance, we might say. [T] Resistance to air. Good. Okay, anyway, coming back to this argument. After I've set it in motion, let's say there was no air resistance and no friction. Got that? [T] No air resistance, no friction. [T] Who says it will keep moving? Any dissenters? Anyone disagree with that? Right. If it keeps moving, a number of you said it needs a force to be acting to keep it moving."
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Who says it will keep moving? Any dissenters? Anyone disagree with that? Right. If it keeps moving, a number of you said it needs a force to be acting to keep it moving. [T] What force is then acting on it to keep it in motion? [T] Can you tell me that? If I've //stopped- I've stopped exerting- I've stopped exerting that force on it. [T] And we said that the- there was no air resistance and no friction but that would tend to stop it rather than keep it moving, so what keeps it moving then? What force is keeping it moving, Diane?"
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And we said that the- there was no air resistance and no friction but that would tend to stop it rather than keep it moving, so what keeps it moving then? What force is keeping it moving, Diane? [T] No, I've- I've taken my hand away after that initial contact like that. It's no longer there. Gabriel? [T] Stored energy. Is- is that a force? [T] No. We're talking about two- like apples and oranges, All right? Can't- can't talk about them as being the same. Add one apple and one orange, you don't get two of something. [T] You get on apple and one orange. So force and energy, different ideas. Okay. All right. We'll talk more about that at the end, okay?"
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You get on apple and one orange. So force and energy, different ideas. Okay. All right. We'll talk more about that at the end, okay? [T] What I want us to do now is to consider the question of, \"what is friction and what determines how big it is?\" Does it matter how big the force of friction is? [T] Are there circumstances where we need friction to be maximized and other circumstances where we need friction to be minimized?"
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] //Give me some examples by putting our hand up and not calling out all the time. Give me some examples of where we need to maximize friction. Alvin? [T] Traction. Right? When turning a corner you need friction between the wheels and the road. Very good. All right. Jasmine. [T] Brakes. [T] Yep. Certainly you want a lot of friction there to stop. Yeah."
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But if you have too much it wears the motor, so we want less friction inside the workings of the motor and more friction between the tires and the road in cornering. [T] All right? But not while we're traveling along. Uh, what about yourself? And personal affects and things like that? Um, if the- Well let's- let's, uh, ask the question about your clothes. [T] How do your clothes stay on you?"
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] //Oh, I can see what you're thinking. Diane? [T] Really tight. Okay. If things are really tight they tend to have- [T] Friction. [T] Okay? If you hold something- just- just borrow that pen for a minute. Now I want you to pull it out of my hand. Okay, easy? [T] Was I holding that very tightly? [T] I need more friction. Let's give it some more friction. I've got some more friction. Pull now. Bit harder now, isn't it?"
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You didn't have enough friction. You've got slippery hands? [T] All right? What tends to decrease friction? [T] //Water. Water- water- what's a- a word that's, um, more general than water? [T] Moisture. [T] //Liquid, um, L- starts with L- in cars. [T] Lubricants. Very good. All right. Okay. Sometimes we need to maximize friction, sometimes we need to minimize it. Now what determines how big friction is? How large it is. Yvonne?"
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Lubricants. Very good. All right. Okay. Sometimes we need to maximize friction, sometimes we need to minimize it. Now what determines how big friction is? How large it is. Yvonne? [T] Newton. Newton said it was going to be a certain size and it's going to be a certain size. Um- [T] We're- we're really talking about, um, like Newton discovers laws and ideas, he doesn't make them up. Okay? [T] Newton discovered gravity, he didn't say how big it would be so I don't think Newton got that big a say in the role of the universe. Justin?"
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Newton discovered gravity, he didn't say how big it would be so I don't think Newton got that big a say in the role of the universe. Justin? [T] We need to be a bit more specific. We'll come back to you. Jacob? [T] Oh, what sort of surface. What if this was ice here, would this go more easily? [T] All right. If it were sandpaper- [T] Wouldn't slide so easily. So the nature of the surface is important, yes? [T] All right. [T] Now what else makes a difference?"
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now what else makes a difference? [T] See if you can guess. [T] As I start to do this. [T] We've talked about the nature of the surfaces. Something else. Something else determines the size of the force of friction. Jacob? [T] Louis? [T] What it weighs. All right, why would it the weight make a difference? Look, I can demonstrate that here. If I give this a little push, it just rolls along like so."
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What it weighs. All right, why would it the weight make a difference? Look, I can demonstrate that here. If I give this a little push, it just rolls along like so. [T] If I put some weights on there and give the same little push it doesn't go quite as far, and the more weight I put on there the more force I'm going to exert to get it going, isn't it? [T] And what's more, it will- [T] Go faster down a hill, yes, but with more weights on here do you think it's going to stop this from going so far?"
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Go faster down a hill, yes, but with more weights on here do you think it's going to stop this from going so far? [T] No? [T] All right. Because it's- [T] All right. [T] //Let's- let's ask a different question. Let's say we had a- a flat board here and you had a rope attached and you're going to drag your mate along on that like a slide. A sled. [T] And you had one person on there you're dragging along. Not too bad. That's easy enough. And then your friends turn up and they all jump on. Is that harder?"
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And you had one person on there you're dragging along. Not too bad. That's easy enough. And then your friends turn up and they all jump on. Is that harder? [T] Why? [T] What's it- what have all those extra masses done to the force of friction? [T] Increased it. Okay. They're the ideas that we're going to test. Turn to your sheets now. And see number one, how do we measure it? What is it again? [T] Friction. Good. There's some instructions there and then over the page there's some tables for you to record your measurements."
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Friction. Good. There's some instructions there and then over the page there's some tables for you to record your measurements. [T] And number two, what determines how big it is? And then we go on to effects of surface area and then at the end we've got a couple of interesting questions. [T] Does it exist in a vacuum? Does it exist without gravity? We'll talk about those later. [T] First of all we want to accumulate and gather data that supports our suspicions that friction is determined by- that is the size of friction."
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] First of all we want to accumulate and gather data that supports our suspicions that friction is determined by- that is the size of friction. [T] How much friction there- there is, is determined by the force of gravity on the body that's moving. And secondly the nature of the surface. What about the size of the surface? The area. [T] If we take a block like this and we want to move it along like so, then we want to move it along like so. Would it be easier one way or the other way?"
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If we take a block like this and we want to move it along like so, then we want to move it along like so. Would it be easier one way or the other way? [T] Easier on the smaller surface? [T] Okay. Well, you're going to take measurements to test that. All right? You've got your predictions. You've got your ideas now and you're going to find that out. [T] This one might be the little more interesting one of them all. Now bear in mind you're going to be using spring balances and what did I tell you about spring balances yesterday? [T] They're not perfect and so when you take measurements with them we've got to see that, uh,"
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They're not perfect and so when you take measurements with them we've got to see that, uh, [T] A number of measurements that vary by ten or twenty grams when we're measuring five hundred or so, can be- can mean that the measurements are the same. [T] You've got to bear that in mind when we draw conclusions from our results. Okay. Your needs for this activity, are going to involve a block of wood. Thanks, Olivia."
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You've got to bear that in mind when we draw conclusions from our results. Okay. Your needs for this activity, are going to involve a block of wood. Thanks, Olivia. [T] Um, these are friction blocks and you can see that that's for checking out the nature of the surface. That comes later in the instructions. So don't take those first. [T] You've got spring balances here. The blocks, we've got scissors, well there's a heap of scissors there and there's- in case you all thieve those, these are tied on. [T] Okay, you could cut them couldn't you? [T] But you're honest people so- so you're going to need to take a- a section of string from here to attach to your block."
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But you're honest people so- so you're going to need to take a- a section of string from here to attach to your block. [T] And these are weights for when you come to the sec- section that deals with adding weights. But the first bit- have you read the instructions for the first bit yet? [T] What are you going to do with the first bit? [T] Someone tell me. What are you going to do? Yes, Olivia. [T] Someone? Who's read it? What are you going to do with the first- what's the first one? Justin? [T] Okay. There's two parts to the first one. The one- the first one is how much force does it take to get it started? And the other is how much force does it keep- take to keep it moving?"
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. There's two parts to the first one. The one- the first one is how much force does it take to get it started? And the other is how much force does it keep- take to keep it moving? [T] Do you think it's going to be different? [T] Yes. Oh why? [T] You don't think it's going to be different? [T] Who thinks it's going to be- Look, to, um, to get a- a block moving, let's say I was applying a force."
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I've got a spring balance attached to here, string, and I just stretch gently, slowly, stretch, stretch, stretch, until all of a sudden, boom. It starts to move. [T] And the- the force that I read- the maximum force in grams on the spring balance is the force that it took to get that moving. [T] But if I start it moving and then I just measure it as I move it along at a constant speed and I read the force on the spring balance. [T] Is that going to be different from the one that I read to start with to get it moving?"
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, we have a difference of opinion. There's some yes, some no- some no. That's good. We're going to find that out too. Okay? [T] We're going to do five trials for each of these measurements. Why? Why do we do a number of trials? Jasmine? [T] That's right. Because there's always errors associated with each of our measurements. By taking a number we're more likely to get closer to the truth. Okay. [T] When you think you know what you're doing, you move into your groups. Come and get your apparatus and begin taking the measurements."
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] When you think you know what you're doing, you move into your groups. Come and get your apparatus and begin taking the measurements. [T] Huh? [T] Yes, you can. [T] Yeah. [T] We didn't have any eyehooks so, there you go. Like that."
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We didn't have any eyehooks so, there you go. Like that. [T] Thank you. You can tell me later. [T] Good. Would you like to- [T] Would you like to do the experiment? [T] Well, let's go and do it. [T] //We can talk about that later. All right?"
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] //We can talk about that later. All right? [T] You can- you can do this later. All right? [T] Why don't you go and have fun? [T] Oh, (we'll get there). Go and enjoy it. Hey, hey Amanda? You think that's appropriate behavior in here? [T] Well, you get sent outside if you do that."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, you get sent outside if you do that. [T] Let's get on with our work. [T] Got your gear? [T] What are you waiting for? [T] Oh, so you're getting the string? [T] You read the instructions? [T] Know what to do? [T] Good. Now one thing you got to consider is the section of the bench you're going to work on. You want it to be almost all the same. Okay? So clear your things away a bit-"
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good. Now one thing you got to consider is the section of the bench you're going to work on. You want it to be almost all the same. Okay? So clear your things away a bit- [T] Hey? [T] Oh, we may not finish all that today. No. We've taken a bit more time. [T] Okay. You got your string? Start. [T] How're you guys going? [T] All right. Now that's just getting it started, is it?"
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right. Now that's just getting it started, is it? [T] Okay. [T] You slowly stretch it until it starts to move. Now you're getting very small readings. Why don't you get one of the more sensitive balances. [T] Because this is for bigger- when you've got bigger forces to deal with. Okay? [T] How're you guys doing? [T] Relax. You're on-"
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Relax. You're on- [T] Now, choose a section of your bench. Here it's all fairly smooth. [T] You don't need particles on there. Move it away. [T] Now this spring balance- Uh, is- it's going to be a very small measurement. Okay? There are more sensitive ones up there. [T] No. You haven't had a look at them. These are good ones. [T] All right. Go and get one that's a bit more sensitive because we want a bigger measurement."
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right. Go and get one that's a bit more sensitive because we want a bigger measurement. [T] All right? A bigger reading. That's good. [T] And then you just stretch it slowly until it starts to move and you've got to watch carefully to see what the maximum force was. [T] Who's recording? [T] Yes, Olivia? [T] Are you what? [T] Oh. [T] We'll talk about this furniture later, all right? [T] There's a special story with that. I'll have to tell you later."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] There's a special story with that. I'll have to tell you later. [T] Oh you're special. Yes. [T] I'll see what I can do for you with the stools, all right? [T] Yeah, go on. [T] Yes, girls. You've got the wrong block to start with. You want one of the ordinary plain blocks to start with. This is a friction block. Okay? Did you remember the one that I- [T] Just up in the box up there. In the tray. Is there one left there?"
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Just up in the box up there. In the tray. Is there one left there? [T] Yep, they're there. Just over there. [T] Yeah, anyone will do. Anyone. [T] Okay, know what to do? [T] Well, have you read? [T] You did? All right. Now you've got to tie that on there but do that when I finish talking."
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And then tie the other end on here. Now you're going to just slowly pull on this keeping it flat. [T] Pull on it until the block suddenly lurches forward and then where that gets to, read it off on the grams side here. That's going to be your maximum force to get it started. [T] And you record it in your table over here. That's number one trial. Then you do it again for a number two trial. And start from the same place each time."
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? And then you repeat it, but this time- for this one, you get it moving first and you read its measurements. Okay? [T] Good. [T] How're you going, boys? [T] Got some measurements? [T] Now wait, wait, wait, wait. What are you writing up there for? [T] Yeah. See, I draw a nice table for you and you want to write over there."
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah. See, I draw a nice table for you and you want to write over there. [T] Well you just keep it on one surface first, all right, and you record in that table and you're doing five trials. [T] Now, this spring balance is a big one. Why don't you get him one that's more sensitive to these measurements because it won't go far on the scale there. This is for when we put the weights on it. [T] All right? [T] Where's your group, Justin?"
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Here? [T] Have you got any results yet? [T] Why are you using this spring balance rather than a more sensitive one? This is for when we put weights on there. This is when you need bigger forces. [T] Uh, a small one would be good. Yeah. It'd be, uh, a bit more sensitive to it. [T] Fifty, 50, 100. What's happened here?"
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Was it- was it all that different? [T] Oh. Guys, guys. You've got the spring balance that measures the bigger forces. This is the one we put weights on here. Why don't you get the little spring balance that's more sensitive. [T] Yeah. Think about those things, all right? [T] Ryan. [T] Why didn't you point that out to the guys? [T] You didn't think about that, did you? [T] All right."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right. [T] Okay, you rebels. Trouble makers down here. Hey. Why- [T] Why have you got this spring balance? Why don't you get a more sensitive one because look, it's not reading very much. [T] Yeah, this spring balance just reads up to 100. All right? You've taken one measurement already, have you? 50."
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah, this spring balance just reads up to 100. All right? You've taken one measurement already, have you? 50. [T] Do you- do you understand why I'm saying that about the spring balance? [T] Because when we add weights later one we'll need ones that go to bigger readings. [T] They're in separate piles and I wanted you to think about it. [T] I wanted you to figure that out. [T] Yeah. I got you on that one, didn't I? [T] Is that 100 grams? That's it. Use that one."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is that 100 grams? That's it. Use that one. [T] No, no, no, no. Did- I- maybe I didn't tell you guys. You want a more sensitive spring balance for this one. These read to a kilogram. All right? [T] And you're only going to pull down to about there. All right? And there's a lot more error in here. Okay? This comes later when we put weights on it. Okay? [T] So whip- whip up and get the little balance. 100 grams. Even a 500 would be all right. Now what were you going to ask, anyway?"
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So whip- whip up and get the little balance. 100 grams. Even a 500 would be all right. Now what were you going to ask, anyway? [T] The higher point because it's what's needed to just get it started. [T] Okay? Now if you use that one it's going to be more sensitive."
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, now. These- these are in Newtons. Now to convert them to grams we just multiply by 100, so that'll be 50 grams, 100 grams, 150, 200. [T] That's- this goes up to two fifty grams. [T] All right? So it's just a confusing one, isn't it? [T] (inaudible) did you read it? [T] Got up to there, did it? See, I wasn't looking. Let's try that again. Let's try it again. You yell when it starts to move. I'll do this very slowly."
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Got up to there, did it? See, I wasn't looking. Let's try that again. Let's try it again. You yell when it starts to move. I'll do this very slowly. [T] Oh, got up to about there didn't it? [T] All right. What do you reckon that reading is? That's one- one point four? [T] One hundred and forty. Very good. That's what you'd record. Then you do- push it back and do it again. [T] Oh I was guessing. I was a guessing."
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well that means it's a good balance, but we can't be guaranteed of that. And errors in here- see if you make an error of, uh, ten in a hundred, what percentage is that? Ten percent. Okay? [T] But the errors involved, you know, this- The spring in here is just as stiff as the spring in there. So while this moves a distance here, it makes a bigger reading. [T] There's a bigger amount of grams in the same distance move there, than there is in there, isn't there? So that's why this one's got a bigger percentage error."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] There's a bigger amount of grams in the same distance move there, than there is in there, isn't there? So that's why this one's got a bigger percentage error. [T] You learn all about percentage error as you go on in science. [T] Well, ladies, how're we going? [T] Very good. That means you've got some very consistent results and by golly, look at those results. That's brilliant. That's brilliant. [T] Excellent. Who was reading those? [T] Pam. [T] Ha ha. Well, you guys are going to be scientific experimenters, aren't you? Look at that. Beautiful!"
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ha ha. Well, you guys are going to be scientific experimenters, aren't you? Look at that. Beautiful! [T] And hey, look! These are generally looking a bit higher, are they? [T] A bit higher than those. [T] And this was the one when it was already moving. [T] And you're reading that. [T] Oh. I'll show you. Let's- [T] It's- it's better to see it happen and we'll see if you've done it the way I mean you to do it. Just move this around a bit. Now you get it moving and you read it while it's moving."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's- it's better to see it happen and we'll see if you've done it the way I mean you to do it. Just move this around a bit. Now you get it moving and you read it while it's moving. [T] What's that reading? [T] You've got a 120 or something like that, haven't you? [T] Let's do it again. [T] What's it? [T] Now- No. Down there. [T] How about 80? [T] //You got to- you got to keep it moving at the same-"
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah. We will- we'll worry about those when we look at the averages. All right? //So- [T] Look at this. I'm getting an 80 reading again. You've got 120- you- you were reading this- [T] All right. Okay. Would you- would you like to- [T] Would you like to try those again? [T] Would you- you reckon you might like to try them again? Just check it out? Okay. [T] And remember you've got to get it moving first, and you've got to keep it moving at a constant rate and then read what it says. Got it? Good on you. Okay."
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And remember you've got to get it moving first, and you've got to keep it moving at a constant rate and then read what it says. Got it? Good on you. Okay. [T] How's the results going, guys? [T] All right. And this one's less. [T] I'm proud of you, guys. [T] You're supporting the theory. Love it. Is that what you would have thought?"
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You're supporting the theory. Love it. Is that what you would have thought? [T] You would have thought it was the other way around? [T] What about you, Alvin? [T] Well, I want to hear why later on. Okay? [T] What have we got? [T] Oh, this is starting to look lower. You reckon it should be lower? [T] You reckon it should be higher? The same? [T] The same? [T] Why do you think so?"
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Why do you use less but? This is- this is not an easy question to answer, I might add, so I'm interested in- in why you think that. [T] We'll talk about it later. Yeah, this is something for you to worry about now. All right? But don't worry too much. All right. [T] Get your results down first because all science is based on your results. All right? Data. You take measurements and then you draw a conclusion. Okay. Keep going."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Get your results down first because all science is based on your results. All right? Data. You take measurements and then you draw a conclusion. Okay. Keep going. [T] Come on guys. How're we going? Let's have a look at your results. [T] A hundred and ten, 150, a hundred and si - whoa, you're all over the place aren't you? [T] Yeah, but this- this one's just for getting it started, isn't it? [T] All right. [T] //But what do you mean the quicker you go? [T] //No, no, no, no, no. No, no. Did you not hear me say that you should- hop off there for a minute. You should do it like this. You just slowly, gently increase and- let it go, until it moves."
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] //No, no, no, no, no. No, no. Did you not hear me say that you should- hop off there for a minute. You should do it like this. You just slowly, gently increase and- let it go, until it moves. [T] All right? [T] Slowly, gently and then when it moves, boom. That's what the reading is. [T] //Okay? And some of yours are pretty high, aren't' they? [T] Maybe you'd better do that again now you know what to do. Good. [T] You guys hear that? Listen- listen to that?"
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah, but you're the mathematician, all right? You've got to get the results right first. You got to- you got to go for the //technique first, all right? [T] Ask Louis what I've just shown him. [T] Let's see how my favorite ladies are going now. [T] Fifty- //What- what-"
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What's this point two here? Point two? [T] //Okay, well write it- yeah write it all as- as grams. Write it all as grams, okay? You got 50, 20, 40, 50, 50. All right. Okay. See how you go with this one. [T] Now you know what you've got to do with this one, right? [T] I'll show you. You've got to get it moving first. Hop- hop up. Rachel, hop up. Hop out of the way a bit. Okay."
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'll show you. You've got to get it moving first. Hop- hop up. Rachel, hop up. Hop out of the way a bit. Okay. [T] Now you get it- you get it moving and then you- while it's moving- Oh, this is a bit jerky here. Get it moving and there- Now see the reading there? That's what we want. [T] Well, you saw what I was doing right then, didn't you? [T] Yeah, I know. All right. You got the idea? [T] Who's going to do this?"
+      }
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Who's going to do this? [T] Who's going- you are? Good. All right. Then you see what I'm doing? [T] See what I'm doing? [T] You've got to keep it going at a constant speed, yeah. [T] Well, what do you- you see what happens is that the surface changes a bit from there to there and so you want to make sure you get it on a section of surface that's fairly uniform."
+      }
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2730.0,
+        "t_end": 2760.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Get me some results. [T] Get yourself some results. [T] You what? [T] Yes. You keep moving on. [T] Oh, up there in the tray. You saw the ones I put on the trolley? [T] There's a whole tray of them up there. Let me have a look and see what you've got here. Eight, 10, oh, these are quite low. Okay, but they're smaller than those, right? [T] Should that be so? //Should be, should it? Do you really feel convinced about that?"
+      }
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2760.0,
+        "t_end": 2790.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Should that be so? //Should be, should it? Do you really feel convinced about that? [T] Well, we'll talk about why later, okay? Um, these are quite high compared to these. You sure you did those right? Read the scale right? [T] Okay. All right. You're ready to try adding weights to your block? [T] Okay, those weights up- and add each of those weights that I showed you, they're 500 grams. Add 500 grams at a time and work up for each of your trials. All right?"
+      }
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2790.0,
+        "t_end": 2820.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, those weights up- and add each of those weights that I showed you, they're 500 grams. Add 500 grams at a time and work up for each of your trials. All right? [T] And the force here is in grams, so it's 50- sorry, 500, then kilogram, then one half and so on. Okay. You got to stack them on top of that. [T] You might need that bigger spring balance. The one you had earlier on to replace that once the force gets too large and this goes off the scale. [T] The one kilogram one. Yeah. [T] Hm?"
+      }
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2820.0,
+        "t_end": 2850.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Because one is (consists of) (inaudible). Ah, we're going to talk about that. [T] All right? You can have a bit of a guess of it now. But don't try to answer those just yet. [T] Concentrate on getting our data down. Okay. (inaudible). Oh, very well done, girls. That looks good. Okay. You don't know why it looks good, do you? [T] Yep. That's all right. You don't have to know why it looks good at the moment. It's just very pleasing to my eye. Would you have predicted that these readings should be smaller than those?"
+      }
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2850.0,
+        "t_end": 2880.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You would have thought what? The same? [T] Mm. Sort of nice to get a surprise once in a while, isn't it? Science is like that. Full of surprises. That's what keeps people interested. Carry on. [T] Yep. [T] Well, you've got five trials? You just keep stacking on weights. Each trial is a different weight. [T] And you can see why we need that one for this one now, don't we? [T] All right, okay."
+      }
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2880.0,
+        "t_end": 2910.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well what's it say? Try adding weights to the (block) and repeat part C. [T] What was part C? Constant motion. [T] Are you? [T] One two five and two two five."
+      }
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2910.0,
+        "t_end": 2940.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now it's- now it's 100. [T] Is his surface different from yours, do you think? [T] It could be a bit different, couldn't it? [T] Do you remember me saying that you should always- you- you got to first of all make sure you've got fairly smooth surface so you don't have jerky motion. [T] And secondly, when you repeat your trials you do it over the same section of bench. [T] Ah. So are you doing it over the same section of bench? [T] All right, try that. You'll get more consistent results. Okay?"
+      }
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2940.0,
+        "t_end": 2970.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right, try that. You'll get more consistent results. Okay? [T] Well guys, let's have a look and see what you got here. A hundred and fifty- all right. These are smaller than those. [T] What's the meaning of this? [T] Why- why do you think that would be? [T] Did you expect that? [T] You did? Ah, why?"
+      }
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2970.0,
+        "t_end": 3000.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You did? Ah, why? [T] Bit of a gut feeling or what? [T] Mm hm. [T] What's told you that from your previous experience? Something has told you that, hasn't it? [T] All right, you can't remember what? All right, think about it a little bit. I'd be interested to know where you got that idea from. Okay. Carl, did you expect that?"
+      }
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3000.0,
+        "t_end": 3030.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You did expect that. All right. Okay. That's good. [T] You what? [T] Oh, we might be able to swing a deal on that later on. Yeah. What do you got to offer? [T] Increased effort? [T] Better results? [T] Okay. That sounds like a good deal to me. How are results going here? Eighty, 90, 100-"
+      }
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3030.0,
+        "t_end": 3060.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] These look to be very similar to those, would you agree? [T] Hm, okay. [T] But this is not saying that. This is saying that you need the same force to get it moving as to keep it moving. [T] Eighty-eight to 92. Do you think that's a significant difference?"
+      }
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3060.0,
+        "t_end": 3090.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, I'd say they're virtually the same. [T] Because of the inaccuracies in our spring balance. All right. That's all right, you're allowed to get those results if they're the results you got. [T] Right-o. You, um, will be interested perhaps to know that a number of other groups are getting //quite a bit of difference between these two. [T] All right, but we'll talk about that later on at the conclusion of taking our measurements."
+      }
+    },
+    {
+      "t_start": 3090.0,
+      "t_end": 3120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3090.0,
+        "t_end": 3120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, have we ground to a halt here, boys, or what? [T] Yes, well you've still got some to go haven't you? What are you up to now? [T] No, worry about that later. Go onto the next one here. Try different surface areas, okay? Those other questions I've inserted there we'll discuss. [T] No, what did I say you could do with that one? [T] Oh, yes, yes. Go, go."
+      }
+    },
+    {
+      "t_start": 3120.0,
+      "t_end": 3150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3120.0,
+        "t_end": 3150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. Yeah, but if you're going to do it like that, you're going to wrap a piece of cord around there, aren't you, and link it up there- get some more string? [T] Okay. [T] That- that's all you'll need to do. Yep. [T] You got to get it moving and keep it moving don't you? It's like part C. No, no. Can I suggest-"
+      }
+    },
+    {
+      "t_start": 3150.0,
+      "t_end": 3180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3150.0,
+        "t_end": 3180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You got to get it moving and keep it moving don't you? It's like part C. No, no. Can I suggest- [T] Can I suggest that you're being a bit awkward with that. What you need to do to make it steadier- Move it back to where you started it from. Thank you. [T] Now, if you can just grab it like that and just quickly get it moving and you want to keep it moving like that. No, we're running across some uneven surface there by the looks of it. [T] Take it right back."
+      }
+    },
+    {
+      "t_start": 3180.0,
+      "t_end": 3210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3180.0,
+        "t_end": 3210.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. It's going to be a bit more awkward and difficult with (those hills), but see how I'm holding it like this? So that you can get it moving quickly and keep it moving but- [T] That's a bit difficult, isn't it? Right. Take it back again, and you need a little bit of practice. Okay. Fast- there you go. See how you can do it? [T] Well, you're taking advantage of my measurement, aren't you? All right. Whip it back. You have to be quicker on this. Okay, you have a go at that."
+      }
+    },
+    {
+      "t_start": 3210.0,
+      "t_end": 3240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3210.0,
+        "t_end": 3240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, you're taking advantage of my measurement, aren't you? All right. Whip it back. You have to be quicker on this. Okay, you have a go at that. [T] Yes, hurry up. What have we got up to, girls? [T] Pardon? [T] Well, you better tell me your results, quickly. [T] Part C. Point six. Okay, that's 60 grams isn't it? Fifty grams, 60 grams. Fifty- Twenty- Forty. These are bigger than those. Hm, interesting. You sure about that?"
+      }
+    },
+    {
+      "t_start": 3240.0,
+      "t_end": 3270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3240.0,
+        "t_end": 3270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Part C. Point six. Okay, that's 60 grams isn't it? Fifty grams, 60 grams. Fifty- Twenty- Forty. These are bigger than those. Hm, interesting. You sure about that? [T] Who's taking the measurements? Who's doing the- [T] Okay. All right. Keep going. [T] Yes, girls? [T] No, this one, you're using that block and it's to do with surface area. Remember, I said you could do it like that. You could do it like that and then there's another one like that."
+      }
+    },
+    {
+      "t_start": 3270.0,
+      "t_end": 3300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3270.0,
+        "t_end": 3300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, this one, you're using that block and it's to do with surface area. Remember, I said you could do it like that. You could do it like that and then there's another one like that. [T] No, no, no, no, no. //Okay. [T] And you only- you only got to do three trials. It's- Oh, sorry. [T] Five trials for each surface. But- that's why we got three tables there. Three surfaces. Okay."
+      }
+    },
+    {
+      "t_start": 3300.0,
+      "t_end": 3330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3300.0,
+        "t_end": 3330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Good. All right, why do you think? [T] Well those are two- two same surfaces that you were dealing with. Huh? What you've touched on is very important for understanding friction. All right? Can I just have that block a bit? [T] This is just one clue. If you run your fingers over that, that way and then that way. Does it feel the same? [T] Ah, and you were talking about pulling it in different directions, weren't you? What about the- is it rougher that way or that way?"
+      }
+    },
+    {
+      "t_start": 3330.0,
+      "t_end": 3360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3330.0,
+        "t_end": 3360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ah, and you were talking about pulling it in different directions, weren't you? What about the- is it rougher that way or that way? [T] That way, you reckon. [T] All right, and if it's rougher, why would wood be rougher in one direction than the other? [T] Just because of the grain and the way it's cut. [T] Okay. So if it's rougher in one direction, that's going to make the frictional force, the size of it, directional, isn't it? You've picked up something very important. Very good observation."
+      }
+    },
+    {
+      "t_start": 3360.0,
+      "t_end": 3390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3360.0,
+        "t_end": 3390.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So if it's rougher in one direction, that's going to make the frictional force, the size of it, directional, isn't it? You've picked up something very important. Very good observation. [T] You're doing physics in upper school, aren't' you? We want you. [T] Oh, yes, yes, good. But look, don't spend too much time on those. In fact, get onto that one. We won't do the measurements. We've only got a couple of minutes left. Okay?"
+      }
+    },
+    {
+      "t_start": 3390.0,
+      "t_end": 3420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3390.0,
+        "t_end": 3420.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Three minutes by you is it? It's five minutes by me. Are you right? [T] Okay, we- we better call it all in now, I think. [T] All right folks, stop please. Thank you. Stop now. Now I know that no one has finished and that's fine because it's a long activity and we still have yet to conclude."
+      }
+    },
+    {
+      "t_start": 3420.0,
+      "t_end": 3450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3420.0,
+        "t_end": 3450.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right folks, stop please. Thank you. Stop now. Now I know that no one has finished and that's fine because it's a long activity and we still have yet to conclude. [T] We'll have to do that, uh, tomorrow. So what I need you to do now is to return all your gear neatly and, uh, quickly to the front, and then resume your seats. [T] If we've got a few minutes left, we'll talk some more."
+      }
+    },
+    {
+      "t_start": 3450.0,
+      "t_end": 3480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3450.0,
+        "t_end": 3480.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If we've got a few minutes left, we'll talk some more. [T] Yeah, we'll keep the strings. [T] You got onto the friction block, did you? Oh, you didn't. Oh."
+      }
+    },
+    {
+      "t_start": 3480.0,
+      "t_end": 3510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3480.0,
+        "t_end": 3510.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You got onto the friction block, did you? Oh, you didn't. Oh. [T] Oh, Louis, you're a worry, Louis."
+      }
+    },
+    {
+      "t_start": 3510.0,
+      "t_end": 3540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3510.0,
+        "t_end": 3540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Who's over there? Just here -"
+      }
+    },
+    {
+      "t_start": 3540.0,
+      "t_end": 3570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3540.0,
+        "t_end": 3570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Who's over there? Just here - [T] Take your seats folks - please [T] Listen (inaudible) your business"
+      }
+    },
+    {
+      "t_start": 3570.0,
+      "t_end": 3600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3570.0,
+        "t_end": 3600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Listen (inaudible) your business [T] Okay, listen in for a minute. Now we've got just a few minutes left before lunch. [T] I'd like you to- from what you remember from your results, the first one where you were measuring the force to get it started, uh, get the block started as opposed to keep it moving. [T] Who found that there was a larger force required to get it started than to keep it moving? Hands up, please. Right. Okay. Thank you. Who- Put your hands up if it was significantly larger."
+      }
+    },
+    {
+      "t_start": 3600.0,
+      "t_end": 3630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3600.0,
+        "t_end": 3630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Who found that there was a larger force required to get it started than to keep it moving? Hands up, please. Right. Okay. Thank you. Who- Put your hands up if it was significantly larger. [T] That is 10 grams or more. Ten, 20 grams more. [T] Good. Thank you. Right-o. That makes it more reliable. Okay. Who got to doing those different surface areas? One group? Alvin, okay. Austin. [T] What if- tell us what you've found so far in the- those measurements."
+      }
+    },
+    {
+      "t_start": 3630.0,
+      "t_end": 3660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3630.0,
+        "t_end": 3660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What if- tell us what you've found so far in the- those measurements. [T] Yeah, but are they- is the force required to drag it along at a constant speed on one surface area significantly different? [T] All right, so it might not be that different. [T] Okay. So you're not convinced one way or the other yet. All right. Okay. What about adding weights? Who found that adding weights meant it took a lot more force to keep it moving?"
+      }
+    },
+    {
+      "t_start": 3660.0,
+      "t_end": 3690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3660.0,
+        "t_end": 3690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So you're not convinced one way or the other yet. All right. Okay. What about adding weights? Who found that adding weights meant it took a lot more force to keep it moving? [T] Okay, who was surprised by that? No one. I hope not. You were? Ah, okay. [T] Let's just consider- [T] I'll leave you with one question which we'll need to discuss next time when we're rounding all this off, and that is, how would you define the force of friction? [T] How would you actually make a statement that says what it is? Okay? Okay, lunchtime, folks."
+      }
+    },
+    {
+      "t_start": 3690.0,
+      "t_end": 3720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3690.0,
+        "t_end": 3720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] How would you actually make a statement that says what it is? Okay? Okay, lunchtime, folks."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This is going to be yours so would you start there and pass them around that way, and David, you start there. [T] Uh, you can start having a look at those as they come around and listen to me at the same time because, uh, I want to ask you a- a rather strange question first of all. [T] And if you want more clarification, if you think you- if you think you can answer it straight away that's fine, go ahead. But if you want more clarification you must ask me some questions, okay?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ryan says no. [T] Not until it hits something. [T] Okay. If- If we can say that about rockets that we fire into space, then it wouldn't- And rockets are bodies in- in orbit, yeah? [T] And- and rockets are bodies. This is a body. Then when we talk about the natural state we're really talking about the natural state of motion."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It all sounds feasible. That's what tricked people, you know, when they looked at things like this. Comes to rest. Stops. Must be its natural state of motion is to stop. [T] That's its natural state. Everything should be at rest. Everything tends to come to rest eventually. Sooner or later. Rockets don't. That's the problem. [T] It's good just was well the ancients didn't have rockets to contend with. It would have been a- a real fly in their theory, wouldn't it?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Go faster down a hill, yes, but with more weights on here do you think it's going to stop this from going so far? [T] No? [T] All right. Because it's- [T] All right. [T] //Let's- let's ask a different question. Let's say we had a- a flat board here and you had a rope attached and you're going to drag your mate along on that like a slide. A sled. [T] And you had one person on there you're dragging along. Not too bad. That's easy enough. And then your friends turn up and they all jump on. Is that harder?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They're not perfect and so when you take measurements with them we've got to see that, uh, [T] A number of measurements that vary by ten or twenty grams when we're measuring five hundred or so, can be- can mean that the measurements are the same. [T] You've got to bear that in mind when we draw conclusions from our results. Okay. Your needs for this activity, are going to involve a block of wood. Thanks, Olivia."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You've got to bear that in mind when we draw conclusions from our results. Okay. Your needs for this activity, are going to involve a block of wood. Thanks, Olivia. [T] Um, these are friction blocks and you can see that that's for checking out the nature of the surface. That comes later in the instructions. So don't take those first. [T] You've got spring balances here. The blocks, we've got scissors, well there's a heap of scissors there and there's- in case you all thieve those, these are tied on. [T] Okay, you could cut them couldn't you? [T] But you're honest people so- so you're going to need to take a- a section of string from here to attach to your block."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And then tie the other end on here. Now you're going to just slowly pull on this keeping it flat. [T] Pull on it until the block suddenly lurches forward and then where that gets to, read it off on the grams side here. That's going to be your maximum force to get it started. [T] And you record it in your table over here. That's number one trial. Then you do it again for a number two trial. And start from the same place each time."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah. We will- we'll worry about those when we look at the averages. All right? //So- [T] Look at this. I'm getting an 80 reading again. You've got 120- you- you were reading this- [T] All right. Okay. Would you- would you like to- [T] Would you like to try those again? [T] Would you- you reckon you might like to try them again? Just check it out? Okay. [T] And remember you've got to get it moving first, and you've got to keep it moving at a constant rate and then read what it says. Got it? Good on you. Okay."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2760.0,
+        "t_end": 2790.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Should that be so? //Should be, should it? Do you really feel convinced about that? [T] Well, we'll talk about why later, okay? Um, these are quite high compared to these. You sure you did those right? Read the scale right? [T] Okay. All right. You're ready to try adding weights to your block? [T] Okay, those weights up- and add each of those weights that I showed you, they're 500 grams. Add 500 grams at a time and work up for each of your trials. All right?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2820.0,
+        "t_end": 2850.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Because one is (consists of) (inaudible). Ah, we're going to talk about that. [T] All right? You can have a bit of a guess of it now. But don't try to answer those just yet. [T] Concentrate on getting our data down. Okay. (inaudible). Oh, very well done, girls. That looks good. Okay. You don't know why it looks good, do you? [T] Yep. That's all right. You don't have to know why it looks good at the moment. It's just very pleasing to my eye. Would you have predicted that these readings should be smaller than those?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3060.0,
+        "t_end": 3090.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, I'd say they're virtually the same. [T] Because of the inaccuracies in our spring balance. All right. That's all right, you're allowed to get those results if they're the results you got. [T] Right-o. You, um, will be interested perhaps to know that a number of other groups are getting //quite a bit of difference between these two. [T] All right, but we'll talk about that later on at the conclusion of taking our measurements."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3180.0,
+      "t_end": 3210.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3180.0,
+        "t_end": 3210.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. It's going to be a bit more awkward and difficult with (those hills), but see how I'm holding it like this? So that you can get it moving quickly and keep it moving but- [T] That's a bit difficult, isn't it? Right. Take it back again, and you need a little bit of practice. Okay. Fast- there you go. See how you can do it? [T] Well, you're taking advantage of my measurement, aren't you? All right. Whip it back. You have to be quicker on this. Okay, you have a go at that."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3360.0,
+      "t_end": 3390.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3360.0,
+        "t_end": 3390.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So if it's rougher in one direction, that's going to make the frictional force, the size of it, directional, isn't it? You've picked up something very important. Very good observation. [T] You're doing physics in upper school, aren't' you? We want you. [T] Oh, yes, yes, good. But look, don't spend too much time on those. In fact, get onto that one. We won't do the measurements. We've only got a couple of minutes left. Okay?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3390.0,
+      "t_end": 3420.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3390.0,
+        "t_end": 3420.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Three minutes by you is it? It's five minutes by me. Are you right? [T] Okay, we- we better call it all in now, I think. [T] All right folks, stop please. Thank you. Stop now. Now I know that no one has finished and that's fine because it's a long activity and we still have yet to conclude."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3420.0,
+      "t_end": 3450.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3420.0,
+        "t_end": 3450.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right folks, stop please. Thank you. Stop now. Now I know that no one has finished and that's fine because it's a long activity and we still have yet to conclude. [T] We'll have to do that, uh, tomorrow. So what I need you to do now is to return all your gear neatly and, uh, quickly to the front, and then resume your seats. [T] If we've got a few minutes left, we'll talk some more."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3450.0,
+      "t_end": 3480.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3450.0,
+        "t_end": 3480.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If we've got a few minutes left, we'll talk some more. [T] Yeah, we'll keep the strings. [T] You got onto the friction block, did you? Oh, you didn't. Oh."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3480.0,
+      "t_end": 3510.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3480.0,
+        "t_end": 3510.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You got onto the friction block, did you? Oh, you didn't. Oh. [T] Oh, Louis, you're a worry, Louis."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3180.0,
+      "t_end": 3210.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3360.0,
+      "t_end": 3390.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3390.0,
+      "t_end": 3420.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3420.0,
+      "t_end": 3450.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3450.0,
+      "t_end": 3480.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3480.0,
+      "t_end": 3510.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/S-AU5"
+}

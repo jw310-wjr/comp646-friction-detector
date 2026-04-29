@@ -1,0 +1,426 @@
+[
+  {
+    "lesson_id": "M-AU1",
+    "subject": "math",
+    "country": "AU",
+    "n_bins": 87,
+    "n_risky_bins": 33,
+    "pct_risky": 37.9
+  },
+  {
+    "lesson_id": "M-AU2",
+    "subject": "math",
+    "country": "AU",
+    "n_bins": 93,
+    "n_risky_bins": 22,
+    "pct_risky": 23.7
+  },
+  {
+    "lesson_id": "M-AU3",
+    "subject": "math",
+    "country": "AU",
+    "n_bins": 87,
+    "n_risky_bins": 20,
+    "pct_risky": 23.0
+  },
+  {
+    "lesson_id": "M-AU4",
+    "subject": "math",
+    "country": "AU",
+    "n_bins": 138,
+    "n_risky_bins": 25,
+    "pct_risky": 18.1
+  },
+  {
+    "lesson_id": "M-CZ1",
+    "subject": "math",
+    "country": "CZ",
+    "n_bins": 89,
+    "n_risky_bins": 10,
+    "pct_risky": 11.2
+  },
+  {
+    "lesson_id": "M-CZ2",
+    "subject": "math",
+    "country": "CZ",
+    "n_bins": 89,
+    "n_risky_bins": 15,
+    "pct_risky": 16.9
+  },
+  {
+    "lesson_id": "M-CZ3",
+    "subject": "math",
+    "country": "CZ",
+    "n_bins": 91,
+    "n_risky_bins": 22,
+    "pct_risky": 24.2
+  },
+  {
+    "lesson_id": "M-CZ4",
+    "subject": "math",
+    "country": "CZ",
+    "n_bins": 99,
+    "n_risky_bins": 30,
+    "pct_risky": 30.3
+  },
+  {
+    "lesson_id": "M-HK1",
+    "subject": "math",
+    "country": "HK",
+    "n_bins": 69,
+    "n_risky_bins": 8,
+    "pct_risky": 11.6
+  },
+  {
+    "lesson_id": "M-HK2",
+    "subject": "math",
+    "country": "HK",
+    "n_bins": 85,
+    "n_risky_bins": 12,
+    "pct_risky": 14.1
+  },
+  {
+    "lesson_id": "M-HK3",
+    "subject": "math",
+    "country": "HK",
+    "n_bins": 69,
+    "n_risky_bins": 7,
+    "pct_risky": 10.1
+  },
+  {
+    "lesson_id": "M-HK4",
+    "subject": "math",
+    "country": "HK",
+    "n_bins": 65,
+    "n_risky_bins": 10,
+    "pct_risky": 15.4
+  },
+  {
+    "lesson_id": "M-JP1",
+    "subject": "math",
+    "country": "JP",
+    "n_bins": 103,
+    "n_risky_bins": 35,
+    "pct_risky": 34.0
+  },
+  {
+    "lesson_id": "M-JP2",
+    "subject": "math",
+    "country": "JP",
+    "n_bins": 102,
+    "n_risky_bins": 13,
+    "pct_risky": 12.7
+  },
+  {
+    "lesson_id": "M-JP3",
+    "subject": "math",
+    "country": "JP",
+    "n_bins": 109,
+    "n_risky_bins": 10,
+    "pct_risky": 9.2
+  },
+  {
+    "lesson_id": "M-JP4",
+    "subject": "math",
+    "country": "JP",
+    "n_bins": 104,
+    "n_risky_bins": 14,
+    "pct_risky": 13.5
+  },
+  {
+    "lesson_id": "M-NL1",
+    "subject": "math",
+    "country": "NL",
+    "n_bins": 84,
+    "n_risky_bins": 10,
+    "pct_risky": 11.9
+  },
+  {
+    "lesson_id": "M-NL2",
+    "subject": "math",
+    "country": "NL",
+    "n_bins": 100,
+    "n_risky_bins": 17,
+    "pct_risky": 17.0
+  },
+  {
+    "lesson_id": "M-NL3",
+    "subject": "math",
+    "country": "NL",
+    "n_bins": 91,
+    "n_risky_bins": 8,
+    "pct_risky": 8.8
+  },
+  {
+    "lesson_id": "M-NL4",
+    "subject": "math",
+    "country": "NL",
+    "n_bins": 95,
+    "n_risky_bins": 25,
+    "pct_risky": 26.3
+  },
+  {
+    "lesson_id": "M-SW1",
+    "subject": "math",
+    "country": "SW",
+    "n_bins": 93,
+    "n_risky_bins": 19,
+    "pct_risky": 20.4
+  },
+  {
+    "lesson_id": "M-SW2",
+    "subject": "math",
+    "country": "SW",
+    "n_bins": 92,
+    "n_risky_bins": 17,
+    "pct_risky": 18.5
+  },
+  {
+    "lesson_id": "M-SW3",
+    "subject": "math",
+    "country": "SW",
+    "n_bins": 98,
+    "n_risky_bins": 22,
+    "pct_risky": 22.4
+  },
+  {
+    "lesson_id": "M-SW4",
+    "subject": "math",
+    "country": "SW",
+    "n_bins": 91,
+    "n_risky_bins": 10,
+    "pct_risky": 11.0
+  },
+  {
+    "lesson_id": "M-US1",
+    "subject": "math",
+    "country": "US",
+    "n_bins": 89,
+    "n_risky_bins": 10,
+    "pct_risky": 11.2
+  },
+  {
+    "lesson_id": "M-US2",
+    "subject": "math",
+    "country": "US",
+    "n_bins": 107,
+    "n_risky_bins": 21,
+    "pct_risky": 19.6
+  },
+  {
+    "lesson_id": "M-US3",
+    "subject": "math",
+    "country": "US",
+    "n_bins": 103,
+    "n_risky_bins": 4,
+    "pct_risky": 3.9
+  },
+  {
+    "lesson_id": "M-US4",
+    "subject": "math",
+    "country": "US",
+    "n_bins": 91,
+    "n_risky_bins": 9,
+    "pct_risky": 9.9
+  },
+  {
+    "lesson_id": "S-AU1",
+    "subject": "science",
+    "country": "AU",
+    "n_bins": 90,
+    "n_risky_bins": 28,
+    "pct_risky": 31.1
+  },
+  {
+    "lesson_id": "S-AU2",
+    "subject": "science",
+    "country": "AU",
+    "n_bins": 67,
+    "n_risky_bins": 12,
+    "pct_risky": 17.9
+  },
+  {
+    "lesson_id": "S-AU3",
+    "subject": "science",
+    "country": "AU",
+    "n_bins": 69,
+    "n_risky_bins": 13,
+    "pct_risky": 18.8
+  },
+  {
+    "lesson_id": "S-AU4",
+    "subject": "science",
+    "country": "AU",
+    "n_bins": 148,
+    "n_risky_bins": 52,
+    "pct_risky": 35.1
+  },
+  {
+    "lesson_id": "S-AU5",
+    "subject": "science",
+    "country": "AU",
+    "n_bins": 124,
+    "n_risky_bins": 17,
+    "pct_risky": 13.7
+  },
+  {
+    "lesson_id": "S-CZ1",
+    "subject": "science",
+    "country": "CZ",
+    "n_bins": 91,
+    "n_risky_bins": 17,
+    "pct_risky": 18.7
+  },
+  {
+    "lesson_id": "S-CZ2",
+    "subject": "science",
+    "country": "CZ",
+    "n_bins": 90,
+    "n_risky_bins": 12,
+    "pct_risky": 13.3
+  },
+  {
+    "lesson_id": "S-CZ3",
+    "subject": "science",
+    "country": "CZ",
+    "n_bins": 92,
+    "n_risky_bins": 30,
+    "pct_risky": 32.6
+  },
+  {
+    "lesson_id": "S-CZ4",
+    "subject": "science",
+    "country": "CZ",
+    "n_bins": 90,
+    "n_risky_bins": 19,
+    "pct_risky": 21.1
+  },
+  {
+    "lesson_id": "S-CZ5",
+    "subject": "science",
+    "country": "CZ",
+    "n_bins": 100,
+    "n_risky_bins": 5,
+    "pct_risky": 5.0
+  },
+  {
+    "lesson_id": "S-JP1",
+    "subject": "science",
+    "country": "JP",
+    "n_bins": 103,
+    "n_risky_bins": 35,
+    "pct_risky": 34.0
+  },
+  {
+    "lesson_id": "S-JP2",
+    "subject": "science",
+    "country": "JP",
+    "n_bins": 101,
+    "n_risky_bins": 18,
+    "pct_risky": 17.8
+  },
+  {
+    "lesson_id": "S-JP3",
+    "subject": "science",
+    "country": "JP",
+    "n_bins": 109,
+    "n_risky_bins": 30,
+    "pct_risky": 27.5
+  },
+  {
+    "lesson_id": "S-JP4",
+    "subject": "science",
+    "country": "JP",
+    "n_bins": 106,
+    "n_risky_bins": 24,
+    "pct_risky": 22.6
+  },
+  {
+    "lesson_id": "S-JP5",
+    "subject": "science",
+    "country": "JP",
+    "n_bins": 105,
+    "n_risky_bins": 18,
+    "pct_risky": 17.1
+  },
+  {
+    "lesson_id": "S-NL1",
+    "subject": "science",
+    "country": "NL",
+    "n_bins": 83,
+    "n_risky_bins": 20,
+    "pct_risky": 24.1
+  },
+  {
+    "lesson_id": "S-NL2",
+    "subject": "science",
+    "country": "NL",
+    "n_bins": 91,
+    "n_risky_bins": 14,
+    "pct_risky": 15.4
+  },
+  {
+    "lesson_id": "S-NL3",
+    "subject": "science",
+    "country": "NL",
+    "n_bins": 90,
+    "n_risky_bins": 19,
+    "pct_risky": 21.1
+  },
+  {
+    "lesson_id": "S-NL4",
+    "subject": "science",
+    "country": "NL",
+    "n_bins": 82,
+    "n_risky_bins": 19,
+    "pct_risky": 23.2
+  },
+  {
+    "lesson_id": "S-NL5",
+    "subject": "science",
+    "country": "NL",
+    "n_bins": 81,
+    "n_risky_bins": 17,
+    "pct_risky": 21.0
+  },
+  {
+    "lesson_id": "S-US1",
+    "subject": "science",
+    "country": "US",
+    "n_bins": 113,
+    "n_risky_bins": 17,
+    "pct_risky": 15.0
+  },
+  {
+    "lesson_id": "S-US2",
+    "subject": "science",
+    "country": "US",
+    "n_bins": 199,
+    "n_risky_bins": 49,
+    "pct_risky": 24.6
+  },
+  {
+    "lesson_id": "S-US3",
+    "subject": "science",
+    "country": "US",
+    "n_bins": 103,
+    "n_risky_bins": 26,
+    "pct_risky": 25.2
+  },
+  {
+    "lesson_id": "S-US4",
+    "subject": "science",
+    "country": "US",
+    "n_bins": 82,
+    "n_risky_bins": 5,
+    "pct_risky": 6.1
+  },
+  {
+    "lesson_id": "S-US5",
+    "subject": "science",
+    "country": "US",
+    "n_bins": 91,
+    "n_risky_bins": 14,
+    "pct_risky": 15.4
+  }
+]

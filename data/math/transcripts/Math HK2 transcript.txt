@@ -1,0 +1,389 @@
+00:00:05	T	Stand up.
+00:00:18	T	Good afternoon, class.
+00:00:19	E	Good afternoon, Mr. Ho.
+00:00:25	T	While I am taking roll, put away all the things you are passing around as soon as possible.
+00:00:39	T	Lo Pak Man? Chan Ka Cheong, Lo Pak Man, report to Room 201 on the twenty-first of this month, Wednesday, at 7:30 a.m.
+00:00:48	T	Otherwise the two of you will have disciplinary punishment. Is Chan Ka Cheong here?
+00:00:53	T	Pass the paper to him to see.
+00:00:59	T	Yeung Wan Chi.
+00:01:00	SN	Is absent.
+00:01:00	T	Is absent? Who else?
+00:01:04	T	We have only one absentee?
+00:01:13	T	Can any of you turn in the new book today?
+00:01:17	T	Anyone?
+00:01:17	SS	Yes you hear.
+00:01:18	T	If yes, you can... how many are there?
+00:01:21	SS	Next time I'll tell oh!
+00:01:23	T	Only the two of you?
+00:01:24	T	Two. Okay, just bring it in tomorrow. Just the two of you...
+00:01:30	T	Why are you so late?
+00:01:31	SN	(inaudible)
+00:01:33	T	What?
+00:01:34	S	I was washing the glasses.
+00:01:38	T	Are you ready? Open your books.
+00:01:48	T	Before we start on a new topic today, we will take a look at what we have done yesterday.
+00:02:00	T	Yesterday, we should have stopped on 22, right?
+00:02:02	SS	(inaudible)
+00:02:05	T	How can it be number 24?
+00:02:07	SS	Twenty-two.
+00:02:07	SS	Twenty-three.
+00:02:08	T	There is a star next to number 23. I did not tell you to do it.
+00:02:13	T	First of all, are there any special questions?
+00:02:16	SS	No.
+00:02:17	T	Are there?
+00:02:18	SN	No.
+00:02:19	T	Raise your hand if you have questions.
+00:02:21	T	If not, I will ask some of you to come up and try some of the questions.
+00:02:28	T	Are there any questions on question number 20 with the star?
+00:02:29	SS	No.
+00:02:30	T	There is nothing special about it, right? It did not look too special.
+00:02:33	O	[Bell]
+00:02:34	T	Uh, let's do number 20 then.
+00:02:35	S	(inaudible)
+00:02:40	T	Twenty-one and 22 are both very easy, right?
+00:02:44	SS	Yes.
+00:02:45	T	Uh...
+00:02:46	SN	Twenty-three.
+00:02:54	T	Twenty... how about doing number 19 and 20?
+00:03:02	T	Fung Cheuk Yue, do number 19.
+00:03:22	T	Cheung Lung Man, do number 20.
+00:03:42	T	Our class is being taped today, therefore, the light is turned off to avoid reflections. You may have a hard time looking at the blackboard.
+00:04:26	T	Are you in a hurry?
+00:04:28	SN	(inaudible)
+00:04:29	T	Which is the last question you have finished?
+00:04:30	S	This one.
+00:04:31	T	Which question did I tell you to do?
+00:04:33	S	(inaudible)
+00:04:40	T	So?
+00:04:41	S	I am thinking.
+00:04:41	T	Don't, don't tell me that you don't know how to do them.
+00:04:44	S	Okay, I am thinking.
+00:04:46	T	Don't do them when I am teaching later, okay?
+00:04:48	S	Okay.
+00:04:49	T	Stay here when class is over.
+00:04:50	S	Umm.
+00:04:51	T	Did you hear me? Stay after class. Finish them for me when you stay after class.
+00:05:02	SN	I don't know how to do number 20. Can you teach me?
+00:05:08	T	How to do number 20? There is nothing special about this question.
+00:05:11	S	(inaudible)
+00:05:13	T	Um... that will work too, but you will have an extra sign. Don't you think it will make it look terrible with that extra sign?
+00:05:25	T	Alternatively, you don't have to take the two T as the subject.
+00:05:28	T	You can take the T as the subject. Take the S as the subject. Then, your negative two will become a positive two when you move it to that side.
+00:05:33	T	Then 28 plus two T. It equals to three S. Divide the three from that side. That will look better.
+00:05:39	T	It will look better if you divide three from that side. There will be no signs.
+00:05:43	T	Then, substitute it to the formula number one above. Yep, don't move the S, move the T instead.
+00:05:50	T	When you move the T to here, it will become positive. Yep. Divided by three. Erase this sentence and do it once again.
+00:07:16	T	Number 19 should be okay. Is the answer correct?
+00:07:19	T	I think it is okay.
+00:07:23	T	Number 20.
+00:07:36	T	The things that I taught yesterday were quite good. All of you seem to be getting it.
+00:07:42	T	The whole equation is multiplied by three. Be careful when you are multiplying and do not miss any terms, or else, it will be wrong. Three times three...
+00:08:09	T	Is the answer correct? No problems, right?
+00:08:15	T	Do you want to do any of the problems? Or do you want me to talk about any of them?
+00:08:21	T	Any questions?
+00:08:22	T	If not, I will- this method- this will be it for the method of substitution for now. We will start to learn another method. Let's turn to the next page. Who will clean up the blackboard?
+00:08:41	T	Turn to the next page. Eleven point three. Method of elimination [in English].
+00:09:22	T	Elimination in Chinese is elimination. [in Chinese]
+00:09:29	T	Elimination. Elimination. To eliminate something.
+00:09:36	T	Well, um... I will not talk about example number four in the book right now. I will talk about another one that is simpler, one that I have mentioned before. I have mentioned it before.
+00:09:46	T	Um, do you remember I mentioned before- in the last two classes- that you should have learned it- seen it in primary school.
+00:09:53	T	Um, it involves a big and a small number and you don't know what the numbers are.
+00:09:56	T	The sum of the big number is, for example, 20. No, the sum of the big and small numbers is 20.
+00:10:04	T	Um, the difference between the big and small numbers is, for example, eight.
+00:10:08	T	Then, you are asked to find out the big and the small numbers. Do you remember?
+00:10:12	T	At that time I said that you, um, after learning this chapter,
+00:10:15	T	you will understand why your primary school teacher told you to find the big number by adding the sum to the difference and divide it by two.
+00:10:21	T	To find the small number, you subtract the difference from the sum and divide it by two. The main point is that these are related to what I will be teaching right now.
+00:10:27	T	Okay, I will be using this example to teach. This is not included in the examples of your textbook. However, this is simpler.
+00:10:33	T	Suppose I have, um, a sample question here. You can copy it down in the book, um, in your notebook or textbook.
+00:10:40	T	Solve A plus B is equal to 20. A minus B is equal to eight. Like that.
+00:10:48	T	Well, now there are two numbers, A and B. The sum of these two numbers is 20 and their difference is eight. Is that right? It is obvious for you to see which is bigger and smaller.
+00:11:00	T	Can you see it? Which one is bigger and which one is smaller?
+00:11:01	SN	A.
+00:11:02	T	Uh, Ho Wai Kwan?
+00:11:05	SN	A.
+00:11:05	T	A is bigger because the second equation- in the lower equation, A minus B is equal to eight. Therefore, A should be bigger than B.
+00:11:10	T	Okay, I named the first equation as one and the second as two. Give them names. Well, we are not going to use the earlier method- the method of substitution right now.
+00:11:22	T	The method of elimination is- um, like it is named, is to decrease the number of unknowns- to decrease the number of unknowns- to eliminate the unknowns.
+00:11:33	T	In fact, this is closely related to the previous method, um, the main point that I was talking about earlier.
+00:11:38	T	Didn't I mention before that, um, when there are two unknowns in a question, it is impossible to calculate it, right?
+00:11:44	T	Well, do you remember from the previous- the previous method of substitution, you were trying to simplify two equations with two unknowns into one equation with one unknown.
+00:11:56	T	Is that right?
+00:11:57	T	Well, you can do it. In fact, the present method is using the same technique, too.
+00:12:03	T	It is also trying to create an equation with only one unknown. Okay? But the question is, how do we do that?
+00:12:11	T	The problem is how we put the two equations together. Okay, now, here is equation one and equation two. Well, you- you can see that here is two A.
+00:12:22	T	Positive A here and here. Positive B here and negative B here. Right?
+00:12:27	T	Okay, if now I want to find out A but B is blocking the way, right? So, what should I take away?
+00:12:39	SN	(inaudible)
+00:12:41	T	The best is to take B away, right? Take away B and the remaining A will be easier to calculate, right?
+00:12:45	T	The problem is how do we take A away? No, sorry, how do we take away B?
+00:12:48	T	How to take away B? Okay, let's see. B is a plus sign here and a minus sign here. We have to pay attention to the plus and minus. Let me write them in color.
+00:13:00	T	Okay, it's plus and minus. A plus and A minus. In this case, let's think that there are a positive B and a negative B. If you have to eliminate it...
+00:13:09	T	If you have to eliminate it, you will add the two numbers together to eliminate it. Why? What is the sum of three plus negative three?
+00:13:15	SS	Zero.
+00:13:18	T	Kam Mo Lam?
+00:13:20	SN	(inaudible)
+00:13:22	T	Louder.
+00:13:22	S	Zero.
+00:13:23	T	Louder.
+00:13:24	S	Zero.
+00:13:24	T	Yes, zero, right? Right. Four minus- four plus negative four is equal to zero, right? So, now, positive B plus negative B is equal to what?
+00:13:32	SS	Zero.
+00:13:32	T	Should it be zero? If it is zero then there is no B, right? Therefore, I will add these two equations together.
+00:13:39	T	Okay, how do we add these two equations together? Adding two numbers is possible, but how do we add two equations together? We add equation one into equation two.
+00:13:49	T	How do we add it? Here are two equations. There is an equal sign- equal sign in each equation. Add the left side of the equal sign to the left side of the other equal sign.
+00:13:56	T	Add the right side of the equal sign to the right side of the other equal sign. Okay? So, 20 plus what?
+00:14:02	SS	Eight.
+00:14:02	T	Twenty plus eight, right? Well, on this side, 20 plus eight is equal to 28. Okay? Okay, here, this one is added into this one. What is equal to A plus A?
+00:14:12	SS	Two A.
+00:14:13	T	A plus A is?
+00:14:14	SS	Two A.
+00:14:15	T	Two A, right? Well, but- I said earlier that positive B plus negative B is how many?
+00:14:19	SS	Zero.
+00:14:19	T	Siu Hiu Ching.
+00:14:22	T	Stand up. You should be accustomed to it.
+00:14:26	SN	Zero.
+00:14:26	T	Right. Positive B plus negative B equals to zero, right? Do we need to write zero out?
+00:14:29	T	No. If you want to write it out, write positive B and negative B out. It should be understood, right?
+00:14:33	T	Well, you can see in this situation that what is left after the summation is?
+00:14:37	SS	Two A equals to 28.
+00:14:39	T	What is the remaining unknown?
+00:14:41	SS	A.
+00:14:42	T	A, right? Is there a B? No, it's gone. In this process we have eliminated the B. Do you understand?
+00:14:50	T	This process has eliminated the B. That is, to eliminate B, okay? This method is called elimination. Okay?
+00:15:04	T	Well, now that, um, B is eliminated, we can immediately find out A. A is...
+00:15:09	SN	Fourteen.
+00:15:09	T	Fourteen, right? Okay?
+00:15:11	T	So, you will realize the reason why when we are looking for the bigger number- A is the bigger number, right? We have said earlier that it is the bigger number.
+00:15:18	T	When it is the bigger number, we need to add the sum to the difference- this is the sum and this is the difference- the sum added to the difference, is this right? What is the next step?
+00:15:26	T	The sum added to the difference and then... divided by two, right? Can you see that? That will turn out like this. Can you see that? Get it yet?
+00:15:33	T	Okay, next, how do we get the smaller number?
+00:15:40	T	We have already found one of the unknowns.
+00:15:41	SS	Substitute it back into the equation.
+00:15:42	T	Right, substitute it back into the equation, right? So, fourteen will be substituted back into the equation. It is up to you to substitute it into either equation.
+00:15:48	T	Put A equals 14 into this, um, either one of the equations. Um, let's say equation two. Well, 14 minus B is equal to eight. B is equal to...
+00:16:06	B	[Blackboard: 6]
+00:16:11	T	Any questions?
+00:16:13	B	[Blackboard: The solution is a=14, b=6]
+00:16:27	T	Okay?
+00:16:45	T	Here I used- I added- I used summation. The B is eliminated when I used summation. Okay?
+00:16:52	T	You may ask- you may say what if I want to eliminate the A? What should I do? What should I do to eliminate A?
+00:16:59	T	Instead of eliminating B, I want to eliminate A first. Then what should I do?
+00:17:02	T	Maybe I should teach you by using example number four in the textbook. Okay?
+00:17:10	T	The student on duty, please clean up the blackboard.
+00:17:22	T	Erase it. Erase it.
+00:17:42	T	Example number four in the textbook.
+00:17:43	SN	Can I go wash my hands?
+00:17:44	T	Go. Go.
+00:18:05	T	I have taken role already.
+00:18:05	O	Thanks.
+00:18:14	T	Now the equation this time is similar to the one I have previously stated. One of them is A plus B and the other one is A minus B, right?
+00:18:20	T	Now, it is three X plus two Y and three X minus two Y, right?
+00:18:24	T	Just now, I eliminated the B- to eliminate B. So, now... if I eliminate the two Y- is there a plus and minus before Y? Is that right?
+00:18:37	T	So, I should- based on the method I have mentioned before, I should add the two equations together.
+00:18:43	T	When they are added together, positive Y and negative Y will become...? Will become zero, right?
+00:18:49	T	Okay? Well, if- I said earlier that if I don't want to cancel this one- to eliminate this one, but rather, I want to eliminate this one- this one written in yellow- I want to eliminate this.
+00:18:58	T	What should I do?
+00:19:02	T	This time, I don't want to find out X first. I want to find out Y first. If I want to solve Y, I will need to eliminate X. I will need to...
+00:19:11	T	Come in.
+00:19:12	T	I need to eliminate X first. So, in order to catch your attention, I have purposely written it in yellow.
+00:19:18	T	Well, how do we do the elimination? Pay attention. In the previous question, one is plus and one minus. In that case we add them together.
+00:19:25	T	However, are this three X and this three X positive? Okay, what do you do when you cancel the X?
+00:19:33	SN	Subtract.
+00:19:34	T	Three X and three X. How do we do it?
+00:19:36	SN	Move three X...
+00:19:37	SS	Move three X to the other side.
+00:19:38	T	Cheng Ka Ho, what do you think we should do to eliminate X? Do you- do you have any ideas?
+00:19:45	SN	Three X minus three X.
+00:19:46	T	Three X minus three X will be zero. Subtraction. So we- that is correct. It will work out by subtracting the two equations from each other.
+00:19:58	T	Now, when you are doing the subtraction- this is easy- 19 minus 11 is equal to what? Eight, right? Right?
+00:20:04	T	Well, what about here? Three X minus three X will be nothing- it will become zero, right?
+00:20:09	T	Now, pay attention. Will it be zero if this is subtracted from this? This one minus this one. Will it become zero?
+00:20:14	T	No, this one is plus and this one is minus. The two are different. One is plus two Y and the other is minus two Y.
+00:20:19	T	So, if you really subtract them from each other, it will become two Y minus negative two Y, right? You should take- take the whole positive two Y minus two negative Y, right?
+00:20:28	T	You will find out that after the subtraction is- here, negative times negative is positive- it becomes four Y is equal to eight. Therefore, Y is equal to... two. Okay?
+00:20:37	T	So, pay attention to this. This will be mistaken easily- you will get this wrong easily. Therefore, put Y equals two into... either one of the equations, um, let's say... equation one.
+00:20:52	T	So, three X plus two, then times two equals 19. Three X is equal to- move four to the other side is equal to 15. X is equal to five. Therefore, the solution...
+00:21:10	T	X equals five. Y equals two. Okay?
+00:21:17	T	Any questions?
+00:21:21	T	Any questions?
+00:21:26	T	So, you can see that- in concluding the two methods- two- two, um, methods- these two examples that I have done. At the first time, I add the two equations together.
+00:21:35	T	At the second time, I subtract the two equations. It all depends on which unknown we want to eliminate. Okay? Let's say we want to eliminate Y- in fact, I can eliminate Y now.
+00:21:47	T	So we can add them together since one is positive and the other is negative.
+00:21:51	T	If both of them are positive numbers and we want to eliminate the X. In that case, we use the two- the two equations by subtracting each other. Okay?
+00:22:03	T	In fact, you can control it yourself- which one you want to calculate- which one to calculate first. Okay? Any questions? Well, it is now your chance to try it out.
+00:22:13	T	Open your class workbook. Turn to...
+00:22:21	T	Exercise 11 B. Page 119. Well, try out number one to four.
+00:22:27	O	[Bell]
+00:22:28	T	One to four first.
+00:22:32	T	Check the answers when you are done.
+00:23:57	T	You have to circle- to circle equation one and equation two or else it will be confused as numbers one and two, right?
+00:24:22	T	Chan Lap Man, come up and do question number two.
+00:24:26	T	Did you hear?
+00:24:27	SN	Number two.
+00:24:27	T	After you have finished.
+00:24:58	T	Hey.
+00:24:58	SN	Yes?
+00:24:59	T	You haven't given it a name.
+00:25:00	S	Oh, yeah, that's right.
+00:26:34	T	Chan Lap Man, hurry up.
+00:26:56	SN	Question number three (inaudible).
+00:26:57	T	Come up and do question number three later.
+00:27:02	SN	(inaudible)
+00:27:03	T	Yes?
+00:27:05	S	(inaudible) X is (inaudible).
+00:27:06	T	Name equation one and equation two first.
+00:27:14	T	Yep.
+00:27:15	T	You have to tell me which equation minus that equation first. How do you work this out? Two X is equal to 12.
+00:27:20	S	Addition.
+00:27:21	T	Addition. In that case, write one plus two. Equation one plus equation two. Right. Colon.
+00:27:29	T	Next, um, it is equal to six. Substitute X is equal to six back into the equation.
+00:27:33	S	This X is equal to six, so... it becomes six minus Y is 10...
+00:27:42	T	So, you move six to here and why can't you subtract them? Y can be a negative number, right? Can Y be negative four?
+00:27:49	S	Um, that is right.
+00:27:53	SN	Can I erase this?
+00:27:55	T	Erase it. Erase it. Erase it.
+00:27:58	T	Erase the ones I wrote on the top too.
+00:28:03	T	Erase the ones I wrote on the top too.
+00:28:05	T	Erase example four too.
+00:28:55	T	Chan Lap Man, it is a colon after your equation one minus equation two- it's a colon, don't write it like an equal sign.
+00:29:03	T	Conversely, your equal sign is like a colon. Write the equal sign in a better way.
+00:29:37	T	Question number two is correct. Pretty well done. However there are some places that are not well written- written- written. Not clearly written.
+00:29:44	T	What is that thing down there? Is that a one- one under the (inaudible)?
+00:29:48	SN	X equals to one.
+00:29:49	T	No. Here. Why is it- here- here, what is this?
+00:29:53	S	Nothing.
+00:29:53	T	You did not write that?
+00:30:04	T	Ten A equals 30.
+00:30:12	T	Three...
+00:30:22	T	Any questions?
+00:30:26	T	Are all four questions completed?
+00:30:28	SN	(inaudible)
+00:30:34	T	Check your answers with the ones on the blackboard. Both of them are correct. Pretty good.
+00:31:11	T	Here. Of course you cannot find the answer by adding the two equations together. What do you expect to be eliminated by adding the two equations together? X plus X is two X.
+00:31:20	T	Six Y plus two Y is eight Y. You cannot cancel them. With six Y and two Y, no matter whether you use addition or subtraction, you cannot cancel it.
+00:31:27	T	Look, six Y plus two Y is eight Y and subtraction will leave four Y. The Y will still be there.
+00:31:34	T	On the other hand, there are two X. Both X are positive.
+00:31:37	T	If you use subtraction, the X will be cancelled. Therefore, you should never use addition- addition to calculate this question.
+00:31:44	T	If you use addition, nothing will be cancelled- nothing will be eliminated. If and only if you use subtraction, then you will make it.
+00:31:51	T	Right? Do not mindlessly use addition all the time.
+00:31:53	T	You have to see if anything will be cancelled, right? Here, it is for sure that only X will be cancelled, right?
+00:32:09	T	Finished? Raise your hand if you have not finished. Raise your hand if you have not finished.
+00:32:18	T	Raise hand.
+00:32:19	SN	(inaudible)
+00:32:29	T	Take a look at the example if you have finished. Example five.
+00:32:51	T	Student on duty, clean up the blackboard.
+00:32:55	SN	(inaudible)
+00:32:56	SN	No, the upper one times the lower one.
+00:32:58	SN	(inaudible)
+00:32:59	T	Are there any questions?
+00:33:00	SN	The one on the bottom...
+00:33:02	T	Are there any questions?
+00:33:14	T	Finished yet?
+00:33:20	T	Why are you so slow?
+00:33:30	T	Hey, why are you lying on the table?
+00:33:35	T	Finished?
+00:34:13	T	I will not wait for you due to the time constraint. Stop for a moment. Calculating number four- for those of you who have not finished, are you doing number four?
+00:34:22	SN	I am doing number five.
+00:34:23	T	Stop for a moment. Please take a look at example five. Page 117. Page 117.
+00:34:32	T	Now, this equation- this question is slightly different from the previous ones.
+00:34:38	T	It is because, you will find out that when you add the two equations together. Two X plus X is three X. It cannot be eliminate- eliminated- cannot eliminate the X.
+00:34:51	T	This one plus this one will leave a Y here. Three Y plus negative two Y, right? The biggest question is that this is a three but that is not a three, right.
+00:35:00	T	This is a two but that is not a two.
+00:35:00	T	This is a two but that is a one, right. If you subtract the two equations, the unknown will not be cancelled.
+00:35:10	T	When this is the case- which is quite common- of course, you can ask me whether you can use the previous method of substitution. Of course you can.
+00:35:19	T	However, we are learning the method of elimination now. So, if we have to use the method of elimination in this case, how do we do it?
+00:35:26	T	Here, the biggest question is that this is two, this is one, this is three and this is two. They are all different, right?
+00:35:33	T	If they were the same number, we could find some ways to use addition or subtraction to eliminate, is that right? Is there any way to make them the same?
+00:35:39	SS	Multiplication.
+00:35:40	T	I said it yesterday. What I said yesterday is mainly for today's lesson.
+00:35:44	T	What we learned yesterday can be- of course- used to solve mathematical problems, but today we can use it too.
+00:35:50	T	If the numbers are not the same, we can think of some ways to make them bigger, right? For example, if I want to eliminate the X but this is two and this is one.
+00:36:00	T	If I turn the one into two, then, both of them will be two, right? In another words, if I turn this into two, we have multiplied it by two. Therefore, the rest of the equation will be...?
+00:36:09	SS	Multiplied by two.
+00:36:10	T	Multiplied by two. Okay? So, I need to solve equation number two first. Multiplied it by two first. Okay?
+00:36:18	T	Equation two times two. After multiplied by two, the first part will be two X and what about the second part? Chan Kwan Wu, after multiplied by two- after multiplied by two...?
+00:36:29	SN	The second part... uh, positive four Y.
+00:36:34	T	Four Y and then?
+00:36:36	S	Twenty-four.
+00:36:37	T	Twenty-four, right. Okay? Now, we have formed a new equation, right? Let me give it a name. Equation number three. Okay?
+00:36:43	T	So, now, I will not look at equation number two anymore.
+00:36:45	T	Since it is turned into equation number three, okay? So this is two X and that is two X too. What do we do next?
+00:36:51	T	Lo Pak Man. Should we use addition or subtraction for the two equations?
+00:36:59	T	Addition or subtraction?
+00:37:02	S	Subtraction.
+00:37:03	T	Positive two X and positive two X.
+00:37:05	T	If you want elimination, shouldn't we use subtraction? Use subtraction, okay? Two X minus two X is...?
+00:37:06	O	[Bell]
+00:37:15	S	Zero.
+00:37:15	T	It became zero. Two X minus two X is zero, okay? If you add them together, what will it be? Two X plus two X is what?
+00:37:20	S	(inaudible)
+00:37:20	T	Four X. In that case, the X will not be cancelled. Understand? Since both of them are positive, you will need to use subtraction. Sit down.
+00:37:27	T	So, we use this- equation one minus equation three. We will no longer use equation two.
+00:37:33	T	Equation one minus equation three. This one minus this one. After that, two X minus two X will be zero.
+00:37:40	T	So, three Y- positive three Y and this is negative four Y. Subtraction. Three Y minus negative four Y, okay? This is negative four Y and that is positive three Y.
+00:37:53	T	Equals to three minus 24. Three minus 24 looks really strange. It is a negative number, but it is okay to have a negative number. Three minus 24.
+00:38:01	T	So, let it be three minus 24. Well, next, this will become seven Y, right? How about this one?
+00:38:09	T	How many?
+00:38:10	SS	Negative 21.
+00:38:10	SN	Negative 21.
+00:38:11	T	Negative 21, right? So, Y is equal to...
+00:38:13	SN	Negative three.
+00:38:14	T	Negative three, okay? Next, put Y equals negative three into any one of the equations above.
+00:38:20	T	I will not suggest you putting it into equation three, because it had been multiplied.
+00:38:24	T	It is more complicated. So, I will put it into equation one or equation two. Put it into equation two, okay?
+00:38:29	T	So, X minus two times negative three equals 12, okay? So, X is- this is six and move it to the other side, it becomes six. Okay?
+00:38:45	T	Negative two times negative three equals positive six. Move the six to the other side, it becomes negative six. Six.
+00:38:49	T	So, the solution...
+00:38:52	B	[Blackboard: The solution is x=6,y=-3]
+00:38:56	T	Y equals... what is Y equal to? Negative three, right. Okay? Any questions? Now, the most important point is- I think- this step here.
+00:39:08	T	How do we use the method of elimination? In the process of elimination- before that, we may need to multiply some, um equation.
+00:39:17	T	By doing that, we will make both numbers of the equations the same.
+00:39:20	T	This one multiplied by two will become two and that one is two. So, they can be subtracted by each other, okay?
+00:39:24	T	If you say, if I want to eliminate the Y- earlier I said I want to eliminate the X but if I want to eliminate the Y, one is three and the other is two, what should I do?
+00:39:34	T	Chong Fong Wai. If I want to eliminate the Y, I will need to make them the same. So how do we make three and two the same?
+00:39:43	SN	Find out their LCM.
+00:39:44	T	Find out their LCM. The LCM of three and two is...?
+00:39:48	T	Six. So, three times what is six?
+00:39:50	S	Two.
+00:39:50	T	Times two. If three time two, then, the whole equation- equation one will need to be multiplied by two. Okay? How about this one? Two times what?
+00:39:57	S	Three.
+00:39:57	T	Two times three. It is six again. Okay? So, we need to multiply the lower equation by three, okay? Understand?
+00:40:02	T	If you want to eliminate the Y, you will need to do more things.
+00:40:06	T	If you multiply the upper equation by two and the lower equation by three, that will create equation three and equation four. Equation three and equation four.
+00:40:12	T	Then, we can add the two equations together. One is positive six Y and one is negative six Y, okay? Understand?
+00:40:19	T	Try it out at home. Since we only have one class today, (inaudible).
+00:40:24	T	Well, um, go back and try out number five to eight. Okay? Go back and do number five to eight. Okay? That is not too many.
+00:40:35	T	It should be the day after tomorrow- do we have class on the day after tomorrow? Day six. We have class on day six, right?
+00:40:41	T	Okay, we will talk about it more on day six, because we will have a test tomorrow. Do you remember?
+00:40:44	SN	What?
+00:40:45	SS	(inaudible)
+00:40:45	T	Test. The chapter on slopes.
+00:40:47	T	Day five, right? Distance formula. The chapter on slopes. Any impressions?
+00:40:49	SS	Slope?
+00:40:53	SS	No.
+00:40:55	T	This equation.
+00:40:58	T	Parallel. Straight. I have just talked about it.
+00:41:00	B	[Blackboard: The slope =(y1-y2) / (x1-x2)]
+00:41:02	T	There is also the distance formula. A B equals- the distance between two coordinates.
+00:41:07	B	[Blackboard: AB=Square root of (x1-x2)^2 + (y1-y2)^2]
+00:41:11	T	Tomorrow- tomorrow, you will be tested on chapter eight. It seems like all of you have amnesia.
+00:41:21	T	Tomorrow- um, are there any single lined papers?
+00:41:24	SN	No.
+00:41:31	T	Who is in charge of buying the papers?
+00:41:34	SN	(inaudible)
+00:41:35	T	It is you? Chan Lap Man? Help me buy one more pile of F four- long paper, single lined, white colored, tomorrow. Long paper.
+00:41:44	S	Is the test going to be difficult?
+00:41:45	T	Not difficult. Study for the test. Stand up.
+00:41:48	SN	Do we need to bring our books?
+00:41:50	T	You don't need to bring books tomorrow, okay? However, do you remember you have to bring two new books tomorrow?
+00:41:54	SS	I remember.
+00:41:56	SN	(inaudible)
+00:41:56	T	Yes
+00:41:57	T	Okay.
+00:41:59	SS	(inaudible)
+00:42:02	T	Goodbye class.
+00:42:03	E	Goodbye and thank you Mr. Ho.
+00:42:11	SS	(inaudible)
+00:42:12	T	Sit down and be quiet. The student on duty, come up and clean up the blackboard.
+Ê

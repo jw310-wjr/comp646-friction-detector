@@ -1,0 +1,184 @@
+{
+  "video_path": "/scratch/jw310/comp646/runs/M-AU1-test/_session_head.mp4",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "They're not supposed to be coming in here, because we're doing this."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "They're not supposed to be coming in here, because we're doing this."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "They're not supposed to be coming in here, because we're doing this."
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "They're not supposed to be coming in here, because we're doing this."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "They're not supposed to be coming in here, because we're doing this. Oh, sure, it doesn't anymore. Well, I like to sit outside there, I think."
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "Well, I like to sit outside there, I think. You'll need to just sit over there. When you start by taking out this sheet that we're looking at the other day, we're going to be looking at something a bit similar today."
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "we're going to be looking at something a bit similar today. Just have a look at the bit down here for a moment, where it says, I'll present your findings."
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "I'll present your findings. I did print out a few of the things that you've been doing on the computer. They're sitting over there. There's a few snowmen or snow people. There's a herd of the circle. There's a smiley face reflected. And there's two or three of the things that you've been doing with the star in the circle. And it actually doesn't print out in a way that you can read it from very far away."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "And it actually doesn't print out in a way that you can read it from very far away. It's all right to look at in front of you. And it doesn't print out in color either. But this one has, firstly, the diagram. Up here it has the measurements of the angles plus the formula. And that person, and also the one next to it, has written some sort of a conclusion, which is what's being talked about here."
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "which is what's being talked about here. That's one of them. This actually is quite easy to read, but it doesn't project all that well. So let me read it for you. Some of the angles don't change when you move the points around the circle. When you change the radius of the circle, the size of the circle changes and moves in and out. No matter what the size of the angles are, if you have a five-point..."
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "if you have a five-point..."
+      }
+    }
+  ],
+  "candidates": [],
+  "fusion": [],
+  "work_dir": "/scratch/jw310/comp646/runs/M-AU1-test"
+}

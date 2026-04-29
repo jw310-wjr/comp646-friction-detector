@@ -1,0 +1,703 @@
+00:00:00	T	Okay, um, we're doing revision from yesterday on the congruent triangle so do you remember what a con- what a pair of tria- congruent triangles are?
+00:00:09	SN	Yep.
+00:00:10	T	Yeah.
+00:00:11	SN	Two triangles that are the same.
+00:00:12	T	Same what?
+00:00:15	SS	Same angles same sides.
+00:00:16	T	Same angles and same sides so we're doing 10 quick questions on this. So- all right, there's two right angle triangles.
+00:00:27	T	All right, and they're supposed to be the same. Supposed to look the same.
+00:00:34	T	All right, this one is A B C, and this one is D E and F. All right, they are congruent. So I'm going to ask you- ask you 10 quick questions on that.
+00:00:49	T	All right, number one, which angle is equal to angle A?
+00:01:04	T	Which angle is equal to angle D?
+00:01:15	T	Number three, if angle A is 30... and angle D is 60... uh, what size is angle E?
+00:01:35	T	And number four, what size is angle D?
+00:01:49	T	Which line is equal to B C?
+00:01:56	SN	I'm sorry?
+00:01:57	T	Which line is equal to B C?
+00:02:03	T	Number six, which line is equal to E F?
+00:02:14	T	And... okay, if A C, if A B is five, all right, and B C is three, and A C is four centimeters, all right, how long is D F?
+00:02:43	T	Number eight, how long is E F?
+00:02:51	T	Number nine, the triangles A B C and F E D are congruent. Write that using the symbol. Do you want me to repeat it?
+00:03:05	SN	Yeah.
+00:03:05	T	Triangle A B C and triangle F E D. And number 10, which is the hypotenuse of triangle A B C? The hypotenuse.
+00:03:25	T	Okay, who wants to answer them? Okay.
+00:03:28	SN	Number one angle F.
+00:03:30	T	Yep.
+00:03:31	S	Number two angle C.
+00:03:33	T	Yes.
+00:03:33	S	Number three 60 degrees.
+00:03:34	T	Yes.
+00:03:35	S	Number four 90 degrees.
+00:03:36	T	Yes.
+00:03:37	S	Number five A D.
+00:03:38	T	Yep.
+00:03:39	S	Number six A B.
+00:03:40	T	Yes.
+00:03:40	S	Number seven four centimeters.
+00:03:40	T	Yes.
+00:03:42	S	Number eight five centimeters.
+00:03:43	T	Yes.
+00:03:45	S	Number nine triangle A B C is congruent to three lines.
+00:03:50	T	Three lines
+00:03:50	S	to triangle D E F.
+00:03:53	T	She hasn't got it right.
+00:03:54	S	Oh F E D.
+00:03:57	T	Triangle to- triangle what?
+00:03:59	S	F E D.
+00:04:00	SN	D E F.
+00:04:02	SN	You said F E D.
+00:04:03	T	Why did I say F E D?
+00:04:07	SS	Because that tells (inaudible) the same.
+00:04:10	T	What's the same?
+00:04:12	S	Like F equals A.
+00:04:14	SS	(inaudible)
+00:04:15	T	So F equals A and what's equal to C?
+00:04:19	SN	D.
+00:04:20	T	D, and B equals E. So you've really got to write these in the same order.
+00:04:24	SN	Oh.
+00:04:25	T	All right?
+00:04:25	SN	And 10 is A B.
+00:04:26	SN	Why?
+00:04:28	T	Ten is A B. Just to show the congruence to show the relationship between them.
+00:04:31	SN	I'm doing them in alphabetical order.
+00:04:33	T	I know. And I didn't say it that way did I? Who got them all right? That's pretty good. Who got nine right?
+00:04:40	SN	Yeah I did.
+00:04:42	T	Yeah, right. Number 10 was A B.
+00:04:45	SN	Nine.
+00:04:46	T	All right, okay, I've got a worksheet for you to do and you've got to work in groups of three or four. So that'll be that group.
+00:04:59	T	So if you two Angela and Laura, if you can come down the front and work with the front two. Just bring your chairs down, don't worry about-
+00:05:14	T	What do you need? You need your protractors. You can bring a desk down if you want a little bit more room to work on or you might just move your pencils.
+00:05:38	T	Just turn around till I finish talking to you, all right? So you've got five here.
+00:05:45	SN	Yeah, one, two.
+00:05:47	T	Oh that'll do. That'll be all right. Can you talk together?
+00:05:52	SN	Where did you want us to move?
+00:05:53	T	Um, yes. Yeah, one of you move down there one so you've got a group of three and one of you can move- work with one of these.
+00:06:01	T	All right Angela, you can work with um Eun and- all right?
+00:06:10	T	Then you've got just one down there. Here's a- All right?
+00:06:17	SN	How am I going to work?
+00:06:19	T	Bring a chair. Yeah, you can bring that- yeah, bring the table over.
+00:06:25	SN	(inaudible)
+00:06:27	T	No.
+00:06:36	T	All right, I'll go through the instructions with you.
+00:06:52	T	I'll read through the instructions and girls, read through the instructions as I go through it.
+00:06:57	T	What you're doing is you're actually finding the rules for a pair of congruent triangles and you're trying to find the minimum rules.
+00:07:05	T	So the task you need to produce a list of instructions so that anyone following them will construct exactly the same triangle.
+00:07:12	SN	Oh.
+00:07:12	T	It's got a list of what you need. And the first part, steps one and two, each person in the group on the piece of paper on the back here it says your triangle.
+00:07:22	T	You construct a triangle on that page without showing the rest of your group and you write down the steps of how you did it. All right?
+00:07:32	T	Then, after everybody's done that in your group, um, you take turns to read your instructions out to the group and they can use the pink, um, the paper at the back.
+00:07:44	T	I've done a variety of colors. You should be able to fit three on one page but I've given you an extra page as well in case you can't.
+00:07:51	T	So you will be drawing three triangles or two. If there's two in the group you'll be- if there's three in the group you'll be drawing the other two triangles.
+00:07:58	T	If there's four in the group you'll be drawing three.
+00:08:01	T	So one person say Laura here will read out her instructions and the other two will actually follow her instructions, all right?
+00:08:10	T	If you then when she's finished you have a look at it and see if they're exactly the same. If they're not you can go back and change your instructions so that they actually work.
+00:08:20	T	All right? And then each other person in the group does that. So each person takes a turn to read out their instructions to the others in the group and they follow it.
+00:08:29	T	You're not to actually look at what they did. You actually have to follow the instructions.
+00:08:34	SN	Do you make up instructions (inaudible)?
+00:08:37	T	No, you make up your own instructions, it depends on what you're drawing. All right, you make up your own triangle.
+00:08:42	T	And what you're going to end up with is a minimum set of instructions so that the least number of steps that you need to draw your triangle.
+00:08:51	T	Now there's four different ways of doing it. So if there's three or four of you, you might end up with totally different ways.
+00:08:59	T	So you've got to decide what- how- what you need for the minimum number of steps for your triangle, all right?
+00:09:06	T	Is it going to be all sides, is it going to be all angles, what is it going to be? Is it going to be all six? Do you need all six angles and all six sides?
+00:09:17	T	All right so go ahead, let's start that. So you've got to draw your triangle first on the second page and then write down your instructions.
+00:09:27	SN	(inaudible) Is there one in the drawer?
+00:09:30	T	Don't think so, just borrow. No. Just borrow one.
+00:09:48	T	Draw your triangle first. All right? Draw your triangle first. You draw it on the second sheet, the top of the second sheet.
+00:09:59	SN	Where it says your triangle.
+00:10:00	T	Yep.
+00:10:00	S	Do- you need to draw two don't you?
+00:10:03	T	No, just one.
+00:10:05	SN	So miss the person that's giving the instructions (inaudible).
+00:10:09	T	You draw the triangle first yes. Everyone draws a triangle and writes down their instructions.
+00:10:13	S	All right.
+00:10:27	SN	So you want us to draw one triangle?
+00:10:29	T	Just one triangle.
+00:10:37	SN	Do you draw the triangle like this?
+00:10:40	T	You ha- yeah, you use your protractor and your compass to draw the triangle.
+00:10:43	SN	Can I trace this?
+00:10:45	T	You can. Yeah.
+00:10:47	SN	Okay I'll use it after.
+00:10:49	T	But you're not going to draw the same triangle are you?
+00:10:50	S	No.
+00:10:51	T	No. All right, and how are you going to know what size the angle is? By the length of the line.
+00:11:41	T	Yeah.
+00:11:42	SN	Can I sharpen the pencil?
+00:11:43	T	Yeah, that's all right, yep. Just go and sharpen it.
+00:11:47	S	(inaudible)
+00:11:47	T	Pardon?
+00:11:48	S	I said I don't want to get up in front of the camera.
+00:11:49	T	Yes you can.
+00:12:35	SN	I'm just waiting for a compass.
+00:12:37	SN	Is that what we're going to be doing finding the angles and stuff.
+00:12:39	T	It's not going to be the same one as Kate's is it? Yeah, you've got to find- it depends on how you're going to draw it. How you want them to draw it?
+00:12:48	T	You can either find angles or you can find sides.
+00:12:50	S	Okay.
+00:12:51	T	Or a combination of both.
+00:12:53	S	So I could write all my angles and all my sides couldn't I?
+00:12:56	T	You could but that's not the minimum number.
+00:12:58	S	Oh so you-
+00:12:58	T	So you've got to end up with the minimum number that you need. So what stage have they drawn your triangle without you having to add on the rest of the instructions?
+00:13:06	T	You might have a lot of instructions to start with and then you find after a couple that they've actually drawn it.
+00:13:11	S	Okay.
+00:13:12	T	All right? Yeah.
+00:14:14	T	You should be doing yours up here.
+00:14:16	SN	I am.
+00:14:16	T	All righty, okay. Now you shouldn't be looking. You're not supposed to know what it looks like.
+00:14:26	SN	Um, I need to make a measurement. When I measured it, it's like that (inaudible) Do I write like five point whatever?
+00:14:32	T	Yes, you'll have to, yeah.
+00:14:33	S	Okay.
+00:14:39	SN	(inaudible) I'm up to you.
+00:14:50	T	Have you finished? Have you all finished?
+00:14:53	S	Yeah.
+00:14:58	T	When you all or uh three or four of you have finished the triangle, you can start- the first person can start reading theirs out.
+00:15:05	SN	Okay, can I read mine out now?
+00:15:06	T	If the rest are finished, yes. Has Jessica finished?
+00:15:10	SN	(inaudible)
+00:15:14	S	Yes, Miss. Um- when we write the instructions will it be in here? And um, when we write it would it be- draw up a five point six centimeter-
+00:15:24	T	It's- it's whatever your instructions are going to be. It can be a combination of side- size of the length of sides or angles.
+00:15:33	SN	Miss?
+00:15:34	T	Depends on what you want to do.
+00:15:36	SN	How many instructions do we have to have?
+00:15:38	T	You're going to try them and find out. They're going to try them. If they don't draw the same as what you've got, it wasn't. If it- if they draw the same it was right. Okay?
+00:15:48	S	Yep.
+00:16:05	SN	Is that right just like- draw
+00:16:07	T	Yeah, right here. Yeah, yeah.
+00:16:08	S	A line.
+00:16:08	T	Yeah, well you've got to read it out to the other two now, they're not to know what you have got.
+00:16:12	S	I know but-
+00:16:13	T	Yes.
+00:16:13	S	Is that- is that all you have to do?
+00:16:14	T	Yes.
+00:16:15	S	Oh okay.
+00:16:17	T	Righty-o.
+00:16:19	SN	You ready?
+00:16:21	SN	Is mine right?
+00:16:23	T	It depends, if it works, if they draw the same triangle as you've got it works. If not you change it. All right? So you've got to try it.
+00:16:34	S	Okay (inaudible).
+00:16:45	SN	It doesn't work.
+00:16:46	SN	She's deliberately not responding.
+00:16:48	SN	I'm responding! She's like (inaudible) because (inaudible).
+00:16:50	SN	Draw a half circle.
+00:16:51	SN	I said- uh.
+00:16:53	SN	Okay.
+00:16:53	SN	Yes, there you go.
+00:16:54	SN	Okay, now go to H.
+00:16:58	SN	Yes.
+00:16:59	SN	Make radius six centimeters.
+00:17:07	SN	Yes.
+00:17:08	SN	Okay, have you done that?
+00:17:10	SN	Yes.
+00:17:11	SN	Now, draw an arc from H bisecting the arc from S.
+00:17:19	SN	Okay.
+00:17:20	SN	Using your compass, measure the distance from (inaudible).
+00:17:22	SN	Okay, now- you ready for this? That was (inaudible) point N, so write point N. Now draw- Now draw a line from N to S.
+00:17:36	T	Yes.
+00:17:37	SN	Okay, all right, trace a set square... but it's two minimum isn't it?
+00:17:41	T	No, no, I don't want that.
+00:17:43	S	That's why I didn't think you wanted.
+00:17:44	T	I want lines and angles.
+00:17:45	S	That's what I thought.
+00:17:46	T	All right?
+00:17:46	S	Yep.
+00:17:47	T	Because they might have a different size set square.
+00:17:49	S	Okay. Oh, yeah.
+00:17:51	T	True?
+00:17:51	S	Yep.
+00:17:52	T	Yeah.
+00:17:52	S	Okay.
+00:17:55	T	So when you have all finished your instructions you can start reading them out.
+00:18:19	T	Now you've gotta cut them out and paste them on and see if they fit. All right? And then you get to keep them. You can paste them down here. All right?
+00:18:46	T	Did it work?
+00:18:46	SN	Well I knew how to say radius but I had to say it wasn't (inaudible).
+00:18:49	T	All right, because if it- if they've worked, you need to cut them out and give them back to Jessica.
+00:18:53	SN	We're going to do them after.
+00:18:54	T	All righty-o, okay.
+00:18:55	SN	So we're doing one.
+00:18:59	SN	This- just- make a radius of five centimeters.
+00:19:01	SN	Okay. I'm not ready.
+00:19:09	SN	I think mine's right.
+00:19:10	T	You'll find out won't you?
+00:19:12	S	Yep.
+00:19:12	SN	Can you- can you- can you bi- I drew a line.
+00:19:14	T	Yes.
+00:19:15	S	And I sort of bisected...
+00:19:19	T	So did you decide that that was important or the length of the line was important?
+00:19:25	S	The length of the line- oh, no the angles.
+00:19:27	T	Angles so that's all you- so try that. All right?
+00:19:36	SN	Interval A B is vertical and measures five centimeters.
+00:19:41	SN	A B.
+00:19:42	SN	Yeah, interval A B is vertical and measures five centimeters.
+00:19:53	T	I think you can see they're pretty right, can't you?
+00:19:55	SN	Interval A C is horizontal, and it measures three centimeters.
+00:20:33	T	So did it work?
+00:20:35	SN	Uhh, no because (inaudible).
+00:20:40	T	Interesting but are they congruent? Cut them out and have a look. If they fit on top.
+00:20:44	SN	They're the same but...
+00:20:47	SN	It's the same but-
+00:20:47	T	Yeah, that's right so- so cut them out. She didn't have to did she?
+00:20:53	SN	She's got nice paper.
+00:20:54	T	Oh sorry. You could've swapped. Do you want a different color?
+00:20:58	SN	I'm kidding no. So that's right. They're- they're congruent.
+00:21:03	T	So you cut them out and give them- is it yours Natalie?
+00:21:06	SN	That's mine that's mine.
+00:21:07	T	All right so you um- you can cut them out and give them to Louise and she can paste them on hers. All right, yeah.
+00:21:16	SN	Is um- is this congruent? Because I wasn't here on Tuesday.
+00:21:18	T	Pardon?
+00:21:20	T	Yeah what's a con- congruent triangles are triangles that have the sa- exactly the same sides, three sides are equal and three angles are equal.
+00:21:27	SN	I don't cut this out do I?
+00:21:29	T	No, you- you cut the other two out and put them. But you can cut these out. All right? She can cut- Natalie can cut hers out.
+00:21:37	SN	Oh, can I cut this out?
+00:21:37	T	Oh all right.
+00:21:40	SN	This is mine.
+00:21:43	SN	That's mine.
+00:21:54	T	So have you done one yet?
+00:21:55	SN	Yeah we've done two.
+00:21:56	T	All right.
+00:21:58	SN	(inaudible)
+00:21:58	SN	Okay.
+00:21:59	SN	Hang on.
+00:22:09	SN	I've figured it out Miss.
+00:22:12	T	[laughs]
+00:22:12	SN	I think anyways. I- I'm doing the- the measurements.
+00:22:16	T	Righty-o. You don't have to do the measurements. You can make combinations.
+00:22:23	SN	Oh, I don't get this.
+00:22:26	SN	Let's get the triangle and measure everything.
+00:22:28	T	Yeah and- and do the instructions on how to make it.
+00:22:31	SN	Okay well what's the (inaudible) gonna be because (inaudible).
+00:22:35	T	That's fine. Yeah, all right?
+00:22:59	T	So have you done two?
+00:23:01	SN	One (inaudible).
+00:23:08	SN	Eight point seven centimeters.
+00:23:11	SN	I don't think that was necessary.
+00:23:13	SN	Mine's like five centimeters long.
+00:23:15	SN	Mine's eight point seven.
+00:23:16	SN	Jessica.
+00:23:17	SN	Mine's eight point five.
+00:23:20	T	Do you- are you using- yeah, a compass to draw the-
+00:23:24	SN	We would have to measure the (inaudible).
+00:23:25	T	Ah, right.
+00:23:26	SN	(inaudible)
+00:23:27	SN	It was 60 degrees
+00:23:28	T	That's all right.
+00:23:29	S	And it was six centimeters long.
+00:23:31	SN	And then-
+00:23:32	SN	Six.
+00:23:33	SN	Draw a line from the top down to the (inaudible).
+00:23:36	SN	Draw a line at 40 degrees that is five point one centimeters long.
+00:24:03	SN	Miss what should we do now?
+00:24:04	T	Pardon?
+00:24:04	S	What should we do now?
+00:24:05	T	Have you done all of them have you?
+00:24:05	S	Yep.
+00:24:06	SN	Yeah.
+00:24:07	T	Well, did you end up working out how many instructions you actually needed for each one?
+00:24:12	SN	Yep, I needed four.
+00:24:15	T	You needed four, what were they?
+00:24:16	S	Um, interval A B is vertical and measures five centimeters. Interval A C is horizontal (inaudible).
+00:24:25	T	So if it's saying horizontal it's saying it's at an angle aren't you?
+00:24:31	S	Yeah.
+00:24:31	T	So we're saying one's vertical and one's horizontal.
+00:24:33	S	Yeah and you um...
+00:24:34	T	Then you're defining the angle between them aren't you?
+00:24:36	S	Mm, I'm saying it's a right angle.
+00:24:38	T	Yes.
+00:24:39	S	Because interval- interval A B C is a right angle.
+00:24:44	T	Right, so did they need all those instructions to finish your triangle?
+00:24:47	S	Yes.
+00:24:48	T	Yes.
+00:24:49	S	Draw an arc from angle, uh, angle C joining to the B C which is the hypotenuse and draw a dot in any (inaudible).
+00:24:56	T	All right, so you started with a line that was vertical.
+00:24:58	S	Yep.
+00:24:58	T	And then a line that was horizontal of a certain length.
+00:25:00	S	Yep.
+00:25:00	T	And then you joined them.
+00:25:03	S	Yes.
+00:25:04	T	So what did you-
+00:25:05	S	And it was a right angle.
+00:25:07	T	Yes, and the right angle so you had two sides and a right angle and then joined them.
+00:25:10	S	Yeah, and then-
+00:25:11	S	The arc on- the arc on angle C and then join the interval-
+00:25:11	T	And then joined them.
+00:25:15	T	Did you- what was the arc on angle C? Show me. Right, did you actually have to have- so did you tell them what length that was?
+00:25:24	S	No. I just said join it.
+00:25:25	T	No, you didn't have to.
+00:25:26	S	Which is the hypotenuse.
+00:25:26	T	Join it, yes. Yes, so you only needed two sides and the right angle.
+00:25:30	S	Yep.
+00:25:31	T	Okay. What did you need?
+00:25:33	SN	Three.
+00:25:34	T	And what was it?
+00:25:35	SN	Okay, I took my set square and drew a straight line nine centimeters for the base. Um, number two, I then made 90 degrees set square-
+00:25:42	T	Pardon? It's, well how long was the base, did you say?
+00:25:46	S	Um, nine centimeters.
+00:25:47	T	Right. Yes. And so you drew a right angle as well?
+00:25:50	S	Yeah.
+00:25:51	T	Yes.
+00:25:52	S	Um, number two, I then made 90 degrees set square- along the line, the end on the corner, and drew a straight line up six point two centimeters.
+00:26:01	T	Yes.
+00:26:02	S	Number three I then joined the- both ends up with the right angle triangle-
+00:26:07	T	So you had the same thing, you had a right angle and two sides.
+00:26:10	S	Yeah. And the degrees were 90 degrees so-
+00:26:11	T	Right.
+00:26:12	T	Did you have anything different?
+00:26:14	SN	Nope.
+00:26:14	T	You had the same thing.
+00:26:15	SN	Almost.
+00:26:16	T	You all did right angles.
+00:26:17	SN	Yep.
+00:26:22	T	So no imagination.
+00:26:23	SN	Nope.
+00:26:26	T	[laughs] All right. So that's one of the- think and see if you can think of the same triangle if you could've given different instructions to have done the same triangle.
+00:26:38	SN	Yep.
+00:26:43	T	See if you can all end up with different ideas.
+00:26:46	SN	Okay.
+00:26:53	T	So how did you end up?
+00:26:54	SN	Good.
+00:26:54	SN	Good. We all won.
+00:26:55	SN	We have to check them.
+00:26:56	SN	I won.
+00:26:57	SN	No we all won.
+00:26:59	T	Yeah, were- were they all different?
+00:27:00	S	No, they're all the same.
+00:27:01	T	They're all the same. So what was the same? What did you end up having to write?
+00:27:05	SN	Construct a right angle-
+00:27:07	T	What did you end up having to draw?
+00:27:09	S	Oh.
+00:27:09	SN	Triangles.
+00:27:10	T	Yeah.
+00:27:11	S	Congruent triangles, they're all congruent.
+00:27:13	T	Yes, but what were the instructions?
+00:27:15	S	Um, I couldn't- um... Draw an eight-centimeter line.
+00:27:19	T	Yes.
+00:27:21	S	Um, make a radius of five centimeters.
+00:27:23	T	Mm hm. Yeah.
+00:27:26	SN	She did not say that.
+00:27:27	T	Yeah, that's all right.
+00:27:27	SN	Um, place the point of the compass at the right end of the line and draw a circle.
+00:27:32	T	Yes. Of what size?
+00:27:34	S	Pardon?
+00:27:35	T	Yeah.
+00:27:35	S	Um, with a five centimeter radius.
+00:27:36	T	Yeah.
+00:27:37	S	Um, uh- and make a... where am I? Oh, make a seven-centimeter radius and draw a circle from the left end of the line.
+00:27:46	T	Yes
+00:27:46	S	And join where the point-
+00:27:48	T	So what did you end up doing?
+00:27:50	SN	The edited version.
+00:27:52	T	Was it all the sides, all the angles, a combination?
+00:27:55	SN	Pardon?
+00:27:56	T	What did you end up with?
+00:27:57	S	All the same sides and angles.
+00:27:59	T	All the sides, yeah. Yep you end up with all the same angles but what did you tell them to draw, sides or angles?
+00:28:03	S	Um, sides.
+00:28:04	T	All sides.
+00:28:05	S	Yeah.
+00:28:05	T	Did you draw all sides?
+00:28:06	SN	Um, I said an angle of 60 degrees and then but- and then two lines.
+00:28:13	T	Which lines?
+00:28:14	S	The beginning line.
+00:28:15	T	Yes.
+00:28:15	S	Was A B 10 centimeters long.
+00:28:16	T	Yes.
+00:28:17	S	And then an angle of 60 degrees at A.
+00:28:19	T	Yes.
+00:28:20	S	And draw a line six centimeters long.
+00:28:21	T	From where?
+00:28:22	S	From A.
+00:28:22	T	From A, yep. So you've got two lines and an angle.
+00:28:26	S	Yes.
+00:28:26	T	Righty-o. And what did you end up with Tanya?
+00:28:28	SN	Uh...
+00:28:29	T	Yours were all lines as well?
+00:28:30	S	Yes. Draw an eight-centimeter interval.
+00:28:33	T	Right.
+00:28:33	S	Make a radius of five centimeters, draw an arc, make a radius of six. Draw an arc from H bisecting arc from X to form point N.
+00:28:41	T	Bisect- oh, you mean intersecting.
+00:28:43	SN	Oh, crumbs.
+00:28:44	T	Yeah. [laughs] So you'd end up with three sides.
+00:28:48	S	No, no yes, it was-
+00:28:49	T	Yeah, righty-o.
+00:28:50	SN	What's the difference between bisect and...?
+00:28:53	T	Bisecting means to cut it in half.
+00:28:54	SN	Half, yeah. Bi- bi.
+00:28:55	SN	But it did bisect it.
+00:28:57	SN	It cut it in half.
+00:28:58	T	It depends on how long the line is.
+00:29:00	SN	It was half a line.
+00:29:02	T	[laughs] Yes Louise.
+00:29:04	SN	How many times do you have to go through them?
+00:29:06	T	Just once. You have to do one each. Are you finished?
+00:29:08	SN	Is that all?
+00:29:09	T	Yes.
+00:29:09	S	She's just go to do hers.
+00:29:11	T	Righty-o.
+00:29:13	SN	We did all ours and they all figured it out.
+00:29:15	T	Yes.
+00:29:15	S	Um... with Louise's, we did-
+00:29:21	T	When you cut them out you usually cut them out to see if they fit?
+00:29:25	S	Yeah, but
+00:29:25	S	but they- the angles were all the same. We measured the angles and all that.
+00:29:25	T	Yeah
+00:29:26	T	Yeah, that's all right. Yes. Righty-o.
+00:29:28	S	Um, with Louise's, she didn't give us any angles.
+00:29:32	T	Yeah, that's okay.
+00:29:33	S	But with um mine I gave the angles, is that- is that all right?
+00:29:37	T	So which angles do you- which angles did you give?
+00:29:40	S	I gave a five centimeter line and then a right angle with another five centimeter line.
+00:29:42	T	Yes.
+00:29:44	T	Right, okay. And did you do anything different Nerida?
+00:29:47	SN	Yes, and Nerida's is good.
+00:29:48	SN	I like Nerida's. Oh, sorry.
+00:29:49	T	Yeah, so what did you start with?
+00:29:50	SN	Um-
+00:29:51	S	I started with a six centimeter line going horizontally.
+00:29:54	T	Yes.
+00:29:55	S	And then found halfway three centimeters and put a dot.
+00:30:00	S	You put the center point of a protractor on the dot.
+00:30:03	T	Yes.
+00:30:03	S	And then you uh find 70 degrees.
+00:30:06	T	Yes.
+00:30:07	S	And you draw a line then put a dot. Then you connect um the top point to the bottom right point of the six-centimeter line.
+00:30:15	T	Right. Yeah.
+00:30:16	SN	And Nerida's- see how she has (inaudible) like that.
+00:30:18	T	Yes. Yes.
+00:30:19	SN	And then you- you put the pencil on the top dot again, and draw it to the (inaudible) left hand side.
+00:30:26	T	Well that was very different.
+00:30:27	SN	I liked hers cause she had like-
+00:30:28	T	Yeah. Yeah. So you really- what was the minimum number of instructions? So you ended up with an angle there didn't you?
+00:30:36	S	Yep.
+00:30:37	T	And that was a length so it determined a- a point didn't it? So really you've drawn that triangle first haven't you? Haven't you?
+00:30:45	S	Yeah.
+00:30:45	T	Yeah, so it's- it's that line and that line drawing that angle. So you've ended up with two triangles.
+00:30:50	S	Yep.
+00:30:51	T	That one and that one.
+00:30:52	S	Yep.
+00:30:52	T	That one had a line a line and an angle.
+00:30:56	S	Yep.
+00:30:57	T	That one had an angle a line and a line as well.
+00:30:59	S	Yep.
+00:31:00	T	All right?
+00:31:08	T	Is everyone nearly finished?
+00:31:09	SS	Yes.
+00:31:10	T	So far we've only had two types. There's four. There's four types that you can do.
+00:31:23	T	If I've had a look at yours... girls, if I've had a look at yours, see if you can draw the same triangle in a different way using different instructions.
+00:31:36	SN	Do we write down those as well?
+00:31:37	T	You can right next to it yes.
+00:31:40	T	How did you go with yours? What did you end up with? But what did you draw?
+00:31:47	SN	I drew a triangle.
+00:31:48	T	What did you start with?
+00:31:52	S	A six centimeter line and then I just used compass points and joined them.
+00:31:54	T	So you just did three sides? The length of three sides.
+00:31:58	S	No, I- but I didn't include the length of- length.
+00:32:02	T	Yes.
+00:32:02	S	I just- I just said um draw a six centimeter line set your compass to three centimeters, and draw an arc from each end and draw it.
+00:32:10	T	So, that one's three centimeters and how long is that one?
+00:32:13	S	I don't know the compa- yeah, that'd be three centimeters.
+00:32:16	T	Both of them are three. So you've done two- the length of the bottom line and the length of each side.
+00:32:21	SN	No, the length of this- like how much apart (inaudible).
+00:32:24	T	Yeah well that's- that determines the length of a line doesn't it?
+00:32:26	S	Yeah.
+00:32:27	SN	Yeah.
+00:32:27	T	So what have you done, the same?
+00:32:28	SN	No um...
+00:32:30	T	You've done something different?
+00:32:31	SN	Used a ruler and protractor.
+00:32:32	T	And what did you do?
+00:32:34	S	Um, did eight centimeter line.
+00:32:37	T	Yes.
+00:32:37	S	And then I got the protractor and did 60 degrees.
+00:32:40	T	Yes.
+00:32:41	S	And join that and then join these together and found the measurements of the-
+00:32:44	T	So you found the length of that?
+00:32:45	S	Yeah, six centimeters.
+00:32:45	T	Right, so it's two sides and an angle.
+00:32:47	S	Yeah.
+00:32:48	T	Yeah. All right.
+00:32:55	T	All right girls, we'll stop now. And I'll discuss what you've been doing.
+00:33:05	T	All right, there's been basically two different sorts that have come out.
+00:33:11	T	All right, first of all most people are starting with a line of a certain length and lots of you are drawing, um another line here of a certain height-
+00:33:21	T	I'll- probably make this cross first.
+00:33:22	T	You're saying how long that will be by drawing an arc from the point, and you're saying how long the second line will be by drawing another arc from the end of the other point.
+00:33:32	T	And you're joining it up. So you're defining the length of the three sides. Okay?
+00:33:39	T	So three sides. And there's another one that a lot of people have been doing which is the one that Justine did. What's yours Justine?
+00:33:50	SN	Um, with a protractor.
+00:33:52	T	Yeah.
+00:33:52	S	Yeah.
+00:33:53	T	First of all you started with a line didn't you?
+00:33:54	S	Oh yeah.
+00:33:55	T	Yep.
+00:33:56	S	And then 60 degrees.
+00:33:58	T	Right, so you draw a line 60 degrees here.
+00:34:03	S	And then that's six centimeters.
+00:34:05	T	So then you determine the length of the line and then you join those up.
+00:34:08	T	So what she's done is what a lot of other people have done. If you got the line, that line, so two sides and an angle.
+00:34:20	T	In every single one of those that worked where did you notice the angle was?
+00:34:24	SN	(inaudible)
+00:34:25	T	In between the two lines, in the middle, all right? So the angle had to be between the two lines.
+00:34:30	SN	Yes I put that in my notes- two sides must be of the angle.
+00:34:35	T	That's good. Must- two sides must be.
+00:34:37	S	The two- like the two- cause you said the minimum and I said the two sides must be of the angle.
+00:34:39	T	Yeah.
+00:34:42	T	All right, so it's the two sides of the angle, yes.
+00:34:44	S	Yeah.
+00:34:45	T	Some people have done the angle on the left. Some people have made it a right angle but they're still defining it. There's two other ways of doing it. Helen.
+00:34:53	SN	Is it different if you just- if you say both angles?
+00:34:56	T	Yes it is.
+00:34:57	S	I just did it that way because you said (inaudible).
+00:35:00	T	Yeah. So you've got a- a line.
+00:35:01	S	A line and then A B.
+00:35:03	T	A B.
+00:35:05	S	And at A you make it 60 degrees and just draw a line intersecting.
+00:35:08	T	Yes.
+00:35:10	S	And at B you'd make an angle 37 degrees.
+00:35:13	T	Yep.
+00:35:13	S	Until their intersecting.
+00:35:15	T	So that's another way of doing it. Yes Kate?
+00:35:19	SN	Uh, another way is you get-
+00:35:21	T	Hang on- I'll just write this one up. A side and two angles, all right? And what's the other one Kate?
+00:35:29	S	And you draw a 90 degree angle
+00:35:31	T	Yes
+00:35:31	S	And you join the other side up.
+00:35:33	T	And you join the other side up.
+00:35:34	SN	Join the two ends.
+00:35:35	T	Right, you've got a 90 degree angle, what are you going to define? What else are you going to tell me? You said I've got a 90 degree angle, what else are you going to tell me?
+00:35:44	S	The length.
+00:35:45	T	The length of the sides. So you've got the length of that side and the length of that side, is that the same as anything I've done?
+00:35:52	SN	No.
+00:35:56	SN	(inaudible)
+00:35:57	SN	Like the bisecting ones.
+00:35:59	T	You've got the bisecting one.
+00:36:01	SN	The two sides and an angle.
+00:36:02	T	It's like the two sides and angle, only the angle this time is 90. But it is to do with a right angle. The right angle can be special. Yes.
+00:36:14	SN	Is it (inaudible)?
+00:36:16	T	No.
+00:36:17	SN	Doesn't- doesn't the two angles add up-
+00:36:19	T	Yeah.
+00:36:19	SN	Yes yes, that's right. The- the angle up the top.
+00:36:23	T	Yeah.
+00:36:24	S	Has- those two angles have to add up to 90 degrees.
+00:36:26	T	They have to add up to 90 degrees, but if I define the three angles will I get congruent triangles?
+00:36:33	S	Um...
+00:36:34	SN	Yes.
+00:36:35	SN	No.
+00:36:36	T	Why not?
+00:36:37	S	Because they'll be different lengths.
+00:36:39	T	They could be different lengths so I could have another one exactly the same only smaller with the same three angles. So three angles is no good.
+00:36:52	T	But I've still got this right angle here. I can define it as two sides and an angle, or I can also define one side and the other side,
+00:37:04	T	the hypotenuse and it will always be the same with a right angle triangle.
+00:37:10	T	All right? So this one is written as S A S, side angle side. And the A goes in the middle to show you that the angle has to be between the two sides. This one is written as, can you guess?
+00:37:27	SN	S S S.
+00:37:28	T	S S S. This one?
+00:37:32	S	A A S.
+00:37:34	T	A A S or S A A, yep. And the last one is R for right angle, H for hypotenuse and S for side. All right, it doesn't matter which side.
+00:37:48	T	All right, I just want you to start activity... yeah uh by the way to finish this off, paste those triangles in here that match yours. All right?
+00:38:02	T	And... in your book... page 343... 343.
+00:38:30	T	No, you did the other.
+00:38:31	T	All right, page 343, this- number one, two, three and four explains what we've been doing
+00:38:38	T	so if you need to go and read those you can but I want you to start activity seventeen point one.
+00:38:44	T	And where it says for number one it says are these triangles congruent? Why? I just want you to write S S S, S A S, A A S or R H S, whichever applies.
+00:38:59	T	So the first one, what- which one will it be? Question one on activity seventeen point one.
+00:39:06	SN	S S-
+00:39:06	SN	Miss, can I (inaudible)?
+00:39:07	T	Yeah. Yep.
+00:39:09	SN	What is S S S?
+00:39:12	SS	(inaudible)
+00:39:17	T	Girls, just listen please. Number one, it says are these triangles congruent, why. Some people have been calling out. It's S S S because the three sides are equal. Can you see that?
+00:39:29	SN	Oh.
+00:39:29	T	And which- and you've got to name the pairs of equal corresponding angles. So when it says are these triangles congruent and it says why just say S S S.
+00:39:38	T	So start activity seventeen point one if you've got any questions, I'll ask you.
+00:39:50	T	I'll also check your homework.
+00:39:54	SN	You said that was due Friday.
+00:39:56	T	No, I said it was due today. Your homework you had to do the investigation activity.
+00:40:02	SN	(inaudible)
+00:40:03	T	Yeah. Just want to check if you've done it. So-
+00:40:37	T	Is anyone away today? I don't think so, no.
+00:40:41	T	Okay, so, did you do your homework?
+00:40:46	SN	How's that? That- that.
+00:40:49	T	Yeah you just had to do some- you had to do this. Yeah. All right? It was pretty easy you just had to say which sides were equal.
+00:41:02	SN	What about (inaudible)?
+00:41:05	T	Right- right ha- right angle, hypotenuse and a side. All right? I'll write these down next lesson anyhow and go over it.
+00:41:14	S	Oh.
+00:41:14	T	Girls, I'll go over these rules next lesson and write them down. But I just want you to start some of the examples.
+00:41:19	T	Did you do your homework? Good. Elise?
+00:41:25	SN	(inaudible)
+00:41:35	T	Did you do your homework?
+00:41:36	SN	Yes.
+00:41:37	T	Good.
+00:41:38	S	I did- actually I accidentally did two and two as well. Like I did number two on the other page too.
+00:41:44	T	These ones?
+00:41:45	SN	(inaudible)
+00:41:46	SN	No I did these ones too.
+00:41:48	T	All right, that's all right. That's basically what we're doing today. Did you realize?
+00:41:53	S	Yes.
+00:41:53	T	So you should have been clued up. You should've known the other two. Right. Have you done your homework?
+00:42:03	SN	Um, yes I did. I did those and these chapter seven through (inaudible).
+00:42:08	T	Yes. Yeah you did exactly the same thing Helen.
+00:42:10	SN	Um, yeah.
+00:42:11	T	Okay.
+00:42:13	SN	D equals D.
+00:42:15	T	(inaudible) Okay.
+00:42:19	SN	Which activity is it?
+00:42:21	T	Seventeen point one you're doing.
+00:42:23	SN	That's not 17, oh.
+00:42:24	T	Yeah. So- just start those.
+00:42:27	S	Okay.
+00:42:28	T	All right, did you do your homework? Good, okay.
+00:42:31	SN	It's very messy.
+00:42:32	T	That's all right.
+00:42:40	T	Kate?
+00:42:41	T	Good. Mikala?
+00:42:41	SN	Yeah.
+00:42:46	SN	I did the other homework.
+00:42:47	T	The other homework? Oh, righty-o, good. Okay, that's when you didn't do it the other day.
+00:42:52	S	Yeah.
+00:42:53	T	I'll tick that off. All right. I always give you a tick above the cross if you do it again.
+00:43:01	T	Elise, you did- weren't here.
+00:43:03	SN	I was in bed.
+00:43:04	T	Pardon?
+00:43:05	S	I was in bed with mumps.
+00:43:06	T	You've been sick haven't you? So you know- you understand what we're doing today?
+00:43:13	S	No.
+00:43:14	T	Even though you missed the lesson? Congruent triangles have exactly the same three sides equal and three angles equal.
+00:43:20	S	Oh.
+00:43:20	T	So go over the work that we did. Have a look at the beginning of the chapter of it, and it will say that- um- that sheet I gave you.
+00:43:27	S	Oh, okay.
+00:43:28	T	That's basically all it is. So it's just saying three sides are equal and three angles are equal.
+00:43:31	S	Oh okay, that's pretty easy.
+00:43:33	T	Yeah. How'd you go with the revision at beginning of the lesson?
+00:43:39	SN	Um, (inaudible).
+00:43:41	T	Got a few right?
+00:43:42	SN	(inaudible)
+00:43:43	T	Oh good, that's all right.
+00:43:45	T	Nicole, did you do your homework?
+00:43:46	SN	Yeah.
+00:43:47	T	Good.
+00:44:00	T	Did you do your homework Mary? Okay. So you did it, okay.
+00:44:10	SN	No I wasn't here and I didn't know about it.
+00:44:12	T	Yeah?
+00:44:13	S	I wasn't here.
+00:44:15	T	Righty-o. You were here last lesson.
+00:44:17	SN	No.
+00:44:18	SN	I- I was away.
+00:44:19	T	Um, all right, okay.
+00:44:19	SN	She was away.
+00:44:31	T	That's the end of the lesson. All right, I'll just check- girls, can you- did everyone else do their homework?
+00:44:37	T	I haven't got around to checking you all. Who didn't? You were away that's all right Natalie. So everyone else did it? Marisa?
+00:44:46	T	For homework I just want you to um do down to the bottom of the page down to number four. Yep.
+00:45:01	SN	What page were we on?
+00:45:02	T	Page 344. For homework... to the bottom of the page. All right, that's due Friday, tomorrow. I'll take your books tomorrow too. I didn't collect them last lesson.
+00:45:28	T	All right girls you may go.
+00:45:32	SN	Miss, what do we do with these?
+00:45:34	T	You keep them and put them in your book. Don't lose them.
+00:45:50	SN	Um, do we have maths tomorrow?
+00:45:52	T	I think so. Why?
+00:45:55	SN	Well, because I'm not going to be here tomorrow. I'm going to Newcastle.
+00:45:57	T	Going to where?
+00:45:58	S	Newcastle.
+00:45:59	T	All right, what for, anything interesting?
+00:46:01	S	Uh, yeah, my sister's (inaudible) competition, and (inaudible).
+00:46:07	T	So just do a- finish that- that time exercise. Yeah.
+00:46:12	S	Okay well I'm trying to find my (inaudible).
+00:46:14	T	We'll know what you're up to.
+00:46:15	S	Okay.
+Ê

@@ -1,0 +1,1314 @@
+{
+  "lesson_id": "M-CZ3",
+  "transcript": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math CZ3 transcript.txt",
+  "n_bins": 91,
+  "n_risky_bins": 22,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Good day everyone. Finish up drinking your sodas and eating your lunch. You may stay seated. [T] Today we're not going to have tournaments, but since I will walk around the room, [T] I would like you to zip up your backpacks and place it under your desks. [T] Zip up your backpack please. Good. I"
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Zip up your backpack please. Good. In our last class, we talked about the concept of powered numbers. [T] We worked with terms like the value of a numerical expression and the sequence of the mathematical operations. [T] Which one of you can describe- which one of you can describe, what is a squ"
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Which one of you can describe- which one of you can describe, what is a squared number. What kind of product or creation is it? [T] Give us an example of a powered number. [T] Not everyone at the same time because we can't understand it. Marcela? [T] Five squared. At what power. [T] To the secon"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Jana, come up here and write it up on the left side of the board. Here is a piece of chalk. [T] Yes, good. What Jana wrote up there is the second power. [T] So, number five is the foundation of a power and the number two is, you've already mentioned it here? [T] Exponent, or we may use a foreign"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] To the third power. Any other power. Lubo? [T] Excellent, eight to the tenth power. What power is it? [T] The tenth power, fine. We have here... we have already... we'll do it again, calculating some of these problems. [T] The value of a numerical expression, so why don't we... before I give you"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Two to the second power minus three times five, two to the second power minus three times five. Martin? [T] Minus 11. And how did you calculate it? [T] Minus 15. And why didn't you calculate, two squared which is four, minus three equals one, times five? [T] So as a rule, we use multiplication f"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You'll all receive the same work, but each person will be calculating something different. [T] So, first take a look at it, don't calculate anything yet, don't sign it. Paul, can you pass these around? Here and Marcela as well? [T] You'll give it a try, okay? Okay, two more? You will get the res"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All of you have one? [T] Okay I... Do you boys each have one? [T] Each person must have one. Good. I would like you to mark which one you're going to do in order to be quick. [T] Lucka will do letter A, you will do B, you will do C, D, you E, you F, G, H. You will do A, B, C, D, E, F, H, G."
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Lucka will do letter A, you will do B, you will do C, D, you E, you F, G, H. You will do A, B, C, D, E, F, H, G. [T] G and H, you don't have one yet? You'll do B and you will do C."
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] G and H, you don't have one yet? You'll do B and you will do C. [T] Fine, you'll have the letter A. Do you have one? You do. Good. Calculate it, and when you're done raise your hand, so we can... [T] Very good. Come up here Paul, take your work with you."
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Very good. Come up here Paul, take your work with you. [T] Then we'll correct it. That's why we're in school, to learn."
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You may and do you have the same one as Paul is doing? [T] Go up there and do it on the board. Your own assignment and if you have it completed and it's not already on the board, go up there and do it. [T] If it's not on the board, go up there and do the problem. Be careful so... [T] You want to"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Letter H, yes you may. Of course. You can't go up anymore but you may check the work. [T] Which assignment do you have? [T] You may go up and do the assignment. You as well. Just check your work to see if you have it correct. Chalk is over there, yes."
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You may go up and do the assignment. You as well. Just check your work to see if you have it correct. Chalk is over there, yes. [T] If you've checked your own work, you have the entire text in front of you so you can check the other assignments as well. [T] So, who has done the letter A? [T] No "
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The last two assignments. I would like to have someone do the letter A. Who has the letter C? [T] It's not possible yet? How about the letter C, if any of you has it done. We still don't have the letter F completed. [T] I did not assign the letter F to anyone? [T] Excuse me? [T] Nikola, okay. I "
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Write it on the board. [T] Lucka is done, so she can check her work. Now Denisa will go up to the board. [T] Okay! [T] You will do C and what else."
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes? We'll check all the work. Just wait for a moment. Good job. Good. [T] I would like all of you to pay attention. You have the assignments in front of you. Let's all check the work together."
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I would like all of you to pay attention. You have the assignments in front of you. Let's all check the work together. [T] Which one... rather letter 1A, tell me which calculating performance is it or what is the last calculation, we must do in this problem. [T] We'll know what kind of problem i"
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Product. Correct, from what two numbers did she get the result. [T] Seven and four. Good. Number three. What is the last calculating performance. [T] Subtraction, no addition, and from what two numbers? [T] From four and minus 12. Excellent. What does it say? I can't see it. [T] What is the corr"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Minus eight. Go up there to correct it. Okay and number four, what is the last calculating performance? [T] Good. Excuse me? I can't hear you. [T] Multiplication, good, and what two numerators? [T] Okay, I heard the number four somewhere. That means we'll have to take a look at what's in the par"
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So, it will not be negative one, but a positive one. Denisa has four up there, which is fine. Let's go to letter B and let's try quickly. [T] What last two numbers will be calculated. Go ahead. Jarko? [T] Nine minus two equals two. Good. Next, number two. Lukas? [T] Excuse me? [T] And the answer"
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Dennis! [T] Excellent. Let's do letter C, the first problem. Once again, I want to know which two numbers are calculated... Go ahead Jana. [T] The answer is 19. Number two? What is that? [T] And what is it? A product, correct Jarko. It's 14 times two. Fine. Number three is? [T] Difference? The a"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Difference? The answer is, minus one. Number four is? [T] Yes, it's correct. Make sure to check the products, which are up there as a hint. Letter D? [T] Dennis? [T] The answer is 11. Good. [T] Good, Paul and the answer is? [T] Minus nine, fine. Number three, Paul? [T] Minus 21? Number four. [T]"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Be careful here. [T] Okay, but four minus five does not equal one. [T] Minus one. Minus one squared. Is it in fact one? Isn't it negative one? [T] It's one squared. [T] Now, let's do letter E. Excuse me? [T] Can you repeat it, Martin? [T] Where. The problem in letter D?"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Where. The problem in letter D? [T] We'll take a look at it. Eleven minus nine minus 21 and one. Eleven minus nine equals. Excuse me? [T] Two. Two minus 21 equals negative... [T] Negative 19 plus one equals negative 18. Martin is correct, we should check the work for mistakes. Next is letter E. "
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I see something else up there. I would like someone to put negative up by the number. Who did that problem! Good. [T] Number two. [T] Fifteen minus 18 should be. Excuse me? [T] Negative three, it's already up on the board, good. Number three is? [T] Correct, 15 minus 12. Fine, and number four? ["
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Six, because the root of four times nine. Fine. Letter F. Go ahead Nicole. [T] In this problem we're not going to have only a sum of the number nor a product of the number. [T] The assignments in F are composed of? Problem, number one? [T] Minus 25 equals? [T] Negative 20, correct. Number two? ["
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Plus two. One minus four equals minus three plus five is positive two. Fine. How about the problems in letter G. [T] Go ahead Jana. [T] Correct and do number two as well Jana? [T] Yes and Paul will try number three. [T] Yes."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Martin is helping him out so why don't you tell us since you know it. [T] The root of the number, yes. [T] Excellent, Martin. How about number four. [T] Ten minus... you're already doing the next one, in that case go ahead Denisa, give it a try."
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The answer is negative 36, which is up on the board. Now we'll get to the last one, which is letter H. [T] Why don't you try the first one Paul. [T] Yes. [T] Be careful you have multiplication there. Multiplication."
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Fine. Jarka will try the next one? [T] Excellent. Lubo will try number three. [T] I would say it's going to be a bit different. You've calculated the parenthesis correctly."
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I would say it's going to be a bit different. You've calculated the parenthesis correctly. [T] Thirty minus 20 equals 10 and 10 squared is 100. [T] One hundred times two equals 200. It's on the board. Mike, please read number four. [T] I meant Mike Papez. Mike Brizek has not been here in class f"
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Negative 140. Martin did a good job, I suppose... I see. [T] Why does it say 100... it does say negative 100 but why does it say 145 on the board? [T] Someone must have made a mistake. We should correct it on the board. Go over there and write negative 140. [T] I'm very pleased to see you checki"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And once again I want to give high marks to Martin who was keeping an eye on all the work to make sure the calculations are correct. [T] Even if it did not come out right, he kept a good eye on it. Good. [T] Now I would like you to put these papers away and take out your books. Last Friday we st"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Which is in the variable form. Open your books to page 24. Honza will open his book as well. [T] And as a review, we'll go over some of these problems on page 24. Let's review, start with 1A. Jana? [T] Excellent. How about B? [T] Excuse me?"
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That was letter C and B. [T] Negative four to the third power. Go ahead Jana. [T] What are we going to call it. [T] Negative four, Nicole. [T] The whole number to the third power. Good. We'll know that it includes the negative number. Great. How about D? [T] You've said it already, so it's X to "
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Nine. Excuse me? Eight, excellent. [T] One. [T] Yes. [T] Yes. [T] Very good. [T] Good and now we must be careful because we have decimal numbers. The first one is? [T] One hundredth. [T] Hundredth. [T] Eight."
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Correct. [T] Speak up. Everyone else should be quiet, Lukas will tell us... [T] Ten thousandths. And the second to last problem? [T] And the last one is? [T] Jarka. [T] Excellent. Now we'll discuss the letter C, which is a bit more difficult."
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Just to make sure you realize when the power is positive and when it's negative. [T] So the first one is, Paul? Fine. Number two. Raise your hand and speak up so I can hear you. Paul? [T] Rosta? [T] Good, I'm glad you've gotten it right. Next calculation? Veronika. [T] Excellent. Next problem? ["
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The fifth power and the last one Paul? [T] Positive one because it's... [T] Sixth power. Fine. That should be enough reviewing. We'll eventually get back to that because we'll have a test on this. [T] You will need more practice. [T] If you can recall, on Friday in our math class, you've worked "
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And in one way or the other we did some calculations. What do we call... look it up on page 25. [T] When we add up, two A cubed plus three A cubed, what did we call it on Friday? I also drew out a picture for you? What is A cubed? [T] What is A cubed? How do I imagine it? [T] Volume of a cube. F"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Based on the picture which we have there or based on the notes. [T] We have X cubed which is once again a volume of a cube but we also have Y squared which is not a volume of a cube but it's what? [T] The area of the square. Fine. So, Jana what can we sum up? [T] We're on page 25 on top of the p"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The cubed numbers may be added up. [T] The squared numbers separate. [T] We have a paragraph in the book that talks about which powered numbers we can add up and which powered numbers we can't. [T] Please, read this part for me. [T] Good and now you have an expression which can't be added togeth"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Very good. A segment of a squared number as I've shown you by drawing it out, cannot be added together. [T] We have another similar example. Marcela please read the one we can't add up. [T] Why can't we calculate it? [T] Because it's two different things. I must admit that I can't think of a bet"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Because it's two different things. I must admit that I can't think of a better example than X and Y. [T] I can't put these two together because I would not have anything out of it. [T] In your books you have some examples such as number one. Since it's difficult to write in your notebooks, I'll "
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] This should be enough. Place the remaining sheets on my desk. I don't think you'll have enough on this side. I'll get more from Paul. [T] So, use it to answer the questions and just write the answers, okay? Was there enough for you guys back there? [T] I knew there was not enough on your side. Y"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Assignment number one. [T] Place it on your desk."
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Place it on your desk. [T] You're done? Great. Why don't you just take a look at this problem, don't do it yet. Good."
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You're done? Great. Why don't you just take a look at this problem, don't do it yet. Good. [T] This is five cubed plus three cubed equals..."
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] This is five cubed plus three cubed equals... [T] Eight cubed, so it's eight... [T] X cubed, correct. This is three squared, write it on the sheet of paper. [T] Those of you that are finished, please raise your hand so I know when to check the results. Good, is it working out for you Paul? [T] G"
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Good, we can start reviewing the answers. Why don't you start Lubo? [T] Yes, you just made a verbal mistake, fine. Paul? [T] Okay? The problem is three squared and one squared, which is four. Marcela?"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Good, that's a bit more difficult for us at this time because we've said that we'll go up to the fourth power for now, but the answer is 10 X to the fifth power. [T] Paul? [T] Good. Marcela? [T] Good. Lubo? [T] Yes. Jana? [T] Great. Teresa?"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Positive, number correct? Two Y minus one equals two. Lukas? [T] Very good. Why is that? [T] Okay, two different exponents. One is squared and the other one is cubed, of course. [T] Okay, Martin was the first person to be done, so he had the time to take a look at number two. [T] Now he'll try t"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Very good, so give it a try so we know how to do it. [T] I think Martin, we should start with... [T] The middle which is X squared. Calculate three X squared. [T] Four X squared. Now we keep on going. [T] Yes, that's two X squared and what else?"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Good six X squared, minus... [T] Is one X squared and as you can see we got into the circle. Let's try another one. [T] Yes! [T] Yes! [T] And once again we got back into the circle. Great. [T] I guess we know these assignments and now I'll give you some assignments and you'll try to calculate th"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Once again, please write the calculations on the sheet of paper. Here you go? Paul is getting a little something different. [T] One for you Martin, here is one for the other Martin. Please clean up your desk so you can have plenty of... yes you may start calculating. [T] Okay, you may do this on"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, you may do this one, you were very good with that one last time. You can try this one, you this one, Peter and Bara gets one. [T] I can give you this one as well. Martin, this one and this as well. Start calculating the assignments. Yes, it's not too much work. [T] I have enough for you tw"
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I have enough for you two. Great. Very good Martin. Yes, yes. You're a clever girl. Sit up or you'll have crookback. [T] Yes."
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Yes, the entire page. Do you need anything? [T] Fine. [T] (inaudible)"
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Well and what is it going to be, zero A to the fifth power. It's zero times A to the fifth power, which is? [T] Zero, okay? Because when you take this formula and minus it with the same formula, you get zero, so write equals zero. [T] Yes? [T] This is already calculated, you just have to review "
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Excuse me! [T] You need an advice? Yes, you're doing the entire page. [T] Yes, you may."
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, you may. [T] What are you saying? [T] (inaudible)... five to the fourth power. [T] Five C to the fourth power. And it is five C to the fourth power isn't it? [T] You have negative here so you're going to find five C to the fourth power over here."
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Well, A squared minus two A squared. Find out whether it's true or not. You're supposed to change over the expression, okay? [T] That means this is minus A to the second power. This over here, whether it's negative A... [T] Okay and down here you have the answers so why don't you check your work"
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay and down here you have the answers so why don't you check your work. [T] You've scratched this out because it's not correct, yes? [T] That was already crossed out, fine. You must change over the numbers here as well. Very good, are you checking your work? [T] Unfortunately, you will not be "
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Unfortunately, you will not be able to see the incorrect answer. Just cross out the incorrect answer next time. Martin is finished? [T] Try this down here, this formula and change over the expression. Okay? Yes! [T] Yes? [T] Very good, you're so smart. Did you check this one to see if it's corre"
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Very good, you're so smart. Did you check this one to see if it's correct? Verify it to make sure it's correct. [T] This may not be correct. [T] Are you sure? [T] Yes. [T] Well yes, but that equals zero. The previous formula is a partial answer. [T] Yes, yes. [T] It's not an answer. It's only a "
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It's not an answer. It's only a partial answer. [T] Correct. Yes? [T] Yes, because zero times A squared is? [T] Zero, very good. Yes? [T] Here you have a formula and your assignment is to do the same here which is to change over the numbers where it's correct. [T] And where you see the numbers i"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, yes. May I help you? [T] Excellent and did you finish this part as well? [T] Why don't you take a look at it than. [T] Yes. [T] First of all I would... It's calculated already, very good... It's not calculated here. [T] Read it carefully first. Yes?"
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No. Here you have negative four A squared, so you'll find it here and cross it out. [T] Yes and you crossed it out, correct? Of course you may. [T] Okay, great. Now I would like everyone to stop. Please place your pencils down for a minute."
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, great. Now I would like everyone to stop. Please place your pencils down for a minute. [T] You've noticed that everyone had a variety of work. So, those students that had assignments A and B, please raise your hands. [T] Lubos is finished, [T] So he'll take a seat in the back of the room a"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Fine, so Denisa is the second one to be finished, so she'll sit in the middle desk. [T] Okay raise your hands so I can send you to your proper desk. Which of you had A and B assignments? [T] Denisa is back there already so let's see... [T] You're going to Denisa's team, Petra goes to her as well"
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Bara goes to Lubos' team, Paul goes to Denisa, Teresa is with Lubos, Lukas is with Lubos as well. [T] Is there anyone I did not call up? [T] Rosta, you will go with them, good. Quietly please. Paul, let him pass you by. Which students had C and D assignments? [T] You have what? [T] Okay, so you'"
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The only people that will stay up here are Martin joined by Lukas, Marcy, Veronika... you will get Honza, Jana and Paul. [T] And you two remained. Okay, one of you will go with the girls and the other one will go here, okay? [T] You will go with them. Actually, why don't you come back here, brin"
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You will go with them. Actually, why don't you come back here, bring up a chair, stay here with this group to make it simple. [T] You're supposed to compare the answers and if your results come out different, discuss it, okay?"
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Honza will explain it to you. Which one did you work on? [T] What team were you part of? [T] Come back here so I can take a look at how you went over your work. Come back here. [T] Come back here so I can talk to you about it. Petra, Paul, come here. [T] That's very good. Come, come. Petra as we"
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That's very good. Come, come. Petra as well, and Paul. Come on Paul so I can take a look at it and share information. [T] Petra's work is here, fine and Paul is here, good. Once again, going over these math problems is important so all of you can learn. [T] Okay, I would like to know how did you"
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I see, you've substituted X with one for example, and one cubed minus one cubed equals zero. Okay, now we know. [T] Some students asked me, if they can use zero times X cubed. Would that answer work or is zero a more accurate answer? [T] What is the result when you multiply zero times X cubed. I"
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So this is a complete answer. The previous example would have been an incomplete answer. Okay? [T] Paul, which one were you having a hard time with so we can discuss it. [T] And why did you have problems with this one. You did not read it accurately. [T] Okay, so you didn't read it. Basically th"
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It got easy for you, great. You may quietly return to your seats. How are you doing over here? [T] Excellent. You may return to your seats. Were you having any difficulty? [T] Fine. [T] You're making up the assignments. [T] Well, fine. You did check the rest of your work, yes? [T] You may return"
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, you can calculate it. The only thing remaining is? Positive X minus X equals to? [T] Zero, and the only thing remaining will be the grand total of... [T] Five X cubed. [T] If you're done checking your work, please return to your seat. You may return to your seats, okay?"
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If you're done checking your work, please return to your seat. You may return to your seats, okay? [T] Good, I would like everyone to put everything down. We'll get back to... Lubos! [T] We'll get back to the assignment which was given to you on Thursday. [T] The story is... or the text is as fo"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Mr. Blacksmith forged Ritirov's horses. How do you want to trade? [T] Horseshoes are for free Mr., but you must pay me for the 16 nails. Pay me for the nails which I used. [T] For the first nail, give me two pennies, for the second nail give me four pennies. [T] And for each additional nail pay "
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Then you calculate how many pennies is Mr. Blacksmith going to get, and if it comes out to more than one dollar, tell us how much is it in dollars. [T] I took a look at some of the students' work and I congratulate some of you on a good job. [T] I looked at Martin's work which was completed here"
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And did you calculate it in dollars? [T] Fine. I would like Martin to... [T] Yes, you've all done your calculations but Martin will write on the board what he has done here on his paper. [T] He wrote number two... okay fine and underneath that... now he'll write number one next to it. Next to it"
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] He wrote number two... okay fine and underneath that... now he'll write number one next to it. Next to it, write number one. [T] Later on you'll understand where he's going with this. Then he wrote number four slash two, eight slash three, [T] sixteen slash four, 32 slash five, 64 slash six, don"
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] sixteen slash four, 32 slash five, 64 slash six, don't worry you will not have to write all the numbers. [T] One hundred and twenty-eight slash seven, good. That should be enough. Can you figure out reasoning behind all of this? [T] Is there some kind of correlation, or is it just a coincidence "
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] To the second power, very good. So number two is to the first power, four is... [T] Excellent. Number three is... I mean number eight is... [T] Two cubed. So, these numbers are exponents... [T] And the main number is always two and this is a powered number."
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, since we don't have any time left, finalize... I'm very pleased that you recognized this as a squared number. [T] Let's outline your homework. Number one to six may look overwhelming but it's just simplifying the expressions. [T] Which you just did in class, okay?"
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Which you just did in class, okay? [T] Because I would like to go over number seven in class. But you may try it on your own. [T] Did you write down your homework assignments?"
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Good day everyone. Finish up drinking your sodas and eating your lunch. You may stay seated. [T] Today we're not going to have tournaments, but since I will walk around the room, [T] I would like you to zip up your backpacks and place it under your desks. [T] Zip up your backpack please. Good. In our last class, we talked about the concept of powered numbers."
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You'll all receive the same work, but each person will be calculating something different. [T] So, first take a look at it, don't calculate anything yet, don't sign it. Paul, can you pass these around? Here and Marcela as well? [T] You'll give it a try, okay? Okay, two more? You will get the rest of it."
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Lucka will do letter A, you will do B, you will do C, D, you E, you F, G, H. You will do A, B, C, D, E, F, H, G. [T] G and H, you don't have one yet? You'll do B and you will do C."
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] G and H, you don't have one yet? You'll do B and you will do C. [T] Fine, you'll have the letter A. Do you have one? You do. Good. Calculate it, and when you're done raise your hand, so we can... [T] Very good. Come up here Paul, take your work with you."
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Very good. Come up here Paul, take your work with you. [T] Then we'll correct it. That's why we're in school, to learn."
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You may and do you have the same one as Paul is doing? [T] Go up there and do it on the board. Your own assignment and if you have it completed and it's not already on the board, go up there and do it. [T] If it's not on the board, go up there and do the problem. Be careful so... [T] You want to do the letter A? [T] Letter H, yes you may. Of course. You can't go up anymore but you may check the work."
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes? We'll check all the work. Just wait for a moment. Good job. Good. [T] I would like all of you to pay attention. You have the assignments in front of you. Let's all check the work together."
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Fine. Jarka will try the next one? [T] Excellent. Lubo will try number three. [T] I would say it's going to be a bit different. You've calculated the parenthesis correctly."
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I would say it's going to be a bit different. You've calculated the parenthesis correctly. [T] Thirty minus 20 equals 10 and 10 squared is 100. [T] One hundred times two equals 200. It's on the board. Mike, please read number four. [T] I meant Mike Papez. Mike Brizek has not been here in class for a while so he's just reviewing the work."
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Place it on your desk. [T] You're done? Great. Why don't you just take a look at this problem, don't do it yet. Good."
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You're done? Great. Why don't you just take a look at this problem, don't do it yet. Good. [T] This is five cubed plus three cubed equals..."
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Good, that's a bit more difficult for us at this time because we've said that we'll go up to the fourth power for now, but the answer is 10 X to the fifth power. [T] Paul? [T] Good. Marcela? [T] Good. Lubo? [T] Yes. Jana? [T] Great. Teresa?"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Once again, please write the calculations on the sheet of paper. Here you go? Paul is getting a little something different. [T] One for you Martin, here is one for the other Martin. Please clean up your desk so you can have plenty of... yes you may start calculating. [T] Okay, you may do this one, you were very good with that one last time. You can try this one, you this one, Peter and Bara gets one."
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, you may do this one, you were very good with that one last time. You can try this one, you this one, Peter and Bara gets one. [T] I can give you this one as well. Martin, this one and this as well. Start calculating the assignments. Yes, it's not too much work. [T] I have enough for you two. Great. Very good Martin. Yes, yes. You're a clever girl. Sit up or you'll have crookback."
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Excuse me! [T] You need an advice? Yes, you're doing the entire page. [T] Yes, you may."
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No. Here you have negative four A squared, so you'll find it here and cross it out. [T] Yes and you crossed it out, correct? Of course you may. [T] Okay, great. Now I would like everyone to stop. Please place your pencils down for a minute."
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, great. Now I would like everyone to stop. Please place your pencils down for a minute. [T] You've noticed that everyone had a variety of work. So, those students that had assignments A and B, please raise your hands. [T] Lubos is finished, [T] So he'll take a seat in the back of the room and I will send him those students that have the same assignments and they will discuss and check their work. [T] Once again, please raise your hand those of you that have A and B assignments. [T] Fine"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Fine, so Denisa is the second one to be finished, so she'll sit in the middle desk. [T] Okay raise your hands so I can send you to your proper desk. Which of you had A and B assignments? [T] Denisa is back there already so let's see... [T] You're going to Denisa's team, Petra goes to her as well, Bara... quietly please. Wait until I'm done. [T] Bara goes to Lubos' team, Paul goes to Denisa, Teresa is with Lubos, Lukas is with Lubos as well."
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] He wrote number two... okay fine and underneath that... now he'll write number one next to it. Next to it, write number one. [T] Later on you'll understand where he's going with this. Then he wrote number four slash two, eight slash three, [T] sixteen slash four, 32 slash five, 64 slash six, don't worry you will not have to write all the numbers."
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] To the second power, very good. So number two is to the first power, four is... [T] Excellent. Number three is... I mean number eight is... [T] Two cubed. So, these numbers are exponents... [T] And the main number is always two and this is a powered number."
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, since we don't have any time left, finalize... I'm very pleased that you recognized this as a squared number. [T] Let's outline your homework. Number one to six may look overwhelming but it's just simplifying the expressions. [T] Which you just did in class, okay?"
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Which you just did in class, okay? [T] Because I would like to go over number seven in class. But you may try it on your own. [T] Did you write down your homework assignments?"
+    }
+  ]
+}

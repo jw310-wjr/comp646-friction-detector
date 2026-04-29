@@ -1,0 +1,450 @@
+00:00:02	T	Dan, Dan stop it. So, Stephanie came back, and Hanka is still absent. Any other changes?
+00:00:19	T	Good, then today we will start with Pythagorean theorem. Get ready, take your notebook and write today's date, number of the class.
+00:00:36	T	So, the number of the class is 30, today's date. So, I'm going to invite up here Marcela Draslerova, come on Marcela.
+00:00:58	T	So, Marcela write the problem statement on the board. I would like you to calculate. We have a given rhombus, which has two diagonals.
+00:01:13	T	One is 12 centimeters long, the second one seven centimeters. So please Marcela, find out the perimeter of the rhombus. What is the perimeter of this rhombus?
+00:01:35	T	Do you need me to turn the light on? Is it better? So Marcela, talk.
+00:02:11	T	So, Marcela, explain.
+00:02:13	SN	(inaudible)
+00:02:14	SN	So, diagonals are split into halves, with the help of the Pythagorean theorem we'll figure out the length of each side.
+00:02:24	T	Sides. Marcela, what kind of shape is it? The rhombus. The attribute of the diagonals you've explained, one point is discovered, is there any other?
+00:02:33	S	It's (inaudible).
+00:02:35	T	Yes, that too, we would certainly need it.
+00:02:40	T	Psst, Dan!
+00:02:41	S	Oh, yes. It has all the sides the same.
+00:02:42	T	So, I'm not going to count that, because it was heard before here. So, all the sides are the same length, in that case, we can make the picture easier.
+00:02:53	T	There, yes.
+00:03:16	T	So, Marcela, I'm going to ask you. You've said, you are going to work with it in a right triangle. How do you know, that triangle is right-angled?
+00:03:23	T	Specify there, in which one you'd like to work with the problem. One of them, whichever you choose.
+00:03:27	T	So, how do you explain or how do you convince us, that this triangle-
+00:03:30	S	Because the diagonals are perpendicular to each other.
+00:03:33	T	So, you didn't say that before, yes that's correct.
+00:03:46	T	So, Marcela, speak out loud so everybody knows what you're writing on the board.
+00:03:48	S	Plus (inaudible) divided by two.
+00:03:52	T	Yes.
+00:03:55	S	A is equal to the second root of 12 divided by two and square the whole formula, plus seven divided by two and square the second formula.
+00:04:13	T	So, when you substitute.
+00:04:15	S	A is equal to second root of six square.
+00:04:25	T	Uh huh.
+00:04:26	S	Plus (inaudible), plus three point five.
+00:04:37	T	Yes.
+00:04:48	T	So, here is the calculator, Marcela.
+00:05:02	T	What is it?
+00:05:03	S	Twelve point twenty-five.
+00:05:04	T	Twelve point twenty-five.
+00:05:29	S	Six point, six point eight.
+00:05:35	T	Is it rounded to something? So, did you enter it in the calculator correctly, Marcela? What did the calculator show you?
+00:05:40	S	Six point eight (inaudible) nine four.
+00:05:42	T	Okay, okay, so it's six point, you said eight?
+00:05:44	S	Oh, yes. It's six point nine.
+00:05:45	T	Good, of what?
+00:05:51	T	Centimeters. Yes, yes. Move a little to the side, Marcela. So, look at the first procedure.
+00:05:56	T	Do you have the same results? Any problems so far?
+00:05:58	T	So, Marcela, what else?
+00:06:00	S	(inaudible) is equal.
+00:06:02	T	Uh huh.
+00:06:08	T	Yes.
+00:06:16	T	Marcela, six point nine by, yes, four.
+00:06:25	T	So, we'll try it without a calculator, what would it be.
+00:06:38	S	It is twenty-seven point six.
+00:06:41	T	Yes, it's twenty-seven point six.
+00:06:48	T	Okay, Marcela, it was correct, go sit down. So, do you all have the same answer?
+00:06:52	SN	Yes.
+00:06:53	T	Did anyone have a problem? So, Marcela, it's going to be B for you today, because of the basic figure, because the rhombus was not exactly pictured out.
+00:07:00	T	And, unfortunately, we cannot count it, because of Dan's suggestion, so Marcela is going to get B.
+00:07:07	T	So, let's try the second time, and it would be for Dan. Let's go Dan.
+00:07:17	T	So, Dan, I'd like you to calculate. Do you have a chalk? Calculate the length of the diagonal of the parallelepiped.
+00:07:28	T	So, write over there, that it's a parallelepiped.
+00:07:35	T	So, calculate the length of the body diagonal, when the measurements of the parallelepiped are: three point two decimeters.
+00:07:45	T	The second measurement is 46 centimeters, and the third measurement is going to be five point three decimeters.
+00:07:58	T	So, what kind of adjustment did you make? Already, yourself?
+00:08:00	SN	I transferred it.
+00:08:01	T	Transferred to centimeters. So, Dan. I'd like to calculate the length of diagonal of this parallelepiped.
+00:08:13	S	So, I'm going to make a sketch.
+00:08:13	T	So, let's start with a sketch.
+00:08:21	SN	A diagonal.
+00:08:23	SN	I'll inscribe the sides of the parallelepiped (inaudible).
+00:08:34	T	And you have to speak out loud so they can hear you all the way here in the back.
+00:08:37	S	(inaudible) A (inaudible) B (inaudible) C.
+00:08:41	T	And Dan, in this parallelepiped they are not sides, but-
+00:08:45	T	The edges, yes.
+00:08:45	S	The edges.
+00:08:47	S	Now, I'm going to calculate the side A G.
+00:08:50	T	A G.
+00:08:53	T	Is it going to be the length of the diagonal? Yes. Mark it into the sketch.
+00:09:02	T	Okay.
+00:09:04	T	And now it's up to you how we're going to calculate it.
+00:09:11	S	So, we will separate it on one side to A, B, C and we'll mark it as a right-angled triangle.
+00:09:19	T	So, you meant a wall not a side, a wall yes, so walls A, B, C and D we can use.
+00:09:20	S	A wall.
+00:09:22	S	(inaudible) walls A, B, C, D, (inaudible) a short diagonal to the right.
+00:09:35	T	Uh, huh, yes, mark the right angle there, so it's clear.
+00:09:39	S	(inaudible)
+00:09:42	T	And loud, Dan, you have to speak out loud so we can understand what you're saying.
+00:09:44	S	So, these are (inaudible) A (inaudible) B and this is going to be a diagonal, let's call it for example X.
+00:09:47	T	Yes.
+00:09:49	T	Yes.
+00:09:50	S	So now we can easily figure it out, so X equals a root of A squared plus B squared because it's a hypotenuse.
+00:09:59	T	Yes.
+00:10:01	S	So X equals a root of 32 squared plus 46 squared.
+00:10:10	T	Uh huh.
+00:10:14	T	So, Dan, take your calculator or over there on the table you can borrow one.
+00:10:26	S	So, I'll write it down. It's a root of 1,024 plus 2,016.
+00:10:39	T	Uh huh.
+00:10:42	S	I'll add it together, so it's a root of 3,140.
+00:10:51	T	Yes.
+00:10:55	S	And the result is 56.
+00:10:57	T	Uh huh, centimeters, good. So, by doing this we calculated what?
+00:11:03	S	A wall diagonal.
+00:11:06	T	The length of the wall diagonal. Okay, what is next?
+00:11:08	S	Now (inaudible).
+00:11:10	T	Yes.
+00:11:11	S	So, now we get a right-angled triangle A C G.
+00:11:15	T	Yes, so draw the triangle again.
+00:11:24	S	This is going to be A, this is C and this is G and this is going to be (inaudible) Y.
+00:11:29	T	Yes.
+00:11:36	T	So you said that the triangle is, Dan, right-angled. So, this is clear.
+00:11:38	S	Right-angled.
+00:11:42	S	So, this is practically the (inaudible) C, and this the wall diagonal X and we have to calculate the Y.
+00:11:52	S	So, Y is equal- because it's a hypotenuse- it's a root of X squared plus C squared.
+00:12:01	T	Yes.
+00:12:03	S	So Y is equal to the root of 56 squared plus 53 squared, and Y is equal, where is the calculator.
+00:12:11	T	Uh huh.
+00:12:16	T	So, you borrow this calculator again.
+00:12:27	S	So, it's the root of 3,136 plus 2,809, Y equals the root of 5,945.
+00:12:47	T	Uh huh.
+00:12:59	S	And that is seventy-seven point one, seventy-seven point one centimeters.
+00:13:09	T	Yes, Dan, that was correct. So, now the rest of you take a look at it, Dan was just mumbling over here by the blackboard.
+00:13:14	T	So you look at it if you have the same answer.
+00:13:17	T	So, Dan, before I let you go tell me how many decimeters it would be.
+00:13:20	S	Seven point seventy-one decimeters.
+00:13:22	T	That's correct, thank you. So, what about the rest of you. Do you have it or anyone found a problem? Is it good?
+00:13:29	T	So, Dan is going to get A today.
+00:13:32	T	It was without any mistakes. Now it's an assignment for all of you. I'd like you to do this third part each by yourself.
+00:13:43	T	Are you finished? May I start?
+00:13:46	T	So, write in your notebook: an easel has sides two point five meters long, an easel has two sides two point five meters long.
+00:14:01	T	Everybody knows what an easel looks like? Everybody has seen an easel?
+00:14:03	SN	Two point what?
+00:14:05	T	So, an easel has sides two point five meters long. Calculate, calculate, how far, calculate how far they reach, calculate how far they reach.
+00:14:25	T	If the ends of the sides touching the ground, if the ends of the sides touching the ground are one point five meters apart from each other.
+00:14:41	T	If the ends of the sides touching the ground are one point five meters apart from each other.
+00:14:54	T	So, one more time and slowly. We have an easel, they have sides two point five meters long.
+00:15:00	T	I'd like to calculate how far they reach, when you know, that the sides are reaching the ground and the two points are one point five meters apart.
+00:15:12	T	Everybody knows what an easel looks like? Can you imagine a picture? Katka?
+00:15:15	SN	Right-angled (inaudible). Right-angled (inaudible).
+00:15:18	T	It depends how you mark it for yourself. It's up to you. Make a sketch, mark sides by your choice.
+00:15:25	T	Calculate, how far we can climb, when we're going to stand on the top of the easel?
+00:16:23	T	And always in your sketch, don't forget to mark what triangle you are using for calculating.
+00:16:28	T	And, also realize what each side of the triangle means.
+00:16:57	T	So, who's ready? How are we doing?
+00:17:07	T	So, it's just George, nobody else? Somebody has the answer? Tomas with George.
+00:17:20	T	So, Tomas. Come up here and write it down.
+00:17:25	T	Take your notebook with you and get it ready in the back of the blackboard, so we can check it faster.
+00:17:30	T	Hide yourself back there, so you don't give a hint to others. Okay, let's hide you over there, and I'll close it behind you.
+00:17:49	T	So, who has any answer raise your hand. I'd like to see it before Tomas finishes it up and we'll look at it together. Yes, that's correct.
+00:17:58	T	You need to clarify the measurement. Yes, Marcela rounded the total. Yes. Yes.
+00:18:05	T	Kamila, what is it? Uh huh, yes. George? Yes. Martina? Yes.
+00:18:18	T	You jumped a little too much. Check it out again, Marcela and correct it. You have some kind of numeric mistake there. Look at it.
+00:18:24	T	So, where didn't I go so far? Yes. Dan. Yes, Jonas. Do you have anything written? Good.
+00:18:31	SN	I have already.
+00:18:32	T	So, who's work haven't I seen? Yes. Yes. Who else? So, Tom, what does it look like back there? Are you done? Can we look at it?
+00:18:41	T	So, round it up, Teresa, but yes, it's correct. Yes, that's right. So, where didn't I go? Dado, show me your work. Yes. Yes. Good.
+00:18:53	T	So, Tomas, can we take a look? So, I checked out most of your work.
+00:19:13	T	So, good Tom, you can sit down. So we have one option how to calculate this assignment. Look at it. Pss. Quiet.
+00:19:22	T	And, check it out if you have the same result, or you came up with any other procedure.
+00:19:29	T	Does anyone else have another procedure? And what about the result? Is it the same?
+00:19:34	SN	Yes.
+00:19:34	T	So, when I walked around, I found more or less correct answers.
+00:19:38	T	We agreed, we're going to have the measurements with one decimal space, so we'll round the answer on two decimal spaces.
+00:19:44	SN	On two.
+00:19:45	T	Somewhere I saw it rounded up to two point four, someone else had it more specific. It really doesn't matter.
+00:19:50	T	Most of the time, we'll leave it rounded to two decimal points. So, there was no problem and we all got it.
+00:19:54	T	Good, so now I want you to take your homework and we'll go through numeric terms in your homework.
+00:20:07	T	So, get ready.
+00:20:14	T	So, can we start? Did you find it in your notebooks? So each of you will do one example and we'll go through it really fast and make it right.
+00:20:19	T	So, Marcela, you start.
+00:20:20	SN	Four plus three times two squared, is four plus three times two and that is 16.
+00:20:25	T	That is 16. If there is any problem, tell me right away. Zuzko!
+00:20:30	SN	Four plus three times two squared, that equals four plus six squared is equal to 40.
+00:20:37	T	Yes, that is 40, Dan.
+00:20:38	SN	Four plus three, in parenthesis, times two squared is equal to seven times two squared and that is 28.
+00:20:46	T	And that equals 28. Excellent. Petra.
+00:20:49	SN	Four plus three times two in parenthesis raised to the second power is equal to 100.
+00:20:53	T	Is 100. Petra did it very fast. Katka.
+00:20:57	SN	Four minus three times two squared is equal to four minus 12 and that is minus eight.
+00:21:01	T	And that is minus eight. Katka. Take another one.
+00:21:04	SN	Four minus three times two squared is equal to four minus six squared and that is minus 32.
+00:21:11	T	Minus 32. Jonas.
+00:21:13	SN	Four minus three in parenthesis times two squared is equal to one times four is four.
+00:21:19	T	Is equal to four. Martina.
+00:21:21	SN	Four minus three times two in parenthesis squared is equal to four minus six all raised to the second power and that equals four.
+00:21:29	T	And that is four. So, is everything okay? Did you have any problems? Good.
+00:21:33	T	So these are numeric terms and I would like to review a few more complicated ones, when there is something more complicated, if not, we'll come up with something.
+00:21:42	T	So, we'll start on page 100 in your textbook and I'd like you to figure out the shown assignment two, and we'll also do the example E.
+00:21:55	T	And, who's going to be finished before we'll finish on the blackboard.
+00:21:57	T	So the next one you can think about is on page 104, problem number four.
+00:22:04	T	And that one we'll do from the beginning to the end.
+00:22:05	T	So, first we'll start with the E example. Everybody will calculate one example on the blackboard.
+00:22:09	T	This week's service person will in the meantime clean what we've already written on the blackboard.
+00:22:13	T	And let's go. Each of you, let's do one piece. And Jana's going to start. Come on Jana.
+00:22:22	T	So, Jana, five plus three in the parenthesis divided by four squared, yes the end of parenthesis and divided by four squared.
+00:22:35	T	So, Jana, talk and explain what you're doing there.
+00:22:35	SN	So, the parenthesis come first, so it's eight divided by, four by four is 16, is eight divided by 16 minus two.
+00:23:03	T	Are you sure Jana? Eight divided by 16. We're dividing eight by 16.
+00:23:19	T	What is it? What is it? Jonas?
+00:23:20	SN	Zero point five.
+00:23:21	T	Zero point five, Jana. Be careful, it's the other way around. So, why do you think it should be minus? Where would you get the minus?
+00:23:28	SN	I don't know.
+00:23:28	T	So, there is no minus. Or, anyone has the answer in a different form?
+00:23:33	SN	One half.
+00:23:34	T	One half, of course. So, Jonas, let's do another one. So, you don't have to take your textbook, you just do it.
+00:23:40	T	Five minus three divided by the second root of four.
+00:23:47	T	So.
+00:23:48	SN	So, the root of four is two, three divided, so five.
+00:23:54	T	Uh huh.
+00:23:58	T	So, don't forget it's equal, at the beginning make another one, at the beginning, at the beginning, so.
+00:24:04	S	Three divided by two is one point five, five minus one point five is three point five.
+00:24:07	T	Yes.
+00:24:13	T	Three point five, uh huh. What about you? Do you agree with that? Nobody has a problem. So, let's do another one.
+00:24:20	T	So, Jirka Kral is going to take the next one. Come on Jirka.
+00:24:26	T	So, Jirka, for you we have five plus, and in the parenthesis three divided by four, the parenthesis squared.
+00:24:34	SN	So, it's five plus, uh, three divided by four is zero point, uh.
+00:24:34	SN	Seventy-five.
+00:24:45	T	Yes, that is coming, let him be, let him be.
+00:24:49	SN	Seventy-five, 75.
+00:24:52	T	It looks a little weird.
+00:24:53	SN	Seventy-five.
+00:24:55	T	So. Now you tell me, what you're going to do next with the formula when you should raise by two.
+00:25:00	S	So, I'm going to raise it by two.
+00:25:00	T	How?
+00:25:04	SN	Similar to the easel.
+00:25:05	T	So, Jirka, now calculators are prohibited, I need you to think about it without calculators. How are you going to do it without a calculator?
+00:25:11	T	Shh, shh stop that.
+00:25:11	SN	Well, we'll draw it.
+00:25:16	T	No, no, we'll just calculate today not draw.
+00:25:21	T	That's because the zero point 75 is not the best form, Jirka.
+00:25:25	T	Go back, go back to the three fractioned by four, three divided by four, okay so now I've said that.
+00:25:29	SN	Fraction.
+00:25:33	T	So, yes. So without a calculator we'll try it now.
+00:25:43	T	Yes, so. And now we'll know what to do.
+00:25:57	T	So, I want you to write it in the form of a single fraction, Jirka. What is this form called?
+00:26:02	SN	This is a complex fraction.
+00:26:04	T	This isn't a complex fraction. How is it called?
+00:26:06	SN	Mixed.
+00:26:06	T	Mixed number, and now I'd like a simple fraction.
+00:26:10	SN	(inaudible)
+00:26:17	T	So, in this form for example, good Jirka. So, do you all have it? Can we do another one? So, Teresa, come to do another one.
+00:26:25	SN	But when we had the easel we did it differently.
+00:26:27	T	Yes, we could have. Yes. So, Teresa, we have for you five minus three in parenthesis, divided by the square root of four and all raised to the second power.
+00:26:40	T	Entirely the whole thing, squared.
+00:26:48	SN	Five minus three is two, divided by the root of four is two and the whole formula squared.
+00:26:54	T	Yes.
+00:26:58	SN	So, it's two divided by two, that is one squared, and that is equal.
+00:27:02	T	Which is equal?
+00:27:02	S	One.
+00:27:03	T	One, that's correct. So, do we all have it? Any problems?
+00:27:07	T	So, now I want you to, everyone on your own solve the problem in example number four.
+00:27:14	T	What do we have to do there, Martina? Read it.
+00:27:16	SN	Fill in the blanks the correct answers of signs for bigger and smaller.
+00:27:20	T	Bigger, smaller. So, calculate and fill out the correct answer bigger than, smaller than, equal.
+00:27:27	T	So, without calculators, without calculators, Petra, your brain needs to work.
+00:27:41	T	Martina, Martina, don't sleep. Do you have it? Awesome.
+00:27:58	T	So, write down also the answers between, so we can check it out and we can explain why it is that way, not just having the answer written down.
+00:28:33	T	So, finish writing and calculating.
+00:28:51	T	Dan, look into your notebook, not elsewhere.
+00:28:57	T	So, shall we. Raise your hand how we're doing, who's already done? So, one more second and finish writing.
+00:29:10	T	So, let's check it out. So, always read the problem statement, tell me the between answers so we're sure that it's correct and check, if your answers are the same.
+00:29:18	T	So, Dada, do the first one.
+00:29:20	SN	So, it's two squared plus two squared is equal to two times two squared, so two squared plus two squared is eight.
+00:29:28	T	Eight.
+00:29:29	S	And two by two squared is also eight.
+00:29:32	T	Yes. So in the A example the answer was equal. Petra.
+00:29:35	SN	Two squared plus two cubed, oh, I have to do example B, two cubed plus two cubed, is bigger than three times two squared.
+00:29:40	T	It doesn't matter
+00:29:44	T	So.
+00:29:44	S	Because the cube of two plus the cube of two is 18.
+00:29:48	SN	Sixteen.
+00:29:49	SN	Sixteen.
+00:29:50	T	So, how much is the cube of two, Petra?
+00:29:51	S	The cube of two is eight.
+00:29:52	T	Eight, so on the left side the answer is 16 and on the right side?
+00:29:54	S	Sixteen.
+00:29:56	S	And three by two squared is 12.
+00:29:59	T	Twelve, so.
+00:30:00	S	So the 16 is bigger than 12.
+00:30:02	T	The left side is bigger than the right one, Jitka.
+00:30:05	SN	So, two squared plus two cubed is equal to three by two squared.
+00:30:10	T	So, what did you get on the left side?
+00:30:11	S	So, it's basically four plus eight which is 12 and three by four is also 12.
+00:30:14	T	Yes.
+00:30:19	T	So, in example C we have, say it one more time an equal symbol, good, Karin, take another one.
+00:30:21	S	An equal symbol.
+00:30:24	SN	Two cubed plus two squared will be eight plus four.
+00:30:26	T	Jirka, stop doing that.
+00:30:29	SN	Which is 12 and that is smaller than two times two cubed, because it's like two times eight, 16.
+00:30:33	T	Which is?
+00:30:34	T	Sixteen, so, we all have it, we all know it. So, now I have something more difficult for you.
+00:30:39	T	Open your textbook on page 103.
+00:30:43	T	Until now you've had the expressions given, so now we're going to try it the other way around.
+00:30:46	T	On page 103 it's shown at the beginning how you can translate this numeric expression into words.
+00:30:56	T	Let's try it if it's more difficult and we'll express it in words. So, the beginning is very simple.
+00:31:02	T	The sum of numbers three and five we'll convert into words how?
+00:31:07	SS	Three plus five.
+00:31:08	T	Three plus five. The difference between numbers four and minus eight?
+00:31:12	E	Four minus minus eight.
+00:31:13	T	Four minus minus eight. The product means what, Misa?
+00:31:18	SS	Multiplying.
+00:31:21	T	Multiplying, or by. And quotient?
+00:31:21	SS	Dividing.
+00:31:22	T	Dividing, so these are the basic functions and of course, that's not enough and unfortunately we'll have more difficult ones.
+00:31:27	T	So, now we have the more difficult ones here. So, now approximately in the middle of the page look and we have some expressions.
+00:31:33	T	And there are also powers and roots. So, now we're going to try to read this example and later on we're going to think about it on our own.
+00:31:39	T	So, Andrea, try the first one.
+00:31:42	SN	A four power of difference of numbers five and three.
+00:31:45	T	Now, look next to it how they wrote it down.
+00:31:48	S	Five minus three in the parenthesis to the fourth power.
+00:31:50	T	So, how do we do it that we have the same process as always? So if we're going to calculate it what do we have to do first?
+00:31:57	SN	Put it in the parenthesis.
+00:31:59	T	First, we have to do the calculation in parenthesis and after that raise it to a certain power.
+00:32:01	SS	Parenthesis and raise it to a certain power.
+00:32:04	T	So it's called the fourth power and after that we talk about the difference.
+00:32:10	T	So, what kind of calculating am I starting with in this word expression?
+00:32:14	SN	With the power.
+00:32:16	T	With the power, which means, with the process which we're going to be using for calculating as the last one.
+00:32:20	SN	The last one.
+00:32:22	T	First we have to subtract and when we have the answer, we'll raise it to a certain power, okay?
+00:32:25	SS	Raise it to a certain power.
+00:32:27	T	So, let's try the second one. Be careful so you don't have chaos in it. Teresa.
+00:32:33	S	The difference of fourth powers of numbers five and three.
+00:32:37	T	So, what are we going to start with? First we should calculate what?
+00:32:44	S	First we're going to calculate the fourth power.
+00:32:46	T	First we're going to calculate the fourth powers and later the answers we'll subtract.
+00:32:49	S	We'll subtract.
+00:32:50	T	So, look at the word expressions and it starts with "the difference of fourth power". Do you understand that?
+00:32:57	SS	Yes.
+00:32:57	T	Okay, so let's try another one. Lucko, read the next one.
+00:33:01	SN	Five multiplied by the sum of the numbers 12 and three.
+00:33:01	T	So, if we want to calculate it, first we start with what?
+00:33:09	SN	First we calculate the parenthesis which is 12 plus three.
+00:33:11	T	Twelve plus three and the answer, we multiply it by five.
+00:33:14	S	Multiply by five.
+00:33:15	T	Look at it how it starts. It's five multiplied by a certain sum.
+00:33:19	T	So let's try the last two ones. They are going to be the most difficult ones, because we haven't practiced them yet.
+00:33:25	T	Let's try them, Kamco. The one before the last one.
+00:33:28	SN	The square root of the sum of 11 and seven.
+00:33:31	T	And now we'll read the last one so you have something to compare it to, Pepo, what is going to be the last one?
+00:33:36	SN	The total sum of square roots of numbers 11 and seven.
+00:33:38	T	So, now look at it how it's written. When I start saying: second root of the total, so the main part is the big root mark.
+00:33:48	SN	The root mark.
+00:33:49	T	And in the last one you have the sum of the square roots.
+00:33:52	S	Square roots.
+00:33:52	T	So, be very careful, because it's a play with words how you formulate it and it's up to that how you write it down.
+00:33:59	T	So, did you understand that? So, I have prepared an easier version for the beginning and I hope it's going to be fast.
+00:34:06	T	Now pass it around to each desk, you'll get one example.
+00:34:18	T	You'll be able to do it on your own.
+00:34:24	T	So it's not just I want you to write it, I also want you to calculate it. So, let's do the example number three as a first one.
+00:34:34	T	So, write it down and at the same time calculate it. So far just the example number three.
+00:34:39	T	Go through it, go through it, write it down and calculate it.
+00:34:44	T	So, I hope there are not going to be any problems with powers and roots, we'll start with the easier ones.
+00:35:38	T	So get the number three ready at this point, we'll check it out and after that we'll go further.
+00:36:00	T	Read it very carefully so you don't make a mistake. It's better to read it two times before you write it down.
+00:36:21	T	So, how is it going? Who has everything? So, a little longer.
+00:37:02	T	So, let's do it. So, always read what you've written down and after that, what the answer is. Katko?
+00:37:09	SN	The difference of numbers 15 and nine is 15 minus nine is six.
+00:37:12	T	And the answer is?
+00:37:13	T	It's equal to six. Marketa!
+00:37:15	SN	Fifteen times nine is 135 and it's a product of numbers 15 and nine.
+00:37:18	T	One hundred and thirty...
+00:37:19	T	You don't have to read it because you all have it there. So, Dan, read the next one.
+00:37:23	SN	Sixty-four divided by eight is eight.
+00:37:25	T	Sixty-four divided by eight is eight. Karin!
+00:37:28	SN	Seventeen plus 12 is 29.
+00:37:30	T	Twenty-nine. Alino.
+00:37:32	SN	Fifteen plus two times nine is 33.
+00:37:35	T	So, what comes first? Don't forget about it, let's remember it.
+00:37:39	S	The multiplication.
+00:37:39	T	The multiplication. So, let's do the next one. Jitko!
+00:37:44	SN	In parenthesis 15 plus nine, the end of parenthesis, times four is equal to 96.
+00:37:47	T	Times four.
+00:37:49	T	It's 96. Dado!
+00:37:51	SN	Two times 15 plus nine in parenthesis, plus two times 15 plus nine in parenthesis.
+00:37:58	T	So what is the answer?
+00:37:58	S	Forty-eight.
+00:38:00	T	Are the parenthesis necessary there, or we can get by without them?
+00:38:04	SS	We have to have them.
+00:38:06	T	Yes, we have to have the parenthesis here, so let's move on, Katka.
+00:38:09	SN	May I ask something?
+00:38:11	S	About the multiplying by two. Does it matter if it's in front of or after the parenthesis?
+00:38:11	T	Yes.
+00:38:15	T	So, Katko, show me what we have here.
+00:38:16	S	If I look at the answer it doesn't matter, but it's written differently.
+00:38:20	T	So tell me what you have there.
+00:38:21	S	Fifteen plus nine in parenthesis by two.
+00:38:26	T	So, it's this way or what kind of different version did you want?
+00:38:28	S	Two by the whole parenthesis.
+00:38:31	T	So.
+00:38:32	S	The answer is the same, but if I write it the other way, is there any difference?
+00:38:33	T	Yes.
+00:38:37	T	How do we explain that the answer has to be the same no matter what way we write it down?
+00:38:40	SS	Because it's commutative.
+00:38:41	T	Multiplying is commutative.
+00:38:42	S	It's commutative.
+00:38:44	T	Sure, so, where are we? So we have also the last one. Zuzko!
+00:38:49	SN	Fifteen times two plus nine times two is equal to 48.
+00:38:52	T	So, Zuzko, are the parenthesis necessary there? We can do it without and the answer is 48.
+00:38:52	T	So this first example was hopefully easy. Without a problem.
+00:39:00	T	So now I'd like you to try something with decimal numbers possibly something with fractions, so let's try problem number 10.
+00:39:16	T	So, now we can start. You try it by yourselves first and on the blackboard you'll have it for comparison.
+00:39:16	T	So, we're going to write it on the blackboard. We'll choose always a couple if we have enough space.
+00:39:20	T	First we start with two people and it's going to be Marcela and Micha. Come on girls.
+00:39:27	T	I'll try to dictate it for you first. So you should just hear it not see it, and try to write it down.
+00:39:32	T	So, it's the product of numbers four and 11 made bigger by the difference of numbers 100 and 37.
+00:39:47	T	Made bigger by the difference of numbers 100 and 37.
+00:39:51	T	So, I'll read it one more time girls. Listen to it and check it.
+00:39:54	T	The product of numbers four and 11 made bigger by the difference of numbers 100 and 37.
+00:40:02	T	Marcelo, I started with the product of numbers four and 11. Yes. So, finish calculating.
+00:40:24	T	So, girls, you can sit down now. Did you get the same answer?
+00:40:28	T	So now we'll try a couple of boys. Jirka with Pepa for example, come on boys.
+00:40:36	T	So boys, we made this up for you.
+00:40:39	T	From the sum of numbers two point four and five point six, from the sum of numbers two point four and five point six we'll subtract, subtract.
+00:40:52	T	The quotient of numbers 42 and six. We'll subtract the quotient of numbers 42 and six.
+00:41:02	T	Yes, so you started the right way. Finish calculating it.
+00:41:18	T	You can go and sit down now guys. So check it. I'm also going to ask.
+00:41:22	T	Look at the blackboard. Pepa used the calculation without the parenthesis at all, Jirka added parenthesis. Are they necessary or not?
+00:41:30	SS	They are not.
+00:41:30	T	No, they are not necessary. That's correct. So let's try example C the third one.
+00:41:35	T	So we'll try Petra and Stepanka. Come on girls.
+00:41:43	T	So, for you I have: with the difference of numbers three and seven.
+00:41:48	SN	May I write it with (inaudible)?
+00:41:48	T	To the difference of numbers three and seven we add the quotient of numbers five and eight.
+00:42:01	T	So, with the difference of numbers three and seven add the quotient of numbers five and eight.
+00:42:08	T	Petro there is the quotient of five and eight, do you have it there?
+00:42:12	SN	Now she does.
+00:42:13	T	Now she does.
+00:42:14	SN	Don't transcribe it into a fraction.
+00:42:17	T	You could write it in a fraction form for me. If it's possible do it that way.
+00:42:28	SN	Into a fraction or into a mixed number?
+00:42:31	T	Into a fraction. Make it possible to have it in fraction form.
+00:42:49	T	Stepanko, look at the signs.
+00:42:56	T	So, Petro, are you checking signs?
+00:43:01	T	Minus four plus five eighths.
+00:43:12	T	So, Stepanko, minus four point zero is what?
+00:43:20	T	How many eighths?
+00:43:26	T	So, how many eighths?
+00:43:28	SN	(inaudible)
+00:43:29	T	Four point zero?
+00:43:32	T	Four point zero. How many eighths is it?
+00:43:40	T	Four whole numbers! One whole number has how many eighths? Shh. Let's be patient a little longer.
+00:43:47	T	One whole number has how many eighths?
+00:43:49	S	Eight.
+00:43:50	T	And four of them?
+00:43:52	S	Is thirty-two.
+00:43:53	T	So it's minus thirty-two eighths plus five eighths is.
+00:43:57	S	Minus 28.
+00:44:01	T	Thirty-two without five?
+00:44:03	S	Twenty-seven.
+00:44:03	T	Twenty-seven eighths, so I have an assignment for you.
+00:44:05	T	The rest you finish by yourselves and the last example number six you'll do too. You'll write it down and calculate it.
+00:44:12	SN	So the (inaudible).
+00:44:16	T	The last one? We'll go over the last one next time together. So, thank you and that's it.
+Ê

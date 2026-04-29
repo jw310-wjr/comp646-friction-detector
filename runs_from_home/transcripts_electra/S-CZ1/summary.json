@@ -1,0 +1,1246 @@
+{
+  "lesson_id": "S-CZ1",
+  "transcript": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science CZ1 transcript.txt",
+  "n_bins": 91,
+  "n_risky_bins": 17,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Please, sit down."
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Please, sit down. [T] Natasa (Mojzisova) came in today. Does someone want to be examined? Someone who's very brave? [T] We'll pick someone who is knowledgeable. How about Adela (Vetrakova)."
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] We'll pick someone who is knowledgeable. How about Adela (Vetrakova). [T] Okay. Adelo, name some types of bone connections? [T] Yes. Please draw the flexible ones for us."
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] //Very good. [T] Yes, correct. Here is the skeleton. Please, show us some of the different types of bones according to their shape. [T] Correct. [T] Correct. [T] Yes. Correct. Let's go back to mammals. Tell us something about the proboscidians."
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. Correct. Let's go back to mammals. Tell us something about the proboscidians. [T] What are the differences between them? [T] Yes. [T] Yes. He is more aggressive in captivity. Correct."
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. He is more aggressive in captivity. Correct. [T] Yes. [T] That should be enough. Can you name some perissodacts?"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Very good job. You get an A. Anyone else? Is someone else brave enough to come up here? [T] From the boys... Jirko, why don't you come up here. [T] Jirko? What does a bone cross-section look like? [T] Why don't you grab the chalk again and draw a picture of it. [laughter]"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Why don't you grab the chalk again and draw a picture of it. [laughter] [T] //Correct. [T] Yes. [T] Correct. [T] Yes. Growth cartilage is always in the same place at both ends of the bone. Yes?"
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And what is on the surface of the bone? [T] A layer, which is called? [T] We need help from the class! Tatiano? [T] Periosteum. What are the functions of the periosteum? [T] Wait a minute. No, not on the periosteum. Where are blood corpuscles produced?"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The bone marrow, yes. But we're talking about the periosteum. [T] Yes. Please tell us, Jirko, what an ungulate's stomach looks like. [T] Which one is its main stomach and which one is the largest?"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The main stomach is? //Please be quiet! [T] Abomasum. Correct. Tell us something about camels. [T] Where do they have calluses? [T] Yes."
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Energy. [T] Excellent. The camel's water supply comes from red blood cells. Yes. What kind of camels do you know of? [T] Yes. Can you name an animal that is related to the giraffes?"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] What are the differences? [T] What does that imply? Okapi versus giraffes? [T] Yes. From a common ancestry, through adaptation to environment, new ones evolve. Correct. [T] Tell us the difference between a wild rabbit and the domesticated rabbit."
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. [T] Now, rabbits- at birth, the young have both fur and vision. [T] Yes, and why? [T] Correct. [T] Yes. What kind of digestive systems do wild rabbits have?"
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. What kind of digestive systems do wild rabbits have? [T] Correct. [laughter] Tell us, what category, do wild rabbits fall into? [T] It's not difficult at all. [T] The category, category. You're right about the mammals //but what category."
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Leave him alone; he'll figure it out. [T] The Lagomorpha order. Okay, I'll give you a weak A. [T] Today, we're going to continue with the same topic. [T] In our last lecture, we talked about the structure of bones; what they look like, what they are made of, and how they function. [T] Once again"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Once again, we'll emphasize the function of a skeleton. It doesn't serve only as a support for the muscles. [T] What is the other function? It has been already mentioned, here in class. Alice? [T] Very good. The production of blood corpuscles. Blood corpuscles are produced where? Zorko? [T] The "
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Phosphate, correct. Today, we're going to talk about the human skeleton and, accordingly, all of its constituent bones. If you take a look at the entire skeleton, [T] We can- [laughter] this is an example of what bone? Pavlo? [T] Short bones. Okay. We'll fix this skeleton after class. Let's take"
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Let's not shout out the answer, please- which classifies the human body. It's called? Dusane? [T] The spine. Why does the human skeleton fall into a particular system, as a result of the spine? Tatano? [T] Yes. And a human is categorized as? [T] Vertebrate. As mammals and vertebrates. Correct. S"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] There are upper extremities and lower extremities. [T] What about the animals? They don't have upper and lower extremities, but- Martino? [T] Front and rear. Correct. The last part is the skull, which protects the brain and provides the form for the face. [T] Let's write today's theme: Human Ske"
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] And we'll write down the segments of the skeleton. Who can remember the first and very important segment? Dusane? [T] The spine. Plus the rib cage. Okay? [T] The second segment or part of the skeleton is? //Can anyone remember? [T] Correct. The extremities, plus the parts which hold it attached "
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Correct. The extremities, plus the parts which hold it attached to the spine, which are the plaits. [T] Okay? The extremities plus the plaits. And the last segment, Dusane? [T] The skull. Please tell me once again, from what type of bone is the skull made? Pavlo? [T] Made out of flat bones. Corr"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So, that's the complete structure of the human from this point- [laughter] [T] I was waiting for the skeleton to turn around. We'll put it back on its vertebra. [T] Today, we're going to talk about the characteristics of the vertebrae, which is the spine. We've already talked about the spine in "
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] So you should have some knowledge about- at least the basics. Is the spine bent or is it straight? Mirko? [T] How is it bent? [T] Yes. It's in the S-shape. We'll remind ourselves of those curves. How about the neck area? I mean, whether it's curved inward- the face would be over here- or curved "
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] We'll call it cyrtosis. We'll talk and take notes about it. The lower back lumbar section is curved //inward. [T] Inward, and that's called again lordosis. And the bottom part, the sacrum and the coccyx, is called cyrtosis. [T] Let's draw a picture and describe it. [T] Don't forget- be sure to d"
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Let's draw a face schematically and we may start. Okay, one more time. The first curve in the upper spine is inward. [T] Don't overextend the curve. Just draw small curves. It'll come out just fine. As you can see, it is too curved. [T] Then the spine curves outward, back inward, and, once again"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And let's write down: Lordosis is around the neck area and around the lumbar area. [T] Two Lordosis, one is around the neck and the other one is around the lumbar area. [T] Then the spine curves outward twice, those are the cyrtosis."
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Then the spine curves outward twice, those are the cyrtosis. [T] It's spelled cyrtosis, with the letter Y after C. First cyrtosis and second cyrtosis. Cyrtosis in the back rib area, and cyrtosis at the bottom part of the spine."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] It's spelled cyrtosis, with the letter Y after C. First cyrtosis and second cyrtosis. Cyrtosis in the back rib area, and cyrtosis at the bottom part of the spine. [T] The fact that our spine has so many curves is not a coincidence. It's important for humans. [T] It is not immediately evident at "
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Since it has these curves, it has vertical flexibility and softens any direct blows during jumping, which would be severe for the spine and the brain. [T] So this flexibility assures better maneuvering; and it softens any direct blows. Softens hits."
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So this flexibility assures better maneuvering; and it softens any direct blows. Softens hits. [T] What are the parts of a spine? What are the names? I hope no pieces of bones will start falling. [T] What are the parts or fragments of a spine? That's very simple. These individual pieces are know"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] But under normal circumstances, between every vertebrae, we have? [T] Ligaments are there as well. They actually hold the entire spine together. But between every vertebra, there's also- [T] Good afternoon. [T] In the third grade. [T] Between every vertebra, we'll find- //Kveto? [T] Yes. Spondyl"
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Before we do that, we'll talk about the purpose of the spondylus vertebra. The spondylus vertebra is made out of a unique matter. [T] It's a cartilage tissue, which has a special characteristic to be flexible, softens- and it helps to absorb the pressure of the individual vertebrae and the entir"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] what may happen is that, when you wake up, your height is, for example, 160 centimeters. [T] But when you go to bed at night- if you were to measure yourself, you would notice that you're actually about one centimeter smaller. Okay? [T] It's because these spondylus flatten and the person becomes"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] When you wake up in the morning you're back to your 160 centimeters. And since you're growing now, you're actually becoming taller. [T] But the elderly- they don't have to be that old. At around the age of 40, the process of degeneration of these cartilages begins. [T] You may have noticed that "
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The shrinking can be substantial. It may vary around five, 10, and 15 centimeters. It also depends on how long they live. [T] So really old people may lose up to 20 centimeters of their original height. Once again, it's because of the shrinkage in the spondylus vertebrae. [T] Now, we'll write do"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now, we'll write down all of the spine segments. It consists of, one more time. Vertebrae, vertebra plus? [T] Correct. The spondylus vertebrae. [T] The spine consists of the vertebrae and the spondylus vertebrae. Let's take a look at the vertebrae in your book. [T] Open your books to page 73. Pa"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Open your books to page 73. Page 73. There, you'll see two different vertebrae. [T] Look at the one on the bottom, which is partially outlined. [T] So, tell me, what is the most important part of the vertebrae. What are the segments of the vertebrae? Dito? It's outlined in there. [T] No. You're "
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No. You're looking at the wrong picture. If you see the individual vertebrae, it's below that. [T] Are you on page 73? [T] The bottom vertebra? Are you looking at the bottom vertebra? There are two vertebrae next to each other. The one below that. [T] It's outlined. [T] Okay. We can see the larg"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. We can see the large part, which is called the body of vertebra. The other parts are not marked, so we have to do it ourselves. [T] The protuberances that you see are called exactly that; in anatomical terminology it stands for protuberances. That's the other part of a vertebra. [T] You ca"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Please, also take a look at the bottom picture, originally described by Dita. You can see the spine. Can everyone see it? [T] Okay. What else do we have on that page? Josefe? Let's be certain that we're all looking at the same picture. [T] //Yes. [T] Yes. Now, we should concentrate on the spinal"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. If we were to put the vertebrae in order- I'll show it to you on this model. If we were to place the vertebrae in order- here is a vertebra. [T] If we were to place one on top of another, then you can see that one is larger than the other. But if they were stacked then they will form a cana"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Than we have these protuberances. [T] The last segment is the vertebral opening. Mark it- it's very simple. Here is the body, protuberances, and the opening. [T] We need to remember the fact that the spinal cord goes through the opening."
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] We need to remember the fact that the spinal cord goes through the opening. [T] And now we know everything that we need to. We can discuss the sections of the spine. [T] You are all aware of these sections. But now we'll go into more details of each segment."
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You are all aware of these sections. But now we'll go into more details of each segment. [T] Let's headline this: Parts of the Spine. The parts of the spine. [T] You are all aware of the first part up here. It's called, Anezko?"
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You are all aware of the first part up here. It's called, Anezko? [T] The neck area. The neck area. Don't write anything yet. We'll do that later. It's the most flexible part of the spine. [T] You are fully aware that we have the ability to move our necks. And with the help of our neck, we can a"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What's really unique in the neck are the first two vertebrae. The first vertebra looks like this. [T] It differs from the others. As you can see, it doesn't have the same body that we've come to know. [T] It has only two curves and angled extremities. It's called atlas. You can also see it on pa"
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. It carries the skull. Petra will raise her hand. The atlas falls into the skull and, as a result, we can move our head. Okay? [T] This is called atlas, pillar in Czech, and it holds the skull. The second vertebra below is a little different from all the others. [T] Jirko, I'll dictate this "
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The pin vertebra. Good. We place- later, we'll have additional pieces, which we'll try to put together in the lab. [T] We'll place the atlas on top of the pin vertebra. Now, just imagine the skull on top of the atlas. Now we can turn the atlas, side to side. [T] What is happening with the skull "
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] This pin on the pin vertebra is probably familiar to you. When someone breaks their neck, for example. [T] Having a broken neck basically means that- look, here you can see the vertebra opening in which runs through, what did we say? [T] The spinal cord. The spinal cord runs through it. If this "
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] This pin can actually break and put pressure on the spinal cord. The spinal cord in this area controls breathing or heart activity, for example. [T] As soon as the pin is forced onto the spinal cord and disrupts it, then a person- or any mammal, for instance- automatically dies. Okay? [T] So, wh"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You don't have to die if someone is fortunate enough- it happens. Some people assume that if you break your neck, that's an automatic death. That's not true - it doesn't have to be that way. [T] This is when you break the pin but it doesn't shift. Okay? So it's possible to survive a serious neck"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] It only takes a small movement for the broken fragments to shift in this area, which may result in a tragedy. Okay? [T] So if you ever suspect a spine injury, do not move the patient. [T] Instead, you secure his or her neck to prevent any additional movement and call the ambulance. [T] Let's wri"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Let's write the first segment of the spine. First, the neck area. The first part of the spine is the neck area. [T] We'll write the first two vertebrae in the neck. Who can remember? [T] Okay, atlas. [T] What is the Czech terminology? Please raise your hand? Stelo? [T] The pillar. [T] The second"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. The pin vertebra. Just remember why it's called that. Why is it called the pin vertebra? Klaro? [T] Yes. Because it has the pin, correct. And then we have other neck vertebrae. Can someone tell me how many neck vertebrae we have? Martino? [T] Seven. Does that number, apply only to humans? ["
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What do we call the second part of the spine? //Mirko? [T] The rib cage part of the spine. Correct. Please take a look at the skeleton here and try to figure out- [T] We've said that the neck vertebrae is very flexible, and we can easily move our head. Here, we see these attached ribs on the rib"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Let's write: The rib cage. Does anybody know how many pairs of ribs we have? [T] Okay, Dusan? [T] Twelve pairs of ribs. We have the same number of ribs as we have rib cage vertebrae. So, Adelo? How many rib cage vertebrae //do we have? [T] Twelve. Twelve rib cage vertebrae. What's unusual about "
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Twelve. Twelve rib cage vertebrae. What's unusual about the rib cage vertebrae is that the ribs are attached to the vertebrae. Please write in parenthesis ribs. [T] The ribs are attached to the rib cage vertebrae. [T] We'll name the rest of the spine segments and count how many vertebrae each se"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Below the rib cage vertebrae, we have? Mirko? [T] The lower back part of the spine. So why don't you write it as number three, Lumbar. This section has five vertebrae. [T] Try to compare- if you can see it through the skeleton. I'm going to turn it, facing you."
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Try to compare- if you can see it through the skeleton. I'm going to turn it, facing you. [T] The size of the vertebral bodies, which are the white bones. And between those, we have the cartilage discs. [T] What is it- in what part of the spine can we find the largest vertebrae bones? You'll not"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Pelvis is attached to it, but that has nothing to do with carrying the entire body. So give it another try. Tibor? [T] Yes. The rib cage, skull, and practically the entire upper part of the body. [T] Since it carries a larger mass- larger body weight, so the vertebrae here must be stronger. [T] "
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] These neck vertebrae carry only the skull, so that's why the vertebrae up here are not as big. Okay? [T] That was the lumbar part of the spine. The next section of the spine is? Please raise your hand. Anezko? [T] No, pyrosis doesn't exist. That's fine. Adelo? [T] Sacrum, correct. The sacrum sec"
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Here we have the individual vertebrae. The last lumbar bone is down here, and then we have the sacrum. Those of you up front, can you see it? Jarko? [T] Yes. It's joined. It's not individual vertebrae anymore but it's a sacrum bone, which is joined together. [T] Joined together- sacrum. It is jo"
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And the last section is? I don't have any more room on the board, but you will write it in your notes. It's a small section all the way down here. [T] You wouldn't even think of this as being an individual section. It is called? [T] Yes. The coccyx. The coccyx is already reduced, so much so that"
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] But do you think there are other mammals that have this tailbone extended? Mirko? [T] Yes. And it's, in fact, the tail end of the spine- which humans obviously don't have- and it's very much reduced. [T] So number five on the board is the tailbone which has about four to five vertebrae. The cocc"
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So number five on the board is the tailbone which has about four to five vertebrae. The coccyx includes four to five vertebrae. [T] If we were to add them up, the vertebrae- can someone count quickly? [T] Correct. We have approximately 33 to 34 vertebrae. Why did I say approximately 33 to 34? [T"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. Because of the coccyx, where there can be either four or five vertebrae. [T] So we have just described the spine. We'll review it once again by watching a video. Don't put your work away, just turn around."
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So we have just described the spine. We'll review it once again by watching a video. Don't put your work away, just turn around. [T] Can you all see it?"
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] //Now it's about the skull. We're going to view that in our next lesson."
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] //Now it's about the skull. We're going to view that in our next lesson. [T] Please, pass this around from both sides, so it will go faster. Everyone will get one sheet."
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Jirka, go around. [T] No, everyone receives their own. Take a look at the pictures. Try to orient yourselves. I will tell you what you're supposed to do."
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No, everyone receives their own. Take a look at the pictures. Try to orient yourselves. I will tell you what you're supposed to do. [T] This is what's left? Everybody has one, correct? Let's take a look at the figures on the left. You can see the numbered figures. [T] And below that, you have ou"
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You'll write that below the heading. The next assignment is- look at the skeleton there on the right side. [T] There, you'll use your colored pencils. You'll color each section of the spine using the different color. [T] It means that you'll count down the vertebrae and, based on your calculatio"
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Okay? Which vertebra do you have there? Write the- the view from the top and side equals one vertebra. [T] Okay? Give it a try. [T] When you start matching the pictures, start with the ones that you know. Whatever remains will be easier to figure out."
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] When you start matching the pictures, start with the ones that you know. Whatever remains will be easier to figure out. [T] Just to make it simple for review, write a number one for example, dash and the letter. Okay? [T] It's going to be very complicated to check your work if you were to start "
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Numbers from one to five."
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Numbers from one to five."
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Numbers from one to five. [T] Write what section it comes from, and give me the specific names of the first two vertebrae."
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Write what section it comes from, and give me the specific names of the first two vertebrae."
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Write what section it comes from, and give me the specific names of the first two vertebrae. [T] Jano, describe each section as well, okay?"
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Jano, describe each section as well, okay? [T] You must color the spine, and also describe each section of the spine. [T] This one here. Just as you colored it. It doesn't go beyond that. After that, you have the coccyx."
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] This one here. Just as you colored it. It doesn't go beyond that. After that, you have the coccyx. [T] If you're not sure about the rib cage vertebrae, for example, you can count up from the last rib. [T] That's where the rib cage vertebrae end and count up 12 vertebrae. Okay?"
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That's where the rib cage vertebrae end and count up 12 vertebrae. Okay?"
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That's where the rib cage vertebrae end and count up 12 vertebrae. Okay? [T] Move on to the last part. You can color it later, so we can still check the work."
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Move on to the last part. You can color it later, so we can still check the work. [T] Those of you who are not done, will finish it at home. We'll go over the work at the beginning of our next class. Okay? [T] Dusan? Please take the skeleton away, okay? Jonasi?"
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Patrik? Please help them out by carrying these fragments, including the skeleton. Okay?"
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Please, sit down."
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Then the spine curves outward twice, those are the cyrtosis. [T] It's spelled cyrtosis, with the letter Y after C. First cyrtosis and second cyrtosis. Cyrtosis in the back rib area, and cyrtosis at the bottom part of the spine."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] It's spelled cyrtosis, with the letter Y after C. First cyrtosis and second cyrtosis. Cyrtosis in the back rib area, and cyrtosis at the bottom part of the spine. [T] The fact that our spine has so many curves is not a coincidence. It's important for humans. [T] It is not immediately evident at birth. If you recall, babies have a straight spine. As they grow older and start to sit, walk, stand up, and move their heads, the spine gradually flexes. [T] Just imagine this curve-shaped spine, suc"
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Since it has these curves, it has vertical flexibility and softens any direct blows during jumping, which would be severe for the spine and the brain. [T] So this flexibility assures better maneuvering; and it softens any direct blows. Softens hits."
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No. You're looking at the wrong picture. If you see the individual vertebrae, it's below that. [T] Are you on page 73? [T] The bottom vertebra? Are you looking at the bottom vertebra? There are two vertebrae next to each other. The one below that. [T] It's outlined. [T] Okay. We can see the large part, which is called the body of vertebra. The other parts are not marked, so we have to do it ourselves."
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Than we have these protuberances. [T] The last segment is the vertebral opening. Mark it- it's very simple. Here is the body, protuberances, and the opening. [T] We need to remember the fact that the spinal cord goes through the opening."
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. It carries the skull. Petra will raise her hand. The atlas falls into the skull and, as a result, we can move our head. Okay? [T] This is called atlas, pillar in Czech, and it holds the skull. The second vertebra below is a little different from all the others. [T] Jirko, I'll dictate this to you. It's a bit different as well. It has this shape up here. We call it a pin. [T] That is why the entire vertebra is called? //Marketo? [T] The pin vertebra. Good. We place- later, we'll have add"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You don't have to die if someone is fortunate enough- it happens. Some people assume that if you break your neck, that's an automatic death. That's not true - it doesn't have to be that way. [T] This is when you break the pin but it doesn't shift. Okay? So it's possible to survive a serious neck injury. [T] The spondylus, which is here, protects it a bit. So if you are under the impression that someone has a neck injury- or other parts of the spine injured- [T] When it comes to the neck inju"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] It only takes a small movement for the broken fragments to shift in this area, which may result in a tragedy. Okay? [T] So if you ever suspect a spine injury, do not move the patient. [T] Instead, you secure his or her neck to prevent any additional movement and call the ambulance. [T] Let's write the first segment of the spine. First, the neck area. The first part of the spine is the neck area."
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] These neck vertebrae carry only the skull, so that's why the vertebrae up here are not as big. Okay? [T] That was the lumbar part of the spine. The next section of the spine is? Please raise your hand. Anezko? [T] No, pyrosis doesn't exist. That's fine. Adelo? [T] Sacrum, correct. The sacrum section of the spine. It's distinguished from the rest of the spine by being- try to see it here. [T] Here we have the individual vertebrae. The last lumbar bone is down here, and then we have the sacrum"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So we have just described the spine. We'll review it once again by watching a video. Don't put your work away, just turn around. [T] Can you all see it?"
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] //Now it's about the skull. We're going to view that in our next lesson."
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] //Now it's about the skull. We're going to view that in our next lesson. [T] Please, pass this around from both sides, so it will go faster. Everyone will get one sheet."
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] This one here. Just as you colored it. It doesn't go beyond that. After that, you have the coccyx. [T] If you're not sure about the rib cage vertebrae, for example, you can count up from the last rib. [T] That's where the rib cage vertebrae end and count up 12 vertebrae. Okay?"
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That's where the rib cage vertebrae end and count up 12 vertebrae. Okay?"
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That's where the rib cage vertebrae end and count up 12 vertebrae. Okay? [T] Move on to the last part. You can color it later, so we can still check the work."
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Move on to the last part. You can color it later, so we can still check the work. [T] Those of you who are not done, will finish it at home. We'll go over the work at the beginning of our next class. Okay? [T] Dusan? Please take the skeleton away, okay? Jonasi?"
+    }
+  ]
+}

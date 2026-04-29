@@ -1,0 +1,2240 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science AU1 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'm wherever you are, fella. You should all have a book. If you haven't got one, please come and get one. [T] Yeah. [T] Yes. Of course you can. [T] Tony, we need to get that test of yours done again too some time. All right? When are you ready for it?"
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Did you take the ah- did you take something home last night to study? You didn't. [T] No, you've got to get yourself organised. Adam, that's not on. [T] All right. [T] Yeah, hurry up ah, Walter. [T] Okay. Now let's just look at where we're at. Yesterday you know very well what we did. Okay, Liam, how about you telling me what we did- what we finished off doing yesterday."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Now let's just look at where we're at. Yesterday you know very well what we did. Okay, Liam, how about you telling me what we did- what we finished off doing yesterday. [T] Keep going. [T] Okay. [T] And so what did you learn- what did you learn from that? Karen. [T] Sorry? [T] Oh, okay, fine. Lots of different colours. All right. Do you agree Daniel?"
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, okay, fine. Lots of different colours. All right. Do you agree Daniel? [T] Okay. Stop being so formal by the way. [T] Okay, so yesterday you had the microscope. You looked at the paint chips. [T] The previous day you looked at the hairs under the microscope and you looked at the different fibers. [T] Okay, but yesterday's class went very well because you in fact- all of you were able to get very, very good microscope shots of the different layers of paint."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Today, as I- I talked to you yesterday, we are going to do an activity on fingerprinting. All right. [T] Um, fingerprinting, it's actually contained in the- in this- in this book here that both Mr. Hathaway and Ms. Moller are co-authors of. [T] Um, the pages, we start on page er, page 14 and er, page- I'd better get the page right, haven't I. [T] Page 14 on fingerprints. What we're going to do, we're going to do a couple of activities. [T] We're going to do- you're going to make fingerprints, you're actually going to take your own fingerprints."
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We're going to do- you're going to make fingerprints, you're actually going to take your own fingerprints. [T] You are going to examine those fingerprints under a hand lens. [T] You'll actually then put them in your book, so you've got a permanent record in your own science book of your own fingerprints. [T] Ah, there's soap and towels up the back there so you can wash your hands after doing that. There are some questions. I don't know if you'll have time to answer those questions today. [T] Um, the next activity- we've got a fair bit to do. The second one will be dusting for fingerprints."
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? Now, in that we've got a whole series of different surfaces. They're up behind Liam and Allison there. [T] There are different surfaces. If you just turn around this way for a moment please. The paper here is to stop getting ah, all the powder on the desk. [T] There are different surfaces. You've got these porcelain, a nice hard porcelain surface that you can put a print on."
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Um, you've got paper, you can do a print with paper. You can do a print- put a print on this. [T] Now, the point is that once- once you touch something, what- what happens when you ah, when you touch something? [T] //Sorry, Ally? [T] Okay. Why does it leave a fingerprint on it, Ally? [T] Grease. Sorry, Adam. [T] Okay. That's all right. You can say it."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right, so, you leave grease and that- oi- oils behind. And therefore, what we're going to do is try to get something to stick to those oils to make it visible. [T] Well, we've got two types of ah powder. [T] We've got talcum powder there, like a salt shaker really. And we've also got carbon powder there. We've also got some brushes. [T] Why would we use the ah- why would I have- why would I have two different sorts of powder? Samuel?"
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Why would we use the ah- why would I have- why would I have two different sorts of powder? Samuel? [T] Sorry? [T] Yeah. Just give me some more- [T] Okay. So for this for example, what am I going to use on this if I wanted to see the print? [T] Yeah, exactly. So to do with the- the contrast. [T] And then when you've done that, hopefully that'll- you've got a brush there so you can- you can brush it very gently. [T] When you um- when you've done that, what you can then finally do, once you've got the print, once you've got a reasonable copy of the print-"
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You can take the sticky tape, put it over the print, over the surface, put the sticky tape over it, then when you lift off the sticky tape what should happen? [T] The print should come with it and you can ah, stick that into your book. Okay. [T] Now, um, I want to do one other thing, I want to show you another technique that I don't want you to do, but in fact this one here is, if I've got a rough surface. [T] And for example- um, a piece of rough paper, what I'm going to do here is I'm going to put a print on it like that, okay."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And for example- um, a piece of rough paper, what I'm going to do here is I'm going to put a print on it like that, okay. [T] Now, that's a rough surface. It's not easy to get a print on it. I'm going to show you another technique. I'm going to put this in here. [T] I'm now going to go over to the fume wood because I'm going- I'm using a compound, a chemical iodine."
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'm now going to go over to the fume wood because I'm going- I'm using a compound, a chemical iodine. [T] And... its vapours are a little bit ah unpleasant, so that's why I'm putting it in here. [T] I'm just putting a couple of things of iodine in there. Iodine is a solid, but just like dry ice, what did dry ice do when it ah? [T] Did it melt? [T] It went straight from a solid to? [T] Yeah. Iodine is exactly the same. It goes straight from a solid to a gas."
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah. Iodine is exactly the same. It goes straight from a solid to a gas. [T] And so, what I'm going to do- and as it turns into a gas, um, the iodine molecules will actually stick to the ah- the paper, and should make them ah visible. [T] Anyway, we'll see by the end of the period. Okay. [T] What I want you to do for just a- a couple of minutes is look over what we have to do- I know we looked over it a little bit yesterday. [T] Look over what we have to do on, ah, pages 14 through to 17."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Look over what we have to do on, ah, pages 14 through to 17. [T] Ah, sorry, 16. And ah, just for a moment, have a look over that then in a couple of minutes we'll actually get started on the activities. Okay. [T] Don't read in detail, just- just overview it. [T] You okay? [T] Um, yeah, you'll need to put a heading in your book, Ron, yes. Ah, fingerprinting. Just under where we did the paint chips. Right. And Ron. Spit it in the bin please."
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Um, yeah, you'll need to put a heading in your book, Ron, yes. Ah, fingerprinting. Just under where we did the paint chips. Right. And Ron. Spit it in the bin please. [T] Okay. [T] What's wrong?"
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What's wrong? [T] Oh right. [T] You read very well, Adam. Heh? [T] Sorry? [T] Ah, no, I don't want you to write what I've got on the board there. That's just for you to refer to. [T] Yep?"
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Sorry? [T] No, I've already got the sheets for you here. [T] Haven't you even got a pen, Adam? [T] I don't think that's necessary, Gary. [T] I can't believe you came to class without a pen, Adam."
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I can't believe you came to class without a pen, Adam. [T] It's not really a good way to go about your study is it? [T] Heh. What's the problem? [T] When? [T] So you've been at school now for two days without a pen. [T] Great. Absolutely great, Adam. Okay. [T] Tony, have you got a pen with you today? Tony. [T] Good. I'm so delighted. Okay."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good. I'm so delighted. Okay. [T] All right. Jerry. [T] Just quickly tell us what we're going to do. [T] Yep. [T] Okay. [T] Okay, examine them. Put them in your book? //Okay. They're the A4 sheets er- so you don't get your book all grubby. You can do it on these. They- that's what this is for over here. [T] Ah, you'll have to be fairly efficient. That's the first bit. And then um, yep, Veronica, what are you going to do the second part of the experiment?"
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ah, you'll have to be fairly efficient. That's the first bit. And then um, yep, Veronica, what are you going to do the second part of the experiment? [T] Yeah, and then the activity though. [T] Sorry. [T] Okay, dust the? //Okay, Walter? [T] Yeah, you draw up a table on here is- is the way to do it. Okay. All right. Now listen. I've talked enough and you've- you've sat down long enough. Let's get on with this."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah, you draw up a table on here is- is the way to do it. Okay. All right. Now listen. I've talked enough and you've- you've sat down long enough. Let's get on with this. [T] You all know what to do. Get- get on with it. Do the prints first and then we'll go on to the dusting of the surfaces. Up to you now. [T] Ah, groups of two or three is fine. [T] Okay. [T] Oh, I hope I'm not acting. [T] Oh really."
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Your comments are- have been recorded. [T] That's a bit unfair Christine, I think you're doing me a harsh injustice. [T] Yeah. [T] Yes you can. Of course, yeah. It's just that sometimes it er- [T] It smudges. That's all. [T] How we going? [T] Oh you've got your ah railway tracks in, right."
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Does it hurt or not? [T] How tight is it? [T] How tight is it? [T] Yeah because they're- they're meant to move them in position. Okay, Ron, come on. [T] Good. Okay. [T] You okay, Maria? [T] Good."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Why? [T] Did you go to the play last night did you? [T] Ah, good. [T] Sorry? [T] Perth. [T] Ah, oh there should be a whole heap of ink pads. There should be enough between- one ink pad between four people. Yeah, they're just there. [T] It won't take a moment. [T] Oh, and soap and towels over here if you need to wash your hands."
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, and soap and towels over here if you need to wash your hands. [T] You may want to- you may care to put on a coat by the way if you don't want to get any ah- don't want to get grubby."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Sorry? You were meant to draw up //a table first. [T] //Who did that. Yeah, there's plenty of paper over there, Gary. [T] Yeah. [T] Yeah. Yeah. [T] The fingerprints work a little bit better if they're not quite so- so heavy. Don't put too much ink on your hands. [T] Um well, yeah. That's probably a touch heavy. Just a little bit lighter. Maybe, if you'd use that again, the second time around it'll probably work okay."
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Um well, yeah. That's probably a touch heavy. Just a little bit lighter. Maybe, if you'd use that again, the second time around it'll probably work okay. [T] It's terrific, Ron. //That's actually good. [T] Fine, perfect. A little, you know- [T] Maybe a touch heavy, but that's good. All right. [T] No. That's fantastic. Good. Not too heavy, that's all."
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No. That's fantastic. Good. Not too heavy, that's all. [T] No, you're meant to do both hands. Okay. [T] Yeah, um, yeah. Sometimes, if you put one on there to- to take a little bit off the second one. That's much better, yes. Yeah. [T] Because if you were leaving fingerprints, you wouldn't normally leave ah, ones like that would you? [T] Yeah, okay."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No. It's a normal class. [T] Christine's already told me off, don't worry. [T] That's perfect. That's, yeah, that's much better. That shows it much more clearly. [T] That's fantastic. [T] It'll be the other way around won't it. The thumb, and then it'll be index. Middle."
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It'll be the other way around won't it. The thumb, and then it'll be index. Middle. [T] Remember when you do the right hand it goes in reverse order to the left hand, doesn't it. [T] Oh well. [T] Okay, not too heavy, Tony. Christine, how we going?"
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's good, yeah. Ron, you're actually now becoming annoying. Okay. [T] Samuel, are you okay? [T] Ah. [T] Ah, just check with Ms. Moller if she's got ah- wh- what are you saying it won't come off with soap? [T] Yeah, soap's here. [T] Okay."
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] Oh, just put your hands down in the sink. [T] Oh Ron? [T] Oh. [T] It would really help me a great deal if you could leave the fingerprints on the paper and not on the desk surfaces."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I might be looking for volunteers, Adam, at lunch time. [T] Oh you know what Christine's like. [T] She thinks it's her job to- to get me- make me a better teacher. [T] Oh great, yeah that's good. Okay. [T] I think they are actually, yeah. I think they're fine. They actually show the detail. [T] Yeah. That's beautiful that one there, isn't it? [T] That's- that- that one there is perfect because you can actually see the whirls, swirls."
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's- that- that one there is perfect because you can actually see the whirls, swirls. [T] Yes, terrific, Vicky. Yeah, beautiful. And see that one- that one's perfect. See that? [T] See all the fine detail there. Great. You need to label it though, don't you? [T] Are you okay with that? Good. [T] Okay. Right. It's actually better if it's not too heavy, isn't it. [T] Oh yes, that's beautiful. That's really is perfect, isn't it. It's amazing to think that ah, it's fairly simple and yet no- they can identify people just from fingerprints."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh yes, that's beautiful. That's really is perfect, isn't it. It's amazing to think that ah, it's fairly simple and yet no- they can identify people just from fingerprints. [T] Right. [T] Are you right, Tony? [T] Yes, yes. Just keep working your way through, Arnold."
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. You make a print. [T] Oh no, no, no, no, no, no, no, they- [T] You make, yeah. //In other words- [T] This is like you're a criminal and you've left a fingerprint. Right. [T] On the surface. [T] Oh no, no, you don't, no you use the dust. The talcum- [T] No, no, no, no. No. No. [T] //You just touch the surface. [T] Right. And then, surely you won't see anything. [T] So to try to make it visible you then use the- the dust. To see if it can-"
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So to try to make it visible you then use the- the dust. To see if it can- [T] Yeah. Just like you're a- if you're a, if a police and you go into a room and ah- you want to find out what's happened. [T] No, okay, you're not. Right. [T] No, we don't have to be. It would be nice if yours were in your own book, Gary. Right. [T] Can I just have your attention for one moment please? [T] Is it cl- is it clear to you all that in the second activity you don't use the ink?"
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is it cl- is it clear to you all that in the second activity you don't use the ink? [T] And I'd rather you didn't spray that talcum powder into the air, thank you. I really don't think you should be breathing that into your lungs. Thanks, Chuck. Okay, get on with it."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And I'd rather you didn't spray that talcum powder into the air, thank you. I really don't think you should be breathing that into your lungs. Thanks, Chuck. Okay, get on with it. [T] And at some stage too, I'd like you to inspect the jar here just to see how the fingerprints that I left are slowly emerging from the iodine. Just have a look- sorry. What's wrong, Arnold? [T] Oh right. Didn't, did it? [T] You can see a little bit. Did you use the hand lens just to examine it?"
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You can see a little bit. Did you use the hand lens just to examine it? [T] Just-just try it. It may not be that good. I would have thought that surface would be okay. [T] Try a ah- a clear surface with either the talc or with the- the glass surface with either the talc or the ah carbon powder. Allison, are you okay? [T] Fine. Good. [T] Ron. Are you okay?"
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Just do your tie up, too. [T] Yes, I know, but you need to do your tie up. You wouldn't normally look like that.// [T] Oh good. [T] Where is it, Arnold, look that's Samuel's. Maybe you had ah- [T] Maybe you had washed your hands //fairly thoroughly. [T] Okay. [T] Did you do your fingerprints with the ah, //and wash your hands. [T] Oh, okay, right. [T] But Arnold that's come out beautifully. [T] Oh that's perfect, isn't it. Now can you sticky tape over that and lift that off?"
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh that's perfect, isn't it. Now can you sticky tape over that and lift that off? [T] I don't reckon you've got any ah oils ah leaking out. [T] Well that's worked okay. Look at that. Arnold. [T] Okay, let's just get most of this off now (inaudible)."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's not very- not very clear at all, is it? I'd- I'd try another one if I were you. [T] Just get some paper. Clear it- clean it off, and try it with [T] Um just enough to, to cover it all. Okay. Doesn't matter if you put a bit too much on, and then just gently brush it across. [T] Well no, you've got those ah- the brushes there. [T] No, if you brush it very lightly it won't. And if you brush too hard, yes it will. [T] //It's perfect. Yeah, but then why did Ally's work so well?"
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] //It's perfect. Yeah, but then why did Ally's work so well? [T] Now how did you do that this time, Arnold? [T] Sorry? [T] Oh, you're cheating. [T] Oh yeah. //Yes. [T] That's perfect."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'm really disappointed in your attitude, Ron. Really. We talked about this yesterday and the day before, didn't we. [T] We talked about your maturity. Now just try and, now come on, get on with it. Ron, you really are- at the moment, you're a big disappointment to me. [T] You made a big fuss yesterday, because your dad was coming up to the school to talk with Ms. Riley. Right. [T] Come on just calm down."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh yeah, yeah, that's right. Probably a little bit heavy, but that's right if you just dust off a little bit more, but you can certainly see the fingerprints there, can't you? [T] And I think you- maybe if you, if you could tape over that and lift it off it might be fine. [T] Ah, most of you are forgetting to put down paper so you don't make a mess of the benches. When you do the dusting, //put down the paper please. [T] In your- in your book. [T] Oh aren't you? Okay, well then [T] Oh, okay. Yes, you're right. So, I guess really the"
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, okay. Yes, you're right. So, I guess really the [T] That's perfect. Yeah, that's great. Yeah. [T] I guess for putting in your book you're right. The only thing Christine, hang on, no, no, we have got some black paper here Christine. [T] Technically you could probably do that and then put that in your book. [T] //Gee, I recognise those prints. Seen them somewhere before."
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] //Gee, I recognise those prints. Seen them somewhere before. [T] Oh good. Perfect. Yeah. You can see them quite clearly can't you. [T] Okay. Anyway, try different surfaces please. [T] Yes. [T] I'm sorry. [T] No, well maybe it's not a good surface we're using. I- it's a while since I've done this. I would have thought it would be- a slightly rough surface, isn't it."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, well maybe it's not a good surface we're using. I- it's a while since I've done this. I would have thought it would be- a slightly rough surface, isn't it. [T] Yeah try- just try another one, anyway, maybe another finger or something like that. But, I think it might work. [T] Not working. [T] Sorry. [T] Yeah, well glass should certainly work quite well with the black powder um. Please remember to put down paper, thank you. [T] Jackie. Yep. Good. That's what the newspaper is for."
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ah, no use- use ah. [T] I think use paper towel for that ah, Steve."
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I th- no, I think just clean them off with some paper towel, Annie. I think ah, they'll probably need cleaning ah, with detergent or something like that. [T] I'll just check what Ms. Moller wants to do, but just rub them down with paper towel I think. [T] Did they work okay or not? Did you use the... the um, sticky tape to get that?"
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Remember. If you use the sticky tape to then put them in your book. [T] //Okay, next one you dust try to- try to the n- if- if it comes out okay, lift it off with sticky tape, put it in your book. Just to- [T] Okay. (inaudible) I think that's what- I believe that's what they do. [T] When you get it on there. [T] Put the sticky tape over the print. Peel it off and hopefully the print- the powder should now stay on the sticky tape."
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ooh. [T] Heh? [T] What did you see, Jared? [T] Yeah, oh touch it on both sides, actually, yeah. Okay. [T] Yeah. Okay. [T] You can certainly see the-"
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's probably a bit too heavy. You'll need to dust it off a bit more than that, won't you. Is it coming out or not? [T] It's not, okay. See that should be a good surface for getting finger prints on. Okay. [T] No, there's not. No. I think you're brushing a bit too heavily, that's all. [T] No, I can't ah. [T] No. What I suggest you do, it might be better if you actually do it on the upper surface because that means that any ah- er- other powder will actually go off. You with me?"
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No. What I suggest you do, it might be better if you actually do it on the upper surface because that means that any ah- er- other powder will actually go off. You with me? [T] Try it again. Just brush it down with some tape and then whichever- whichever sort of part of you might be the- have the most grease on it. [T] Okay. See if you can make a decent print. [T] Can I've a look? You're getting ah, a lot of a- that's good, that's very clear isn't it. If you put tape over that now, you should be able to put that in your book."
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Can I've a look? You're getting ah, a lot of a- that's good, that's very clear isn't it. If you put tape over that now, you should be able to put that in your book. [T] Sorry. [T] Yeah, well glass is a good hard surface, isn't it. Nice and smooth. [T] Oh good. Okay. [T] Yeah, now put tape over that ah, Tony, and ah, peel off and put it in your book please. (inaudible)?"
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What's that, Brad? Great, great. You need to go do you? [T] //Didn't you go this morning, Samuel. Okay, hurry up. [T] Which one. Not those. [T] No the ones on there, like, see the ones that Chuck's got. That's already done, you just stick those in your book now. [T] The ones there. If you want to get them off you peel them off. [T] Are you with me? [T] All right. Adam, are you okay?"
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good. Now have you done any on the hard surfaces and done any dusting, Adam? [T] No. It might be worth your while having a crack at that. What did I say about paper down so you don't- [T] Oh you didn't. [T] So you can clean up the benches there. [T] No. [T] Okay. [T] //Not visible. [T] No, okay. No, that's fine."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I think, I think maybe the only ones that'll work //will be the- [T] Okay. The glass one with the black powder, the carbon powder, might be the best one for //that to put in your book. [T] Okay. Has anyone been able to lift prints off with the sticky tape? [T] Not very well. [T] Certainly looks like it to me. Not very clear though is it? [T] Okay. Just try- maybe try on the upper surface that might ah- that might also be okay."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Just try- maybe try on the upper surface that might ah- that might also be okay. [T] Okay. [T] Yeah, of course. Plenty of time. It won't take a moment. [T] I'd like you all to get at least one fingerprint lifted off so you can put that in your book please."
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh. With the sticky tape with the- with the- the black powder on say the ah- [T] Oh, okay. [T] None has worked. [T] Has anyone got the carbon powder working or not? [T] Give us a look. Did that work? Yeah. [T] Yeah, I can, but can you lift that off with sticky tape is what I want to know."
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah, I can, but can you lift that off with sticky tape is what I want to know. [T] Oh, Arnold. What have you got so much powder there for? [T] No, the idea is to dust very lightly. If you make it too heavy ah, you won't be able to clean it. [T] Oh good. [T] Oh right. I don't think that'll work actually in ah, the criminal ju- justice system will it?"
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Do you think the criminals are going to go around putting their prints on sticky tape for you? Get out of here. What do you think? I can't see it. [T] It's cheating, Jackie. [T] It's not time yet. [T] No. I can't."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Show me. Oh that's- you shouldn't have that glass slide, it's broken isn't it. [T] Oh yuck. Okay, I can see it, but- it doesn't seem quite clear enough, does it? [T] No. [T] Oh right. You can actually see it there, at a particular angle, but it's- it's certainly not"
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well- well only tape it if it'll come off properly. [T] (inaudible) yeah, sort of. [T] Or- [T] And, yeah, just- just sprinkle over it and just- just lightly. Hopefully the- the, the carbon powder will stick to the oils that you leave behind. Unfortunately we-"
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah. [T] Yes. [T] Yeah, just brush it very lightly though. Oh good, Christine. [T] That's okay. [T] Yeah. It's okay. Yeah. Obviously we need to er, //research this a little bit better. [T] Yeah. [T] I know that but I mean criminals aren't going to come and put- [T] So that's an effective system is it? Have sticky tape over all your benches."
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So that's an effective system is it? Have sticky tape over all your benches. [T] Oh that's good. Yeah. [T] //Yes please. [T] Not meant to open the lid because it's a- it's got the holes in it like a salt shaker. [T] Oh, Ron, Ron. [T] Oh great, that's perfect. That's perfect. Now whether you can tape that and put it on some black paper and then put it in your book might be the way to go."
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Kind of didn't work. //You can actually see it in that. [T] Oh okay, yeah, //it's not bad. [T] Good, good. [T] Yeah, see if you can lift that with some- [T] That's good. Oh that's a black one. [T] That's beautiful. Yeah, good. [T] Yeah. [T] Didn't work. [T] I can't see, yeah. It's obviously not a good surface for lifting prints. Obviously we need a harder surface like glass or something like that."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I can't see, yeah. It's obviously not a good surface for lifting prints. Obviously we need a harder surface like glass or something like that. [T] Okay. Maybe the ah porcelain tile might have been better, that- [T] Okay, with the- [T] Oh just wipe them down with paper ah towel please. [T] Ah, just give that a wash with water please."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. We've got quite a mess here now to clean up. It's a bit messier than I had anticipated. [T] Could you start packing up now please because we'll need to leave a little bit longer than we normally do. Okay. Put the tiles back where you got them from. Ah, Arnold. [T] It's not mud pie making. [T] The hand lenses go in the ah, //box over there I think."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh that's good. Yeah. Put that in your book please. Good, Jack. [T] //Just put your hand lower down in the sink ah , Dave. [T] Well I was hoping you would have actually cut them out and then put them in your book. [T] Yeah. If you do that. [T] Good. [T] Ah, start packing up. Start cutting out the prints. Make sure they're in your book please. Jerry. //Are you right?"
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ah, start packing up. Start cutting out the prints. Make sure they're in your book please. Jerry. //Are you right? [T] All right. Who was working over here? [T] Adam. Who was working with you?"
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah. Will you guys just clean up that area for me please. [T] That's good. How'd you do it? [T] Did you? On glass with white powder. [T] Rather than brush it. [T] Ah, smart, see. You guys are much smarter than me. [T] Do they really. [T] That investment your parents have made into a television set has ah- been worthwhile has it?"
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That investment your parents have made into a television set has ah- been worthwhile has it? [T] I don't know. I haven't asked that question. I'll ask that question for you later. Okay. Right. Adam. [T] Oh, Chuck, will you go and just pack up over there please. Okay. Right. Arnold, Samuel, are you- [T] Oh, fantastic."
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They're good aren't they. You actually did them very well there. They're the clearest set I've seen. They're all clear because they're not too heavy. [T] Yeah, that's true. [T] Sorry. [T] Ah, should be in there. The black paper's in there. Um. Who was working over here? [T] Well, you guys ah clean it up please. Walt, James. You guys clean it up please."
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, you guys ah clean it up please. Walt, James. You guys clean it up please. [T] Who was working there? [T] Okay, fine. [T] Well whose, whose is it do you know? [T] Annie, where were you guys working? [T] Did you move up the back there? [T] Karen? [T] Tony. [T] Language, thank you."
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You know you don't talk like that. [T] Hey, Walter. Let's not worry about it. Just tidy up what you can please."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hey, Walter. Let's not worry about it. Just tidy up what you can please. [T] Ah, Liam, will you just grab that er, stamp pad please and just pop it on the trolley. Thank you."
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Sorry. [T] Ah, yes, the questions are in the- it's written the board there. Questions one to four on page 15. Questions one and two on page 16."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ah, yes, the questions are in the- it's written the board there. Questions one to four on page 15. Questions one and two on page 16. [T] Yeah. That's all right. [T] Oh, okay, yes, yes. [T] Annie. Can you guys just er, tidy up this please? Just pop them- [T] Yeah, Karen can help you. Um. [T] Well I'll put most of it away. Just put the hand lenses in there please."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well I'll put most of it away. Just put the hand lenses in there please. [T] I think they just go on the bench trolley there. [T] A couple more hand lenses there. Thanks, Karen. [T] Tony. Come on. [T] In your book please. Get your book set up. I'd really like you getting organised ah, Tony. Ah, page 14, 15, and page 16."
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] In your book please. Get your book set up. I'd really like you getting organised ah, Tony. Ah, page 14, 15, and page 16. [T] Adam. [T] You make sure you get that in your book please ah. We really need to get your book work organised. [T] Okay, where's your book. Open it up and show me what you've done please. [T] Thanks Annie, thanks Karen. Have you guys got your books in order? [T] Fully under control, okay. [T] Okay. So Gary."
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Just er, tape it in now. There's some sticky tape here, Gary. [T] There's sticky tape here if you need to get it in your er, your books. [T] Oh that hand lens can go, Larry. [T] Ah, Arnold. [T] Come here please."
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Do you mind er cleaning down where you were working please. [T] Okay. That looks good, (inaudible). Great. Okay, what about these ones? [T] Okay, start doing that. [T] Ah, no, I just really would like you now to have the evidence in your books. [T] That's the fingerprints along with page- the questions one to four on page 15 and questions one and two on page 16."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's the fingerprints along with page- the questions one to four on page 15 and questions one and two on page 16. [T] How are you going, Jerry- ah Jerry they're not in your book yet. [T] Oh, okay, fine. [T] You've only got another couple of minutes, so really ah, you need to get moving on that. [T] Which one, in which way sorry?"
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Look at them with a hand lens. I mean, the idea should be that- that, there should be some com- something in common with them. //But in fact no, they'll all be different. [T] Yeah, exactly. Right. Some people have whirls and swirls and some have arches. Okay, and that might be common. But, the actual individual prints should be different. [T] Are they? [T] Well have a look at them through the micro- I don't think they're all the same."
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well have a look at them through the micro- I don't think they're all the same. [T] Yep. [T] Yeah, someone- you and someone else. [T] But I'm sure you know the answer to that because we can use fingerprints for identification. [T] Well, if all p- if other people's fingerprints were going to be the- [T] No, not yours. It's yours with other people's. [T] You're comparing, Veronica, yes."
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Allison, you're frowning. [T] Well just have a look now, have a look at Ron's. [T] Okay, time flies when you're having a good time, doesn't it. Um- [T] No. Okay. Ah, could you please pack your books up. Make sure you put your chairs in and you go to your humanities class. Whose scissors? [T] Don't you? [T] I think you do."
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I think you do."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, okay, fine. Lots of different colours. All right. Do you agree Daniel? [T] Okay. Stop being so formal by the way. [T] Okay, so yesterday you had the microscope. You looked at the paint chips. [T] The previous day you looked at the hairs under the microscope and you looked at the different fibers. [T] Okay, but yesterday's class went very well because you in fact- all of you were able to get very, very good microscope shots of the different layers of paint."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Today, as I- I talked to you yesterday, we are going to do an activity on fingerprinting. All right. [T] Um, fingerprinting, it's actually contained in the- in this- in this book here that both Mr. Hathaway and Ms. Moller are co-authors of. [T] Um, the pages, we start on page er, page 14 and er, page- I'd better get the page right, haven't I. [T] Page 14 on fingerprints. What we're going to do, we're going to do a couple of activities. [T] We're going to do- you're going to make fingerprints, you're actually going to take your own fingerprints."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? Now, in that we've got a whole series of different surfaces. They're up behind Liam and Allison there. [T] There are different surfaces. If you just turn around this way for a moment please. The paper here is to stop getting ah, all the powder on the desk. [T] There are different surfaces. You've got these porcelain, a nice hard porcelain surface that you can put a print on."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And for example- um, a piece of rough paper, what I'm going to do here is I'm going to put a print on it like that, okay. [T] Now, that's a rough surface. It's not easy to get a print on it. I'm going to show you another technique. I'm going to put this in here. [T] I'm now going to go over to the fume wood because I'm going- I'm using a compound, a chemical iodine."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Sorry? [T] No, I've already got the sheets for you here. [T] Haven't you even got a pen, Adam? [T] I don't think that's necessary, Gary. [T] I can't believe you came to class without a pen, Adam."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, and soap and towels over here if you need to wash your hands. [T] You may want to- you may care to put on a coat by the way if you don't want to get any ah- don't want to get grubby."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Um well, yeah. That's probably a touch heavy. Just a little bit lighter. Maybe, if you'd use that again, the second time around it'll probably work okay. [T] It's terrific, Ron. //That's actually good. [T] Fine, perfect. A little, you know- [T] Maybe a touch heavy, but that's good. All right. [T] No. That's fantastic. Good. Not too heavy, that's all."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No. It's a normal class. [T] Christine's already told me off, don't worry. [T] That's perfect. That's, yeah, that's much better. That shows it much more clearly. [T] That's fantastic. [T] It'll be the other way around won't it. The thumb, and then it'll be index. Middle."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It'll be the other way around won't it. The thumb, and then it'll be index. Middle. [T] Remember when you do the right hand it goes in reverse order to the left hand, doesn't it. [T] Oh well. [T] Okay, not too heavy, Tony. Christine, how we going?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I might be looking for volunteers, Adam, at lunch time. [T] Oh you know what Christine's like. [T] She thinks it's her job to- to get me- make me a better teacher. [T] Oh great, yeah that's good. Okay. [T] I think they are actually, yeah. I think they're fine. They actually show the detail. [T] Yeah. That's beautiful that one there, isn't it? [T] That's- that- that one there is perfect because you can actually see the whirls, swirls."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's- that- that one there is perfect because you can actually see the whirls, swirls. [T] Yes, terrific, Vicky. Yeah, beautiful. And see that one- that one's perfect. See that? [T] See all the fine detail there. Great. You need to label it though, don't you? [T] Are you okay with that? Good. [T] Okay. Right. It's actually better if it's not too heavy, isn't it. [T] Oh yes, that's beautiful. That's really is perfect, isn't it. It's amazing to think that ah, it's fairly simple and yet no- they can identify people just from fingerprints."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh yes, that's beautiful. That's really is perfect, isn't it. It's amazing to think that ah, it's fairly simple and yet no- they can identify people just from fingerprints. [T] Right. [T] Are you right, Tony? [T] Yes, yes. Just keep working your way through, Arnold."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So to try to make it visible you then use the- the dust. To see if it can- [T] Yeah. Just like you're a- if you're a, if a police and you go into a room and ah- you want to find out what's happened. [T] No, okay, you're not. Right. [T] No, we don't have to be. It would be nice if yours were in your own book, Gary. Right. [T] Can I just have your attention for one moment please? [T] Is it cl- is it clear to you all that in the second activity you don't use the ink?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is it cl- is it clear to you all that in the second activity you don't use the ink? [T] And I'd rather you didn't spray that talcum powder into the air, thank you. I really don't think you should be breathing that into your lungs. Thanks, Chuck. Okay, get on with it."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh that's perfect, isn't it. Now can you sticky tape over that and lift that off? [T] I don't reckon you've got any ah oils ah leaking out. [T] Well that's worked okay. Look at that. Arnold. [T] Okay, let's just get most of this off now (inaudible)."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'm really disappointed in your attitude, Ron. Really. We talked about this yesterday and the day before, didn't we. [T] We talked about your maturity. Now just try and, now come on, get on with it. Ron, you really are- at the moment, you're a big disappointment to me. [T] You made a big fuss yesterday, because your dad was coming up to the school to talk with Ms. Riley. Right. [T] Come on just calm down."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh yeah, yeah, that's right. Probably a little bit heavy, but that's right if you just dust off a little bit more, but you can certainly see the fingerprints there, can't you? [T] And I think you- maybe if you, if you could tape over that and lift it off it might be fine. [T] Ah, most of you are forgetting to put down paper so you don't make a mess of the benches. When you do the dusting, //put down the paper please. [T] In your- in your book. [T] Oh aren't you? Okay, well then [T] Oh, okay. Yes, you're right. So, I guess really the"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, okay. Yes, you're right. So, I guess really the [T] That's perfect. Yeah, that's great. Yeah. [T] I guess for putting in your book you're right. The only thing Christine, hang on, no, no, we have got some black paper here Christine. [T] Technically you could probably do that and then put that in your book. [T] //Gee, I recognise those prints. Seen them somewhere before."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ah, no use- use ah. [T] I think use paper towel for that ah, Steve."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I th- no, I think just clean them off with some paper towel, Annie. I think ah, they'll probably need cleaning ah, with detergent or something like that. [T] I'll just check what Ms. Moller wants to do, but just rub them down with paper towel I think. [T] Did they work okay or not? Did you use the... the um, sticky tape to get that?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's probably a bit too heavy. You'll need to dust it off a bit more than that, won't you. Is it coming out or not? [T] It's not, okay. See that should be a good surface for getting finger prints on. Okay. [T] No, there's not. No. I think you're brushing a bit too heavily, that's all. [T] No, I can't ah. [T] No. What I suggest you do, it might be better if you actually do it on the upper surface because that means that any ah- er- other powder will actually go off. You with me?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Show me. Oh that's- you shouldn't have that glass slide, it's broken isn't it. [T] Oh yuck. Okay, I can see it, but- it doesn't seem quite clear enough, does it? [T] No. [T] Oh right. You can actually see it there, at a particular angle, but it's- it's certainly not"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So that's an effective system is it? Have sticky tape over all your benches. [T] Oh that's good. Yeah. [T] //Yes please. [T] Not meant to open the lid because it's a- it's got the holes in it like a salt shaker. [T] Oh, Ron, Ron. [T] Oh great, that's perfect. That's perfect. Now whether you can tape that and put it on some black paper and then put it in your book might be the way to go."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I can't see, yeah. It's obviously not a good surface for lifting prints. Obviously we need a harder surface like glass or something like that. [T] Okay. Maybe the ah porcelain tile might have been better, that- [T] Okay, with the- [T] Oh just wipe them down with paper ah towel please. [T] Ah, just give that a wash with water please."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That investment your parents have made into a television set has ah- been worthwhile has it? [T] I don't know. I haven't asked that question. I'll ask that question for you later. Okay. Right. Adam. [T] Oh, Chuck, will you go and just pack up over there please. Okay. Right. Arnold, Samuel, are you- [T] Oh, fantastic."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ah, yes, the questions are in the- it's written the board there. Questions one to four on page 15. Questions one and two on page 16. [T] Yeah. That's all right. [T] Oh, okay, yes, yes. [T] Annie. Can you guys just er, tidy up this please? Just pop them- [T] Yeah, Karen can help you. Um. [T] Well I'll put most of it away. Just put the hand lenses in there please."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well I'll put most of it away. Just put the hand lenses in there please. [T] I think they just go on the bench trolley there. [T] A couple more hand lenses there. Thanks, Karen. [T] Tony. Come on. [T] In your book please. Get your book set up. I'd really like you getting organised ah, Tony. Ah, page 14, 15, and page 16."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I think you do."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/S-AU1"
+}

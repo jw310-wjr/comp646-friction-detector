@@ -1,0 +1,2862 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math JP4 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Onegaishimasu. [T] Okay, we're going to start our homework answer comparisons so, please take out handout number nine. [T] Now I'll have you write it. Please write, right? [T] Okay, it's this row. [T] One, two, three, four, five, six. Okay, then please write it. Okay."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] One, two, three, four, five, six. Okay, then please write it. Okay. [T] Okay, go ahead. [T] Go ahead. Please write it. Okay."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Go ahead. Please write it. Okay. [T] I'm going to check it so those of you who haven't done it, [T] please hurry and do it, okay?"
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This... then. [T] I will hold this microphone... and walk around. [T] Okay. [T] Okay, then I'm going to check it so please show it to me, okay? Okay. [T] Okay. Oh, great."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Oh, great. [T] Everyone did their homework today because we're going to be on TV. [T] Did you copy it? [T] Just one person... just one person is a little different. Arai! [T] This child... has forgotten his homework. [T] Please show it to me. Bancho, you could do it by yourself, right? [T] Chino? [T] Are you feeling better now? [T] Okay. That's fine."
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. That's fine. [T] Okay, go ahead. [T] Arai, please hurry and write it. It's only you, Arai."
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Arai, please hurry and write it. It's only you, Arai. [T] Okay. Okay, then I had you write six so... [T] We'll compare answers together and verify them. [T] Okay, number one. You exchange it and two X is less than 14. [T] We divide both sides by two, so the inequality is X is less than seven."
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] We divide both sides by two, so the inequality is X is less than seven. [T] Number two. Transpose and negative five X is less than negative 10. [T] Then you're dividing both sides by negative five so X is greater than or equal to negative two. [T] Okay, then the third one. [T] Date, please interpret this. [T] Oh, you mean you multiplied 10, right? [T] Okay. Ten- line up all of the head numbers and multiply them by 10, and 12 X minus four X is, it's already like this, right? Okay."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Ten- line up all of the head numbers and multiply them by 10, and 12 X minus four X is, it's already like this, right? Okay. [T] Six and then 42. If you organize them like this, eight X is less than 48 and X is less than negative six. [T] And number four is... take off the brackets and three X plus 12 is greater than five X plus two. [T] Then you transpose, and negative two X is greater than minus 10 and... when you divide both sides what is wrong at this point?"
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Then you transpose, and negative two X is greater than minus 10 and... when you divide both sides what is wrong at this point? [T] Where is it wrong here? If I told you to correct it... where would you correct it? [T] Eguchi, here... where should you correct it? How would you fix this?"
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Now it's okay, isn't it? [T] Okay. Then how about this? [T] Yeah. At the negative two the inequality sign doesn't change yet. It's okay as it is. [T] And when you divide it on both sides by negative two then the direction is changed to the opposite and X is less than five. Right? [T] Even if you combine like terms there is nothing that can change the inequality sign so just moving this one thing won't change it. [T] This is written, so, this is here. So because this is here you can change the direction, you know."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This is written, so, this is here. So because this is here you can change the direction, you know. [T] Right. You don't change it at this point. You change the direction while you divide both sides with this denominator, you know. [T] Write it like this and... [T] People who write it like this are okay. This corresponds. This is fine. Yes. [T] It's just that there's this line and this line but... okay. Then number five. The brackets are removed. [T] Negative six X is less than negative seven. [T] Where was it strange when you were doing it?"
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Why does it end up as this kind of fraction? X greater than or equal to seven sixths? [T] Okay, this is fine. [T] There was one that became a fraction, right? Then the sixth one. [T] It seems like it was multiplied by 10 and was all calculated, but... [T] You need to multiply 10 to this two as well and make it 20, so... [T] Please be careful here because you may forget to write this. [T] Then 13 X is greater than negative 13 and... X is greater than negative one. [T] Then... four or more correct is good. [T] It's a passing mark. Then... people who could do four or more. You are paper, okay?"
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's a passing mark. Then... people who could do four or more. You are paper, okay? [T] Then people who did less than four are stone, okay? [T] One, two, and three! [T] People who had four or more are paper, you know. [T] People below four are stone. [T] Yes. It seems like everyone other than Arai is okay. [T] Arai. [T] Let's do our homework from now on, okay? [T] Huh? [T] Okay. That's what it's about."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, then today will be the final part of the sentence problems so, then... [T] I will have everyone use their heads and think a little, okay? [T] Until now we've just done calculation practice, but today we will have to use your heads a little so... [T] I'm asking you to use thinking methods. How to think and how to look for it and think about it may be a little difficult you know. [T] More difficult than just simply calculating, that is. Right? [T] Well then we'll go ahead. [T] Okay. Well then... please look at... the problem."
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Well then... please look at... the problem. [T] Fukuda, can you see it? [T] Can you see? [T] You can see. Okay. Then, Genji. [T] Please read the problem... in English. [T] Okay. Genji, please read the problem."
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Do you understand the meaning of the problem? [T] Arai, do you understand what this problem means? [T] You have 230-yen cakes and 200-yen cakes, right? The 230-yen cakes are a bit more expensive. [T] And... you have 10 family members. You want to buy cakes for each person. But, I have only 2,100 yen. [T] Which cake... seems more delicious?"
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The more expensive one is somehow more desirable, right? [T] And so... you want to buy as many expensive cakes... as you can, but what's the maximum that you can buy? [T] That's the problem. [T] Understand? [T] There are cakes that are 230 yen and 200 yen. [T] You only have 210 yen. But you need to buy 10. [T] But the 230-yen one looks more delicious so you want to buy as many as possible."
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But the 230-yen one looks more delicious so you want to buy as many as possible. [T] But you only have 2,100 yen, so... so in fact how many 230-yen cakes can you buy? [T] So today I am going to have you think about how to find the answer. [T] So now I will pass out paper, so please try and think about it. [T] See you can do it if you do it like this. [T] See if you can understand- solve it if you do it like this. I will present the problem in this way, okay? [T] Use the back, too. Four, five, six."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Use the back, too. Four, five, six. [T] Two, three, four, five, six. [T] I didn't pass out the papers so... four, five, six, here. [T] One, two, three, four, five, here. [T] One, two, three, four, five, six. [T] Three, four, five, six. Okay. [T] I don't care about what kind of method you use so please think about if you do this, you can buy 230-yen cakes. [T] Think about how many you could buy and how to figure it out. [T] This problem is for ninth graders, so you can't solve it, so please use the back. Please use back of the paper and think about it a little."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This problem is for ninth graders, so you can't solve it, so please use the back. Please use back of the paper and think about it a little. [T] What do you need to do in order to buy 230-yen cakes and up to how many can you buy and bring home? [T] Please think about this for a while. [T] It's good if you come up with an answer, but please think about what you need to know about how many to buy. [T] Well, we have about three minutes so it's okay if you do it while you write notes there. [T] So, think about what you need to do to find out how many you can buy and find the answer. Okay, get started."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, think about what you need to do to find out how many you can buy and find the answer. Okay, get started. [T] Please work by yourself at first, okay? [T] If you were in front of the store and you only had 210 yen and you had to buy 10. What should you do? [T] Think about the time that you were in front of the store. [T] What would you do? [T] What? [T] Please think about... that okay? Then how are you going to think about it? Please show me how you are thinking about it. [T] That you can find it if you do such and such."
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Go ahead. [T] Ordinarily they wouldn't bargain, would they? Although they might bargain if it were at a vegetable or fish store. [T] I have never seen them bargain... at a cake store. [T] They might have bargained if it were Kenchan's Cakes, right? [T] Oh, don't you know it? [T] Okay. Please think about it by yourself for a while. About two minutes left. [T] I told you not to use this but to use the back, didn't I? [T] We're buying 10 anyhow. [T] You need to buy 10 so... please buy 10, okay?"
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You need to buy 10 so... please buy 10, okay? [T] Because... what you really want is to buy 10 230-yen cakes, right? [T] But if you buy 10 230-yen cakes how much will it cost? [T] It'll end up being two thousand three hundred yen, right? [T] However, you only have 2,000- 2,100 yen in cash so... [T] You need to mix, mix it up or you can't buy it, you know? [T] Because you only have 210 yen in cash. [T] Then how do you need to think about it... in order to find out how many 230-yen cakes to buy? Please think about that."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Then how do you need to think about it... in order to find out how many 230-yen cakes to buy? Please think about that. [T] Please think about it. I don't care what kind of method you use. [T] Oh, if you want to set up an inequality equation go ahead, that's fine, too. [T] If someone else says that they want to think about it with a different method because they don't need an inequality equation... [T] That, that is fine for that person, too. [T] I want to know how you think about it so... I will ask you about thinking... about how you thought about it. [T] See... being asked to figure out how to think about it is more difficult than being asked to solve an equation, isn't it? [T] Okay, go ahead."
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, go ahead."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Don't get it? [T] But, if you really were buying two kinds of cake you have to think about money, the money that you have and the bill. [T] After you ask for the bill you can't say I'm sorry I want to return this. Can you? [T] That has happened to me a lot, too. I say oh, sorry! Please return this. [T] At any rate... please buy 10 cakes. How are you going to think about it?"
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] At any rate... please buy 10 cakes. How are you going to think about it? [T] Not over 10. Buy 10- [T] Buy 10? [T] You're buying 10, you know. [T] Ten. [T] It's not 11 or 12 or eight, but buy exactly 10, okay? [T] Well, then how can you... find out... how many you can buy?"
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Well, then how can you... find out... how many you can buy? [T] Okay, then you go to the cake store and try and request that. [T] Most people won't do such a thing, you know. [T] It's different from asking to have half a Japanese radish, you know. [T] It's okay... if it's a Japanese radish."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's okay... if it's a Japanese radish. [T] So how do you think about this? [T] Not by using equations or things like that but tell me what you have to do to get the answer."
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's okay if there's left over. [T] It's good if you have change in any case. [T] Change, or else it's also okay if you use all of the 2,100 yen, you know. [T] Well there is one minute of remaining time."
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You're all good at this setting up an equation and suddenly spitting out an answer. [T] Try doing it with that method. [T] Okay."
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Then... we'll have midway presentations. [T] Okay, please raise your heads. [T] Then people who thought that it seemed sort of better to do it this way and understood the method... you are paper, right? [T] Not yet, now. [T] People who had no idea how to do it... you're stone... okay? [T] Okay, people who think it's best to do it this way, but say... [T] You don't understand... you don't have confidence, are scissors, okay? [T] Although from looking at what you were writing it seems like stones are plentiful."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But, I'll try and ask you, okay? [T] Okay, then students who understood the way of thinking are paper. [T] And then... people who say that you can do it to some extent and you understand it are paper, okay? [T] People who say... I don't understand it at all are stone, okay? [T] People who say that they are in the middle are scissors, okay? Okay. [T] Then one, two, and... three. [T] Oh... there are no paper people. [T] Paper is people who say that they understand it completely. [T] One person."
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] One person. [T] Okay. [T] Then scissors people and paper people, there are even quite a few stone people who responded, right? [T] Okay, then I will try and ask a few people, okay? [T] Okay, then Hara. [T] How did you think about it? [T] Okay, go ahead."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] You go over, don't you? Okay."
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Keep reducing and... when you do it with eight on this side and two this side, then? [T] When you did it? [T] Time ran out and... [T] You couldn't do it to the end. [T] Okay. [T] Raise your hand... if you say that this way of thinking was really similar to yours. [T] Hara started counting from 10, but... there may be people who started counting from this side. [T] People who say that they used this way of thinking. [T] Okay. Only, Ikui? [T] Arai? [T] Okay. Then Ikui, Arai, Joji, right? Then Ikui... where did you find an answer that was exactly even?"
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Then Ikui, Arai, Joji, right? Then Ikui... where did you find an answer that was exactly even? [T] Or could you not find the answer? [T] Were you at the point in which you were do- counting it like this but time ran out? [T] Did you find it in a flash? [T] Three? Then how much does it become? [T] Six hundred ninety yen. [T] And what about this side? [T] When you buy seven?"
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Wait a minute. [T] If you buy seven, if you buy seven 200-yen ones how much does it become? [T] One thousand four hundred yen. Okay. [T] How much is it... if you add it? [T] Two thousand- [T] Ninety yen. [T] Okay. That's what it's about. [T] So that means if you buy three 230-yen cakes and seven 200-yen cakes, [T] then it becomes 2,090 yen. You get 10 yen in change. [T] That's why you could buy three of these. And as for this, if you buy seven then... [T] With 2,100 yen there is only 10 yen left. And with only 10 yen you can't buy anything, so it's this."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] With 2,100 yen there is only 10 yen left. And with only 10 yen you can't buy anything, so it's this. [T] You could find an answer... that it was this. [T] What about yours, Joji? [T] Are you in the middle of it? [T] He's in the middle of doing it. [T] What about yours, Arai? [T] What? [T] Still doing it. As for Arai, he couldn't print out what was in the hard drive in his head, right? [T] Okay. That's what it's about. [T] This... then something else... students who say, \"I did this.\""
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This... then something else... students who say, \"I did this.\" [T] Kamon and Luiko and who else? [T] Other people. [T] No one? [T] What's yours, Kamon? [T] How do you... work it out? [T] What did you set up? [T] Huh? How did you do it? Your method? [T] You set up an inequality equation. Okay, what about Luiko's? [T] You set up an inequality equation? [T] Then what about other people? Isn't there anyone?"
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No one? [T] Then the other people can't buy them. [T] You know, the cakes, counting them one-by-one is a really ordinary way of doing it, you know. [T] Isn't there anyone else? [T] Maruya's was also an inequality equation, right? [T] We'll get to you later, so wait a little, okay? Other people. [T] How did you do yours, Bancho? [T] Yeah. [T] You wrote multiply by something, multiply by something, right? [T] How did you do that? [T] It's the same as this, right? [T] And then who else was it now? [T] Nagase's one also used a ratio, right? Is it the same as this? [T] It's different? What is it?"
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's different? What is it? [T] Huh? [T] Inequality equation? [T] Okay. [T] Then... are there others? Who used a completely different way of thinking? [T] No? [T] Then... I've thought about it, too, so... what do you think about this way of thinking? Do you all understand it? [T] You bought... ten... 230-yen cakes. [T] You're told to buy a lot and so in reality you want to buy all 230 yen cakes, right? [T] Then how much money is needed? [T] In reality 2,300 yen is required, right?"
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] In reality 2,300 yen is required, right? [T] But you're short 200 yen. [T] You are short... 200 yen. [T] You're short. You thought... [T] that you would buy a cake that is... 30 yen cheaper than... the 230-yen cake. [T] Buy a cake that is 30 yen cheaper and... [T] You buy a cheap cake and... replace this needed 200 yen for a cake that is 30 yen cheaper, okay? [T] You're short 200 yen, you know. [T] But, let's buy them a cake that's not 230 yen but a cake... that is 30 yen cheaper."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But, let's buy them a cake that's not 230 yen but a cake... that is 30 yen cheaper. [T] Then 30 yen is going to be saved. With each, 30 yen is going to be saved. [T] How many cakes that are 30 yen cheaper do you need to buy in order to make up the 210 yen shortage? [T] This is the needed part. [T] How many cakes that are 30 yen cheaper do you need to buy to make up the 210 yen shortage? [T] Can you make up the 210 yen? [T] Yeah. If you buy six, six times three is 180 yen, so you are still 20 yen in the red, right? [T] However... if you buy seven of these... if you buy seven... you will have 210 yen left over, right? The money, right?"
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] However... if you buy seven of these... if you buy seven... you will have 210 yen left over, right? The money, right? [T] That 210 yen is applied to this 200 yen, you know. [T] Then if you buy seven of the cakes that are 30 yen cheaper, if you do that, then what about this side? [T] It's three... did anyone do it like that? Someone who did it like this? [T] There probably isn't anyone, right? [T] Start off by buying 10. [T] You're short 200 yen so... let's make up for the missing cost with cake that is 30 yen cheaper. [T] You can make up for it if you buy seven, so this is three. In that way."
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] It was good, right? Then I'll ask you. Okay... Luiko. [T] Then how did you think... about this one?"
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] You said that this was the inequality equation, right? [T] Okay. [T] Did you understand the meaning? [T] Perfect. [T] You'll get it better with Luiko's explanation than with mine. [T] Okay. Try and raise your hands. [T] People who say that they got it with Luiko's explanation. [T] One person? [T] Only Maruya? Two people? Three people? [T] Four people? Just four people is it? Five people? Okay."
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Four people? Just four people is it? Five people? Okay. [T] Then... please explain it next, Ryo. [T] Please explain it in a way that is a little more understandable. [T] Try and explain it in a way in which... a few more people will say... that they understood. [T] The method of explanation is okay with this. [T] Okay. [T] Go ahead. [T] Okay. Go ahead. [T] You can't do it? [T] You don't know?"
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You don't know? [T] Okay. Then... I'll start talking from this point okay? [T] To tell you the truth I was going to talk about today, what Luiko set up. [T] But I wanted you to find a number... of ways to come up with it so... [T] I did it so that I would have you think about it, right? Three, four, five, six. Okay. [T] One, two, three, four, five, six. [T] Okay. [T] One, two, three, four, five, six. [T] Oh, it's not five, six... there's five people here."
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] One, two, three, four, five, six. Here. [T] Okay. From there, and so... [T] While talking so that everyone will say, \"I see,\" while understanding Luiko's explanation,"
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] While talking so that everyone will say, \"I see,\" while understanding Luiko's explanation, [T] we are going to try and do it using that problem, using an inequality equation problem, okay? [T] You want to buy a total of 10 cakes in which one is 200-yen and the other is 230 yen. [T] And you want to make the total less than 2,100 yen. [T] In order to buy as many 230-yen cakes as possible, what is the maximum that you can buy? [T] That is the problem. [T] And what is the thing that you want to find? Pinko? [T] What do you need to answer?"
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's a problem asking how many 230 yen cakes you can buy, so... [T] So that's why you're going to think of it as changing the 230-yen cake into X. [T] I'm asking how many can you buy, so you should think of changing the 230-yen cake into X. [T] When doing that... you need to buy 10 cakes all together. You need to buy ten. [T] Right? [T] Then, Qumi? If it's six of this cake, then... how many of this cake do you need to buy?"
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Then, Qumi? If it's six of this cake, then... how many of this cake do you need to buy? [T] Four. How did you calculate it? [T] What? [T] So how do you calculate it? How do you know that this is four? [T] What? [T] Yeah, so how do you calculate it? What's the equation here? [T] Huh? [T] What do you add to six to get this ten? [T] Then... then how many is it here?"
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Then... then how many is it here? [T] What? [T] That's why you're in trouble if you are fooled by the number here. [T] If this is six then it's probably how many here, Ryusaki? [T] Qumi is saying that it's four, but how do you get this here? [T] It's four, but how do you come up with four? [T] Ryusaki, how do you come up with four here?"
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Ryusaki, how do you come up with four here? [T] You need to subtract, right? It's good if 10 minus six is four here. [T] If it was seven here, then you would write 10 minus seven, right? [T] If this were nine here then you would think of this as 10 minus nine. [T] So if you subtract one of the numbers from this number, from the total number, then you get the remaining number. [T] And the problem is, if you make the number on this side X, then what will this be if you do that? [T] Here. [T] Joji. What will this become?"
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Joji. What will this become? [T] Here. [T] You haven't been listening, have you. [T] If this were three, then this can be found by going 10 minus three. If this were four, then this is 10 minus four. [T] If this is five, then this is 10 minus five. Then if this is X, then what is this? [T] Yeah. It'll become ten minus X. What this is saying is that you can only buy 10 minus X number of the 200-yen cakes. [T] It will come up here. [T] It's 10 altogether and if you make this X, then here... you need to subtract this number."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's 10 altogether and if you make this X, then here... you need to subtract this number. [T] If you subtract this number from 10 then you'll always arrive at the number left over. [T] That's why it'll be the case that you can buy this many 200-yen cakes. [T] The amount you bought, right? This will be the amount here. [T] If you do that, what would the cost be if you bought only X number of 230-yen cakes? [T] If you multiply the 230-yen cakes at this price by X then you'll get the total cost, right? [T] It's 230 X, you know. [T] Because you're only going to buy 10 minus X of the 200-yen cakes, the cost will be this."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Then since you only have 2,100 yen with you, you'll be in trouble... if it isn't less than this. [T] And so you will get this equation, okay? [T] What is the equation? Oh, I can't write it, can I? I'm wondering what the equation is so... [T] The equation is 230 X plus 200 bracket 10 minus X is less than or equal to... [T] Two thousand one hundred. [T] Okay, then let's try and solve this, okay? [T] Okay, the 230 of this 230 X stays the same. [T] Okay, Sakai, how much is it here when you take the parentheses off?"
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, Sakai, how much is it here when you take the parentheses off? [T] I took the brackets off now, so here. [T] Multiply this and this. [T] How much is it when you multiply it? [T] How much is it if you take off the brackets? [T] Well then how do you do two bracket X plus three?"
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Well then how do you do two bracket X plus three? [T] Well then remove the brackets."
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Huh? [T] Bracket... 200 times 10 is see... [T] Oh, 2,000, right? Two thousand. Okay. [T] Two thousand... minus, you multiply this so... this time on this side so okay. [T] Two, 200 X. Okay. Less than or equal to 2,100. [T] Okay. Then which is the next one that you transpose? [T] Two thousand. Okay. We're going to bring the plus 2,000 to the other side."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Two thousand. Okay. We're going to bring the plus 2,000 to the other side. [T] And 230 X minus 200 X is less than or equal to 2,100 minus 2,000. [T] The sign changes, so please be careful, okay? When you transpose it, okay? [T] Then 30 X... 30 X is less than or equal to... 100. Okay. [T] Then you're going to divide both by 30 on both sides, so it becomes X is less than equal to... 100... thirtieths but... [T] I'll erase the zero here, okay? It'll become 10-"
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'll erase the zero here, okay? It'll become 10- [T] Thirds. [T] What will 10 become if you write it in decimals? [T] Three point three three three three three, right? [T] If I asked you to find the largest integer... that is smaller than three point three... it will come out as three. [T] I can't really write the answer, but okay... you can buy three... up to three... of the 230-yen... [T] thirty yen... cakes."
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] thirty yen... cakes. [T] If you present it... like this... it's good. [T] Things presented like this are solved using an inequality equation. [T] Which is easier, doing it one-by-one or using an inequality equation? [T] It's easier to use the inequality equation, isn't it? [T] And so today what I would like you to do from here is, we already did this in the method of thinking but... [T] Inequality equation. [T] I would like you... to know... the good qualities of... finding the answer by... setting up an... inequality equation,"
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I would like you... to know... the good qualities of... finding the answer by... setting up an... inequality equation, [T] right... inequality equation so... we thought about it... with a problem like this. [T] If you were to solve it without using an inequality equation you need to check it out quite a lot, one-by-one, a lot. [T] Hara could solve it because it was 10, but what if you were to buy 100 of these two cakes together..."
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Hara could solve it because it was 10, but what if you were to buy 100 of these two cakes together... [T] Ninety- figure out 100, and figure out 99, and figure out 98, and figure out 97, and- [T] You need to figure out all of the numbers between one and 100, don't you? [T] However, if you used a method like this that Luiko used... you will arrive at the answer quickly. [T] Therefore, you don't need to figure out each number one-by-one. [T] So working it out by making... an inequality equation has a lot more... good qualities... than counting it one-by-one."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So working it out by making... an inequality equation has a lot more... good qualities... than counting it one-by-one. [T] That's what it's about, all right? [T] So then and so... if there are good qualities like that then... we're saying that. So there are two problems on the right side. [T] This time, please buy 20 apples and oranges altogether. [T] If you count it one-by-one you will be in an incredibly terrible situation. [T] As we just did in the cake situation, set up an inequality equation by yourself and find out up to how many apples you can buy. [T] Or if you're doing the problem at the bottom, try to solve the problem about [T] how many pears you can buy by setting up an inequality equation."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] how many pears you can buy by setting up an inequality equation. [T] Work it out and find an answer. [T] Because finding the answers one-by-one is hard- [T] I wonder if you see the numerous good points of setting up inequality equations, [T] and, well, that you'll set up inequality equations yourself and try to find the solutions. That's what it's all about, okay? [T] Is it okay? [T] Okay. Then and so... people who haven't written this here, write it, and then do problem one. [T] Try to set up an inequality equation by yourself in the same way and try to solve the problem."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Try to set up an inequality equation by yourself in the same way and try to solve the problem. [T] Okay. Go ahead. [T] This is... the total so... you don't have it... see? [T] This is attached."
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This is attached. [T] It's faster than counting, right? [T] It's okay. Now, work out the problem. This expresses this in the same way as this. Oh, solve this on the top."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That's good."
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That's good. [T] It's like this, you know. [T] Not 12, it's 70 times 20, you know. [T] This is 20, isn't it? It's a bracket so, okay? It's not a 12, you know."
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You couldn't read the numbers that you wrote, could you? [T] It's okay, Tanizaki, here. Try this and work it out like this."
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Sakai's one is also good, isn't it? Okay, you've got it. [T] Then now it's easy, right? [T] It's easy, right? [T] This isn't X here, but... you're going to buy 20 in all, right? [T] So here you will get the number you subtracted... from the total amount of 20. [T] And so 20 minus... negative X."
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And so 20 minus... negative X. [T] And so the price here... you multiply the price of one of them, and this amount, so this becomes 120 X. Okay? [T] And what about this one? [T] It becomes 70 parentheses. [T] You can't write it... if it's like that. [T] Please write the 70 sort of more on the side. [T] And what about here? [T] Twenty minus X. [T] Okay. Now you've got it. [T] And then put these together and make this smaller than four."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And then put these together and make this smaller than four. [T] What about you, Uchida? [T] Just a moment. It's all right now, right? [T] Oh, Ueda, that's good. Okay, it's done. [T] Oh, Ueda, yours is good, too. You've arrived at the answer, right? Okay. [T] Where'd it go, Waka? [T] This is okay, you know? [T] This is... 120 X plus, how much is this if you multiply it by this?"
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This is... 120 X plus, how much is this if you multiply it by this? [T] Two times seven, 14, right? [T] One thousand four hundred seventy two thousand. [T] This is four. Then you have to transpose it. [T] There is seven, 700. [T] Twent- this is 70 times 20, so next is four, right? [T] Okay."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay."
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, I guess I'll have you write it."
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, I guess I'll have you write it. [T] Are you done? [T] Did you do it? [T] Then work it out there... will you? [T] This should be fine, right? [T] Could you write it? [T] Isn't it good? It's good. [T] Divide, you can divide it."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Divide, you can divide it. [T] Then... Bancho. [T] Please write number two, okay? Look at the figure and set up an equation and work it out, okay? [T] Number two. [T] Yeah. [T] Write it without looking at anything, okay? Because I wrote-wrote that you would buy 15."
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Write it without looking at anything, okay? Because I wrote-wrote that you would buy 15. [T] Mm, I just saw someone's eyes. Okay, Watabe. [T] Watabe, please write number one, okay? [T] Okay, go ahead. [T] It's not written. [T] Oh yeah, I didn't write the basket prices. Sorry. [T] The basket price is... [T] Eighty yen."
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Eighty yen. [T] Hm? Oh. I should write the totals, too, shouldn't I? The total, sorry. [T] Less than 1,000 yen. [T] Watabe's is less than 2,000 yen. [T] Please write 2,000 yen here. Oh, okay. [T] Try hard and work it out."
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Try hard and work it out. [T] Just one more step, just the answer. Oh, you need to display the answer. [T] Eight? [T] It's wrong. This, the answer of this inequality equation is wrong, isn't it?"
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's this value here. [T] Aren't you missing the 50 here? [T] Oh... the response is okay with this. The answer is not this though, is it? [T] Huh?"
+      }
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This is good. [T] This is the answer to the inequality equation. [T] But, the answer to the problem has to be this, right? [T] When asked to work out this inequality problem, this is- This has to be the answer here, right? [T] However, this won't be the answer to the applied problem so- [T] Seventeen over two, right?"
+      }
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2730.0,
+        "t_end": 2760.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That should be that way, right? Okay. [T] Ueda, how far did you go? [T] Fifty times 15 is look... [T] It's 75, you know. Then it becomes 750. [T] What are you going to write? [T] The problem asks up to how many can you buy."
+      }
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2760.0,
+        "t_end": 2790.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The problem asks up to how many can you buy. [T] What? Pears, right? Up to how many pears can you buy? [T] It's 70 times 20, so it's not 140, but it's only one zero, right?"
+      }
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2790.0,
+        "t_end": 2820.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] There the six is... 60... you're missing one zero, aren't you?"
+      }
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2820.0,
+        "t_end": 2850.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] There the six is... 60... you're missing one zero, aren't you? [T] Okay... that's what it's about. [T] Please look at number one first. If you say that you will buy only X 120-yen apples then... [T] You're going to buy a total of 20. [T] So, as for the tangerines, you need to buy only the total 20 minus X tangerines. [T] And the price of the apples is 120 X."
+      }
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2850.0,
+        "t_end": 2880.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And the price of the apples is 120 X. [T] And the price of the tangerines is 70 parentheses 20 minus X. [T] And the total that you have is 2,000 yen, you know. [T] So you're asked to make it less than 2,000 yen so... [T] One hundred twenty X plus 70, parentheses 20, minus X, is less than or equal to 2,000. [T] And if you try to find the answer you get X is less than or equal to 12. [T] That's why you can buy up to 12 apples. [T] We're going to try to see if this is true or not, okay? [T] You buy 12 120-yen apples."
+      }
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2880.0,
+        "t_end": 2910.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Then what is the cost? [T] Is there anyone who knows what is 12 times 12? [T] Didn't I teach this to you before? [T] It's 144, right? Okay. One thousand four hundred forty yen. This is the price of the apples. [T] Then, you need to buy eight of the 70-yen tangerines so seven times eight, 56. [T] And all together it's exactly 2,000 yen. [T] About it being exactly 2,000 yen, why did it become exactly 2,000 yen here? [T] Because here we got 12, a number that was divisible, right? [T] Right. We got it because the 12 could be divided perfectly into it here, right?"
+      }
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2910.0,
+        "t_end": 2940.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That's why it ended up being exactly 2,000 yen. [T] However, this side. Okay. [T] You find it in the same way. The pears are X and you're going to buy 15, so the persimmons are 15 minus X. [T] The price of the pears and the price of the persimmons... and even the basket will be included as well this time, right? [T] It's asking you to limit it to 1,000 yen all together. So, if you set up an inequality equation you get this kind of equation. [T] Seventy X plus 50, parentheses 15, minus X, plus 80, is less than or equal to 1,000. Please work this out. [T] This is the answer of the inequality equation, okay?"
+      }
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2940.0,
+        "t_end": 2970.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This is the answer of the inequality equation, okay? [T] You need to present this, okay? [T] Instead of just suddenly writing the answer eight- if you first work this out... [T] You get an answer of 17 halves, okay? [T] You need to find this first. Now you need to pinpoint it like this. [T] Then... if you buy eight 70-yen pears, then seven times eight equals 560 yen. [T] If you do that, then how many 50-yen persimmons do you buy? [T] You buy seven? Then seven times five equals 350 yen. All together... 910 yen."
+      }
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2970.0,
+        "t_end": 3000.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You buy seven? Then seven times five equals 350 yen. All together... 910 yen. [T] Then... you'll have 90 yen in change coming back. [T] What? [T] Oh, there's the price of the basket. [T] The basket price is 80 yen so... [T] It's altogether 990 yen, and you'll only get 10 yen in change. That's what it's about. [T] What we talked about today was... the answer from inequality equations... that is... [T] When solving problems it's often easier to set up an inequality equation and find the answer, [T] than count things one-by-one and find the number."
+      }
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3000.0,
+        "t_end": 3030.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] than count things one-by-one and find the number. [T] That's why although it may be tedious... for the applied problems of inequality equations, okay? [T] Instead of looking for the answer one-by-one you find it by changing the parts written in Japanese to mathematical terms and solving it. [T] Because an inequality equation has a good quality like this. This is what we talked about. [T] Is it okay? [T] Is it okay? [T] Then I'll pass out the problems and finish off. What number should I pass out, today?"
+      }
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3030.0,
+        "t_end": 3060.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Then I'll pass out the problems and finish off. What number should I pass out, today? [T] Is it number nine? [T] It's number nine. Number 10. [T] Then I'll hand out the problems for number 10 and finish. [T] It ends with 10. [T] Inequality equations end with this. [T] One, two, okay. [T] Four more? Okay. [T] One, two, three, four, okay."
+      }
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3060.0,
+        "t_end": 3090.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] One, two, three, four, okay. [T] One, two, three, four, five, okay. [T] One, two, three, four, five, six, okay. [T] Okay. [T] Okay. Then we'll say our greetings and finish off. [T] Student officer. Lead with strong voices since we're finished. [T] Please get ready to bow."
+      }
+    },
+    {
+      "t_start": 3090.0,
+      "t_end": 3120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3090.0,
+        "t_end": 3120.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Onegaishimasu. [T] Okay, we're going to start our homework answer comparisons so, please take out handout number nine. [T] Now I'll have you write it. Please write, right? [T] Okay, it's this row. [T] One, two, three, four, five, six. Okay, then please write it. Okay."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This... then. [T] I will hold this microphone... and walk around. [T] Okay. [T] Okay, then I'm going to check it so please show it to me, okay? Okay. [T] Okay. Oh, great."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. That's fine. [T] Okay, go ahead. [T] Arai, please hurry and write it. It's only you, Arai."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Arai, please hurry and write it. It's only you, Arai. [T] Okay. Okay, then I had you write six so... [T] We'll compare answers together and verify them. [T] Okay, number one. You exchange it and two X is less than 14. [T] We divide both sides by two, so the inequality is X is less than seven."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This is written, so, this is here. So because this is here you can change the direction, you know. [T] Right. You don't change it at this point. You change the direction while you divide both sides with this denominator, you know. [T] Write it like this and... [T] People who write it like this are okay. This corresponds. This is fine. Yes. [T] It's just that there's this line and this line but... okay. Then number five. The brackets are removed. [T] Negative six X is less than negative seven. [T] Where was it strange when you were doing it?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's a passing mark. Then... people who could do four or more. You are paper, okay? [T] Then people who did less than four are stone, okay? [T] One, two, and three! [T] People who had four or more are paper, you know. [T] People below four are stone. [T] Yes. It seems like everyone other than Arai is okay. [T] Arai. [T] Let's do our homework from now on, okay? [T] Huh? [T] Okay. That's what it's about."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Do you understand the meaning of the problem? [T] Arai, do you understand what this problem means? [T] You have 230-yen cakes and 200-yen cakes, right? The 230-yen cakes are a bit more expensive. [T] And... you have 10 family members. You want to buy cakes for each person. But, I have only 2,100 yen. [T] Which cake... seems more delicious?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This problem is for ninth graders, so you can't solve it, so please use the back. Please use back of the paper and think about it a little. [T] What do you need to do in order to buy 230-yen cakes and up to how many can you buy and bring home? [T] Please think about this for a while. [T] It's good if you come up with an answer, but please think about what you need to know about how many to buy. [T] Well, we have about three minutes so it's okay if you do it while you write notes there. [T] So, think about what you need to do to find out how many you can buy and find the answer. Okay, get started."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] At any rate... please buy 10 cakes. How are you going to think about it? [T] Not over 10. Buy 10- [T] Buy 10? [T] You're buying 10, you know. [T] Ten. [T] It's not 11 or 12 or eight, but buy exactly 10, okay? [T] Well, then how can you... find out... how many you can buy?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You're all good at this setting up an equation and suddenly spitting out an answer. [T] Try doing it with that method. [T] Okay."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But, I'll try and ask you, okay? [T] Okay, then students who understood the way of thinking are paper. [T] And then... people who say that you can do it to some extent and you understand it are paper, okay? [T] People who say... I don't understand it at all are stone, okay? [T] People who say that they are in the middle are scissors, okay? Okay. [T] Then one, two, and... three. [T] Oh... there are no paper people. [T] Paper is people who say that they understand it completely. [T] One person."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] One person. [T] Okay. [T] Then scissors people and paper people, there are even quite a few stone people who responded, right? [T] Okay, then I will try and ask a few people, okay? [T] Okay, then Hara. [T] How did you think about it? [T] Okay, go ahead."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Keep reducing and... when you do it with eight on this side and two this side, then? [T] When you did it? [T] Time ran out and... [T] You couldn't do it to the end. [T] Okay. [T] Raise your hand... if you say that this way of thinking was really similar to yours. [T] Hara started counting from 10, but... there may be people who started counting from this side. [T] People who say that they used this way of thinking. [T] Okay. Only, Ikui? [T] Arai? [T] Okay. Then Ikui, Arai, Joji, right? Then Ikui... where did you find an answer that was exactly even?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Wait a minute. [T] If you buy seven, if you buy seven 200-yen ones how much does it become? [T] One thousand four hundred yen. Okay. [T] How much is it... if you add it? [T] Two thousand- [T] Ninety yen. [T] Okay. That's what it's about. [T] So that means if you buy three 230-yen cakes and seven 200-yen cakes, [T] then it becomes 2,090 yen. You get 10 yen in change. [T] That's why you could buy three of these. And as for this, if you buy seven then... [T] With 2,100 yen there is only 10 yen left. And with only 10 yen you can't buy anything, so it's this."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This... then something else... students who say, \"I did this.\" [T] Kamon and Luiko and who else? [T] Other people. [T] No one? [T] What's yours, Kamon? [T] How do you... work it out? [T] What did you set up? [T] Huh? How did you do it? Your method? [T] You set up an inequality equation. Okay, what about Luiko's? [T] You set up an inequality equation? [T] Then what about other people? Isn't there anyone?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No one? [T] Then the other people can't buy them. [T] You know, the cakes, counting them one-by-one is a really ordinary way of doing it, you know. [T] Isn't there anyone else? [T] Maruya's was also an inequality equation, right? [T] We'll get to you later, so wait a little, okay? Other people. [T] How did you do yours, Bancho? [T] Yeah. [T] You wrote multiply by something, multiply by something, right? [T] How did you do that? [T] It's the same as this, right? [T] And then who else was it now? [T] Nagase's one also used a ratio, right? Is it the same as this? [T] It's different? What is it?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's different? What is it? [T] Huh? [T] Inequality equation? [T] Okay. [T] Then... are there others? Who used a completely different way of thinking? [T] No? [T] Then... I've thought about it, too, so... what do you think about this way of thinking? Do you all understand it? [T] You bought... ten... 230-yen cakes. [T] You're told to buy a lot and so in reality you want to buy all 230 yen cakes, right? [T] Then how much money is needed? [T] In reality 2,300 yen is required, right?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] You said that this was the inequality equation, right? [T] Okay. [T] Did you understand the meaning? [T] Perfect. [T] You'll get it better with Luiko's explanation than with mine. [T] Okay. Try and raise your hands. [T] People who say that they got it with Luiko's explanation. [T] One person? [T] Only Maruya? Two people? Three people? [T] Four people? Just four people is it? Five people? Okay."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Four people? Just four people is it? Five people? Okay. [T] Then... please explain it next, Ryo. [T] Please explain it in a way that is a little more understandable. [T] Try and explain it in a way in which... a few more people will say... that they understood. [T] The method of explanation is okay with this. [T] Okay. [T] Go ahead. [T] Okay. Go ahead. [T] You can't do it? [T] You don't know?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You don't know? [T] Okay. Then... I'll start talking from this point okay? [T] To tell you the truth I was going to talk about today, what Luiko set up. [T] But I wanted you to find a number... of ways to come up with it so... [T] I did it so that I would have you think about it, right? Three, four, five, six. Okay. [T] One, two, three, four, five, six. [T] Okay. [T] One, two, three, four, five, six. [T] Oh, it's not five, six... there's five people here."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Ryusaki, how do you come up with four here? [T] You need to subtract, right? It's good if 10 minus six is four here. [T] If it was seven here, then you would write 10 minus seven, right? [T] If this were nine here then you would think of this as 10 minus nine. [T] So if you subtract one of the numbers from this number, from the total number, then you get the remaining number. [T] And the problem is, if you make the number on this side X, then what will this be if you do that? [T] Here. [T] Joji. What will this become?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Joji. What will this become? [T] Here. [T] You haven't been listening, have you. [T] If this were three, then this can be found by going 10 minus three. If this were four, then this is 10 minus four. [T] If this is five, then this is 10 minus five. Then if this is X, then what is this? [T] Yeah. It'll become ten minus X. What this is saying is that you can only buy 10 minus X number of the 200-yen cakes. [T] It will come up here. [T] It's 10 altogether and if you make this X, then here... you need to subtract this number."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's 10 altogether and if you make this X, then here... you need to subtract this number. [T] If you subtract this number from 10 then you'll always arrive at the number left over. [T] That's why it'll be the case that you can buy this many 200-yen cakes. [T] The amount you bought, right? This will be the amount here. [T] If you do that, what would the cost be if you bought only X number of 230-yen cakes? [T] If you multiply the 230-yen cakes at this price by X then you'll get the total cost, right? [T] It's 230 X, you know. [T] Because you're only going to buy 10 minus X of the 200-yen cakes, the cost will be this."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'll erase the zero here, okay? It'll become 10- [T] Thirds. [T] What will 10 become if you write it in decimals? [T] Three point three three three three three, right? [T] If I asked you to find the largest integer... that is smaller than three point three... it will come out as three. [T] I can't really write the answer, but okay... you can buy three... up to three... of the 230-yen... [T] thirty yen... cakes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] thirty yen... cakes. [T] If you present it... like this... it's good. [T] Things presented like this are solved using an inequality equation. [T] Which is easier, doing it one-by-one or using an inequality equation? [T] It's easier to use the inequality equation, isn't it? [T] And so today what I would like you to do from here is, we already did this in the method of thinking but... [T] Inequality equation. [T] I would like you... to know... the good qualities of... finding the answer by... setting up an... inequality equation,"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That's good."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That's good. [T] It's like this, you know. [T] Not 12, it's 70 times 20, you know. [T] This is 20, isn't it? It's a bracket so, okay? It's not a 12, you know."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This is... 120 X plus, how much is this if you multiply it by this? [T] Two times seven, 14, right? [T] One thousand four hundred seventy two thousand. [T] This is four. Then you have to transpose it. [T] There is seven, 700. [T] Twent- this is 70 times 20, so next is four, right? [T] Okay."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Divide, you can divide it. [T] Then... Bancho. [T] Please write number two, okay? Look at the figure and set up an equation and work it out, okay? [T] Number two. [T] Yeah. [T] Write it without looking at anything, okay? Because I wrote-wrote that you would buy 15."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Write it without looking at anything, okay? Because I wrote-wrote that you would buy 15. [T] Mm, I just saw someone's eyes. Okay, Watabe. [T] Watabe, please write number one, okay? [T] Okay, go ahead. [T] It's not written. [T] Oh yeah, I didn't write the basket prices. Sorry. [T] The basket price is... [T] Eighty yen."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Eighty yen. [T] Hm? Oh. I should write the totals, too, shouldn't I? The total, sorry. [T] Less than 1,000 yen. [T] Watabe's is less than 2,000 yen. [T] Please write 2,000 yen here. Oh, okay. [T] Try hard and work it out."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's this value here. [T] Aren't you missing the 50 here? [T] Oh... the response is okay with this. The answer is not this though, is it? [T] Huh?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2730.0,
+        "t_end": 2760.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That should be that way, right? Okay. [T] Ueda, how far did you go? [T] Fifty times 15 is look... [T] It's 75, you know. Then it becomes 750. [T] What are you going to write? [T] The problem asks up to how many can you buy."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2760.0,
+        "t_end": 2790.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The problem asks up to how many can you buy. [T] What? Pears, right? Up to how many pears can you buy? [T] It's 70 times 20, so it's not 140, but it's only one zero, right?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2880.0,
+        "t_end": 2910.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Then what is the cost? [T] Is there anyone who knows what is 12 times 12? [T] Didn't I teach this to you before? [T] It's 144, right? Okay. One thousand four hundred forty yen. This is the price of the apples. [T] Then, you need to buy eight of the 70-yen tangerines so seven times eight, 56. [T] And all together it's exactly 2,000 yen. [T] About it being exactly 2,000 yen, why did it become exactly 2,000 yen here? [T] Because here we got 12, a number that was divisible, right? [T] Right. We got it because the 12 could be divided perfectly into it here, right?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3060.0,
+        "t_end": 3090.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] One, two, three, four, okay. [T] One, two, three, four, five, okay. [T] One, two, three, four, five, six, okay. [T] Okay. [T] Okay. Then we'll say our greetings and finish off. [T] Student officer. Lead with strong voices since we're finished. [T] Please get ready to bow."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3090.0,
+      "t_end": 3120.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3090.0,
+        "t_end": 3120.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3090.0,
+      "t_end": 3120.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts/M-JP4"
+}

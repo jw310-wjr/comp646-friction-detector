@@ -1,0 +1,258 @@
+[
+  {
+    "t_start": 30.0,
+    "t_end": 60.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZYDTL5xhTA2rB3F28C'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 60.0,
+    "t_end": 90.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZYV1iM44op6VNJWUh4'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is rapidly firing closed recall questions (dynamometer, Newton, symbol) while simultaneously managing off-task behavior ('Julia, open your book', 'Ladies, shh'), creating a high-pressure, low-quality instructional moment that prioritizes compliance and rote answers over genuine understanding.",
+    "alternative_strategy": "After a student answers 'forces', pause and ask a guiding question that builds conceptual understanding: 'Can someone give me an example of a force you felt today, and how you think a dynamometer might measure it?' — this shifts from recall drilling to pressing for reasoning with a concrete anchor, reducing pressure while increasing cognitive engagement.",
+    "t_start": 90.0,
+    "t_end": 120.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 120.0,
+    "t_end": 150.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYa4vAPARdtCpKdMvYD9'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is consolidating a correct student answer ('resilience') with a clear explanation and then smoothly transitioning to a new question, showing a well-paced review-and-extend pattern with no evident confusion signal or high-pressure strategy in this window.",
+    "alternative_strategy": "",
+    "t_start": 180.0,
+    "t_end": 210.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is pressing for reasoning with a structured Socratic questioning sequence about Newton's third law and spring resistance, which is a high-quality instructional move aligned with the content goal, not a high-pressure or low-quality strategy coinciding with confusion.",
+    "alternative_strategy": "",
+    "t_start": 240.0,
+    "t_end": 270.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 360.0,
+    "t_end": 390.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYa61E1iLsN85fZ7ZEA6'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is scaffolding a physics problem by explaining arrow-force correspondence and then posing a genuine reasoning question, which reflects appropriate instructional sequencing rather than high-pressure or low-quality strategy coinciding with confusion.",
+    "alternative_strategy": "N/A",
+    "t_start": 570.0,
+    "t_end": 600.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is rapidly polling for specific numerical answers without pausing to diagnose why students have different measurements, creating pressure to conform to a 'correct' value rather than understanding the underlying measurement process.",
+    "alternative_strategy": "Instead of calling out specific values one by one, ask a guiding question such as 'What part of the arrow were you measuring from and to?' to surface the conceptual confusion about measurement technique before correcting values.",
+    "t_start": 600.0,
+    "t_end": 630.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is using 'Pressing for Reasoning' (a high-quality talk move) while also acknowledging student discomfort from the camera and inviting questions, which suggests a supportive rather than high-pressure environment despite some confusion signals.",
+    "alternative_strategy": "N/A",
+    "t_start": 780.0,
+    "t_end": 810.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is using rapid, procedural explanation ('just do biggest minus smallest') with directive commands rather than checking for understanding, while the dominant quality signal is low and the strategy is pressing without genuine reasoning scaffolding.",
+    "alternative_strategy": "Pause and ask a targeted guiding question tied to the decomposition step: 'Can someone tell me in their own words why we can split the 40 Newtons into 27 and 13, and what happens to the 27 Newton pair?' — this surfaces whether students understand the principle of force decomposition rather than just copying a rule.",
+    "t_start": 870.0,
+    "t_end": 900.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is using a hands-on exploration task but immediately redirects the student ('Why don't you come back') without probing the student's reasoning about door-opening efficiency, creating a missed opportunity when the student attempts the task in an unexpected way.",
+    "alternative_strategy": "Instead of redirecting the student away, ask a targeted guiding question such as 'You chose to push there — can you tell me why that spot felt right to you?' to surface the student's intuitive understanding of torque and force before correcting or redirecting.",
+    "t_start": 990.0,
+    "t_end": 1020.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is actively using a positive talk move by revoicing and affirming Gert's student idea ('that's very well put'), then pressing for reasoning through reformulation, which reflects constructive pedagogical practice rather than high-pressure or low-quality strategy.",
+    "alternative_strategy": "N/A",
+    "t_start": 1140.0,
+    "t_end": 1170.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The transcript shows the teacher summarizing a recently demonstrated concept about lever/pivot distance with apparent closure ('Okay. We can continue'), and there is no vision-based confusion signal available to confirm student struggle, so the conditions for a genuine pedagogical friction moment are not met.",
+    "alternative_strategy": "",
+    "t_start": 1200.0,
+    "t_end": 1230.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is using active experimentation with a student (Katja) at the balance/lever apparatus, inviting trial-and-error and then celebrating success ('Hoopla, that's it'), which reflects productive inquiry-based engagement rather than high-pressure or low-quality instruction coinciding with confusion.",
+    "alternative_strategy": "N/A",
+    "t_start": 1380.0,
+    "t_end": 1410.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher dismisses the student's counting attempt ('I don't think you are counting quite right, but go ahead and sit down') before correcting the error themselves, which shuts down student reasoning at a moment of genuine conceptual difficulty around pivot-distance measurement.",
+    "alternative_strategy": "Instead of redirecting the student to sit down, ask a guiding question such as 'Where exactly did you start counting from — which nail did you call number one?' to help the student self-identify the off-by-one error and reinforce the concept of measuring distance from the pivot point.",
+    "t_start": 1410.0,
+    "t_end": 1440.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is pressing for reasoning in a productive way, inviting students to see a mathematical connection and scaffolding algebraic equivalence step-by-step, which reflects high-quality instructional dialogue rather than confusion-inducing pressure.",
+    "alternative_strategy": "N/A",
+    "t_start": 1500.0,
+    "t_end": 1530.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher self-corrects a mistake with humor, students respond positively with laughter, and the moment reduces rather than creates pressure — this is a rapport-building recovery, not a high-pressure confusion event.",
+    "alternative_strategy": "",
+    "t_start": 1620.0,
+    "t_end": 1650.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher's self-expressed nervousness combined with a pressing-for-accuracy move and dismissive 'Julia, don't' under laughter signals high-pressure dynamics that likely increase student anxiety rather than support genuine reasoning.",
+    "alternative_strategy": "Instead of pressing with 'come on,' pause and revoice any partial student idea already offered: 'I heard someone suggest [idea]—can you say more about why that might work?' to lower stakes and scaffold thinking collaboratively.",
+    "t_start": 1650.0,
+    "t_end": 1680.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The transcript shows the teacher giving a light social comment about neatness for the camera rather than applying high-pressure pedagogy during a moment of student confusion, and the 'Oh, oh' utterances suggest a playful or surprised tone rather than instructional stress.",
+    "alternative_strategy": "",
+    "t_start": 1680.0,
+    "t_end": 1710.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is rapidly cycling through student answers (Julia, five and ten, nine and six, eight and seven) without pausing to press for reasoning or consolidate understanding, while the dominant quality signal is low and the notebook content suggests fraction/ratio work that typically requires careful unpacking.",
+    "alternative_strategy": "Pause after one student's answer (e.g., Julia's 'one on four') and ask the class 'Can someone explain in their own words why Julia chose one on four rather than another combination?' to surface and check the underlying reasoning before moving on.",
+    "t_start": 1710.0,
+    "t_end": 1740.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is using a celebratory transition ('Tah-dah!') to summarize a pattern students have observed and is now scaffolding toward formula derivation, which represents a coherent instructional progression rather than a high-pressure or low-quality moment coinciding with confusion.",
+    "alternative_strategy": "",
+    "t_start": 1830.0,
+    "t_end": 1860.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher self-corrects a verbal error and immediately moves to an example, which is a routine low-stakes transition rather than a high-pressure or low-quality instructional moment coinciding with student confusion.",
+    "alternative_strategy": "",
+    "t_start": 1980.0,
+    "t_end": 2010.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is introducing a concrete physical analogy (seesaw) to explain torque/moments, which is a standard and supportive instructional move for building conceptual understanding, not a low-quality or high-pressure strategy.",
+    "alternative_strategy": "N/A",
+    "t_start": 2010.0,
+    "t_end": 2040.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is pressing students with rapid-fire recall questions about units (Newtons, meters) without pausing to let students reason through the dimensional analysis themselves, reflecting low instructional quality where the teacher is essentially answering his own questions.",
+    "alternative_strategy": "After asking 'how did you express force?', pause and revoice a student idea by saying 'I heard someone say Newtons — can you tell me where that unit actually comes from, what it means in terms of mass and acceleration?' to build conceptual understanding rather than pure recall.",
+    "t_start": 2100.0,
+    "t_end": 2130.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is transitioning to independent practice with a worked example and time check, which is a routine low-stakes instructional move rather than a high-pressure or low-quality pedagogical moment coinciding with student confusion.",
+    "alternative_strategy": "",
+    "t_start": 2130.0,
+    "t_end": 2160.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The transcript shows the teacher introducing a worked example with a Newton meter, which is a standard expository move with no visible student confusion signal or high-pressure strategy detected in this window.",
+    "alternative_strategy": "",
+    "t_start": 2160.0,
+    "t_end": 2190.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is setting up a contextual word problem with a relatable scenario (seesaw with named characters), which is an engaging narrative framing strategy rather than a high-pressure or low-quality instructional move, and the confusion signal is absent due to transcript-only mode rather than observed student confusion.",
+    "alternative_strategy": "N/A",
+    "t_start": 2220.0,
+    "t_end": 2250.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is pressing students who have already found the answer to extend their thinking into formal notation, which is an appropriate scaffolding move rather than a high-pressure or low-quality strategy causing confusion.",
+    "alternative_strategy": "N/A",
+    "t_start": 2340.0,
+    "t_end": 2370.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is using a concrete analogy (seesaw) and pressing for reasoning in a scaffolded, low-pressure way, which represents appropriate pedagogical practice rather than a high-pressure or low-quality strategy coinciding with confusion.",
+    "alternative_strategy": "N/A",
+    "t_start": 2370.0,
+    "t_end": 2400.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "This is a routine end-of-class administrative closing where the teacher checks homework notation and dismisses students, not a moment of instructional pressure or student confusion requiring pedagogical intervention.",
+    "alternative_strategy": "",
+    "t_start": 2670.0,
+    "t_end": 2700.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "With no transcript content and unknown instructional quality signals, there is insufficient evidence to identify a genuine pedagogical friction moment during this 30-second window.",
+    "alternative_strategy": "N/A",
+    "t_start": 2700.0,
+    "t_end": 2730.0,
+    "n_frames_sent": 3
+  }
+]

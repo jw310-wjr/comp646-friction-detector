@@ -1,0 +1,1331 @@
+{
+  "lesson_id": "M-AU2",
+  "transcript": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math AU 2 transcript.txt",
+  "n_bins": 93,
+  "n_risky_bins": 22,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, um, we're doing revision from yesterday on the congruent triangle so do you remember what a con- what a pair of tria- congruent triangles are? [T] Yeah. [T] Same what? [T] Same angles and same sides so we're doing 10 quick questions on this. So- all right, there's two right angle triangles"
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All right, and they're supposed to be the same. Supposed to look the same. [T] All right, this one is A B C, and this one is D E and F. All right, they are congruent. So I'm going to ask you- ask you 10 quick questions on that. [T] All right, number one, which angle is equal to angle A?"
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] All right, number one, which angle is equal to angle A? [T] Which angle is equal to angle D? [T] Number three, if angle A is 30... and angle D is 60... uh, what size is angle E?"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Number three, if angle A is 30... and angle D is 60... uh, what size is angle E? [T] And number four, what size is angle D? [T] Which line is equal to B C? [T] Which line is equal to B C?"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Which line is equal to B C? [T] Number six, which line is equal to E F? [T] And... okay, if A C, if A B is five, all right, and B C is three, and A C is four centimeters, all right, how long is D F?"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] And... okay, if A C, if A B is five, all right, and B C is three, and A C is four centimeters, all right, how long is D F? [T] Number eight, how long is E F? [T] Number nine, the triangles A B C and F E D are congruent. Write that using the symbol. Do you want me to repeat it?"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Number nine, the triangles A B C and F E D are congruent. Write that using the symbol. Do you want me to repeat it? [T] Triangle A B C and triangle F E D. And number 10, which is the hypotenuse of triangle A B C? The hypotenuse. [T] Okay, who wants to answer them? Okay."
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yep. [T] Yes. [T] Yes. [T] Yes. [T] Yep. [T] Yes. [T] Yes. [T] Yes. [T] Three lines [T] She hasn't got it right. [T] Triangle to- triangle what?"
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Why did I say F E D? [T] What's the same? [T] So F equals A and what's equal to C? [T] D, and B equals E. So you've really got to write these in the same order. [T] All right? [T] Ten is A B. Just to show the congruence to show the relationship between them."
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Ten is A B. Just to show the congruence to show the relationship between them. [T] I know. And I didn't say it that way did I? Who got them all right? That's pretty good. Who got nine right? [T] Yeah, right. Number 10 was A B. [T] All right, okay, I've got a worksheet for you to do and you've go"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So if you two Angela and Laura, if you can come down the front and work with the front two. Just bring your chairs down, don't worry about- [T] What do you need? You need your protractors. You can bring a desk down if you want a little bit more room to work on or you might just move your pencils"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What do you need? You need your protractors. You can bring a desk down if you want a little bit more room to work on or you might just move your pencils. [T] Just turn around till I finish talking to you, all right? So you've got five here. [T] Oh that'll do. That'll be all right. Can you talk t"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Um, yes. Yeah, one of you move down there one so you've got a group of three and one of you can move- work with one of these. [T] All right Angela, you can work with um Eun and- all right? [T] Then you've got just one down there. Here's a- All right? [T] Bring a chair. Yeah, you can bring that- "
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No. [T] All right, I'll go through the instructions with you. [T] I'll read through the instructions and girls, read through the instructions as I go through it. [T] What you're doing is you're actually finding the rules for a pair of congruent triangles and you're trying to find the minimum rul"
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] What you're doing is you're actually finding the rules for a pair of congruent triangles and you're trying to find the minimum rules. [T] So the task you need to produce a list of instructions so that anyone following them will construct exactly the same triangle. [T] It's got a list of what you"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You construct a triangle on that page without showing the rest of your group and you write down the steps of how you did it. All right? [T] Then, after everybody's done that in your group, um, you take turns to read your instructions out to the group and they can use the pink, um, the paper at t"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If there's four in the group you'll be drawing three. [T] So one person say Laura here will read out her instructions and the other two will actually follow her instructions, all right? [T] If you then when she's finished you have a look at it and see if they're exactly the same. If they're not "
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You're not to actually look at what they did. You actually have to follow the instructions. [T] No, you make up your own instructions, it depends on what you're drawing. All right, you make up your own triangle. [T] And what you're going to end up with is a minimum set of instructions so that th"
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So you've got to decide what- how- what you need for the minimum number of steps for your triangle, all right? [T] Is it going to be all sides, is it going to be all angles, what is it going to be? Is it going to be all six? Do you need all six angles and all six sides? [T] All right so go ahead"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Don't think so, just borrow. No. Just borrow one. [T] Draw your triangle first. All right? Draw your triangle first. You draw it on the second sheet, the top of the second sheet."
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yep. [T] No, just one. [T] You draw the triangle first yes. Everyone draws a triangle and writes down their instructions. [T] Just one triangle."
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Just one triangle. [T] You ha- yeah, you use your protractor and your compass to draw the triangle. [T] You can. Yeah. [T] But you're not going to draw the same triangle are you? [T] No. All right, and how are you going to know what size the angle is? By the length of the line."
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] No. All right, and how are you going to know what size the angle is? By the length of the line."
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No. All right, and how are you going to know what size the angle is? By the length of the line. [T] Yeah. [T] Yeah, that's all right, yep. Just go and sharpen it. [T] Pardon? [T] Yes you can."
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes you can."
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes you can. [T] It's not going to be the same one as Kate's is it? Yeah, you've got to find- it depends on how you're going to draw it. How you want them to draw it? [T] You can either find angles or you can find sides. [T] Or a combination of both. [T] You could but that's not the minimum numb"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So you've got to end up with the minimum number that you need. So what stage have they drawn your triangle without you having to add on the rest of the instructions? [T] You might have a lot of instructions to start with and then you find after a couple that they've actually drawn it. [T] All ri"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right? Yeah."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right? Yeah. [T] You should be doing yours up here. [T] All righty, okay. Now you shouldn't be looking. You're not supposed to know what it looks like."
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, you'll have to, yeah. [T] Have you finished? Have you all finished? [T] When you all or uh three or four of you have finished the triangle, you can start- the first person can start reading theirs out."
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] When you all or uh three or four of you have finished the triangle, you can start- the first person can start reading theirs out. [T] If the rest are finished, yes. Has Jessica finished? [T] It's- it's whatever your instructions are going to be. It can be a combination of side- size of the lengt"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It's- it's whatever your instructions are going to be. It can be a combination of side- size of the length of sides or angles. [T] Depends on what you want to do. [T] You're going to try them and find out. They're going to try them. If they don't draw the same as what you've got, it wasn't. If i"
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yeah, right here. Yeah, yeah. [T] Yeah, well you've got to read it out to the other two now, they're not to know what you have got. [T] Yes. [T] Yes. [T] Righty-o. [T] It depends, if it works, if they draw the same triangle as you've got it works. If not you change it. All right? So you've got t"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] It depends, if it works, if they draw the same triangle as you've got it works. If not you change it. All right? So you've got to try it."
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. [T] No, no, I don't want that. [T] I want lines and angles. [T] All right? [T] Because they might have a different size set square. [T] True? [T] Yeah. [T] So when you have all finished your instructions you can start reading them out."
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So when you have all finished your instructions you can start reading them out. [T] Now you've gotta cut them out and paste them on and see if they fit. All right? And then you get to keep them. You can paste them down here. All right?"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Now you've gotta cut them out and paste them on and see if they fit. All right? And then you get to keep them. You can paste them down here. All right? [T] Did it work? [T] All right, because if it- if they've worked, you need to cut them out and give them back to Jessica. [T] All righty-o, okay"
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You'll find out won't you? [T] Yes. [T] So did you decide that that was important or the length of the line was important? [T] Angles so that's all you- so try that. All right?"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Angles so that's all you- so try that. All right? [T] I think you can see they're pretty right, can't you?"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So did it work? [T] Interesting but are they congruent? Cut them out and have a look. If they fit on top. [T] Yeah, that's right so- so cut them out. She didn't have to did she? [T] Oh sorry. You could've swapped. Do you want a different color?"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So you cut them out and give them- is it yours Natalie? [T] All right so you um- you can cut them out and give them to Louise and she can paste them on hers. All right, yeah. [T] Pardon? [T] Yeah what's a con- congruent triangles are triangles that have the sa- exactly the same sides, three side"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, you- you cut the other two out and put them. But you can cut these out. All right? She can cut- Natalie can cut hers out. [T] Oh all right. [T] So have you done one yet? [T] All right."
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] [laughs] [T] Righty-o. You don't have to do the measurements. You can make combinations. [T] Yeah and- and do the instructions on how to make it."
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yeah and- and do the instructions on how to make it. [T] That's fine. Yeah, all right? [T] So have you done two?"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So have you done two? [T] Do you- are you using- yeah, a compass to draw the- [T] Ah, right. [T] That's all right."
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Pardon? [T] Have you done all of them have you? [T] Well, did you end up working out how many instructions you actually needed for each one? [T] You needed four, what were they? [T] So if it's saying horizontal it's saying it's at an angle aren't you?"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So if it's saying horizontal it's saying it's at an angle aren't you? [T] So we're saying one's vertical and one's horizontal. [T] Then you're defining the angle between them aren't you? [T] Yes. [T] Right, so did they need all those instructions to finish your triangle? [T] Yes. [T] All right, "
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And then you joined them. [T] So what did you- [T] Yes, and the right angle so you had two sides and a right angle and then joined them. [T] And then joined them. [T] Did you- what was the arc on angle C? Show me. Right, did you actually have to have- so did you tell them what length that was? ["
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. What did you need? [T] And what was it? [T] Pardon? It's, well how long was the base, did you say? [T] Right. Yes. And so you drew a right angle as well? [T] Yes."
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. [T] So you had the same thing, you had a right angle and two sides. [T] Right. [T] Did you have anything different? [T] You had the same thing. [T] You all did right angles. [T] So no imagination. [T] [laughs] All right. So that's one of the- think and see if you can think of the same trian"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] [laughs] All right. So that's one of the- think and see if you can think of the same triangle if you could've given different instructions to have done the same triangle. [T] See if you can all end up with different ideas. [T] So how did you end up? [T] Yeah, were- were they all different?"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] They're all the same. So what was the same? What did you end up having to write? [T] What did you end up having to draw? [T] Yeah. [T] Yes, but what were the instructions? [T] Yes. [T] Mm hm. Yeah. [T] Yeah, that's all right."
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. Of what size? [T] Yeah. [T] Yeah. [T] Yes [T] So what did you end up doing? [T] Was it all the sides, all the angles, a combination? [T] What did you end up with? [T] All the sides, yeah. Yep you end up with all the same angles but what did you tell them to draw, sides or angles?"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All the sides, yeah. Yep you end up with all the same angles but what did you tell them to draw, sides or angles? [T] All sides. [T] Did you draw all sides? [T] Which lines? [T] Yes. [T] Yes. [T] Yes. [T] From where? [T] From A, yep. So you've got two lines and an angle. [T] Righty-o. And what d"
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Right. [T] Bisect- oh, you mean intersecting. [T] Yeah. [laughs] So you'd end up with three sides. [T] Yeah, righty-o. [T] Bisecting means to cut it in half. [T] It depends on how long the line is."
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] [laughs] Yes Louise. [T] Just once. You have to do one each. Are you finished? [T] Yes. [T] Righty-o. [T] Yes. [T] When you cut them out you usually cut them out to see if they fit? [T] Yeah [T] Yeah, that's all right. Yes. Righty-o."
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yeah, that's okay. [T] So which angles do you- which angles did you give? [T] Yes. [T] Right, okay. And did you do anything different Nerida? [T] Yeah, so what did you start with? [T] Yes."
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. [T] Yes. [T] Right. Yeah. [T] Yes. Yes. [T] Well that was very different. [T] Yeah. Yeah. So you really- what was the minimum number of instructions? So you ended up with an angle there didn't you?"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yeah. Yeah. So you really- what was the minimum number of instructions? So you ended up with an angle there didn't you? [T] And that was a length so it determined a- a point didn't it? So really you've drawn that triangle first haven't you? Haven't you? [T] Yeah, so it's- it's that line and that"
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All right? [T] Is everyone nearly finished? [T] So far we've only had two types. There's four. There's four types that you can do. [T] If I've had a look at yours... girls, if I've had a look at yours, see if you can draw the same triangle in a different way using different instructions."
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If I've had a look at yours... girls, if I've had a look at yours, see if you can draw the same triangle in a different way using different instructions. [T] You can right next to it yes. [T] How did you go with yours? What did you end up with? But what did you draw? [T] What did you start with?"
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. [T] So, that one's three centimeters and how long is that one? [T] Both of them are three. So you've done two- the length of the bottom line and the length of each side. [T] Yeah well that's- that determines the length of a line doesn't it? [T] So what have you done, the same?"
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You've done something different? [T] And what did you do? [T] Yes. [T] Yes. [T] So you found the length of that? [T] Right, so it's two sides and an angle. [T] Yeah. All right. [T] All right girls, we'll stop now. And I'll discuss what you've been doing."
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All right girls, we'll stop now. And I'll discuss what you've been doing. [T] All right, there's been basically two different sorts that have come out. [T] All right, first of all most people are starting with a line of a certain length and lots of you are drawing, um another line here of a cert"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You're saying how long that will be by drawing an arc from the point, and you're saying how long the second line will be by drawing another arc from the end of the other point. [T] And you're joining it up. So you're defining the length of the three sides. Okay? [T] So three sides. And there's a"
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Right, so you draw a line 60 degrees here. [T] So then you determine the length of the line and then you join those up. [T] So what she's done is what a lot of other people have done. If you got the line, that line, so two sides and an angle. [T] In every single one of those that worked where di"
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That's good. Must- two sides must be. [T] Yeah. [T] All right, so it's the two sides of the angle, yes. [T] Some people have done the angle on the left. Some people have made it a right angle but they're still defining it. There's two other ways of doing it. Helen. [T] Yes it is."
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yeah. So you've got a- a line. [T] A B. [T] Yes. [T] Yep. [T] So that's another way of doing it. Yes Kate? [T] Hang on- I'll just write this one up. A side and two angles, all right? And what's the other one Kate?"
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes [T] And you join the other side up. [T] Right, you've got a 90 degree angle, what are you going to define? What else are you going to tell me? You said I've got a 90 degree angle, what else are you going to tell me? [T] The length of the sides. So you've got the length of that side and the l"
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You've got the bisecting one. [T] It's like the two sides and angle, only the angle this time is 90. But it is to do with a right angle. The right angle can be special. Yes. [T] No. [T] Yeah. [T] Yeah. [T] They have to add up to 90 degrees, but if I define the three angles will I get congruent t"
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] They have to add up to 90 degrees, but if I define the three angles will I get congruent triangles? [T] Why not? [T] They could be different lengths so I could have another one exactly the same only smaller with the same three angles. So three angles is no good. [T] But I've still got this right"
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] But I've still got this right angle here. I can define it as two sides and an angle, or I can also define one side and the other side, [T] the hypotenuse and it will always be the same with a right angle triangle. [T] All right? So this one is written as S A S, side angle side. And the A goes in"
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] S S S. This one? [T] A A S or S A A, yep. And the last one is R for right angle, H for hypotenuse and S for side. All right, it doesn't matter which side. [T] All right, I just want you to start activity... yeah uh by the way to finish this off, paste those triangles in here that match yours. Al"
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right, I just want you to start activity... yeah uh by the way to finish this off, paste those triangles in here that match yours. All right? [T] And... in your book... page 343... 343."
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No, you did the other. [T] All right, page 343, this- number one, two, three and four explains what we've been doing [T] so if you need to go and read those you can but I want you to start activity seventeen point one. [T] And where it says for number one it says are these triangles congruent? W"
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So the first one, what- which one will it be? Question one on activity seventeen point one. [T] Yeah. Yep. [T] Girls, just listen please. Number one, it says are these triangles congruent, why. Some people have been calling out. It's S S S because the three sides are equal. Can you see that? [T]"
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And which- and you've got to name the pairs of equal corresponding angles. So when it says are these triangles congruent and it says why just say S S S. [T] So start activity seventeen point one if you've got any questions, I'll ask you. [T] I'll also check your homework. [T] No, I said it was d"
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No, I said it was due today. Your homework you had to do the investigation activity. [T] Yeah. Just want to check if you've done it. So-"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yeah. Just want to check if you've done it. So- [T] Is anyone away today? I don't think so, no. [T] Okay, so, did you do your homework? [T] Yeah you just had to do some- you had to do this. Yeah. All right? It was pretty easy you just had to say which sides were equal."
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yeah you just had to do some- you had to do this. Yeah. All right? It was pretty easy you just had to say which sides were equal. [T] Right- right ha- right angle, hypotenuse and a side. All right? I'll write these down next lesson anyhow and go over it. [T] Girls, I'll go over these rules next "
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Did you do your homework? [T] Good. [T] These ones? [T] All right, that's all right. That's basically what we're doing today. Did you realize? [T] So you should have been clued up. You should've known the other two. Right. Have you done your homework?"
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So you should have been clued up. You should've known the other two. Right. Have you done your homework? [T] Yes. Yeah you did exactly the same thing Helen. [T] Okay. [T] (inaudible) Okay. [T] Seventeen point one you're doing. [T] Yeah. So- just start those. [T] All right, did you do your homewo"
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right, did you do your homework? Good, okay. [T] That's all right. [T] Kate? [T] Good. Mikala? [T] The other homework? Oh, righty-o, good. Okay, that's when you didn't do it the other day. [T] I'll tick that off. All right. I always give you a tick above the cross if you do it again."
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I'll tick that off. All right. I always give you a tick above the cross if you do it again. [T] Elise, you did- weren't here. [T] Pardon? [T] You've been sick haven't you? So you know- you understand what we're doing today? [T] Even though you missed the lesson? Congruent triangles have exactly "
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That's basically all it is. So it's just saying three sides are equal and three angles are equal. [T] Yeah. How'd you go with the revision at beginning of the lesson? [T] Got a few right? [T] Oh good, that's all right. [T] Nicole, did you do your homework? [T] Good."
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Did you do your homework Mary? Okay. So you did it, okay. [T] Yeah? [T] Righty-o. You were here last lesson. [T] Um, all right, okay."
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That's the end of the lesson. All right, I'll just check- girls, can you- did everyone else do their homework? [T] I haven't got around to checking you all. Who didn't? You were away that's all right Natalie. So everyone else did it? Marisa? [T] For homework I just want you to um do down to the "
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] For homework I just want you to um do down to the bottom of the page down to number four. Yep. [T] Page 344. For homework... to the bottom of the page. All right, that's due Friday, tomorrow. I'll take your books tomorrow too. I didn't collect them last lesson. [T] All right girls you may go."
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All right girls you may go. [T] You keep them and put them in your book. Don't lose them. [T] I think so. Why? [T] Going to where? [T] All right, what for, anything interesting?"
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All right, what for, anything interesting? [T] So just do a- finish that- that time exercise. Yeah. [T] We'll know what you're up to."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Um, yes. Yeah, one of you move down there one so you've got a group of three and one of you can move- work with one of these. [T] All right Angela, you can work with um Eun and- all right? [T] Then you've got just one down there. Here's a- All right? [T] Bring a chair. Yeah, you can bring that- yeah, bring the table over. [T] No."
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No. [T] All right, I'll go through the instructions with you. [T] I'll read through the instructions and girls, read through the instructions as I go through it. [T] What you're doing is you're actually finding the rules for a pair of congruent triangles and you're trying to find the minimum rules."
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] What you're doing is you're actually finding the rules for a pair of congruent triangles and you're trying to find the minimum rules. [T] So the task you need to produce a list of instructions so that anyone following them will construct exactly the same triangle. [T] It's got a list of what you need. And the first part, steps one and two, each person in the group on the piece of paper on the back here it says your triangle. [T] You construct a triangle on that page without showing the rest "
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Don't think so, just borrow. No. Just borrow one. [T] Draw your triangle first. All right? Draw your triangle first. You draw it on the second sheet, the top of the second sheet."
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes you can."
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right? Yeah."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right? Yeah. [T] You should be doing yours up here. [T] All righty, okay. Now you shouldn't be looking. You're not supposed to know what it looks like."
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, you'll have to, yeah. [T] Have you finished? Have you all finished? [T] When you all or uh three or four of you have finished the triangle, you can start- the first person can start reading theirs out."
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] It depends, if it works, if they draw the same triangle as you've got it works. If not you change it. All right? So you've got to try it."
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So when you have all finished your instructions you can start reading them out. [T] Now you've gotta cut them out and paste them on and see if they fit. All right? And then you get to keep them. You can paste them down here. All right?"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Now you've gotta cut them out and paste them on and see if they fit. All right? And then you get to keep them. You can paste them down here. All right? [T] Did it work? [T] All right, because if it- if they've worked, you need to cut them out and give them back to Jessica. [T] All righty-o, okay."
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Angles so that's all you- so try that. All right? [T] I think you can see they're pretty right, can't you?"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, you- you cut the other two out and put them. But you can cut these out. All right? She can cut- Natalie can cut hers out. [T] Oh all right. [T] So have you done one yet? [T] All right."
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So have you done two? [T] Do you- are you using- yeah, a compass to draw the- [T] Ah, right. [T] That's all right."
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] S S S. This one? [T] A A S or S A A, yep. And the last one is R for right angle, H for hypotenuse and S for side. All right, it doesn't matter which side. [T] All right, I just want you to start activity... yeah uh by the way to finish this off, paste those triangles in here that match yours. All right?"
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right, I just want you to start activity... yeah uh by the way to finish this off, paste those triangles in here that match yours. All right? [T] And... in your book... page 343... 343."
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yeah you just had to do some- you had to do this. Yeah. All right? It was pretty easy you just had to say which sides were equal. [T] Right- right ha- right angle, hypotenuse and a side. All right? I'll write these down next lesson anyhow and go over it. [T] Girls, I'll go over these rules next lesson and write them down. But I just want you to start some of the examples. [T] Did you do your homework? Good. Elise?"
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right, did you do your homework? Good, okay. [T] That's all right. [T] Kate? [T] Good. Mikala? [T] The other homework? Oh, righty-o, good. Okay, that's when you didn't do it the other day. [T] I'll tick that off. All right. I always give you a tick above the cross if you do it again."
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I'll tick that off. All right. I always give you a tick above the cross if you do it again. [T] Elise, you did- weren't here. [T] Pardon? [T] You've been sick haven't you? So you know- you understand what we're doing today? [T] Even though you missed the lesson? Congruent triangles have exactly the same three sides equal and three angles equal. [T] So go over the work that we did. Have a look at the beginning of the chapter of it, and it will say that- um- that sheet I gave you. [T] That's b"
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Did you do your homework Mary? Okay. So you did it, okay. [T] Yeah? [T] Righty-o. You were here last lesson. [T] Um, all right, okay."
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That's the end of the lesson. All right, I'll just check- girls, can you- did everyone else do their homework? [T] I haven't got around to checking you all. Who didn't? You were away that's all right Natalie. So everyone else did it? Marisa? [T] For homework I just want you to um do down to the bottom of the page down to number four. Yep."
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] For homework I just want you to um do down to the bottom of the page down to number four. Yep. [T] Page 344. For homework... to the bottom of the page. All right, that's due Friday, tomorrow. I'll take your books tomorrow too. I didn't collect them last lesson. [T] All right girls you may go."
+    }
+  ]
+}

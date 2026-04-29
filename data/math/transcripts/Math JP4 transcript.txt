@@ -1,0 +1,741 @@
+00:00:00	S	All stand.
+00:00:09	S	Onegaishimasu.
+00:00:10	SS	Onegaishimasu.
+00:00:11	T	Okay. Onegaishimasu.
+00:00:15	T	Okay, we're going to start our homework answer comparisons so, please take out handout number nine.
+00:00:22	T	Now I'll have you write it. Please write, right?
+00:00:26	T	Okay, it's this row.
+00:00:27	T	One, two, three, four, five, six. Okay, then please write it. Okay.
+00:00:47	T	Okay, go ahead.
+00:00:53	T	Go ahead. Please write it. Okay.
+00:01:18	T	I'm going to check it so those of you who haven't done it,
+00:01:19	T	please hurry and do it, okay?
+00:01:30	T	This... then.
+00:01:49	T	I will hold this microphone... and walk around.
+00:01:51	T	Okay.
+00:01:53	T	Okay, then I'm going to check it so please show it to me, okay? Okay.
+00:01:58	T	Okay. Oh, great.
+00:02:01	T	Everyone did their homework today because we're going to be on TV.
+00:02:04	T	Did you copy it?
+00:02:08	T	Just one person... just one person is a little different. Arai!
+00:02:15	T	This child... has forgotten his homework.
+00:02:23	T	Please show it to me. Bancho, you could do it by yourself, right?
+00:02:27	T	Chino?
+00:02:28	T	Are you feeling better now?
+00:02:29	T	Okay. That's fine.
+00:02:35	T	Okay, go ahead.
+00:02:41	T	Arai, please hurry and write it. It's only you, Arai.
+00:03:13	T	Okay. Okay, then I had you write six so...
+00:03:17	T	We'll compare answers together and verify them.
+00:03:20	T	Okay, number one. You exchange it and two X is less than 14.
+00:03:26	T	We divide both sides by two, so the inequality is X is less than seven.
+00:03:31	T	Number two. Transpose and negative five X is less than negative 10.
+00:03:38	T	Then you're dividing both sides by negative five so X is greater than or equal to negative two.
+00:03:44	T	Okay, then the third one.
+00:03:48	T	Date, please interpret this.
+00:03:54	S	Multiply all with 10.
+00:03:56	T	Oh, you mean you multiplied 10, right?
+00:03:59	T	Okay. Ten- line up all of the head numbers and multiply them by 10, and 12 X minus four X is, it's already like this, right? Okay.
+00:04:07	T	Six and then 42. If you organize them like this, eight X is less than 48 and X is less than negative six.
+00:04:15	T	And number four is... take off the brackets and three X plus 12 is greater than five X plus two.
+00:04:21	T	Then you transpose, and negative two X is greater than minus 10 and... when you divide both sides what is wrong at this point?
+00:04:31	T	Where is it wrong here? If I told you to correct it... where would you correct it?
+00:04:41	T	Eguchi, here... where should you correct it? How would you fix this?
+00:04:45	S	Number three and number nine.
+00:04:47	S	That problem is wrong.
+00:04:52	S	Teacher.
+00:05:00	T	Now it's okay, isn't it?
+00:05:01	S	Yes.
+00:05:01	T	Okay. Then how about this?
+00:05:04	S	Oh, negative two X.
+00:05:06	T	Yeah. At the negative two the inequality sign doesn't change yet. It's okay as it is.
+00:05:10	T	And when you divide it on both sides by negative two then the direction is changed to the opposite and X is less than five. Right?
+00:05:14	S	Huh? It changed a lot when it became negative two.
+00:05:17	T	Even if you combine like terms there is nothing that can change the inequality sign so just moving this one thing won't change it.
+00:05:25	T	This is written, so, this is here. So because this is here you can change the direction, you know.
+00:05:31	S	You don't change it at the negative two part?
+00:05:33	T	Right. You don't change it at this point. You change the direction while you divide both sides with this denominator, you know.
+00:05:36	S	I didn't change it like that. Because this- this changes it to negative two.
+00:05:41	S	Because you do it with this.
+00:05:42	T	Write it like this and...
+00:05:45	S	I was too lazy to write that at the bottom.
+00:05:46	T	People who write it like this are okay. This corresponds. This is fine. Yes.
+00:05:49	T	It's just that there's this line and this line but... okay. Then number five. The brackets are removed.
+00:05:55	T	Negative six X is less than negative seven.
+00:05:58	T	Where was it strange when you were doing it?
+00:06:00	T	Why does it end up as this kind of fraction? X greater than or equal to seven sixths?
+00:06:03	S	Correct.
+00:06:04	T	Okay, this is fine.
+00:06:05	T	There was one that became a fraction, right? Then the sixth one.
+00:06:08	T	It seems like it was multiplied by 10 and was all calculated, but...
+00:06:11	T	You need to multiply 10 to this two as well and make it 20, so...
+00:06:14	T	Please be careful here because you may forget to write this.
+00:06:17	T	Then 13 X is greater than negative 13 and... X is greater than negative one.
+00:06:23	T	Then... four or more correct is good.
+00:06:26	T	It's a passing mark. Then... people who could do four or more. You are paper, okay?
+00:06:33	T	Then people who did less than four are stone, okay?
+00:06:36	T	One, two, and three!
+00:06:40	T	People who had four or more are paper, you know.
+00:06:41	T	People below four are stone.
+00:06:42	S	Arai has zero, right?
+00:06:44	T	Yes. It seems like everyone other than Arai is okay.
+00:06:48	T	Arai.
+00:06:50	T	Let's do our homework from now on, okay?
+00:06:56	T	Huh?
+00:06:58	T	Okay. That's what it's about.
+00:07:00	T	Okay, then today will be the final part of the sentence problems so, then...
+00:07:07	T	I will have everyone use their heads and think a little, okay?
+00:07:12	T	Until now we've just done calculation practice, but today we will have to use your heads a little so...
+00:07:17	T	I'm asking you to use thinking methods. How to think and how to look for it and think about it may be a little difficult you know.
+00:07:22	T	More difficult than just simply calculating, that is. Right?
+00:07:25	T	Well then we'll go ahead.
+00:07:27	T	Okay. Well then... please look at... the problem.
+00:07:33	T	Fukuda, can you see it?
+00:07:34	S	Yes?
+00:07:35	T	Can you see?
+00:07:35	S	I can see.
+00:07:36	T	You can see. Okay. Then, Genji.
+00:07:42	T	Please read the problem... in English.
+00:07:45	B	[Blackboard: Problem 3. You would like to buy 10 cakes all together for less than 2,100 yen.
+00:07:46	B	One type of cake is 230 yen each and the other cakes are 200 yen each.]
+00:07:47	T	Okay. Genji, please read the problem.
+00:07:50	S	You would like to buy 10 cakes all together for less than 2,100 yen.
+00:07:56	S	One type of cake is 230 yen each and the other cakes are 200 yen each.
+00:08:01	T	Yes.
+00:08:02	T	Do you understand the meaning of the problem?
+00:08:06	T	Arai, do you understand what this problem means?
+00:08:09	T	You have 230-yen cakes and 200-yen cakes, right? The 230-yen cakes are a bit more expensive.
+00:08:14	T	And... you have 10 family members. You want to buy cakes for each person. But, I have only 2,100 yen.
+00:08:24	T	Which cake... seems more delicious?
+00:08:28	S	The 230-yen one.
+00:08:30	T	The more expensive one is somehow more desirable, right?
+00:08:32	T	And so... you want to buy as many expensive cakes... as you can, but what's the maximum that you can buy?
+00:08:43	T	That's the problem.
+00:08:46	T	Understand?
+00:08:47	B	[Blackboard: If you want to buy as many 230-yen cakes as possible, what is the maximum number that you can buy?]
+00:08:48	T	There are cakes that are 230 yen and 200 yen.
+00:08:51	T	You only have 210 yen. But you need to buy 10.
+00:08:56	T	But the 230-yen one looks more delicious so you want to buy as many as possible.
+00:09:01	S	Nine.
+00:09:01	T	But you only have 2,100 yen, so... so in fact how many 230-yen cakes can you buy?
+00:09:09	S	Nine.
+00:09:10	T	So today I am going to have you think about how to find the answer.
+00:09:17	T	So now I will pass out paper, so please try and think about it.
+00:09:22	T	See you can do it if you do it like this.
+00:09:24	T	See if you can understand- solve it if you do it like this. I will present the problem in this way, okay?
+00:09:28	T	Use the back, too. Four, five, six.
+00:09:32	T	Two, three, four, five, six.
+00:09:34	T	I didn't pass out the papers so... four, five, six, here.
+00:09:37	T	One, two, three, four, five, here.
+00:09:40	T	One, two, three, four, five, six.
+00:09:44	T	Three, four, five, six. Okay.
+00:09:47	T	I don't care about what kind of method you use so please think about if you do this, you can buy 230-yen cakes.
+00:09:52	T	Think about how many you could buy and how to figure it out.
+00:09:56	S	Do we solve this problem?
+00:09:58	T	This problem is for ninth graders, so you can't solve it, so please use the back. Please use back of the paper and think about it a little.
+00:10:05	T	What do you need to do in order to buy 230-yen cakes and up to how many can you buy and bring home?
+00:10:11	T	Please think about this for a while.
+00:10:15	T	It's good if you come up with an answer, but please think about what you need to know about how many to buy.
+00:10:22	T	Well, we have about three minutes so it's okay if you do it while you write notes there.
+00:10:25	T	So, think about what you need to do to find out how many you can buy and find the answer. Okay, get started.
+00:10:34	T	Please work by yourself at first, okay?
+00:10:37	T	If you were in front of the store and you only had 210 yen and you had to buy 10. What should you do?
+00:10:41	T	Think about the time that you were in front of the store.
+00:10:42	T	What would you do?
+00:10:47	T	What?
+00:10:49	T	Please think about... that okay? Then how are you going to think about it? Please show me how you are thinking about it.
+00:10:54	T	That you can find it if you do such and such.
+00:10:59	B	[Blackboard: Way of thinking]
+00:11:01	B	[Blackboard: Way of thinking]
+00:11:02	T	Okay. Go ahead.
+00:11:04	S	Can you bargain and lower the price?
+00:11:06	T	Ordinarily they wouldn't bargain, would they? Although they might bargain if it were at a vegetable or fish store.
+00:11:11	T	I have never seen them bargain... at a cake store.
+00:11:15	T	They might have bargained if it were Kenchan's Cakes, right?
+00:11:17	T	Oh, don't you know it?
+00:11:18	S	Ah, I did it.
+00:11:20	T	Okay. Please think about it by yourself for a while. About two minutes left.
+00:11:23	T	I told you not to use this but to use the back, didn't I?
+00:11:25	S	We're buying 10?
+00:11:26	T	We're buying 10 anyhow.
+00:11:28	T	You need to buy 10 so... please buy 10, okay?
+00:11:32	S	Buy 10...
+00:11:32	T	Because... what you really want is to buy 10 230-yen cakes, right?
+00:11:38	T	But if you buy 10 230-yen cakes how much will it cost?
+00:11:40	S	Two thousand three hundred yen.
+00:11:41	T	It'll end up being two thousand three hundred yen, right?
+00:11:43	T	However, you only have 2,000- 2,100 yen in cash so...
+00:11:46	T	You need to mix, mix it up or you can't buy it, you know?
+00:11:49	T	Because you only have 210 yen in cash.
+00:11:51	T	Then how do you need to think about it... in order to find out how many 230-yen cakes to buy? Please think about that.
+00:12:01	T	Please think about it. I don't care what kind of method you use.
+00:12:04	S	Inequality equation.
+00:12:06	T	Oh, if you want to set up an inequality equation go ahead, that's fine, too.
+00:12:08	T	If someone else says that they want to think about it with a different method because they don't need an inequality equation...
+00:12:11	T	That, that is fine for that person, too.
+00:12:14	T	I want to know how you think about it so... I will ask you about thinking... about how you thought about it.
+00:12:21	T	See... being asked to figure out how to think about it is more difficult than being asked to solve an equation, isn't it?
+00:12:28	T	Okay, go ahead.
+00:12:36	S	Is it not permissible to buy nine?
+00:12:38	S	I don't get this.
+00:13:01	T	Don't get it?
+00:13:03	T	But, if you really were buying two kinds of cake you have to think about money, the money that you have and the bill.
+00:13:08	T	After you ask for the bill you can't say I'm sorry I want to return this. Can you?
+00:13:13	S	Then you exchange.
+00:13:15	T	That has happened to me a lot, too. I say oh, sorry! Please return this.
+00:13:28	T	At any rate... please buy 10 cakes. How are you going to think about it?
+00:13:40	S	It's also okay if it's over 10, right?
+00:13:42	T	Not over 10. Buy 10-
+00:13:43	T	Buy 10?
+00:13:45	S	Ten?
+00:13:46	T	You're buying 10, you know.
+00:13:51	T	Ten.
+00:13:52	S	Ten.
+00:13:53	T	It's not 11 or 12 or eight, but buy exactly 10, okay?
+00:13:59	T	Well, then how can you... find out... how many you can buy?
+00:14:04	S	There are people who...would have them take the cake, take a 200-yen cake and break it in half and make it 100-yen.
+00:14:09	T	Okay, then you go to the cake store and try and request that.
+00:14:12	T	Most people won't do such a thing, you know.
+00:14:13	T	It's different from asking to have half a Japanese radish, you know.
+00:14:16	S	If you ask them to halve the Japanese radish they'd do it for you.
+00:14:18	T	It's okay... if it's a Japanese radish.
+00:14:49	T	So how do you think about this?
+00:14:56	T	Not by using equations or things like that but tell me what you have to do to get the answer.
+00:14:59	S	Buying two thousand... two... 2,100 yen exactly...
+00:15:02	S	We don't need to... it's okay if we have change left over, right?
+00:15:04	T	It's okay if there's left over.
+00:15:05	T	It's good if you have change in any case.
+00:15:07	T	Change, or else it's also okay if you use all of the 2,100 yen, you know.
+00:15:24	T	Well there is one minute of remaining time.
+00:15:26	S	I don't understand this.
+00:15:31	T	You're all good at this setting up an equation and suddenly spitting out an answer.
+00:15:35	T	Try doing it with that method.
+00:15:57	T	Okay.
+00:16:00	T	Then... we'll have midway presentations.
+00:16:04	T	Okay, please raise your heads.
+00:16:06	T	Then people who thought that it seemed sort of better to do it this way and understood the method... you are paper, right?
+00:16:13	T	Not yet, now.
+00:16:14	T	People who had no idea how to do it... you're stone... okay?
+00:16:20	T	Okay, people who think it's best to do it this way, but say...
+00:16:22	T	You don't understand... you don't have confidence, are scissors, okay?
+00:16:28	T	Although from looking at what you were writing it seems like stones are plentiful.
+00:16:30	T	But, I'll try and ask you, okay?
+00:16:32	T	Okay, then students who understood the way of thinking are paper.
+00:16:35	T	And then... people who say that you can do it to some extent and you understand it are paper, okay?
+00:16:39	T	People who say... I don't understand it at all are stone, okay?
+00:16:42	T	People who say that they are in the middle are scissors, okay? Okay.
+00:16:44	T	Then one, two, and... three.
+00:16:52	T	Oh... there are no paper people.
+00:16:55	S	What's paper?
+00:16:56	T	Paper is people who say that they understand it completely.
+00:16:59	T	One person.
+00:17:03	T	Okay.
+00:17:04	T	Then scissors people and paper people, there are even quite a few stone people who responded, right?
+00:17:09	T	Okay, then I will try and ask a few people, okay?
+00:17:11	T	Okay, then Hara.
+00:17:13	T	How did you think about it?
+00:17:17	S	What?
+00:17:18	T	Okay, go ahead.
+00:17:20	S	I... didn't understand it at all but...
+00:17:27	S	First of all...
+00:17:30	S	I thought that I should calculate...
+00:17:36	S	How many of the 230-yen ones I could buy and...
+00:17:40	S	In the beginning... when I did it with 10...
+00:17:45	S	It ended up being 2,300 yen so...
+00:17:49	S	It's not good because it's over the amount so...
+00:17:52	S	And then next when I did it with nine...
+00:17:57	S	When I did it with nine... it was 2,070 yen and... it was okay but,
+00:18:04	S	you need to buy 10, so when I calculated it...
+00:18:09	S	to buy one 200-yen cake...
+00:18:15	S	Two... 2,070 plus...
+00:18:20	S	Two hundred yen is...
+00:18:22	S	With 2,270 yen and...
+00:18:26	S	You go over.
+00:18:26	T	You go over, don't you? Okay.
+00:18:27	S	So then... you keep reducing the numbers and...
+00:18:30	T	Keep reducing and... when you do it with eight on this side and two this side, then?
+00:18:31	S	When I did it-
+00:18:32	T	When you did it?
+00:18:34	S	Time ran out and...
+00:18:35	T	Time ran out and...
+00:18:36	S	I couldn't do it to the end.
+00:18:37	T	You couldn't do it to the end.
+00:18:39	T	Okay.
+00:18:40	T	Raise your hand... if you say that this way of thinking was really similar to yours.
+00:18:45	T	Hara started counting from 10, but... there may be people who started counting from this side.
+00:18:50	T	People who say that they used this way of thinking.
+00:18:54	T	Okay. Only, Ikui?
+00:18:57	T	Arai?
+00:18:58	T	Okay. Then Ikui, Arai, Joji, right? Then Ikui... where did you find an answer that was exactly even?
+00:19:06	T	Or could you not find the answer?
+00:19:08	T	Were you at the point in which you were do- counting it like this but time ran out?
+00:19:12	T	Did you find it in a flash?
+00:19:16	S	The 230-yen one...
+00:19:20	S	You buy three of them and...
+00:19:21	T	Three? Then how much does it become?
+00:19:24	S	Six hundred ninety yen.
+00:19:25	T	Six hundred ninety yen.
+00:19:26	T	And what about this side?
+00:19:28	S	Seven.
+00:19:28	T	When you buy seven?
+00:19:30	S	Two thousand ninety yen.
+00:19:31	T	Wait a minute.
+00:19:32	T	If you buy seven, if you buy seven 200-yen ones how much does it become?
+00:19:35	S	One thousand four hundred yen.
+00:19:36	T	One thousand four hundred yen. Okay.
+00:19:37	T	How much is it... if you add it?
+00:19:39	S	Two thousand and seventy yen.
+00:19:40	T	Two thousand-
+00:19:41	S	Oh. Two thousand ninety yen.
+00:19:42	T	Ninety yen.
+00:19:43	T	Okay. That's what it's about.
+00:19:45	T	So that means if you buy three 230-yen cakes and seven 200-yen cakes,
+00:19:52	T	then it becomes 2,090 yen. You get 10 yen in change.
+00:19:55	T	That's why you could buy three of these. And as for this, if you buy seven then...
+00:19:59	T	With 2,100 yen there is only 10 yen left. And with only 10 yen you can't buy anything, so it's this.
+00:20:04	T	You could find an answer... that it was this.
+00:20:09	T	What about yours, Joji?
+00:20:10	S	I'm not done yet.
+00:20:11	T	Are you in the middle of it?
+00:20:12	T	He's in the middle of doing it.
+00:20:13	T	What about yours, Arai?
+00:20:17	T	What?
+00:20:18	S	I'm still doing it.
+00:20:20	T	Still doing it. As for Arai, he couldn't print out what was in the hard drive in his head, right?
+00:20:26	T	Okay. That's what it's about.
+00:20:28	T	This... then something else... students who say, "I did this."
+00:20:35	T	Kamon and Luiko and who else?
+00:20:37	T	Other people.
+00:20:39	T	No one?
+00:20:41	T	What's yours, Kamon?
+00:20:43	T	How do you... work it out?
+00:20:45	T	What did you set up?
+00:20:49	T	Huh? How did you do it? Your method?
+00:20:51	S	Inequality equation.
+00:20:52	T	You set up an inequality equation. Okay, what about Luiko's?
+00:20:53	S	Inequality equation.
+00:20:54	T	You set up an inequality equation?
+00:20:55	T	Then what about other people? Isn't there anyone?
+00:21:00	T	No one?
+00:21:03	T	Then the other people can't buy them.
+00:21:04	T	You know, the cakes, counting them one-by-one is a really ordinary way of doing it, you know.
+00:21:06	T	Isn't there anyone else?
+00:21:08	T	Maruya's was also an inequality equation, right?
+00:21:11	T	We'll get to you later, so wait a little, okay? Other people.
+00:21:13	T	How did you do yours, Bancho?
+00:21:15	S	Huh?
+00:21:16	T	Yeah.
+00:21:18	T	You wrote multiply by something, multiply by something, right?
+00:21:20	T	How did you do that?
+00:21:21	S	The same as that.
+00:21:22	T	It's the same as this, right?
+00:21:23	T	And then who else was it now?
+00:21:26	T	Nagase's one also used a ratio, right? Is it the same as this?
+00:21:29	T	It's different? What is it?
+00:21:31	T	Huh?
+00:21:31	S	Inequality equation.
+00:21:32	T	Inequality equation?
+00:21:32	T	Okay.
+00:21:34	T	Then... are there others? Who used a completely different way of thinking?
+00:21:39	T	No?
+00:21:40	T	Then... I've thought about it, too, so... what do you think about this way of thinking? Do you all understand it?
+00:21:46	T	You bought... ten... 230-yen cakes.
+00:21:52	T	You're told to buy a lot and so in reality you want to buy all 230 yen cakes, right?
+00:21:56	T	Then how much money is needed?
+00:21:56	B	[Blackboard: Method of thinking. Ten 230-yen cakes.]
+00:21:57	S	Two thousand three...
+00:21:58	T	In reality 2,300 yen is required, right?
+00:22:02	T	But you're short 200 yen.
+00:22:04	T	You are short... 200 yen.
+00:22:08	T	You're short. You thought...
+00:22:11	T	that you would buy a cake that is... 30 yen cheaper than... the 230-yen cake.
+00:22:13	B	[Blackboard: Short 200 yen]
+00:22:16	T	Buy a cake that is 30 yen cheaper and...
+00:22:16	T	You buy a cheap cake and... replace this needed 200 yen for a cake that is 30 yen cheaper, okay?
+00:22:19	B	[Blackboard: 30-yen cake]
+00:22:26	T	You're short 200 yen, you know.
+00:22:27	T	But, let's buy them a cake that's not 230 yen but a cake... that is 30 yen cheaper.
+00:22:31	T	Then 30 yen is going to be saved. With each, 30 yen is going to be saved.
+00:22:35	T	How many cakes that are 30 yen cheaper do you need to buy in order to make up the 210 yen shortage?
+00:22:40	T	This is the needed part.
+00:22:45	T	How many cakes that are 30 yen cheaper do you need to buy to make up the 210 yen shortage?
+00:22:49	T	Can you make up the 210 yen?
+00:22:50	S	Seven.
+00:22:52	T	Yeah. If you buy six, six times three is 180 yen, so you are still 20 yen in the red, right?
+00:22:58	T	However... if you buy seven of these... if you buy seven... you will have 210 yen left over, right? The money, right?
+00:23:02	B	[Blackboard: Seven]
+00:23:05	T	That 210 yen is applied to this 200 yen, you know.
+00:23:08	T	Then if you buy seven of the cakes that are 30 yen cheaper, if you do that, then what about this side?
+00:23:13	S	Three.
+00:23:13	T	It's three... did anyone do it like that? Someone who did it like this?
+00:23:18	T	There probably isn't anyone, right?
+00:23:19	T	Start off by buying 10.
+00:23:21	T	You're short 200 yen so... let's make up for the missing cost with cake that is 30 yen cheaper.
+00:23:25	T	You can make up for it if you buy seven, so this is three. In that way.
+00:23:30	T	It was good, right? Then I'll ask you. Okay... Luiko.
+00:23:33	T	Then how did you think... about this one?
+00:23:37	S	The total 230 yen, oh... It's for some amount and make that amount X and...
+00:23:48	S	You need to buy 10 of the 200-yen ones. So 10... make it 10 minus X and...
+00:23:57	S	And the total has some amount of two- 230-yen ones.
+00:24:04	S	And the 230-yen ones are 230 X. And... the 200-yen one is 200...
+00:24:13	S	bracket 10 minus X... And then... then... 200- 230 X plus 200 bracket 10 minus X...
+00:24:30	S	is less than, minus, less than or equal to 2,100 yen. And you form the inequality equation.
+00:24:41	T	Okay.
+00:24:42	T	You said that this was the inequality equation, right?
+00:24:45	T	Okay.
+00:24:45	T	Did you understand the meaning?
+00:24:48	T	Perfect.
+00:24:49	T	You'll get it better with Luiko's explanation than with mine.
+00:24:51	T	Okay. Try and raise your hands.
+00:24:52	T	People who say that they got it with Luiko's explanation.
+00:24:55	T	One person?
+00:24:56	T	Only Maruya? Two people? Three people?
+00:24:58	T	Four people? Just four people is it? Five people? Okay.
+00:25:02	T	Then... please explain it next, Ryo.
+00:25:03	T	Please explain it in a way that is a little more understandable.
+00:25:05	T	Try and explain it in a way in which... a few more people will say... that they understood.
+00:25:11	T	The method of explanation is okay with this.
+00:25:15	T	Okay.
+00:25:17	T	Go ahead.
+00:25:21	T	Okay. Go ahead.
+00:25:27	T	You can't do it?
+00:25:28	T	You don't know?
+00:25:34	T	Okay. Then... I'll start talking from this point okay?
+00:25:38	T	To tell you the truth I was going to talk about today, what Luiko set up.
+00:25:43	T	But I wanted you to find a number... of ways to come up with it so...
+00:25:46	T	I did it so that I would have you think about it, right? Three, four, five, six. Okay.
+00:25:50	T	One, two, three, four, five, six.
+00:25:52	T	Okay.
+00:25:54	T	One, two, three, four, five, six.
+00:25:56	T	Oh, it's not five, six... there's five people here.
+00:26:00	T	One, two, three, four, five, six. Here.
+00:26:24	T	Okay. From there, and so...
+00:26:28	T	While talking so that everyone will say, "I see," while understanding Luiko's explanation,
+00:26:34	T	we are going to try and do it using that problem, using an inequality equation problem, okay?
+00:26:37	T	You want to buy a total of 10 cakes in which one is 200-yen and the other is 230 yen.
+00:26:43	T	And you want to make the total less than 2,100 yen.
+00:26:46	T	In order to buy as many 230-yen cakes as possible, what is the maximum that you can buy?
+00:26:50	T	That is the problem.
+00:26:52	T	And what is the thing that you want to find? Pinko?
+00:26:55	T	What do you need to answer?
+00:26:57	S	How many 230 yen cakes you buy.
+00:27:00	T	It's a problem asking how many 230 yen cakes you can buy, so...
+00:27:04	T	So that's why you're going to think of it as changing the 230-yen cake into X.
+00:27:09	T	I'm asking how many can you buy, so you should think of changing the 230-yen cake into X.
+00:27:11	B	[Blackboard: Buy X amount of 230-yen cakes]
+00:27:16	T	When doing that... you need to buy 10 cakes all together. You need to buy ten.
+00:27:23	T	Right?
+00:27:24	T	Then, Qumi? If it's six of this cake, then... how many of this cake do you need to buy?
+00:27:31	S	Four.
+00:27:31	T	Four. How did you calculate it?
+00:27:34	T	What?
+00:27:36	S	Four.
+00:27:36	T	So how do you calculate it? How do you know that this is four?
+00:27:41	T	What?
+00:27:42	S	Because it's not enough.
+00:27:44	T	Yeah, so how do you calculate it? What's the equation here?
+00:27:48	T	Huh?
+00:27:48	S	Add.
+00:27:49	T	What do you add to six to get this ten?
+00:27:52	T	Then... then how many is it here?
+00:28:09	S	X.
+00:28:10	T	What?
+00:28:12	T	That's why you're in trouble if you are fooled by the number here.
+00:28:14	T	If this is six then it's probably how many here, Ryusaki?
+00:28:18	T	Qumi is saying that it's four, but how do you get this here?
+00:28:23	T	It's four, but how do you come up with four?
+00:28:29	T	Ryusaki, how do you come up with four here?
+00:28:32	S	Subtract.
+00:28:32	T	You need to subtract, right? It's good if 10 minus six is four here.
+00:28:35	T	If it was seven here, then you would write 10 minus seven, right?
+00:28:40	T	If this were nine here then you would think of this as 10 minus nine.
+00:28:45	T	So if you subtract one of the numbers from this number, from the total number, then you get the remaining number.
+00:28:50	T	And the problem is, if you make the number on this side X, then what will this be if you do that?
+00:28:56	T	Here.
+00:28:59	T	Joji. What will this become?
+00:29:03	T	Here.
+00:29:05	T	You haven't been listening, have you.
+00:29:07	T	If this were three, then this can be found by going 10 minus three. If this were four, then this is 10 minus four.
+00:29:13	T	If this is five, then this is 10 minus five. Then if this is X, then what is this?
+00:29:18	S	Ten minus X.
+00:29:19	T	Yeah. It'll become ten minus X. What this is saying is that you can only buy 10 minus X number of the 200-yen cakes.
+00:29:26	T	It will come up here.
+00:29:28	T	It's 10 altogether and if you make this X, then here... you need to subtract this number.
+00:29:33	T	If you subtract this number from 10 then you'll always arrive at the number left over.
+00:29:36	T	That's why it'll be the case that you can buy this many 200-yen cakes.
+00:29:40	T	The amount you bought, right? This will be the amount here.
+00:29:43	T	If you do that, what would the cost be if you bought only X number of 230-yen cakes?
+00:29:50	T	If you multiply the 230-yen cakes at this price by X then you'll get the total cost, right?
+00:29:54	T	It's 230 X, you know.
+00:29:55	T	Because you're only going to buy 10 minus X of the 200-yen cakes, the cost will be this.
+00:30:00	T	Then since you only have 2,100 yen with you, you'll be in trouble... if it isn't less than this.
+00:30:05	T	And so you will get this equation, okay?
+00:30:09	T	What is the equation? Oh, I can't write it, can I? I'm wondering what the equation is so...
+00:30:13	T	The equation is 230 X plus 200 bracket 10 minus X is less than or equal to...
+00:30:17	B	[Blackboard: Equation]
+00:30:20	T	Two thousand one hundred.
+00:30:24	T	Okay, then let's try and solve this, okay?
+00:30:26	T	Okay, the 230 of this 230 X stays the same.
+00:30:29	T	Okay, Sakai, how much is it here when you take the parentheses off?
+00:30:32	S	Huh?
+00:30:33	T	I took the brackets off now, so here.
+00:30:37	T	Multiply this and this.
+00:30:39	S	Mm?
+00:30:40	T	How much is it when you multiply it?
+00:30:51	T	How much is it if you take off the brackets?
+00:30:58	T	Well then how do you do two bracket X plus three?
+00:31:02	S	Two X.
+00:31:04	T	Well then remove the brackets.
+00:31:13	S	I did it. I did it.
+00:31:22	S	Four plus five.
+00:31:27	S	You multiply it, right?
+00:31:36	T	Huh?
+00:31:37	T	Bracket... 200 times 10 is see...
+00:31:44	S	Two thousand.
+00:31:44	T	Oh, 2,000, right? Two thousand. Okay.
+00:31:46	T	Two thousand... minus, you multiply this so... this time on this side so okay.
+00:31:49	S	Two hundred X.
+00:31:50	T	Two, 200 X. Okay. Less than or equal to 2,100.
+00:31:55	T	Okay. Then which is the next one that you transpose?
+00:31:58	S	Two thousand.
+00:31:58	T	Two thousand. Okay. We're going to bring the plus 2,000 to the other side.
+00:32:01	T	And 230 X minus 200 X is less than or equal to 2,100 minus 2,000.
+00:32:10	T	The sign changes, so please be careful, okay? When you transpose it, okay?
+00:32:12	T	Then 30 X... 30 X is less than or equal to... 100. Okay.
+00:32:19	T	Then you're going to divide both by 30 on both sides, so it becomes X is less than equal to... 100... thirtieths but...
+00:32:28	T	I'll erase the zero here, okay? It'll become 10-
+00:32:31	S	Thirds.
+00:32:31	T	Thirds.
+00:32:33	T	What will 10 become if you write it in decimals?
+00:32:38	T	Three point three three three three three, right?
+00:32:41	T	If I asked you to find the largest integer... that is smaller than three point three... it will come out as three.
+00:32:49	T	I can't really write the answer, but okay... you can buy three... up to three... of the 230-yen...
+00:32:53	T	thirty yen... cakes.
+00:33:02	T	If you present it... like this... it's good.
+00:33:06	T	Things presented like this are solved using an inequality equation.
+00:33:08	B	[Blackboard: You can buy up to three of the 230-yen cakes.]
+00:33:11	T	Which is easier, doing it one-by-one or using an inequality equation?
+00:33:15	S	An inequality equation.
+00:33:16	T	It's easier to use the inequality equation, isn't it?
+00:33:18	T	And so today what I would like you to do from here is, we already did this in the method of thinking but...
+00:33:23	T	Inequality equation.
+00:33:25	T	I would like you... to know... the good qualities of... finding the answer by... setting up an... inequality equation,
+00:33:45	T	right... inequality equation so... we thought about it... with a problem like this.
+00:33:49	B	[Blackboard: Having you know the good qualities of finding the answer by setting up an inequality equation.]
+00:33:52	T	If you were to solve it without using an inequality equation you need to check it out quite a lot, one-by-one, a lot.
+00:33:57	T	Hara could solve it because it was 10, but what if you were to buy 100 of these two cakes together...
+00:34:06	T	Ninety- figure out 100, and figure out 99, and figure out 98, and figure out 97, and-
+00:34:12	T	You need to figure out all of the numbers between one and 100, don't you?
+00:34:16	T	However, if you used a method like this that Luiko used... you will arrive at the answer quickly.
+00:34:22	T	Therefore, you don't need to figure out each number one-by-one.
+00:34:24	T	So working it out by making... an inequality equation has a lot more... good qualities... than counting it one-by-one.
+00:34:32	T	That's what it's about, all right?
+00:34:34	T	So then and so... if there are good qualities like that then... we're saying that. So there are two problems on the right side.
+00:34:43	T	This time, please buy 20 apples and oranges altogether.
+00:34:45	T	If you count it one-by-one you will be in an incredibly terrible situation.
+00:34:49	T	As we just did in the cake situation, set up an inequality equation by yourself and find out up to how many apples you can buy.
+00:34:56	T	Or if you're doing the problem at the bottom, try to solve the problem about
+00:34:59	T	how many pears you can buy by setting up an inequality equation.
+00:35:01	T	Work it out and find an answer.
+00:35:04	T	Because finding the answers one-by-one is hard-
+00:35:06	T	I wonder if you see the numerous good points of setting up inequality equations,
+00:35:09	T	and, well, that you'll set up inequality equations yourself and try to find the solutions. That's what it's all about, okay?
+00:35:16	T	Is it okay?
+00:35:18	T	Okay. Then and so... people who haven't written this here, write it, and then do problem one.
+00:35:25	T	Try to set up an inequality equation by yourself in the same way and try to solve the problem.
+00:35:32	T	Okay. Go ahead.
+00:35:43	T	This is... the total so... you don't have it... see?
+00:35:49	T	This is attached.
+00:36:03	T	It's faster than counting, right?
+00:36:14	T	It's okay. Now, work out the problem. This expresses this in the same way as this. Oh, solve this on the top.
+00:36:30	T	That's good.
+00:37:16	T	It's like this, you know.
+00:37:18	S	Twelve times.
+00:37:20	T	Not 12, it's 70 times 20, you know.
+00:37:23	T	This is 20, isn't it? It's a bracket so, okay? It's not a 12, you know.
+00:37:28	S	I got it. Twenty.
+00:37:30	T	You couldn't read the numbers that you wrote, could you?
+00:37:49	T	It's okay, Tanizaki, here. Try this and work it out like this.
+00:38:00	T	Sakai's one is also good, isn't it? Okay, you've got it.
+00:38:08	T	Then now it's easy, right?
+00:38:10	T	It's easy, right?
+00:38:13	T	This isn't X here, but... you're going to buy 20 in all, right?
+00:38:18	T	So here you will get the number you subtracted... from the total amount of 20.
+00:38:26	T	And so 20 minus... negative X.
+00:38:31	T	And so the price here... you multiply the price of one of them, and this amount, so this becomes 120 X. Okay?
+00:38:41	T	And what about this one?
+00:38:43	T	It becomes 70 parentheses.
+00:38:47	T	You can't write it... if it's like that.
+00:38:48	T	Please write the 70 sort of more on the side.
+00:38:52	T	And what about here?
+00:38:55	T	Twenty minus X.
+00:38:57	T	Okay. Now you've got it.
+00:38:58	T	And then put these together and make this smaller than four.
+00:39:01	T	What about you, Uchida?
+00:39:02	S	Huh? Two hundred.
+00:39:08	T	Just a moment. It's all right now, right?
+00:39:13	T	Oh, Ueda, that's good. Okay, it's done.
+00:39:18	T	Oh, Ueda, yours is good, too. You've arrived at the answer, right? Okay.
+00:39:20	T	Where'd it go, Waka?
+00:39:26	T	This is okay, you know?
+00:39:29	T	This is... 120 X plus, how much is this if you multiply it by this?
+00:39:35	T	Two times seven, 14, right?
+00:39:38	T	One thousand four hundred seventy two thousand.
+00:39:44	T	This is four. Then you have to transpose it.
+00:39:46	T	There is seven, 700.
+00:39:48	T	Twent- this is 70 times 20, so next is four, right?
+00:39:54	T	Okay.
+00:40:48	B	[Blackboard: 120-yen apples]
+00:40:57	B	[Blackboard: 70-yen tangerines]
+00:40:58	B	[Blackboard: Total]
+00:41:56	T	Okay, I guess I'll have you write it.
+00:42:09	T	Are you done?
+00:42:10	T	Did you do it?
+00:42:11	B	[Blackboard: Buying Fifteen. Seventy-yen pears. Fifty-yen persimmons. Basket. Total.]
+00:42:12	T	Then work it out there... will you?
+00:42:15	T	This should be fine, right?
+00:42:19	B	[Blackboard: Buying Twenty. One hundred twenty-yen apples. Seventy-yen tangerines. Total.]
+00:42:20	T	Could you write it?
+00:42:22	T	Isn't it good? It's good.
+00:42:24	T	Divide, you can divide it.
+00:42:31	T	Then... Bancho.
+00:42:33	T	Please write number two, okay? Look at the figure and set up an equation and work it out, okay?
+00:42:36	S	What number?
+00:42:37	T	Number two.
+00:42:39	S	Number two?
+00:42:39	T	Yeah.
+00:42:51	T	Write it without looking at anything, okay? Because I wrote-wrote that you would buy 15.
+00:43:04	T	Mm, I just saw someone's eyes. Okay, Watabe.
+00:43:06	S	Uh, wait a second.
+00:43:07	T	Watabe, please write number one, okay?
+00:43:09	T	Okay, go ahead.
+00:43:11	S	You don't understand if you don't look at anything.
+00:43:11	T	It's not written.
+00:43:14	S	This is going to appear in the equation.
+00:43:16	S	Oh, how much is it for the baskets?
+00:43:17	T	Oh yeah, I didn't write the basket prices. Sorry.
+00:43:19	T	The basket price is...
+00:43:21	S	Eighty yen, isn't it?
+00:43:22	T	Eighty yen.
+00:43:40	S	The total... was 1,000 yen, wasn't it?
+00:43:42	T	Hm? Oh. I should write the totals, too, shouldn't I? The total, sorry.
+00:43:45	T	Less than 1,000 yen.
+00:43:47	T	Watabe's is less than 2,000 yen.
+00:43:48	S	Two thousand?
+00:43:50	T	Please write 2,000 yen here. Oh, okay.
+00:43:58	T	Try hard and work it out.
+00:44:05	T	Just one more step, just the answer. Oh, you need to display the answer.
+00:44:13	T	Eight?
+00:44:16	S	It's wrong?
+00:44:18	S	What?
+00:44:18	S	What is this?
+00:44:19	S	What?
+00:44:20	T	It's wrong. This, the answer of this inequality equation is wrong, isn't it?
+00:44:23	S	Isn't it okay? Because... this is 10, right?
+00:44:27	S	Is this... the answer?
+00:44:32	S	With 80?
+00:44:34	T	It's this value here.
+00:44:35	S	Two times nine?
+00:44:36	S	What about eight?
+00:44:37	S	Seven hundred fifty.
+00:44:39	T	Aren't you missing the 50 here?
+00:44:47	T	Oh... the response is okay with this. The answer is not this though, is it?
+00:44:56	T	Huh?
+00:44:57	S	The answer is-
+00:44:57	S	What is the answer?
+00:44:59	S	Is it this?
+00:45:00	T	This is good.
+00:45:02	T	This is the answer to the inequality equation.
+00:45:04	T	But, the answer to the problem has to be this, right?
+00:45:12	T	When asked to work out this inequality problem, this is- This has to be the answer here, right?
+00:45:16	T	However, this won't be the answer to the applied problem so-
+00:45:18	S	One hundred seventy over 20.
+00:45:21	T	Seventeen over two, right?
+00:45:24	S	So teacher, if you do it like this, is it correct?
+00:45:35	T	That should be that way, right? Okay.
+00:45:40	T	Ueda, how far did you go?
+00:45:46	T	Fifty times 15 is look...
+00:45:48	S	Not yet?
+00:45:51	T	It's 75, you know. Then it becomes 750.
+00:45:56	S	For example, how do we write the answer?
+00:45:58	T	What are you going to write?
+00:45:59	T	The problem asks up to how many can you buy.
+00:46:02	T	What? Pears, right? Up to how many pears can you buy?
+00:46:11	T	It's 70 times 20, so it's not 140, but it's only one zero, right?
+00:46:20	S	Who can read this?
+00:46:21	S	Who can't read this?
+00:46:43	T	There the six is... 60... you're missing one zero, aren't you?
+00:47:14	T	Okay... that's what it's about.
+00:47:16	T	Please look at number one first. If you say that you will buy only X 120-yen apples then...
+00:47:22	T	You're going to buy a total of 20.
+00:47:24	T	So, as for the tangerines, you need to buy only the total 20 minus X tangerines.
+00:47:28	T	And the price of the apples is 120 X.
+00:47:31	T	And the price of the tangerines is 70 parentheses 20 minus X.
+00:47:34	T	And the total that you have is 2,000 yen, you know.
+00:47:37	T	So you're asked to make it less than 2,000 yen so...
+00:47:39	T	One hundred twenty X plus 70, parentheses 20, minus X, is less than or equal to 2,000.
+00:47:44	T	And if you try to find the answer you get X is less than or equal to 12.
+00:47:49	T	That's why you can buy up to 12 apples.
+00:47:52	T	We're going to try to see if this is true or not, okay?
+00:47:56	T	You buy 12 120-yen apples.
+00:48:00	T	Then what is the cost?
+00:48:03	T	Is there anyone who knows what is 12 times 12?
+00:48:06	T	Didn't I teach this to you before?
+00:48:06	S	One hundred forty four.
+00:48:07	T	It's 144, right? Okay. One thousand four hundred forty yen. This is the price of the apples.
+00:48:11	T	Then, you need to buy eight of the 70-yen tangerines so seven times eight, 56.
+00:48:16	T	And all together it's exactly 2,000 yen.
+00:48:22	T	About it being exactly 2,000 yen, why did it become exactly 2,000 yen here?
+00:48:25	S	Since it's divisible.
+00:48:26	T	Because here we got 12, a number that was divisible, right?
+00:48:26	T	Right. We got it because the 12 could be divided perfectly into it here, right?
+00:48:30	T	That's why it ended up being exactly 2,000 yen.
+00:48:32	T	However, this side. Okay.
+00:48:34	T	You find it in the same way. The pears are X and you're going to buy 15, so the persimmons are 15 minus X.
+00:48:39	T	The price of the pears and the price of the persimmons... and even the basket will be included as well this time, right?
+00:48:44	T	It's asking you to limit it to 1,000 yen all together. So, if you set up an inequality equation you get this kind of equation.
+00:48:48	T	Seventy X plus 50, parentheses 15, minus X, plus 80, is less than or equal to 1,000. Please work this out.
+00:48:58	T	This is the answer of the inequality equation, okay?
+00:49:01	T	You need to present this, okay?
+00:49:02	T	Instead of just suddenly writing the answer eight- if you first work this out...
+00:49:06	T	You get an answer of 17 halves, okay?
+00:49:09	T	You need to find this first. Now you need to pinpoint it like this.
+00:49:16	T	Then... if you buy eight 70-yen pears, then seven times eight equals 560 yen.
+00:49:21	T	If you do that, then how many 50-yen persimmons do you buy?
+00:49:25	T	You buy seven? Then seven times five equals 350 yen. All together... 910 yen.
+00:49:34	T	Then... you'll have 90 yen in change coming back.
+00:49:36	T	What?
+00:49:37	S	The basket price.
+00:49:38	T	Oh, there's the price of the basket.
+00:49:39	T	The basket price is 80 yen so...
+00:49:42	T	It's altogether 990 yen, and you'll only get 10 yen in change. That's what it's about.
+00:49:47	T	What we talked about today was... the answer from inequality equations... that is...
+00:49:52	T	When solving problems it's often easier to set up an inequality equation and find the answer,
+00:49:56	T	than count things one-by-one and find the number.
+00:50:03	T	That's why although it may be tedious... for the applied problems of inequality equations, okay?
+00:50:07	T	Instead of looking for the answer one-by-one you find it by changing the parts written in Japanese to mathematical terms and solving it.
+00:50:17	T	Because an inequality equation has a good quality like this. This is what we talked about.
+00:50:22	T	Is it okay?
+00:50:24	T	Is it okay?
+00:50:25	SN	Yes, okay.
+00:50:27	T	Then I'll pass out the problems and finish off. What number should I pass out, today?
+00:50:31	T	Is it number nine?
+00:50:34	T	It's number nine. Number 10.
+00:50:35	T	Then I'll hand out the problems for number 10 and finish.
+00:50:38	SN	From what number to what number are there?
+00:50:40	T	It ends with 10.
+00:50:41	T	Inequality equations end with this.
+00:50:48	T	One, two, okay.
+00:50:56	S	Four more.
+00:50:57	T	Four more? Okay.
+00:50:58	T	One, two, three, four, okay.
+00:51:01	T	One, two, three, four, five, okay.
+00:51:04	T	One, two, three, four, five, six, okay.
+00:51:09	T	Okay.
+00:51:11	T	Okay. Then we'll say our greetings and finish off.
+00:51:14	T	Student officer. Lead with strong voices since we're finished.
+00:51:20	T	Please get ready to bow.
+00:51:21	S	Stand.
+00:51:35	S	Thank you very much.
+00:51:36	E	Thank you very much.
+Ê

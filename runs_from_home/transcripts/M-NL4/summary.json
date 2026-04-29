@@ -1,0 +1,1333 @@
+{
+  "lesson_id": "M-NL4",
+  "transcript": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math NL4 transcript.txt",
+  "n_bins": 95,
+  "n_risky_bins": 18,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] I will tell you that now, I will tell you that now. [T] Lis- listen for a second. [T] If you listen for a second, then I will tell you exactly. You guys see Ruud Gort, that is the name of this gentleman."
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] If you listen for a second, then I will tell you exactly. You guys see Ruud Gort, that is the name of this gentleman. [T] He will be taping a complete lesson on video, as part of a study that is held in various countries. Yes, that is what those videotapes are used for. [T] It is a study about m"
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It is a study about math education in the Netherlands, compared to Australia and etc., etc. [T] He thinks it is best, and the recording works best if you pretend he is not here, okay? So we are going to act normal, as usual. What? [T] Aren't you? Or still just in time, just in time. [T] You guys"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Oh I see. You wanted to step into the picture very explicitly. [T] I was just saying... I will briefly repeat it once more. [T] That gentleman will be taping a complete lesson on video as part of an international study. That's why. [T] If you guys could already take your homework out in front of"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] If you guys could already take your homework out in front of you. [T] And homework, according to the study calendar, was the last- the last part of the basic materials. [T] The very last part. Bram? [T] That, that is very clever. I wanted you to demonstrate later how you do those types of exerci"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That, that is very clever. I wanted you to demonstrate later how you do those types of exercises. [T] Then, what have you just been doing during Dalton hour? [T] But that wasn't the homework assignment, was it? [T] Marian, what is it? [T] Yes, well first you are going to... let's have a quick lo"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Will you guys calm down a bit! Can you guys calm down a bit here? [T] But you can still calm down a bit, right? That has nothing to do with it? I am sure he will arrive shortly. Keep that bunch quiet over there. [T] Very good. [T] As usual you can first ask questions yourself about the homework,"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And after that I will have a couple of questions myself about the calculations that you have learned in your homework. Marian? [T] Which assignment? [T] The very last one. [T] The very last one, I'll keep that in mind. [T] Twenty-eight C. Oh that was last time's homework, that's the previous hom"
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Twenty-eight C. Oh that was last time's homework, that's the previous homework. You are very late with that, aren't you? [T] Why don't you take care of that during a Dalton hour. [T] Do I understand it correctly that this is only about the last two assignments?"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Do I understand it correctly that this is only about the last two assignments? [T] The last two assignments, Sam help me out here. [T] Thirty-six, we will start with that one. Copy the table and fill it in. I'll start off with that and then you can tell me what else I need to write down."
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Thirty-six, we will start with that one. Copy the table and fill it in. I'll start off with that and then you can tell me what else I need to write down. [T] What is it? [T] Can you guys just sit here and work? You can't just interrupt a class, can you? [T] The intention is that this equation ge"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The intention is that this equation gets resolved. [T] Right? So you have to put the right parts of this equation in the right place of this table. [T] Sander! And as a suggestion- as a suggestion the factor X is put up front already. How can you get this equa- multiplication to resolve?"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Write down what you think is the correct answer and check it right away. X times four X, is that four X squared, or not? [T] Yes, then it is correct. Here you do the same. X times what? [T] Twelve. And then you can write the equations with brackets. Hans?"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Exactly right. We are going to do that again in question C. This was question B, right? We are going to do it one more time. Daan? [T] We can fill in the terms of the equation in the correct places of the table. Daan? He wanted to put four X up front."
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] We can fill in the terms of the equation in the correct places of the table. Daan? He wanted to put four X up front. [T] Resolve the equation, complete it. [T] Four X times- What makes four X squared? [T] X. And four X times what makes 12 X?"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] X. And four X times what makes 12 X? [T] Plus three. If you apply that, then you can write down- [T] You have to remember this carefully because this was a good exercise. [T] Remember carefully, if you have to resolve this equation, you can make it into this equation or this one."
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Remember carefully, if you have to resolve this equation, you can make it into this equation or this one. [T] They basically come down to the same thing, but the last one is better. And use that as a guideline. [T] You have to keep as much as possible in front of- in front of those brackets. [T]"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] then I won't consider this completely wrong of course, because in essence it is a correct equation. But this one is better. [T] So, this one will get you more points, than this one. Try to get as much out of it as possible. [T] You can also say, if I resolved- because this is called \"to resolve\""
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] if I resolved then I always check if those two terms, that are written between brackets, still have a common divisor, a common factor. [T] And then you come to the conclusion that there is still a common factor four in there, we have to take it out as well. [T] That's the idea. Make sure you rem"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] We are not going to do every assignment of question 37, because that one was also requested. Not all of them, but a couple of examples. [T] I think that question B is actually a- a good example."
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I think that question B is actually a- a good example. [T] Tim? [T] Where do I have to fill in these two parts? [T] Why don't you- just point it out in your notebook, then I know- What, no tables? Wait a minute. [T] What have you got? [T] You have only the final results. Right?"
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You have only the final results. Right? [T] Did you do it yourself, without using a table? [T] Not with the help of the answer book, I hope? [T] Well, that's no use. That's the- the wrong attitude, Tim. [T] If you say, I can't do it without a table that's not a disgrace. Most of us can't and tha"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] If you say, I can't do it without a table that's not a disgrace. Most of us can't and that's fine with me. But then make the table! [T] What do you learn if you copy it from the answer book? [T] Well, you might as well say nothing at all. And your goal, I would hope, is that you learn something "
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Lisa, where do I fill this in? [T] You didn't finish it you said, but that doesn't matter. We're making it right here and now. Where does it belong? [T] Did you draw the table? [T] Point it out to me where- no, no, no, no, no. [T] Because that is part of a multiplication, in the equation it does"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Because that is part of a multiplication, in the equation it doesn't say that you have to multiply two X squared by something. [T] There, yes. So the equation without brackets comes from these places in the table. Filled out. [T] Furthermore the book suggests that you fill in minus two X over he"
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That was already printed, suggested. You only have to figure out this part. Lisa, please complete the multiplication correctly. [T] Minus two X times what is minus two X squared? [T] Where did the little squared come from, Lisa? [T] Times? [T] X, that's correct. Minus two X times what? Makes min"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] X, that's correct. Minus two X times what? Makes minus 54 X? [T] Exactly right, minus two X times 27 is minus 54 X. No flaw in that argument. Correct? So what equation do you get with brackets?"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] This is how you score an A for your test. And all those- since naturally I can't guarantee anything, [T] all those who looked at the answer book too often during homework won't be able to do this during a test."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] all those who looked at the answer book too often during homework won't be able to do this during a test. [T] And they won't just score a C or C+, but a D or even an F. [T] Because this is a subject in which you either perfectly understand what is going on, you kind of know what you are supposed"
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] or you don't understand the intention at all and then you can't do one single exercise. [T] I want to do one more of 37. And then we are going to have a short quiz on this lesson. Well let us do the very last one."
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] I want to do one more of 37. And then we are going to have a short quiz on this lesson. Well let us do the very last one. [T] This is printed in full. That is what we are trying to work towards. [T] Well, it is in fact kind of a stupid remark, \"that's what we are trying to work towards\" because "
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] The only thing that is printed is that you have to make something with brackets. Pleun, tell me, tell me, tell me... [T] Where does the minus three S squared come from in the table? [T] No, that is not my question, Pleun. This, where do I have to fill this in? [T] Where? [T] Yes there, that's ri"
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It goes next to it. You can leave out the \"plus\" or you can write it down there as well. [T] Yes, now you have to solve the puzzle. I do want to end up with a \"plus\" here. [T] Yes? Let's take a look. Suggest something. [T] In front three S. [T] And S over here. Correct, or not? Three S times S m"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Negative S. So, always check right away. As soon as you write something down, check it. And here? [T] Three? [T] That's all? [T] Yes, you can add the \"plus\", but it is not necessary. Okay, equation?"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Perfect, completely correct, right. Marian? [T] What you can do, what you can do is for yourself, on a scratch note, or on top, resolve this completely to a multiplication."
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What you can do, what you can do is for yourself, on a scratch note, or on top, resolve this completely to a multiplication. [T] Minus three S squared, what exactly does that mean? Minus three times... [T] S, times- [T] Yes, squared, but I want to resolve it completely to a multiplication. [T] A"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And nine S, completely resolve to a multiplication. Nine S is in fact... [T] Nine times S. And the nine you can resolve even further. Write further as a multiplication. [T] Three times? [T] Three times S. And what do those two have in common?"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Three times S. And what do those two have in common? [T] They both have a factor S in common. And what else? [T] A factor... [T] Three. This has a three in it and this has a three in it. And that is the common part, which you can write down in front."
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Three. This has a three in it and this has a three in it. And that is the common part, which you can write down in front. [T] You also see now what is left over. [T] And that is written above here. Because here you only have a three left over. Right, so you can try to do this by heart. [T] But i"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, we will just do it, will just do it. That's this equation. [T] This is how we started. You wanted to do this. What will the upper part look like, Freek?"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This is how we started. You wanted to do this. What will the upper part look like, Freek? [T] This is correct, yes. [T] Here? [T] What equation would you write down next?"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Uh huh. Freek, let me tell you something, son. If you do this on a test, that is fine with me. [T] The only reason why you actually shouldn't have done that in this particular exercise, is because that little \"plus\" sign is the only thing that was given in print. [T] And this way you will not ge"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I think personally, but that is my personal opinion, I think that this resolution is even- even better. But I would- [T] But I would, on a test, consider them both correct. I would not pre-print that information on the test. [T] You see? So I think that is a good solution and this one too. Peter"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yes. As many as possible. As long as you can still see a common factor here then you haven't taken out enough yet. [T] Um, I am going to ask you to do an assignment that none of you have done yet. Just do that one. Page 145. Assignment E."
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Um, I am going to ask you to do an assignment that none of you have done yet. Just do that one. Page 145. Assignment E. [T] And just start, uh, first on E 12, start on E 12. Maximum five short minutes. [T] E 12. E 12, E 12 A, B, C. Maximum five short minutes."
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] E 12. E 12, E 12 A, B, C. Maximum five short minutes. [T] Then I will ask a couple of calculations, that way we can check if you can apply the trick. [T] If you need a table, then you'll have to make one. [T] If you are so good at this that you don't need a table, you may do that as well. But no"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] If you are so good at this that you don't need a table, you may do that as well. But not with the answer book. [T] Then I will just have a look at who is missing. Five, 13, 14, 16, 18, 20, 22. I am missing- what, four people? (inaudible) Seventeen, 18, 20."
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Then I will just have a look at who is missing. Five, 13, 14, 16, 18, 20, 22. I am missing- what, four people? (inaudible) Seventeen, 18, 20. [T] What happened to Patty? [T] You went and sat over there? Okay."
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] You went and sat over there? Okay."
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] You went and sat over there? Okay. [T] Were is Christianne? Is she ill?"
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Were is Christianne? Is she ill?"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Were is Christianne? Is she ill? [T] Let me see, let me see. That is correct, very well. [T] Uh huh."
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] This is right this way, isn't it? [T] Is it not working out? Let me see. Oh, that's going well, that's fine. [T] Though you didn't copy exactly what was shown in the equation, right? There is a little sloppiness there. [T] You had written down in the equation 18 X and?"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Minus, you're missing the minus. [T] This one you can already put in the right place. [T] No, just in front. [T] Yes there. You have to- to- to remove that. Yes, like that. Now that 18 isn't correct any more, is it?"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes there. You have to- to- to remove that. Yes, like that. Now that 18 isn't correct any more, is it? [T] What? What? Because this you don't know yet. What times three gives you this? [T] That's right, like that."
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's right, like that. [T] Without a table. Let's have a look. Yes, that's going fine, that's going fine. [T] You should try to write an S differently than a five, don't you think? [T] Yes, because I almost don't see a difference here. I am inclined to say it is 55."
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, because I almost don't see a difference here. I am inclined to say it is 55. [T] Try to differentiate them a bit. Yes? [T] The second one. [T] What's the matter? [T] Too sick to stay inside? Do you want to go home, is that what you mean? [T] What do you want to do?"
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Em... [T] All right. Just go together, to the bathroom, there you can drink a little water. The two of you go. Who should come along? Yes? [T] Yes? [T] The last one you can fill in something else, right? You placed this correctly. This one, where can you put it as well?"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] The last one you can fill in something else, right? You placed this correctly. This one, where can you put it as well? [T] Uh huh. And now you can start. Resolve this multiplication. Yes? And now you can start with the second part. [T] Resolve that multiplication as well. That's incorrect, isn't"
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Resolve that multiplication as well. That's incorrect, isn't it? Because then you get five. [T] Yes, now it's still not right. Five times seven is not minus 37. Yes? [T] And then, in addition to that, S times S squared. That's not S squared. That would be S cubed. [T] Yes, look at that, three mi"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] But, fine, now it's complete and now you can write the correct equation down. Five minutes have been up for a long time. [T] Well, you didn't have to finish it completely. The idea is that you know how this works. [T] Take your answer book in front of you then we can check if you did it right. J"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Give me a signal if you came up with something different. [T] Bram."
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, yes? [T] B-6- [T] Yes, well, your resolution is correct; your resolution is also a good example of what I wrote on the center board. I just told you: you could have gotten more out of it."
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, well, your resolution is correct; your resolution is also a good example of what I wrote on the center board. I just told you: you could have gotten more out of it. [T] Because those two- do those two still have anything in common? [T] Yes. Yes, you are better off making a new table because"
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, but you also need to add a number, right? You will never multiply with just signs, will you? Yes, like that. Yes, that's correct. [T] Yes, which resolution are you doing in that case? [T] And now here- here you took out minus T. Where is- [T] It is now over here. While in the assignment it "
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It is now over here. While in the assignment it is suggested that you end up with a plus. You could have made sure of that by taking out the minus. [T] Yes, then you have to remove it there. [T] And remove that one as well- [T] And now you can make the correct equation. [T] Yes. Yes?"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. Yes? [T] So, your equation wasn't wrong but you could have done it a little bit better. [T] Which one didn't work? [T] Well, that's a good example of what I wrote on the center board. Your resolution is correct, but you could have done it better. [T] The seven P and the 21, do they have any"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The seven P and the 21, do they have anything in common? [T] What is it? [T] So the seven you could have also taken it to the front. Yes? And it has an effect on the top and that way it'll be all right. [T] So your equation isn't wrong but not exactly correct either. [T] Let me put it this way, "
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Because the resolution is fine, but it could have been a bit better. Someone who takes out the seven just deserves that extra little point. [T] Wait a second, wait a second. Um, for those of you who did it right and finished the checking by now, you can continue working."
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Wait a second, wait a second. Um, for those of you who did it right and finished the checking by now, you can continue working. [T] Homework for next time is given in your study calendar. [T] The G and the P, but you will never be able to finish it all, because that would be four pages. [T] The "
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Wait a second, wait a second. Assignment D. Let me see... you can fill this in the right place, which is not the problem. [T] And now you have to solve the puzzle. [T] And you solved the puzzle. This is completely correct. This is a good example of what I did earlier on the middle of the board. "
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Furthermore, it says here, not that that's a very big deal, here it said a plus and you wrote a minus. [T] So, if you also put the minus in front, you better make a new table- [T] That way you won't take out a T but? [T] Here you don't write a T but? [T] Yes, and if you complete it, then it will"
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, that is the same story, actually. You have two H and a six. Do these two still have anything in common? [T] What? [T] Yes, though. [T] No, two H and six you can both be divide by? [T] Two. And this two you could have taken out as well."
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You are better off in making a new table, otherwise you may not understand it anymore. [T] No, you don't have to write it down, but you do have to write the first part of the equation down. [T] That's part of it. [T] It is a small thing, but you have to do it. Okay? Just make a new table, [T] bu"
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] but then don't write four H but eight, minus eight H, that will make it correct. [T] Huh? [T] Why? [T] Just look carefully. Um, do you still remember that Australian gentleman? [T] Try to find the patterns, patterns. How can you determine the little blocks from the first figure? That can be done"
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] One could say I do three times four. Or uh, sorry three times three. Three times four, three times five. Etcetera. [T] But you have to make a combination with that number. [T] The other thing you can do is, let's say, I am going to take six cells plus one times three. Here, I will take the same "
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] And over here six cells plus three times three. Etc. Then you can use this equation. [T] It depends upon what pattern you see, because you may see a slightly different pattern there then Daan does. [T] Which would mean that if you have to make your own equation, then you could find the equation "
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] If you succeed with that then you can immediately calculate the amount for every given number. [T] But if all you see is this pattern: 9, 12, 15, 18, etc., can you tell immediately? Uh, what is in number 30? [T] Without writing down the whole list. Right, so- [T] Yes, maybe, but how do you expla"
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So you are actually working with the equation that is shown there. Did you cheat a little? Or did you find it yourself? [T] Yes, well, that is in fact the trick of these types of exercises. Can you recognize a pattern and then try to involve that number in it as well. Right? [T] Look, if all you"
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That will get you there as well. Sure, that will get you there as well. That way you can say three are added each time. [T] I just asked for number 30. This is number one. [T] But you do have to indicate the step. After number 30 there are another 29 left. And if you argue from there on you will"
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You will be known all over the whole world, right, that this is your math notebook. They are going to be looking at it in Hong Kong. [T] Tell me, what did you want to ask? [T] Yes? [T] Can you do T one, T two, T three, T four, T five, T 20. Here, you had to, to demonstrate two of them-"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Can you do T one, T two, T three, T four, T five, T 20. Here, you had to, to demonstrate two of them- [T] Oh, you've got those? So at T five you calculate 10 plus four, times three. [T] What has that got to do with this five? [T] What is the relationship between the number of the term and your e"
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] If you write nothing in between there then you mean times, right? You do have to write something in between there. Yes, like that. Well, perfect isn't it? [T] Yes. [T] Yes. [T] Times two."
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It is almost the same as the one you got here, right? [T] Do you recognize the part that is on the board. [T] In this, in this equation? [T] This is a multiplication. Can't you write that one without brackets?"
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This is a multiplication. Can't you write that one without brackets? [T] Go ahead and try, let's say try to get rid of those brackets entirely. [T] Yes, since the sequence is irrelevant in a multiplication. Sure, go ahead."
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Don't write two to the power of N, Pleun. You haven't gotten there yet, have you? [T] It wasn't N squared either, was it? What is two times N? [T] Not two to the power of N, but just two N. That's right."
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, well just copy the equation again. What, what equation do you end up with? [T] It, it is this one, right? T N- yes, write it down, T N equals... equals? [T] One plus whatever is in your table. [T] No, no, no this is correct. Now you can figure out what T one was. What was T one? In this- th"
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] No, no, no this is correct. Now you can figure out what T one was. What was T one? In this- this row? [T] Okay, fill it in. Write the equation down again. [T] And try to shorten it, Bram."
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, fill in the equation. [T] Yes, this means that you fill in one for N and that means that you have to fill in twenty for N. [T] Yes, so you only have to fill it in into the equation. [T] Huh? [T] Yes, and then you have to calculate it further. Yes?"
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, yes, yes, your table is not completely correct. The table is not really correct because minus four T times two- [T] You will never get eight T squared out of that. [T] That for sure. Wait a second, it still doesn't make sense. Minus four T times minus two, if you don't look at this. [T] If "
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] And here, you have eight T squared. That's correct. Just- [T] Just continue changing the rest. [T] Just change the rest of your equation. Yes, perfect. Just a minor error, with big consequences."
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Just change the rest of your equation. Yes, perfect. Just a minor error, with big consequences. [T] Well, it is almost time. You guys know- I didn't say that, Freek! You know what you have to do for tomorrow. [T] At least two pages, more is optional, more is optional. [T] G and P."
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] G and P. [T] Tomorrow the fif- Yes, I think that will work out. You just have to write it down in the small folder, this, uh, that little red folder."
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Tomorrow the fif- Yes, I think that will work out. You just have to write it down in the small folder, this, uh, that little red folder. [T] Hey, Tim, that doesn't lead to anything, right? Copying the answer book. [T] You will flunk the test that way, really. But I am actually happy that you adm"
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Well, it is quite simple, if you only use equations- and you may do it without a table, then of course you can copy it from the answer book."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Will you guys calm down a bit! Can you guys calm down a bit here? [T] But you can still calm down a bit, right? That has nothing to do with it? I am sure he will arrive shortly. Keep that bunch quiet over there. [T] Very good. [T] As usual you can first ask questions yourself about the homework, what didn't go well. I will have, uh, one of your fellow students explain it."
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Exactly right. We are going to do that again in question C. This was question B, right? We are going to do it one more time. Daan? [T] We can fill in the terms of the equation in the correct places of the table. Daan? He wanted to put four X up front."
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] We can fill in the terms of the equation in the correct places of the table. Daan? He wanted to put four X up front. [T] Resolve the equation, complete it. [T] Four X times- What makes four X squared? [T] X. And four X times what makes 12 X?"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] X. And four X times what makes 12 X? [T] Plus three. If you apply that, then you can write down- [T] You have to remember this carefully because this was a good exercise. [T] Remember carefully, if you have to resolve this equation, you can make it into this equation or this one."
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] The only thing that is printed is that you have to make something with brackets. Pleun, tell me, tell me, tell me... [T] Where does the minus three S squared come from in the table? [T] No, that is not my question, Pleun. This, where do I have to fill this in? [T] Where? [T] Yes there, that's right. And the plus nine S? [T] It goes next to it. You can leave out the \"plus\" or you can write it down there as well."
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What you can do, what you can do is for yourself, on a scratch note, or on top, resolve this completely to a multiplication. [T] Minus three S squared, what exactly does that mean? Minus three times... [T] S, times- [T] Yes, squared, but I want to resolve it completely to a multiplication. [T] And nine S, completely resolve to a multiplication. Nine S is in fact..."
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Three times S. And what do those two have in common? [T] They both have a factor S in common. And what else? [T] A factor... [T] Three. This has a three in it and this has a three in it. And that is the common part, which you can write down in front."
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Uh huh. Freek, let me tell you something, son. If you do this on a test, that is fine with me. [T] The only reason why you actually shouldn't have done that in this particular exercise, is because that little \"plus\" sign is the only thing that was given in print. [T] And this way you will not get this. [T] I think personally, but that is my personal opinion, I think that this resolution is even- even better. But I would-"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Were is Christianne? Is she ill? [T] Let me see, let me see. That is correct, very well. [T] Uh huh."
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Em... [T] All right. Just go together, to the bathroom, there you can drink a little water. The two of you go. Who should come along? Yes? [T] Yes? [T] The last one you can fill in something else, right? You placed this correctly. This one, where can you put it as well?"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Give me a signal if you came up with something different. [T] Bram."
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, yes? [T] B-6- [T] Yes, well, your resolution is correct; your resolution is also a good example of what I wrote on the center board. I just told you: you could have gotten more out of it."
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Wait a second, wait a second. Assignment D. Let me see... you can fill this in the right place, which is not the problem. [T] And now you have to solve the puzzle. [T] And you solved the puzzle. This is completely correct. This is a good example of what I did earlier on the middle of the board. Your equation is correct. [T] But you could have done- [T] You could have done it better. Because do those two still have anything in common? [T] Yes. [T] Which one? [T] You could have taken three out"
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, that is the same story, actually. You have two H and a six. Do these two still have anything in common? [T] What? [T] Yes, though. [T] No, two H and six you can both be divide by? [T] Two. And this two you could have taken out as well."
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] If you write nothing in between there then you mean times, right? You do have to write something in between there. Yes, like that. Well, perfect isn't it? [T] Yes. [T] Yes. [T] Times two."
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, well just copy the equation again. What, what equation do you end up with? [T] It, it is this one, right? T N- yes, write it down, T N equals... equals? [T] One plus whatever is in your table. [T] No, no, no this is correct. Now you can figure out what T one was. What was T one? In this- this row?"
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] No, no, no this is correct. Now you can figure out what T one was. What was T one? In this- this row? [T] Okay, fill it in. Write the equation down again. [T] And try to shorten it, Bram."
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, fill in the equation. [T] Yes, this means that you fill in one for N and that means that you have to fill in twenty for N. [T] Yes, so you only have to fill it in into the equation. [T] Huh? [T] Yes, and then you have to calculate it further. Yes?"
+    }
+  ]
+}

@@ -1,0 +1,1201 @@
+{
+  "lesson_id": "S-NL1",
+  "transcript": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science NL1 transcript.txt",
+  "n_bins": 83,
+  "n_risky_bins": 20,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] (inaudible) [T] Okay- [T] Are we complete or is anyone missing? [T] Guys, are we missing anyone? I don't think so, right?"
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Last time we did experiment A and B, boiling water. And we examined whether certain substances dissolve in certain solvents. [T] And I'd like to discuss these experiments, like I did briefly last time at the end of the lesson. But let's get back to it for a moment."
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And I'd like to discuss these experiments, like I did briefly last time at the end of the lesson. But let's get back to it for a moment. [T] Good, the idea of doing a test is to experiment and to examine if the present theory still holds. [T] And in case there isn't any theory yet then you could"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now, determining the boiling point of water, that's not too complicated since it's well known and has been tested many times. [T] So as far as that's concerned we're not dealing with high tech research here. [T] But the idea is rather that you grow accustomed to using a burner again and practice"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Tear up your books because all they contained was? What was the only thing they contained? [T] Arguments. Things that were made up but that were not tested by measurements. So we're just going to test them! [T] And I already heard some say, \"Yeah, but we already know that the boiling point for w"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So that's what I'd like to address for a moment. [T] That can happen as well. If you have a boyfriend or a girlfriend who works in a job and you ask, \"How much do you earn?\" [T] And, he says, \"Well, I earn ten. Ten guilders.\" [T] And you ask another friend who does exactly the same work and earn"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] They say something different but they earn the same amount. Now what's more precise? [T] Please raise your hand if you know it... go ahead, Ronald. [T] Why? [T] Exactly. The more decimals, the more precise it is. With the ten- the ten guilders, [T] Perhaps he earns, what shall I say, ten point f"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Perhaps he earns, what shall I say, ten point fifteen, but that would be rounded off to ten guilders. [T] Or maybe he makes nine guilders ninety per hour, but if I go round that off into a whole number, then that's ten as well. [T] Therefore, the more numbers behind the point the more precise. W"
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And the liquid in the thermometer reaches exactly halfway. What do you say then? What do you read in this case? Sandra? [T] Ninety-nine point five. So you're here, you want to read it and it's 99.5. [T] True, there are no measuring stripes in between here but you can make an estimate, right? [T]"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] These stripes have such a distance in between them that you can see whether you are on the 99, 100, or somewhere in between. [T] But you may not be able to see exactly if it's 99.4, or 99.5, or six. So you make an estimate. [T] So by presenting it with one extra decimal, we can be more precise. "
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Well, what else do I see going wrong? Here is the 90- oh, no, the 99- and here the 100, and he'll reach exactly up till here. [T] And then I see some of you write down 99 again. Why is that incorrect? [T] That's right. You should add point zero, right? This way you indicate that you know it exac"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No matter if it is a thermometer or a measuring cylinder, check to see if you can make an estimate of what's between the measuring stripes. [T] And show this in your answer. Indicate the accuracy, okay? [T] This time during the lab I have corrected it for most of you. But do you understand why i"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. So much for the thermometer. Then, we've discussed the deviations, right? [T] What could be the reason something deviates from what the theory says? Do you remember? [T] No? [T] If we measure something and the result is different from what we expected, then there's two things we can do. [T"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] We can try to find an explanation for this deviation, or we can try- we can say, \"That theory is completely wrong. I think it should be this and that.\" [T] We are dealing with very slight deviations here, right. So in this case, we try to find an explanation for the deviation that we measure our"
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] But, apparently, the theory says that the boiling point of water is exactly 100, one hundred point zero degrees Celsius. [T] Okay. Try to explain the deviation that you guys have found here. You are not allowed to write down 100 when you measure 98. Got that? [T] Write down what you measure. Lor"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes... but something I noticed about several thermometers, and I'm not sure if that applies to your thermometers. [T] You'll have the liquid here. It reaches, for example, 98 degrees, but here above there was a little bit of that red liquid as well. [T] In fact, then that is still part of it, ri"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes... there is an explanation for that as well. What is- did you do something else when it was 98 and sunk back to 97? [T] I did something different with most of them. [T] I said, once it boils, the temperature isn't going to rise any further so there is no need to set that burner so high. [T] "
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] We are going to take a more precise look at it now. I am holding the beaker here. Okay, the thermometer is in there with the top like this. [T] And over here I have... the burner underneath it. [T] That water, that can become 100 degrees at a maximum, right, according to the theory. So that's wh"
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Much warmer, of course, than that water... Yeah, the melting point of glass lies somewhere beyond 1400 degrees, right. [T] So you need lots of heat, very special ovens in order to be able to melt it. Therefore, that beaker can also easily get warmer. [T] As long as that flame is warmer, it can g"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And it rests for a large part upon that beaker that gets so incredibly hot because I have that flame so high, [T] Then I'm actually not really acting honestly, am I? [T] Because, in fact, I'm not only measuring the temperature of the water, [T] but I am also measuring the beaker temperature of t"
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Correct. By making sure it's surrounded by nothing but water, right? Because the water can't get warmer. Some mentioned stirring. [T] Well, stirring matters mostly in the beginning. Because if I'm going to warm it up, where does it get warm first? [T] Correct. That warmth comes from underneath s"
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] But what you want is one and the same temperature. We had an expensive word for that. What was that again? [T] Homogenous. Homogenizing. It has to become homogenous. So you want all the qualities to be the same all over. That's what we call homogenous. [T] Okay. What could be a reason the temper"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, exactly. The burner isn't positioned exactly, right. It might be slightly to the side. [T] If I see the way some of you guys do a lab, it's, in fact, a miracle that everything keeps standing up. [T] The wire gauze being all rounded instead of hollow, which makes it all very unbalanced, [T] "
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Mercury, right? And why don't we do that anymore? Jake? [T] It's dangerous, all right. Toxic. So we switched to alcohol-thermometers, and they just tend to be less precise. [T] Therefore, no matter how precisely you guys measure and how precisely you read, errors are going to pop up. System erro"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All right. We could focus on that in more depth, but that's not what we're going to do today. That's not what this is meant for. [T] I'd merely like to point out that when you measure something differently than what you would expect, then you're not gonna have to adjust it. [T] Like some of you "
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Good. Then we have tried to dissolve substances like sugar in water, and once sugar in alcohol. That was the second experiment, right? [T] Well, some did dissolve, and some didn't... What was dissolving?... Let's see. Ingrid. [T] Correct. That it's divided so small that you do not see that solid"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What is then, um, what is a characteristic of a solution? That we cannot see it anymore... yes? [T] Not necessarily, the color doesn't have to change. If I dissolve sugar in water then it stays colorless, right? No color change. [T] We call that clear, right, the solution is clear. And what is c"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It's clear, I don't see any solid substances left. Not even at the bottom. So it dissolves well. It's a solution, it's clear. [T] But it does have a color. It may be colorless, a solution, but it may also have a color. [T] All right. We have also made substances, or mixed substances together tha"
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] In what? [T] //Yes. Chalk in alcohol and chalk in water, it didn't dissolve. Yet we want to give this mixture a name. Does anybody remember what we called it? [T] Suspension? [T] Not there yet? Then I'll explain it to you now. All right. There are mixtures that do not dissolve."
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And there are- and we can distinguish two different kinds of mixtures. One is a suspension, and the other is an emulsion. [T] Now what's the difference? In the case of a suspension we are dealing with a solid substance that doesn't want to dissolve. [T] For example that chalk in the alcohol, or "
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Or an emulsion. And emulsion deals with two liquids... that don't dissolve into each other. So not a solid substance in a liquid but two liquids. [T] Okay, we're going to do an experiment with that, experiment 4C and 4D. I see that all the bags are put neatly at the side. [T] Um, you guys grab a"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What doesn't it say anywhere, Danielle? [T] That you have to take goggles? [T] Yes? Is that what you wanted to say? [T] No, but that is something we just do out of precaution. I don't want you to get any chemicals in your eye. [T] No, I haven't said, uh, anything about that yet."
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No, I haven't said, uh, anything about that yet. [T] Dirty? But during summer break we have sent them all to the //laundromat. [T] But those are stains that won't ever come off again, you know. [T] Right. Those can well be stains that will never come off anymore. That's the reason that you're we"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, they tend to be kind of large indeed. Why don't you roll up your sleeves a bit. [T] Small glasses? Sure-"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That you still dare to wear a coat with that name on it, after yesterday evening."
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Are you guys still getting dressed by your moms, or what? [T] Look, you're starting wrong, you see? [T] //This way it's just sort of hanging here. //Look, here you're not matching ends. You have a button here but not there. [T] Go ahead and sit down, in your case it doesn't matter."
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Go ahead and sit down, in your case it doesn't matter."
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] First a pair of goggles on and then you come get your things, //hey? [T] //Yes?"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] //Yes? [T] Sure, because than you can get rid of them right away, you see? That's a lot more practical. [T] That's the next experiment, that's still coming up. [T] Who had the class folder, guys? [T] You? Ah. I have signed it already. so that you can bring it along right away, otherwise you migh"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You? Ah. I have signed it already. so that you can bring it along right away, otherwise you might forget it later. [T] During this lab you may sit down. We're not working with a burner so you are allowed to sit down if you prefer that. [T] Ooh, How clumsily! [T] Look, it's almost empty which mak"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No, you were provided with a plug, weren't you? Because this way you'll get it on your thumb, you see, that's not allowed. [T] No! //Read carefully! [T] Oh, oh. You're lucky that it didn't break. [T] Where do you have the chalk? [T] Didn't you have a test tube with chalk?"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Why? [T] So you want to get a new tube for that second experiment, or what are you doing? [T] Ohh! You can also ask for a new tube over there, you know. [T] And look, rinsing, that's something we always just do with tap water, that doesn't matter. Only when we do a real experiment, then we get t"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So that shortly you can shake it well. [T] Uh huh. Yes, but you haven't had the concept of suspension yet and that's what this is about. [T] Yes. [T] And then the experiment is done. And you may start the next one. [T] You can also get a new tube, there are plenty of tubes over there."
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, at the front are plenty of tubes left so you can go ahead and help yourself to //a new one. [T] No problem, in that case you use that one. [T] You know what I saw you doing just now, Sandra? [T] You did it this way, didn't you? //I don't know how tight you fastened the plug, but it can't be"
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Walter? [T] Will you please start writing a little more neatly? It's totally illegible what is written here. [T] Yes, really, I don't find it neat. It's impossible to read. Can you read this?"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Sure enough, that's okay if you guys see this... Look, if you know what it 's supposed to say then you get it, but I just find it too messy! [T] You can, but I cannot and I just want you to put more effort into your handwriting, just work on it, will you? [T] Yes, and I think this is very messy,"
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, and I think this is very messy, too! [T] Moreover, I'm noticing that you haven't completed everything in chapter three yet. [T] I'm seeing way too many empty questions in there. [T] No, in chapter three. We have finished chapter three completely. But these questions here haven't been done y"
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, in chapter three. We have finished chapter three completely. But these questions here haven't been done yet, [T] This hasn't been done, this here, all open, here. [T] This here's a lab so at least you've written that down, but the homework over here, none of that has been done. [T] I suggest"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] How many class periods do you have left today? [T] Two o'clock. So at the seventh period you'll go over to room 64, okay? And there you're going to catch up. [T] Yes? [T] Yes, go ahead and get a new one! [T] Get a new one because then you can compare it well. No! A new one! So you'll leave this "
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Lydia, this is not the intention. You should stay on that side because that way they have some space too. [T] And these chairs we're going to keep them standing like this. [T] Oops! [T] Did you shake this already?"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Did you do so very firmly? [T] What did you see then? [T] So well blended, then. [T] Yes. And after one minute? [T] Then it parted again, didn't it. All right. [T] Ah, that is at least some firm shaking you're doing there. [T] Yes, that 's also a question, isn't it?"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes? [T] The substance that has the highest resolution is below. [T] If you're in doubt, you could always look it up in the back of your table booklet, right?"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes? [T] Do you ever wash dishes at home? [T] That's right, huh, you all have dishwashers at home these days. [T] Really? [T] That's good upbringing. [T] We don't have a dishwasher at home either. [T] Right. [T] [laughter]"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. [T] Did you make a solution? [T] Did you make a solution? [T] Why-"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It's not clear, is it? So then it's not a solution. Though it is //mixed together. [T] It's not a solution. So then what is it? A suspension or an emulsion? [T] Why? [T] Yes, but then it could still be an emulsion, couldn't it? What was the difference again between a suspension and an emulsion? "
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And so, what have you got? [T] Yes? [T] Yes, you've made an emulsion. Therefore, a real milkshake, that's? [T] Is also an emulsion, right? [T] Yes? Are you done? Then you can clean up. [T] Yes? [T] You may never push it in that deeply, because a little test tube like that breaks easily. The idea"
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Uh, not meant to be like this. [T] That's just using your common sense a little more. [T] Oh well, it didn't break. All right, go ahead and clean up. [T] And because you guys were finished this quickly, you can do clean-up duty. [T] That gives you enough time to pick up the coats from the floor,"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] //You picked them up from over there? [T] Aha. In that case just hang them back //neatly. [T] No, the function of the dish- [T] We call the whole emulsion, and the dishwashing detergent is what we call the emulsifier. So that is the substance that- what do you have in your hair here? [T] //Yes, "
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] //Yes, so- [laughter] Yes? [T] So the soap is the emulsifier and that's the substance that prevents the two liquids from separating. [T] So that's the function of the soap. Making sure that the two liquids don't separate. [T] Because here they separated, didn't they? [T] Here it's not a mixture "
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes? It's well stuck on this way. This is far enough. Just close off, that's the main thing. Then you can start shaking it firmly. [T] Turn a little bit, wet it a little bit that might help sometimes, when it's dry it's more difficult, when it's wet it goes smoother. [T] Well, now you have to sh"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That's why you shouldn't fill up the test tube too much, then it's harder to shake, you make sure you have a little space left. [T] Now, what do you see? Yes? [T] Correct. Very well. What do you see here? [T] Was that dishwashing detergent red, then?"
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The dishwashing detergent has been added. But what's this here? [T] It's a pity you have thrown that other tube away, but look behind you for a moment. Do you see those differences? [T] A moment ago you saw the difference between the water and the lamp oil very clearly. And now you see that it h"
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] In the end it will sag a bit again, but not nearly as fast as when you would not add any soap, right? [T] So what did we make here? A? A mixture of two liquids that didn't dissolve into each other and what do we call such thing? [T] An emulsion, well done."
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] My god, you guys started your homework at your own impulse. Very good, very good, you are learning, Jake, you are learning! [T] Yes. [T] Yes, that's right. Ha, it 's getting somewhere."
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, because it doesn't have a gray stripe, does it? [T] And everything that has a gray stripe is lab, so these are regular questions, right? And you also could have noticed this because, uh, the question has a number, you see? [T] //Yes. [T] //Yes? [T] Yes, this is homework. Homework is written "
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, what is that substance doing? [T] Yes. [T] Hold on for a second, I just want to explain something to him and then you may throw it away. Here that one isn't added, is it? [T] So here I have two liquids that do not dissolve into each other. [T] And they have gotten separated again, not mixed"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And they have gotten separated again, not mixed anymore we call separated. Here, however, it's still mixed. So what does that soap do? [T] And the oil, so that soap causes the oil and the water to stay mixed. [T] If I'd want to say this very generally I could say the emulsifier causes two liquid"
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No, because you're still handling substances. [T] Homework is on the blackboard. You can begin with it once you're done. [T] //Book and workbook as well? [T] Because the introduction about water is so simple, and B are the more complicated sections, therefore they didn't- the section just isn't "
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Not section one, no. That wasn't difficult, was it? That was just sort of about what kinds of water there are and all that? [T] No, now you're talking about lab. I'm talking about the theory in your book. [T] That was only about what kinds of water there are. Surface water and (heaven) water and"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Really? [T] Well, this is a slow row here. Everybody is still working."
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That's what he just asked as well. Because that section is so easy, and B is meant for an in-depth section. [T] That focuses on the matter a little more deeply, but that's not possible with this subject. [T] Gosh, you're taking it for them. What a gentleman! [T] Yes- [laughter] [T] They may thin"
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It starts bubbling? [T] Yes, carbon dioxide is a gas. And that gas gets released so you see that as bubbles. But that is not a question in here, is it? [T] Ah, yes. And what is boiling? You've got to first check up on the definition, right? What's boiling?"
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Ah, yes. And what is boiling? You've got to first check up on the definition, right? What's boiling? [T] That it starts bubbling. [T] Now with sparkling water there are bubbles released as well, but is that the same thing? [T] No. What is the difference? Why isn't that boiling? [T] Precisely. Wh"
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] John, go ahead and start your homework. [T] You finished it already? Did you correct it already as well? [T] You can do that with those white folders, remember? [T] That's allowed. But then you still have to correct it at home, right? [T] An emulsifier, in fact the soap you used during the exper"
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yeah, that's quite a- so it causes them to stay mixed, not dissolved because you still cannot see through the mixture so it's not a solution. [T] It stays mixed together. [T] True, if you wouldn't have the soap in there but with the soap it stayed mixed much longer, even without shaking. At last"
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No, you have to hand your coat over to them. [T] Walter! Walter! Don't start wrestling! Take off your coat and hand it in orderly! [T] Walter!"
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Is everything neat? Okay, come sit down, then. [T] Thank you for cleaning up... But do you understand it now? [T] It's not a very good emulsifier and if you wait long enough then it will separate. [T] But it will stay mixed much longer than when I wouldn't have added the soap. Okay? [T] Yes? [T]"
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes... but the next time I'll check whether you guys manage to make it just as neat. [T] Anyway your turn will come up more than once a year, you see? [T] //Yes... Yes, what did you want to ask me? [T] Yes. [T] No, then you have to stir a little longer. It sometimes just takes time."
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, but it's more difficult and you can dissolve less in it. You've done an experiment in which you also had cold water with a little bit of sugar. [T] And that dissolved all right, only you had to shake a little longer, it sometimes takes more time. [T] Yes, when it gets warmer it's going bett"
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That part you are going to do with me in the lesson. That homework hasn't been done yet. Now you're working on Chapter 4. [T] //Yes, but. Yes, but you understand that it means from the beginning of Chapter 4. [T] If you don't know it anymore just go ahead and look it up in your book. It's someth"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If you don't know it anymore just go ahead and look it up in your book. It's something you should have learned for today. [T] But if you don't know it anymore just look it up in your book. [T] All right guys, it's time. We are going to clean up. [T] Was there anything you wanted to ask me, Jake?"
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, exactly, exactly, this is how I do it, yes. [T] Never, actually. [T] Yes, that's truly an exception."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Much warmer, of course, than that water... Yeah, the melting point of glass lies somewhere beyond 1400 degrees, right. [T] So you need lots of heat, very special ovens in order to be able to melt it. Therefore, that beaker can also easily get warmer. [T] As long as that flame is warmer, it can get warmer here... If I put the thermometer mostly at the bottom here, [T] And it rests for a large part upon that beaker that gets so incredibly hot because I have that flame so high,"
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Or an emulsion. And emulsion deals with two liquids... that don't dissolve into each other. So not a solid substance in a liquid but two liquids. [T] Okay, we're going to do an experiment with that, experiment 4C and 4D. I see that all the bags are put neatly at the side. [T] Um, you guys grab a plate, a coat, and a pair of goggles, that's all, and then you go sit down and you will get more explanation."
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That you still dare to wear a coat with that name on it, after yesterday evening."
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Are you guys still getting dressed by your moms, or what? [T] Look, you're starting wrong, you see? [T] //This way it's just sort of hanging here. //Look, here you're not matching ends. You have a button here but not there. [T] Go ahead and sit down, in your case it doesn't matter."
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Go ahead and sit down, in your case it doesn't matter."
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] First a pair of goggles on and then you come get your things, //hey? [T] //Yes?"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, at the front are plenty of tubes left so you can go ahead and help yourself to //a new one. [T] No problem, in that case you use that one. [T] You know what I saw you doing just now, Sandra? [T] You did it this way, didn't you? //I don't know how tight you fastened the plug, but it can't be too tight, right? [T] Because then the glass would break so you just insert it gently but actually you should keep your finger on it just in case, yes? [T] Otherwise you'll end up with a little puddl"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Sure enough, that's okay if you guys see this... Look, if you know what it 's supposed to say then you get it, but I just find it too messy! [T] You can, but I cannot and I just want you to put more effort into your handwriting, just work on it, will you? [T] Yes, and I think this is very messy, too!"
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, and I think this is very messy, too! [T] Moreover, I'm noticing that you haven't completed everything in chapter three yet. [T] I'm seeing way too many empty questions in there. [T] No, in chapter three. We have finished chapter three completely. But these questions here haven't been done yet,"
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, in chapter three. We have finished chapter three completely. But these questions here haven't been done yet, [T] This hasn't been done, this here, all open, here. [T] This here's a lab so at least you've written that down, but the homework over here, none of that has been done. [T] I suggest that this afternoon after school you'll come and sit with me for an hour and then you're going to work on it. [T] Because you're obviously not doing any of it at home, so you're going to do it with m"
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Lydia, this is not the intention. You should stay on that side because that way they have some space too. [T] And these chairs we're going to keep them standing like this. [T] Oops! [T] Did you shake this already?"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes? [T] The substance that has the highest resolution is below. [T] If you're in doubt, you could always look it up in the back of your table booklet, right?"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes? [T] Do you ever wash dishes at home? [T] That's right, huh, you all have dishwashers at home these days. [T] Really? [T] That's good upbringing. [T] We don't have a dishwasher at home either. [T] Right. [T] [laughter]"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes? It's well stuck on this way. This is far enough. Just close off, that's the main thing. Then you can start shaking it firmly. [T] Turn a little bit, wet it a little bit that might help sometimes, when it's dry it's more difficult, when it's wet it goes smoother. [T] Well, now you have to shake harder. [T] That's why you shouldn't fill up the test tube too much, then it's harder to shake, you make sure you have a little space left."
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, because it doesn't have a gray stripe, does it? [T] And everything that has a gray stripe is lab, so these are regular questions, right? And you also could have noticed this because, uh, the question has a number, you see? [T] //Yes. [T] //Yes? [T] Yes, this is homework. Homework is written on the blackboard, guys, so if you're done then you can continue with homework."
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Really? [T] Well, this is a slow row here. Everybody is still working."
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] John, go ahead and start your homework. [T] You finished it already? Did you correct it already as well? [T] You can do that with those white folders, remember? [T] That's allowed. But then you still have to correct it at home, right? [T] An emulsifier, in fact the soap you used during the experiment that's the emulsifier, and that causes the two liquids to not dissolve into each other [T] Like in this case the water and the oil."
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Is everything neat? Okay, come sit down, then. [T] Thank you for cleaning up... But do you understand it now? [T] It's not a very good emulsifier and if you wait long enough then it will separate. [T] But it will stay mixed much longer than when I wouldn't have added the soap. Okay? [T] Yes? [T] Nah, that-"
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, but it's more difficult and you can dissolve less in it. You've done an experiment in which you also had cold water with a little bit of sugar. [T] And that dissolved all right, only you had to shake a little longer, it sometimes takes more time. [T] Yes, when it gets warmer it's going better, you're right about that."
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That part you are going to do with me in the lesson. That homework hasn't been done yet. Now you're working on Chapter 4. [T] //Yes, but. Yes, but you understand that it means from the beginning of Chapter 4. [T] If you don't know it anymore just go ahead and look it up in your book. It's something you should have learned for today."
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+00:00:02	O	[Bell]
+00:00:04	T	How about today?
+00:00:09	T	Good morning.
+00:00:10	SN	Stand up.
+00:00:15	S	Bow.
+00:00:17	S	Sit down.
+00:00:22	T	Okay. It's supposed to be as usual so let's go on without being concerned about it.
+00:00:32	T	Anyway your face might not be taped.
+00:00:34	SS	[Laughter]
+00:00:35	T	In reality, there might be dark lines in your faces.
+00:00:37	SS	[Laughter]
+00:00:39	T	Don't worry.
+00:00:45	T	Okay.
+00:00:48	T	Ahh.
+00:00:53	T	Okay, yesterday was about the relationship between parallel lines. We ended quickly yesterday by doing some problems.
+00:01:00	T	Do you remember what they were?
+00:01:27	T	The first written problem on the handout we hurried through it yesterday, so we were not able to summarize it well at the end...
+00:01:35	T	So today in between the parallel lines there is one angle in the bend.
+00:01:43	T	So first we will obtain that angle.
+00:01:46	T	When I had you do the problems yesterday we had three problem solving methods that were presented...
+00:01:51	T	It's okay to use the method you think is the easiest. Please try to do the problem.
+00:02:32	T	After you have finished writing, please add an explanation.
+00:02:37	T	My- my method is this and this way. If you can also give an explanation that would be amazing.
+00:03:36	T	This, right.
+00:03:38	T	You're fast.
+00:03:54	T	If you forgot how to solve it, it is okay to look at the previous handout.
+00:04:06	T	(inaudible) let me borrow this for me. Let me borrow this because he needs a pencil. It's a little different... line... (inaudible).
+00:04:22	T	Umm. Okay.
+00:04:26	T	Are you done? Can I ask? How is it?
+00:04:32	B	[Blackboard: Method of investigating the diagram. Diagram bends once between the parallel lines.]
+00:04:32	T	People who solved it?
+00:04:35	T	Okay then... Arai.
+00:04:40	SN	Yes.
+00:04:42	T	Okay, what did you do?
+00:04:43	S	Fifty. The 50 degree. The line around it. The line there extend it.
+00:04:50	T	Okay. Did you extend it like this?
+00:04:53	S	Bring that over there. Uh- 50 degrees. Alternate interior angles of it. There. That is 50 degrees so.
+00:05:03	T	This? Okay.
+00:05:06	S	The right angle is 30 degrees. If you add it all up it becomes 180 degrees so.
+00:05:12	T	A triangle. Yes.
+00:05:13	S	Yes. The top part is 100 degrees.
+00:05:18	S	The one before. A right angle is. A right angle is. Um, it becomes 180 degrees so.
+00:05:19	T	Okay. Not a straight line?
+00:05:25	S	A straight line becomes 180 degrees
+00:05:26	T	Yes.
+00:05:29	S	So X is 80.
+00:05:32	T	Okay. Is this okay? Here we go. Okay. We can see he was a little tense.
+00:05:38	T	Um, that was a clear method. People who did it using this method?
+00:05:43	T	Oh... okay.
+00:05:48	T	About five people? Okay, other methods.
+00:05:52	T	Okay, Bunya.
+00:05:56	T	Okay, please go ahead.
+00:05:58	S	In the middle.
+00:06:00	S	Draw a... parallel line.
+00:06:07	T	Oops? Okay.
+00:06:08	S	Then. Um, the top 50 degrees, the alternate interior angles of that.
+00:06:14	T	Yes.
+00:06:15	S	It is made there so.
+00:06:17	T	Yes, well- Well, okay.
+00:06:21	S	So it's 50 degrees.
+00:06:23	S	The bottom is 30 degrees. It can also be done in the same way.
+00:06:28	S	Add those together it becomes 80 degrees.
+00:06:31	T	Okay. That's good. The method was to use the alternate interior angles of the parallel lines.
+00:06:37	T	Good. People who did it with this same method?
+00:06:41	T	Okay.
+00:06:42	T	Right. About 10 people. Okay.
+00:06:47	T	Are there any other methods?
+00:06:50	T	Oh. One person... Chika.
+00:06:54	SN	Yes.
+00:06:55	T	Okay.
+00:06:56	S	Umm, from point B.
+00:06:58	T	From point B. Okay.
+00:06:59	S	From point B.
+00:07:00	T	Okay.
+00:07:01	S	Is it... L?
+00:07:04	T	From the top line it would be an L, huh.
+00:07:05	S	To the top straight line draw a perpendicular line. Then-
+00:07:09	T	Draw a perpendicular line from point B.
+00:07:11	S	Then. The B area is 60 degrees. Umm- well not really B, but between that perpendicular line and 30 degrees is a right angle.
+00:07:22	S	So subtract 30 degrees from 90 degrees.
+00:07:24	T	Yes.
+00:07:25	S	It becomes 60 degrees.
+00:07:26	T	Yes.
+00:07:27	S	The area A is fi- fifty degrees so.
+00:07:32	S	Umm, the straight line is 180 degrees.
+00:07:36	T	Right.
+00:07:37	S	Angle A becomes 130 degrees.
+00:07:42	S	Since if you add up all of the angles of a quadrilateral it becomes 360 degrees.
+00:07:47	S	Umm, if you add- what is this? It becomes 280 degrees. Eight.
+00:07:55	S	Subtract 280 degrees from 360 degrees. X became 80 degrees.
+00:08:00	T	Okay. Yes. Here we go. Okay. People with the same method as this?
+00:08:08	T	Oh. Just Doi. Okay. Good. Are there any more?
+00:08:14	T	Think a little more.
+00:08:17	SN	I'm thinking.
+00:08:18	T	Okay? I am sure there are people who also extended this one.
+00:08:23	T	Here are methods like that. Basically these three are the ones you have thought of.
+00:08:29	T	Now I will summarize these into main points.
+00:08:35	T	With just this diagram... with just this diagram we can't solve the problem.
+00:08:41	T	So Sano and others extended the line to make a triangle. Bunya and others drew in a parallel line in the middle.
+00:08:49	T	Chika and others drew in a perpendicular line. That means we can't solve it without auxiliary lines.
+00:09:12	T	The auxiliary lines become important.
+00:09:15	T	Then by the way we draw the auxiliary lines in all we got three types. Sano's, Bunya's, Chika's.
+00:09:21	B	[Blackboard: Point: Auxiliary line is important]
+00:09:25	T	They were different based on the way the auxiliary lines were drawn.
+00:09:28	T	That means, one way is to draw a parallel line and use the alternate interior angles.
+00:09:37	T	Another is to extend the line and make... a triangle,
+00:09:42	T	and use the fact that the sum of the angles of a triangle is 180 degrees.
+00:09:49	T	And Chika used the method that if we add the four angles of...
+00:09:56	T	a quadrilateral we get 360 degrees. These are the three we got.
+00:09:59	B	[Blackboard: One: Parallel lines. Two: Triangle. Three: Quadrangle.]
+00:10:03	T	Now then, any method was okay, but the task was to do it using the easiest method.
+00:10:10	T	And each person seemed to have selected one out of the three we summarized yesterday.
+00:10:14	T	Today's problems are ones that can't be solved without auxiliary lines. We want to do problems of this kind.
+00:10:21	T	Today. The way this problem is made is that
+00:10:25	T	it is a problem of an angle bent once between parallel lines. The angle is bent once between parallel lines.
+00:10:36	T	Today by changing this condition, by changing this condition-
+00:10:41	T	I will have you make your own problems. And today we won't change the parallel lines.
+00:10:50	T	We won't change the parallel lines, but rather the middle. Change the middle means-
+00:10:54	SN	Outside.
+00:10:55	T	Oh. It's okay with the outside. The outside can be good. Now it has one bend.
+00:11:02	T	It is even okay to bend it twice. I don't want you to bend it ten times.
+00:11:05	SS	[Laughter]
+00:11:08	SN	Eda (inaudible).
+00:11:09	SN	Eda difficult.
+00:11:10	T	There are always at least two or three of you thinking about it?
+00:11:12	SS	[Laughter]
+00:11:15	T	I know there will be some. But twice or three times. That's the limit.
+00:11:21	T	After that nobody will understand it. You may be creative in between and change the number of bends, or,
+00:11:26	T	it is also okay to use the outside with one bend, or it is also okay to be outside with two bends.
+00:11:32	T	Please think by yourselves. You can't just go and bend it 10 times. Don't draw random squiggly lines. That is not good.
+00:11:38	T	Okay, umm, I have prepared two on your handout, but one is okay.
+00:11:45	T	If it's easy please do two. It is okay to bend twice or be outside.
+00:11:51	T	Then put in angles by yourselves and write in which angle is X, the one we need to obtain.
+00:12:17	T	Oh, if 30 students do it, if they made only one problem each we will have 30 problems.
+00:12:27	T	It's actually pretty hard to put in the degrees. You can't just put in any degrees.
+00:12:33	SN	Do we also write the (inaudible).
+00:12:43	T	When you turn it in you must be able to solve it.
+00:12:47	T	If somebody says he or she doesn't understand it you must be able to say what and why the problem is.
+00:12:51	T	Please think about how the problem can be understood.
+00:13:07	SN	(inaudible)
+00:13:10	SN	A moment.
+00:13:11	SN	Mmm.
+00:13:14	SN	Wait a minute.
+00:13:21	SN	(inaudible)
+00:13:29	SN	Um? This one, too?
+00:13:39	T	Which one?
+00:13:40	B	[Blackboard: Subject: Let's try to make our own problems with different conditions.]
+00:13:55	SN	Huh?
+00:13:56	T	Um- by yourself. It isn't okay if you try to solve it yourself and find it can be solved, right?
+00:14:28	T	These are the same, since there is only one bend between the parallel lines, it's the same as this.
+00:14:35	T	Try to change it.
+00:14:40	T	Oh, it looks difficult.
+00:14:44	T	It looks pretty tough.
+00:14:52	T	This also looks difficult.
+00:15:03	T	You can put the bends in, but does the number fit in, is the problem.
+00:15:16	SN	Isn't it-
+00:15:21	T	It has to be a problem you can solve.
+00:15:33	T	It can be the second one or the outside.
+00:15:38	T	Bam, bam, and it can be bent on the outside. Or you can bend it once, twice.
+00:15:47	SN	(inaudible) Just one?
+00:16:01	SN	Whichever equals.
+00:16:02	T	If you make it too hard, well it'll be... stressful.
+00:16:12	T	How many times is this bent? One, two, three, four times it has been bent. It's been bent too many times.
+00:16:22	SN	Is this okay for the first one?
+00:16:23	T	What?
+00:16:24	S	Is this okay for the first one?
+00:16:26	T	You can't solve this.
+00:16:27	S	What?
+00:16:28	T	Without another angle I don't think it can't be solved.
+00:16:30	S	What?
+00:16:34	T	If you try to solve it and you can solve it yourself then it is okay.
+00:16:46	SN	Isn't it difficult? This is difficult.
+00:16:55	SN	If you have finished.
+00:16:57	T	Where do you solve for this?
+00:16:59	S	Hum?
+00:17:00	T	Where do you solve for this problem?
+00:17:01	S	For this, it is for this.
+00:17:02	T	Here?
+00:17:03	T	Then what is this?
+00:17:05	S	(inaudible)
+00:17:07	T	There's a reason for this.
+00:17:09	T	It starts at point A and goes through point B and-
+00:17:12	S	Ah, I see.
+00:17:16	T	Ahh, it looks hard.
+00:17:18	SN	This is simple.
+00:17:20	T	Ahh, it is hard.
+00:17:21	S	(inaudible) like these.
+00:17:25	S	Like this.
+00:17:28	T	This looks hard.
+00:17:29	S	This is 90 degrees.
+00:17:30	T	Oh, I made a mistake. This is going to be hard.
+00:17:34	S	This 65 degrees is last.
+00:17:39	SN	Eventually, if you extend it here is 62. This is 180 degrees.
+00:17:43	S	Two hundred, 220.
+00:17:50	SN	Ah.
+00:17:52	SN	Is this 62 degrees?
+00:17:54	SN	There.
+00:17:56	SN	Here, lend it to me.
+00:18:03	SN	One hundred twenty.
+00:18:07	SN	(inaudible)
+00:18:10	SN	At 15 you can do it.
+00:18:33	T	Are you done writing? Are you finished?
+00:19:09	T	It seems hard.
+00:19:12	T	Let's try hard to do one problem. Try hard to make one problem.
+00:19:31	SN	Understand.
+00:19:36	SN	Okay?
+00:19:56	T	Um, if you put it on the inside maybe it'll be easier to solve.
+00:20:01	T	Wow. This is how you take off from A and bend and reach B. What does that mean for A?
+00:20:13	T	This is fine.
+00:20:18	T	Is it solvable?
+00:20:19	SN	You can solve this.
+00:20:20	T	It is solvable.
+00:20:21	S	Yes.
+00:20:22	T	It won't be solvable without these angles here.
+00:20:24	S	What? Add this, like this?
+00:20:25	T	Where?
+00:20:26	S	Like this. If you extend it... it's 60 degrees.
+00:20:34	T	Where?
+00:20:38	S	This, isn't this 60 degrees, this... like this isn't 60 degrees?
+00:20:42	T	That doesn't work if this and this are not parallel.
+00:20:47	SN	If you draw a parallel line.
+00:20:49	SN	If you draw a parallel line.
+00:20:50	T	If this and this are not parallel then this angle is not 60 degrees.
+00:20:55	S	This angle, too... can't be used under that assumption?
+00:20:59	T	No. If they're parallel lines then just put in the symbol for parallel lines here. (inaudible)
+00:21:16	SN	Thank you very much.
+00:21:19	SN	I don't know if they'll understand this.
+00:21:21	T	It looks a little tough. This is too difficult.
+00:21:23	S	(inaudible)
+00:21:25	T	And right... I made it too difficult. I made it too difficult.
+00:21:32	SN	Here it's hard.
+00:22:06	T	If there isn't an angle here it can't be understood. Just put something in.
+00:22:21	T	You guys seemed to have learned that any number just doesn't fit in.
+00:22:25	T	You guys seemed to have learned that any number just doesn't fit in.
+00:22:46	T	How many bends are there? One, two, three, four, five bends.
+00:22:50	T	If you don't make it at most three then it will be impossible.
+00:22:53	SN	I understand.
+00:23:11	SN	(inaudible)
+00:23:11	T	Let's see. What time?
+00:23:12	T	Well it seems it was a little hard. I made a mistake. There are many of you that are in trouble.
+00:23:20	T	Well there are not that many people with one, two done, but there seems to be a lot of people with one done,so,
+00:23:24	T	get in your groups and... from the problems you have made...
+00:23:33	T	pick a problem you and others think is challenging, and group leaders please bring them up here.
+00:24:01	T	Please check if the problem can be really solved and then bring it up.
+00:24:21	T	One problem is enough.
+00:24:23	T	There are problems that can't be solved.
+00:24:43	SN	How about this one? This?
+00:24:46	SN	Th- Th- This (inaudible).
+00:24:57	T	(inaudible) It seems hard.
+00:25:03	T	Can't it be solved?
+00:25:06	T	You don't have to make a new problem at this point.
+00:25:09	T	Just from the currents ones you have.
+00:25:19	T	This is a good problem.
+00:25:20	SN	Is it good?
+00:25:23	T	Yes, because it's two bends, and the bends are different.
+00:25:27	T	And this is also a good problem, whether you can do it or not, change that part. Not too much.
+00:25:36	SN	Up to number two?
+00:25:56	SN	(inaudible) a quadrilateral.
+00:25:59	SN	Ha ha. Indeed.
+00:26:01	SN	A quadrilateral. A quadrilateral? (inaudible)
+00:26:13	T	Who made this?
+00:26:14	SN	Masa-
+00:26:15	SN	Hara.
+00:26:19	T	Umm.
+00:26:20	SN	You can't solve it.
+00:26:23	T	Mmm. Can they do it or not?
+00:26:45	T	Yes.
+00:26:54	T	Hey, let's bring up one.
+00:27:04	T	Ha, it looks like a hard one.
+00:27:05	T	Whose is it?
+00:27:06	SN	(inaudible)
+00:27:07	T	From which group?
+00:27:08	S	From group number five.
+00:27:09	T	This one?
+00:27:10	S	Right.
+00:27:11	T	Group five.
+00:27:21	T	Ah.
+00:27:36	SN	It's a hard one.
+00:27:42	T	Oh, the diagram was too small.
+00:27:45	SN	You're completely wrong. Do you know what you are doing?
+00:27:50	SN	This part is easy.
+00:27:55	T	Here.
+00:27:56	SN	Here teacher.
+00:27:57	T	This- which group?
+00:27:58	S	This one.
+00:27:59	T	This can't be used.
+00:28:00	S	It can't?
+00:28:01	T	Uh huh. Because this is bent many times.
+00:28:02	T	Yes.
+00:28:03	S	Teacher. This one.
+00:28:04	T	Just a little more- this is too hard.
+00:28:06	S	He said it was too hard.
+00:28:08	T	Oh, it looks like a good problem. What group?
+00:28:11	SN	Group one.
+00:28:12	T	Group one?
+00:28:19	T	Group one?
+00:28:20	S	Group one.
+00:28:27	T	The diagram is a little...
+00:28:51	T	Here.
+00:28:56	T	Which number?
+00:28:57	SN	Number four.
+00:28:58	T	Number four- can you really solve it?
+00:29:01	S	That can be solved easily.
+00:29:02	S	We can.
+00:29:03	S	It seems.
+00:29:06	T	Is this all?
+00:29:07	S	Yes.
+00:29:34	T	Okay, that's good. Yes.
+00:29:38	T	Next, who's next?
+00:29:41	SN	It's easy. That one.
+00:29:44	T	Don't say anything yet. Don't say anything. Groups that have not yet brought up one, please hurry up.
+00:29:54	SN	Teacher, I solved this.
+00:29:57	T	I wonder.
+00:29:58	S	It can- it can be solved teacher.
+00:30:01	T	Can this be solved?
+00:30:02	S	I believe it can be solved.
+00:30:06	T	I think it is impossible.
+00:30:07	S	Impossible?
+00:30:09	S	This one, this one.
+00:30:10	T	Which one?
+00:30:11	S	This one, this one. (inaudible)
+00:30:13	T	Mm. It's probably right?
+00:30:19	T	Which one is that, group three?
+00:30:20	S	Group three.
+00:30:26	SN	The second time is hard but easy.
+00:30:37	S	Number one is easy, too.
+00:30:50	T	Now number four is left.
+00:31:01	T	Which number?
+00:31:02	SN	Number four.
+00:31:03	T	Number four?
+00:31:04	SN	Number four. It might be complex. Right, it's different. It might be complex, okay?
+00:31:08	T	I'll do number four just a little. Sorry, okay?
+00:31:32	T	Can it be solved?
+00:31:33	SN	It can be solved.
+00:31:34	T	You're able to solve it? Hum
+00:31:36	T	Hum oh.
+00:31:39	T	Oh.
+00:31:42	T	What number?
+00:31:45	T	Hum. Okay.
+00:31:48	T	They are problems that we don't know if we can solve or not until we try.
+00:31:54	T	I'm sorry for taking so much time, but there are six problems on the right side.
+00:32:06	T	(inaudible) if we can solve it or not.
+00:32:11	T	I wonder.
+00:32:20	T	It seems impossible to do all of them in this time so. So we'll think about them a little next time, too.
+00:32:36	T	Please hurry up and copy the six problems.
+00:32:44	T	Imai is X here?
+00:32:50	T	Hum. (inaudible)
+00:32:54	SN	Oh, I got it.
+00:32:57	SN	Can you solve it?
+00:32:58	SN	I got it. I got it.
+00:33:09	T	They really seem challenging, huh?
+00:33:12	T	There seems to be one that is too challenging.
+00:33:14	SN	(inaudible)
+00:33:19	T	They are really challenging, like eating a dried squid.
+00:33:24	SS	[Laughter]
+00:33:27	T	Umm, this one is not that bad.
+00:33:37	T	Umm... I'll say it's like a piece of gum.
+00:33:44	SS	Gum.
+00:33:45	SS	Gum.
+00:33:46	SS	Gu-gum.
+00:33:47	SN	Oh, group two's, group two's, the one on the top.
+00:33:50	T	Umm. Group four.
+00:34:01	T	This is a rock.
+00:34:03	SS	[Laughter]
+00:34:05	SN	Then this is a rock.
+00:34:31	T	Umm. Um um um.
+00:34:52	SN	Rice cracker.
+00:34:53	SN	Number five. Number five.
+00:34:54	B	[Blackboard: Rice Cracker].
+00:34:55	SN	Isn't it easy?
+00:34:59	SN	Rock, it's a rock.
+00:35:05	T	Then I'm sorry there isn't much time, but there are six problems.
+00:35:10	T	There may be ones from your own group. There may be ones that are yours. Please copy them.
+00:35:15	T	It can be from number one. It can also be from the hardest one.
+00:35:21	SN	(inaudible) This is gum.
+00:35:46	T	That means since today's problems can't be solved without auxiliary lines...
+00:35:50	T	what kind of auxiliary lines. It can't be solved without auxiliary lines.
+00:35:56	SS	Gum.
+00:35:58	T	If you need the auxiliary lines the problem is what kind of auxiliary lines should you use.
+00:36:03	T	There were three, but which one is the easiest way to do it.
+00:36:29	T	For now please finish copying the problems by 35 after the hour.
+00:36:35	T	I think... the answers will be given next period.
+00:36:41	T	What shall I do?
+00:36:43	SN	Huh?
+00:36:44	T	Can you solve this?
+00:36:45	S	I don't know.
+00:36:49	SN	This is well... this is really hard.
+00:37:10	T	Genji's symbol is good. It's there nicely working.
+00:38:40	T	Are there any groups that were able to solve them?
+00:38:43	SN	Plus 15.
+00:38:48	SN	(inaudible) since it's 15 degrees, so 90. Ooh.
+00:38:52	T	Not so (inaudible).
+00:38:54	T	Oh- the rice cracker hard problem seems to be solved.
+00:38:57	SN	(inaudible) fifteen. It's 30 degrees.
+00:38:59	SN	Teacher. Fifteen.
+00:39:01	SN	Fifteen, 15, 30, 90, 90.
+00:39:02	SN	It's not 90, 90. Ooh.
+00:39:03	SN	Ninety-nine?
+00:39:04	SN	One hundred.
+00:39:05	SN	Hundred.
+00:39:06	SN	Plus.
+00:39:07	SN	(inaudible)
+00:39:11	S	It's correct. We got this. We solved this.
+00:39:19	SN	The rock?
+00:39:20	T	Later. We'll check it later.
+00:39:23	T	We'll check it later.
+00:39:31	SN	No, at the time- at the time I was solving it I was thinking that I couldn't solve it.
+00:40:14	T	I didn't write the group names.
+00:40:29	B	[Blackboard: Gum]
+00:40:33	B	[Blackboard: Stone]
+00:40:34	B	[Blackboard: Dried Squid]
+00:40:35	T	Since all of them are challenging we can't solve it just like that. Let's do it step by step.
+00:40:43	T	People who are done solving the problem from group one?
+00:40:47	T	Okay good. Group two's?
+00:40:50	T	A little more. Straight. Raise your hands straight. Ahh, about the same. Group three's?
+00:40:57	T	Oh. Group four's?
+00:41:00	T	Okay. Group five's?
+00:41:03	T	Okay. Group six's?
+00:41:05	T	Really. Group six's. Okay good.
+00:41:08	SN	Number six is easy so-
+00:41:10	SN	(inaudible)
+00:41:12	SN	There is an even harder one.
+00:41:14	SN	This one seems more likely to work out.
+00:41:22	SN	I haven't gotten this one yet, but-
+00:41:26	SN	It's hard?
+00:41:27	SN	I just finally got it.
+00:42:04	T	Is it group one or group two?
+00:42:05	SN	One hundred eighty degrees?
+00:42:06	T	Umm.
+00:42:07	SN	Is this 40?
+00:42:08	T	Umm.
+00:42:09	SN	Forty degrees.
+00:42:15	SN	One hundred twenty degrees.
+00:42:16	SN	One hundred twenty degrees.
+00:42:18	SN	Why is that? (inaudible) Isn't this 47? Right here.
+00:42:36	T	This is easier. Umm. This one symbol. If you miss that one symbol...
+00:42:43	T	you can't solve the problem. This is parallel. This and this are parallel. Without that you can't solve it.
+00:42:54	T	That's right. That's right. That's right. If you do that. It's about done.
+00:43:23	T	Group one's is hard. I think group one's is really hard.
+00:43:48	T	How you draw the auxiliary lines makes the difference. Something...
+00:43:57	SN	One hundred ninety. This is 190.
+00:44:07	SN	Number eight. Number two. Number eight. Number eight. (inaudible)
+00:44:19	T	Okay, do you want to try it again?
+00:44:28	T	I'll give you a hint. Try extending this further. Try extending the auxiliary line further.
+00:44:45	SN	Teacher.
+00:44:53	T	Try this one. This one is easier. There is a symbol included here. This parallel symbol.
+00:45:05	T	Extend the auxiliary line all the way to here. Try extending it.
+00:45:15	T	Yes, yes.
+00:45:18	T	This and this are parallel. If you use (inaudible) angles this angle becomes the (inaudible).
+00:45:25	T	This is a straight line so you know it. So you somehow get this angle.
+00:45:56	T	You know this angle and this angle (inaudible). If you write in as much as you know...it'll work.
+00:46:18	T	Oh that's good. They're the right auxiliary lines. Umm. Ahh, this is (inaudible). This is hard. You can't solve it without auxiliary lines.
+00:46:30	T	That's good.
+00:46:33	T	Umm, 120 degrees and then the straight line.
+00:46:40	T	Like this line and like this, use auxiliary lines and try drawing it. It's good to draw auxiliary lines.
+00:46:48	SN	Man. This one is amazing.
+00:46:58	T	Umm, I see.
+00:47:24	SN	Do it one more time.
+00:47:25	SN	I did it once.
+00:47:26	SN	A mistake.
+00:47:27	SN	Uh I thought it was wrong. (inaudible)
+00:47:29	T	Umm um. That it. That's it. That's it.
+00:48:07	T	(inaudible)? (inaudible)
+00:48:12	T	Umm, that one.
+00:48:18	T	Umm, um, um. Divide it around here. It's the auxiliary lines. Auxilary lines. It's a lot different with another auxiliary line.
+00:48:29	T	But even if you didn't get the last one, you got this one, right? This and this are parallel,
+00:48:37	T	and here and here are corresponding angles, and you get here. You got there and with that...
+00:49:10	T	This is going to be a little bothersome but, well, I want to know the present situation. People who are done with group one's?
+00:49:18	T	You solved it?
+00:49:22	T	Umm. Group two's?
+00:49:27	T	Oh, okay. Group three's?
+00:49:32	T	Um, okay. Group four's?
+00:49:35	T	Up to where did you get to? Um. Group five's?
+00:49:40	T	Hum. Two people. This was a hard one. Umm. So that's it. Group six's?
+00:49:45	SN	Group six's was simple.
+00:49:46	SN	It was very troublesome.
+00:49:48	T	Okay.
+00:49:49	SN	Did you do it?
+00:49:50	T	(inaudible) Okay then there are a lot of people who are using triangles.
+00:50:00	O	[Bell]
+00:50:01	T	That's okay, but- There were three types of auxiliary lines. There are other easier methods of solving...
+00:50:11	T	using other types of auxiliary lines. We will check these in the next period.
+00:50:16	T	Return to your desks.
+00:50:32	SN	Never.
+00:50:33	SN	You can never do this one.
+00:50:38	T	Who got group four's? Who said he or she got group four's?
+00:50:41	T	Fujita Today. Okay.
+00:50:46	T	Please end the class. There's no math class tomorrow so let's check them the day after tomorrow. Okay.
+00:50:50	SN	Do we have math the day after tomorrow?
+00:50:53	T	We have math class the day after tomorrow right?
+00:50:58	SN	The day after tomorrow is Thursday.
+00:51:01	SN	Thursday.
+00:51:02	SN	Did it change?
+00:51:03	T	Thursday?
+00:51:04	T	The day after tomorrow is Friday.
+00:51:06	SS	Huh?
+00:51:07	T	Today is what day of the week?
+00:51:09	T	Tuesday?
+00:51:10	SN	Today is Tuesday.
+00:51:11	T	Tomorrow?
+00:51:12	SS	Wednesday.
+00:51:13	T	Day after tomorrow?
+00:51:14	SS	Thursday.
+00:51:15	T	That's right. I got it. Okay.
+00:51:17	T	Go ahead.
+00:51:19	SN	Stand up. Bow.
+Ê

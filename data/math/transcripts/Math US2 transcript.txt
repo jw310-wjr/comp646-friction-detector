@@ -1,0 +1,749 @@
+00:00:11	T	This goes under your desk, Jared.
+00:00:20	SN	Bless you.
+00:00:27	T	Okay everybody, please put your books away. Quietly take out paper to start the warm-up.
+00:00:39	T	Quietly have your homework out on your desk. I'm going to come around and check it please.
+00:00:50	T	Tim, there's something under your chair.
+00:00:59	T	Let's go, start the warm-up please.
+00:01:00	SN	Oh, sorry.
+00:01:12	T	Yes?
+00:01:14	SN	Can I (inaudible) my backpack?
+00:01:15	T	Yes, quickly please.
+00:01:20	T	Yes?
+00:01:21	SN	(inaudible)
+00:01:22	T	Yes, quickly.
+00:01:24	SN	Can I borrow a pencil?
+00:01:25	T	Let's go. Come on. Quickly.
+00:01:35	T	Brandon please do the warm-up.
+00:01:46	T	Jared?
+00:01:48	SN	(inaudible)
+00:01:49	T	Okay. Next time do it in pencil.
+00:01:54	S	(inaudible)
+00:01:55	T	Okay. Looks good. Keep doing your work, okay.
+00:02:04	T	John, Adrian, please do the warm-up, okay? Let's go to the warm-up. Ryan, homework?
+00:02:18	T	Okay. Very good. Thanks.
+00:02:28	T	Yes Bren?
+00:02:29	SN	Can I sharpen my pencil?
+00:02:30	T	Quickly please.
+00:02:36	SN	I didn't finish.
+00:02:40	T	You didn't do this part?
+00:02:41	SN	No, (inaudible).
+00:02:45	T	Okay.
+00:02:59	T	Okay, that's good.
+00:03:03	T	Keep doing your work, okay?
+00:03:08	T	John, (inaudible).
+00:03:15	T	Okay, good job.
+00:03:17	T	Okay, take that one out, put it on my desk. Or hand it to me right now please.
+00:03:28	T	It's right here, Rosalia. Good work.
+00:03:33	T	Thank you.
+00:03:44	T	Okay, you got a misplaced L there. Okay. Make that correction.
+00:03:51	T	Oh, and here, you had to do the ones that were left, not the ones you crossed out.
+00:03:56	SN	Okay.
+00:03:57	T	Okay.
+00:04:00	T	Okay, good. Let me stamp it please. Good work Irabely.
+00:04:05	T	Shaila, homework?
+00:04:10	T	Okay. What about this?
+00:04:16	SN	I didn't get it.
+00:04:18	T	Okay, when we go over it, make sure if you don't get it, you ask me questions. Okay. Good.
+00:04:27	T	John, homework?
+00:04:32	T	What about the L? Let's see, I don't-
+00:04:36	T	Okay, make that correction.
+00:04:42	T	Okay, John, good.
+00:04:50	T	Andrea?
+00:04:56	T	Okay, good. Good work.
+00:05:02	T	Michelle?
+00:05:11	T	Okay Michelle, good. Good work.
+00:05:18	T	Kristy? What about the answer here? Okay, you have to write it out, okay?
+00:05:30	T	Okay. Good.
+00:05:33	T	Ashley did you pick up what you missed yesterday?
+00:05:36	SN	Yeah. Did we have a lesson yesterday?
+00:05:38	T	No. There were no notes yesterday.
+00:05:40	S	Okay.
+00:05:41	T	Okay.
+00:05:45	T	Tim, homework?
+00:05:54	T	Okay, missing an E. Forgot the E.
+00:05:56	SN	Oh, okay.
+00:05:58	T	Okay. That's very good Tim. Keep doing your homework. This is very good, keep it up.
+00:06:07	T	Alex?
+00:06:15	T	Very good. Good work Alex.
+00:06:23	T	Steve, homework?
+00:06:32	T	Okay, very good. Good Steve.
+00:06:39	T	Jen? Oops, excuse me.
+00:06:41	SN	Sorry.
+00:06:42	T	That's all right.
+00:06:46	T	Very good Jen. Good work.
+00:06:53	T	Kendra? Okay. Very good. Good work. Thank you.
+00:07:18	T	Okay, Alex, good. Good work Alex.
+00:07:24	T	Brandon, homework please?
+00:07:25	SN	Yeah, I didn't get how to do the bottom part. But, I did everything else.
+00:07:32	T	What, this part here?
+00:07:33	S	Yeah.
+00:07:34	T	All right.
+00:07:37	S	And I think I might have messed up.
+00:07:39	T	Yeah, there's some letters here that shouldn't be. So when we go over it, make sure you make the corrections.
+00:07:44	S	All right.
+00:07:45	T	All right.
+00:07:47	S	Thanks.
+00:07:51	T	Diana?
+00:07:59	T	A couple of extra letters in here. Okay. So, when we go over it, see if you can make the corrections, okay? Good.
+00:08:08	T	Okay, good work Diana.
+00:08:16	T	Josh, homework please.
+00:08:27	T	That's good Josh. Good work.
+00:08:33	T	Dave?
+00:08:40	T	Okay, good David. Keep it up. Good work.
+00:08:47	T	Marcus- yes it is, very good.
+00:08:54	T	Okay Marcus, good. Good work.
+00:08:58	SN	This is my homework.
+00:09:01	T	Oh, that's right, you were absent yesterday. Can you take that (inaudible) and make sure I get it in my book.
+00:09:06	T	Did you pick up yesterday's homework?
+00:09:08	S	I'm almost done with it.
+00:09:10	T	Okay, thank you. Patrick, homework?
+00:09:13	SN	Yeah.
+00:09:19	T	Okay, next page please.
+00:09:24	T	Okay Patrick, good. Good work.
+00:09:42	T	Very good, Carly. Good work.
+00:09:51	T	Okay. Okay, Aubrey, good work.
+00:09:58	SN	Thanks.
+00:10:39	T	Okay, let's begin our warm-up today. Number one, is that a right triangle? John?
+00:10:44	SN	Yes.
+00:10:45	T	Yes John, why?
+00:10:46	S	Twenty-five plus 144 equals 169.
+00:10:50	T	Okay, where'd you get the 25 and the 144?
+00:10:53	S	Uh, five squared plus 12 squared.
+00:10:55	T	Good. Number two, Alex?
+00:10:59	SN	Ten point five nine one three.
+00:11:01	T	That is correct. Ten point five nine one three. Number three, Ryan?
+00:11:08	SN	One and eight-fifteenths.
+00:11:10	T	That is correct. One and eight-fifteenths. Marcus, how about four?
+00:11:15	SN	Four point zero zero five.
+00:11:16	T	That's correct. Four point zero zero five. Number five, Steve?
+00:11:23	SN	Two-fifteenths.
+00:11:25	T	What'd you have Aubrey?
+00:11:26	SN	One- one and seven twenty-ones.
+00:11:30	T	Reduce it Jen.
+00:11:31	SN	I- I got one and one-third.
+00:11:33	T	That's correct. Aubrey you were correct, you just needed to reduce it. Okay? Questions one through five? John?
+00:11:39	SN	Number two.
+00:11:41	T	What did you get for your first set of parentheses?
+00:11:43	S	Point one three four five.
+00:11:47	T	Did you copy it correctly?
+00:11:49	S	No.
+00:11:51	T	Okay. Make sure you do that John. Brandon?
+00:11:53	SN	What was number two?
+00:11:55	T	Ten point five nine one three.
+00:11:57	S	What was the first parenthesis?
+00:11:58	T	Nine point six eight eight three. Make sure you line up your decimals and then-
+00:12:05	S	Oops, I added.
+00:12:06	T	Okay. Ashley?
+00:12:08	SN	The first one was yes, right?
+00:12:10	T	Correct.
+00:12:12	S	I got no.
+00:12:13	T	Okay, do you have five squared plus 12 squared? Does it equal 13 squared?
+00:12:18	S	I had 25 plus 144.
+00:12:21	T	That's correct, one-
+00:12:22	S	Equals 52.
+00:12:23	T	Oh, that's why. Okay?
+00:12:26	T	Okay, number six, Patrick.
+00:12:28	SN	Eight divided by four equals two, and two plus two equals four, and four times six equals 24
+00:12:33	T	Good. Tim?
+00:12:34	SN	Six times two equals 12, 12 plus eight equals twenty. Twenty plus four equals 24.
+00:12:38	T	Good. Josh?
+00:12:40	SN	Four minus two equals two, uh, six divided by two is three, and three times eight is 24.
+00:12:46	T	Good. John?
+00:12:47	SN	Eight plus six is 14, 14 times two is 28, and 28 minus four is 24.
+00:12:51	T	Very good. Marcus?
+00:12:53	SN	Uh, six times two is 12, eight divided by four is two, 12 times two is 24.
+00:12:59	T	Okay, good. Another one Patrick?
+00:13:01	SN	Yeah. Four divided by two equals two, eight divided by two equals four, and four times six equals 24.
+00:13:07	T	Very good. Very good. All right, how about the last one? Ryan?
+00:13:10	SN	Nine minus seven equals two, two times four equals eight, three times eight is 24.
+00:13:14	T	Good. Alex?
+00:13:17	SN	Nine times three is 27, 27 minus seven is 20, and 20 plus four is 24.
+00:13:22	T	Good. Ashley?
+00:13:24	SN	Seven minus three is four- nine minus eight is six- wait, no- Oops. I mean nine minus four is six-
+00:13:34	T	What's nine minus four?
+00:13:36	S	I got it wrong.
+00:13:37	T	That's okay.
+00:13:38	S	I did it right now.
+00:13:39	T	Marcus?
+00:13:41	SN	Nine minus seven is two, eight- I mean four times two is eight, and eight times three is 24.
+00:13:47	T	Good, Patrick?
+00:13:48	SN	Nine minus seven equals two, two times three equals six, six times four equals 24.
+00:13:52	T	Okay. Good. Any questions on your warm up?
+00:13:58	T	All right, please take out your homework.
+00:14:13	T	Okay, on your homework the first page at the very top, graphing the numbers-
+00:14:23	T	Should look like this. You simply had to fill in the numbers there.
+00:14:32	T	Take a minute, look it over.
+00:14:43	T	The second part, we had to list what was in between what they gave us.
+00:14:49	T	Again, take a minute, look, see if you have any questions. Brandon?
+00:14:56	T	Brandon?
+00:14:57	SN	What if you put on number, uh, where it says integers between negative five and negative eight.
+00:15:02	S	What if you put negative seven and negative six? Does it matter what order you put them?
+00:15:06	T	No, that's okay.
+00:15:07	S	Thank you.
+00:15:09	T	Any other questions?
+00:15:12	T	All right, then the next section you had to graph them which they simply put a- meant to put a dot on the number line.
+00:15:22	T	Some of you drew lines which is okay. Yes, Marcus?
+00:15:24	SN	Uh, I have a question. Well- well-
+00:15:26	S	Okay, on the first it says like graph one through four. It's- you're supposed to graph it on the top one, right? Like on-
+00:15:33	T	One through four?
+00:15:34	S	Yeah, you're supposed to graph it on top, right?
+00:15:36	T	No, I think-
+00:15:37	S	I mean, I mean, I mean one and four, like that. Remember.
+00:15:40	T	Here?
+00:15:41	S	Yeah.
+00:15:42	T	Yeah, so I just drew a dot here and here. It's okay if you put it above it. That's okay. Is that- was that your question?
+00:15:47	S	Yeah, 'cause I... put it (inaudible).
+00:15:50	T	Oh, that's fine too. Just so we know that it's one and four. It's pretty close to those numbers. Any other questions?
+00:15:59	T	Okay, how about the bottom. What did it spell out? Michelle?
+00:16:01	SN	Seattle.
+00:16:02	T	Seattle. When we make a deposit into a bank account, does that mean we put money in or take it out? Jen?
+00:16:12	SN	Put money in.
+00:16:13	T	Put money in. Good. What happens to the balance then when we put money in? Alex?
+00:16:17	SN	It goes up.
+00:16:18	T	So is that positive or negative Alex?
+00:16:20	S	Positive.
+00:16:21	T	Good. Questions on your first page?
+00:16:27	SN	All right. Let's go to the second page.
+00:16:32	SN	Can we call them out, or, are you gonna put them on (inaudible).
+00:16:34	T	I'm going to call on people, Brandon.
+00:16:36	S	Oh, yes.
+00:16:37	T	All right, the first row, numbers one two and three, Patrick.
+00:16:43	SN	Greater than and- no, less than, less than.
+00:16:46	T	Say it again, please?
+00:16:47	S	Less than and less than.
+00:16:49	T	No. One, two, and three.
+00:16:51	S	Oh, greater than, less than, less than.
+00:16:53	T	Good. Greater than, less than and less than. How about the next row? John?
+00:16:59	SN	Greater, greater and less than.
+00:17:02	T	Yes. Greater than, greater than, less than. The next row, Michelle?
+00:17:06	SN	Less than, greater than and equal.
+00:17:10	T	That's correct. Row beginning with 10, Ryan?
+00:17:14	SN	Less than, greater than, less than.
+00:17:17	T	Good. Next row, Brandon?
+00:17:20	SN	Are we on, uh-
+00:17:21	T	Number 13.
+00:17:22	S	All right. Greater than, greater than, greater than.
+00:17:24	T	Good. They are all greater than there. Andrea, how about the next row?
+00:17:28	SN	Less than, less than and greater than.
+00:17:31	T	Very good. All right, we're batting a thousand. Tim, next row.
+00:17:35	SN	Equal to, less than and less than.
+00:17:38	T	Very good. Marcus.
+00:17:40	SN	Uh, less than, greater than and less than.
+00:17:42	T	Good. And Jen, how about the last row?
+00:17:45	SN	Greater than, greater than, greater than.
+00:17:47	T	Very good. How many had all those right?
+00:17:49	SN	Everybody.
+00:17:50	T	Good job class. Good job. Any questions on the second page? John?
+00:17:54	SN	Yeah, why wouldn't number three be equal?
+00:17:57	T	Number three?
+00:17:58	S	Mh-hm.
+00:18:01	T	Okay, negative one and positive one?
+00:18:03	S	Yeah.
+00:18:04	T	Look up on the-
+00:18:05	S	Because it's equal part, so...
+00:18:06	T	Okay. That's a good- we're not doing absolute value though. Are we?
+00:18:11	T	We're just simply like- look at our number line up here John. Negative one or positive one. Which one is greater?
+00:18:18	S	One.
+00:18:19	T	Right. That's what they were asking for. Not how far each one was apart from zero.
+00:18:23	S	Oh, okay.
+00:18:24	T	Okay? Any other questions?
+00:18:28	T	Okay, third page. What does a Boa Constrictor order at the ice cream shop? Alex?
+00:18:36	SN	A snake shake.
+00:18:37	T	A snake shake.
+00:18:39	T	Take a minute look at the one. Some of you didn't have the correct ones circled. See if you have any questions.
+00:18:53	T	You had to cross out the box and what was left was your answer.
+00:19:01	T	Any questions, people?
+00:19:08	T	How many had the entire assignment correct? That's good. Great. No questions?
+00:19:17	T	Okay, take out your notes then please.
+00:19:33	T	Okay.
+00:19:42	T	What's today's date? Raise your hand?
+00:19:43	SN	The twenty-eighth.
+00:19:45	T	Ryan?
+00:19:46	SN	The twenty-eighth.
+00:19:47	T	The twenty-eighth. Please date your notes. November twenty-eighth. Yes?
+00:19:53	SN	Are we allowed to take notes in pen if- if we want to?
+00:19:56	T	That's fine. That's the only thing you can do in pen in here.
+00:20:00	T	Volunteer to read our quote of the week? Michelle?
+00:20:05	SN	"What is the best- What is best in mathematics deserves not merely to be learned as a task,
+00:20:11	S	but to be assimilated as a part of daily thought, and brought again and again before the mind with ever renewed encouragement".
+00:20:22	T	Very good. What does that mean, anybody? Patrick?
+00:20:25	SN	It means to not think of math as a like- as not something fun to do and only use it in school but to use it in your everyday life.
+00:20:35	T	Very good. Anybody else? Brandon?
+00:20:37	SN	That math is around you all the time.
+00:20:39	T	That's correct. And it means don't just learn it as a- because you have to.
+00:20:45	T	Learn it because you want to and have it as a part of your daily life because math is?
+00:20:50	SS	Power.
+00:20:51	T	All right. Good. Okay.
+00:20:54	T	Today's lesson is titled, Writing Variable Expressions. So please title your notes.
+00:21:19	T	Okay, I want you to think for a minute. I know- I know you can do this.
+00:21:27	T	There are times throughout the day, I'm sure, where you hear words but in actuality you're talking about numbers.
+00:21:37	T	For example, Suzie is six inches shorter than Mary. Anybody else think of an example that you hear? Ashley?
+00:21:47	SN	How old is she turning?
+00:21:49	T	Okay. Brandon?
+00:21:51	SN	Tom is five inches taller than Suzie.
+00:21:54	T	Okay. Anybody else? Patrick?
+00:22:00	SN	Uh, never mind.
+00:22:02	T	Kendra?
+00:22:03	SN	Like, when you're taking a test or something and the teacher is like, you got a 20 out of like, 40.
+00:22:07	T	Good. Good Kendra. Alex?
+00:22:09	SN	Your pizza is two-fifty.
+00:22:11	T	Okay. Is that how much they cost here?
+00:22:13	SS	Yeah.
+00:22:14	SN	Yep. They rip you off.
+00:22:16	T	Tim?
+00:22:17	SN	Like my shoe size is like 12 and (inaudible) are (inaudible).
+00:22:20	T	Compared to maybe somebody else's?
+00:22:22	S	Yeah.
+00:22:23	T	Okay, good. Now, I want you to think of another example here.
+00:22:28	T	Say you have an after school job. You make seven dollars an hour. But this week, you're busy, you can only work two hours.
+00:22:39	T	But, next week you can work 10. So I'm going to put up here, seven dollars H.
+00:22:48	T	What is H? Does anyone know? Alex?
+00:22:52	SN	Hour.
+00:22:53	T	It's the hours. Good.
+00:22:56	T	What is H called? Does anyone know that? Patrick? Patrick?
+00:23:02	SN	Me?
+00:23:03	T	Yes.
+00:23:04	S	Okay.
+00:23:05	T	Patrick.
+00:23:06	S	A variable?
+00:23:07	T	Good. A variable. So writing expressions today, variable is number one.
+00:23:13	T	It's a letter that represents a value that can change.
+00:23:21	T	The example I gave you, that H can change. Two hours this week. Ten hours next week. Variable.
+00:23:34	T	Yes Brandon?
+00:23:35	SN	So the numbers change, not the, uh, letter?
+00:23:39	T	Well what goes in for the letter changes?
+00:23:41	S	Numbers?
+00:23:43	T	Correct. Yes?
+00:23:45	SN	Then like- so you have like eight dollars could you go like eight and like B?
+00:23:49	T	Sure. Yes. You can use any letter. Any letter in the alphabet will work.
+00:23:50	S	So, you can-
+00:24:05	T	Okay, that's a variable. What I wrote on the board, seven H, is called a variable expression because it contains a variable.
+00:24:17	T	You'll see it up there as one of the examples and the other two are also examples of variable expressions.
+00:24:36	T	Can you see?
+00:24:49	T	So we have variable and variable expression.
+00:24:56	T	Say that job that I have represented up here. You get a raise. You now make seven-fifty an hour. How will that change? Jen?
+00:25:09	SN	There'll be point fifty after seven?
+00:25:11	T	Okay, so seven point five H, right?
+00:25:15	S	Yeah.
+00:25:16	T	Okay. Brandon?
+00:25:17	SN	I don't- I didn't get it.
+00:25:19	T	Which part?
+00:25:20	S	The uh, the H, seven H and then the four- where do you get the four W's to-
+00:25:25	T	That's just an example. That's just another example of a variable expression. Okay?
+00:25:31	T	Okay. Another example. You're going to an Eagles game.
+00:25:37	SS	Oh.
+00:25:39	T	Tim? I used Phillies in my other classes but for you Tim, I used Eagles.
+00:25:43	SN	First the Raiders.
+00:25:44	T	Okay? You're going to an Eagles game. They're selling hot dogs. They're very good by the way in Philadelphia.
+00:25:52	SN	So are the cheese steaks.
+00:25:54	T	So are the cheese steaks, you're right.
+00:25:54	T	Okay. But, the hot dogs at Vet stadium where the Eagles play sell for three dollars.
+00:26:01	T	I want you to give me a variable expression for N hotdogs. Marcus?
+00:26:12	SN	N, hot, over three dollars. Or-
+00:26:16	T	Not over because that means divided.
+00:26:18	S	Three N.
+00:26:20	T	Three N. Three N means however many I buy I have to pay three dollars for, right?
+00:26:25	SN	Where do you get the N from?
+00:26:26	T	That's- I just said, that's the N number of hotdogs. That's what I'm using as my variable. Jen?
+00:26:32	SN	Wouldn't that mean you have to multiply them?
+00:26:34	T	Yes. That's right. So if I got two hotdogs how much money am I spending?
+00:26:38	SS	Six dollars.
+00:26:39	T	Three times two. Good, Jen. Yes?
+00:26:42	SN	Can it be like any letter?
+00:26:43	T	It can be any letter. Yes, Michelle it can be. Good question.
+00:26:45	SN	But isn't it confusing?
+00:26:47	T	It can be any letter, Brandon. Whatever you choose. Okay, part B today. Evaluating Expressions.
+00:26:54	T	What I just did with the two dollars for a hotdog was evaluating an expression.
+00:27:02	T	So if I come back to my original example on the board here, seven H, and I said you worked two hours this week,
+00:27:13	T	How much money are you going to make this week, Ryan?
+00:27:17	SN	Fourteen.
+00:27:18	T	Fourteen. How much would you make if you worked ten hours next week? Josh?
+00:27:23	SN	Seventy.
+00:27:24	T	Good. What we just did was we took the number of hours and did what? Michelle?
+00:27:32	SN	Multiplied it by a seven.
+00:27:34	T	Good. But what- we actually put it in for there? Didn't we? Put it in for the H?
+00:27:38	T	Well, that's what evaluating means. Substituting a number for a variable. Yes?
+00:27:48	SN	So for the hotdog thing, would the N be two?
+00:27:52	T	Yes. We substituted two for the N.
+00:27:55	SN	Oh.
+00:27:56	T	We evaluated that example.
+00:27:59	SN	Do you have to write that then? Or, can you just write like how- like however many dollars it was times two?
+00:28:06	T	Yeah. Do you have to write what- what? This?
+00:28:09	S	Do you have to write the N or-
+00:28:10	T	Well normally you'll be given that, yes.
+00:28:12	S	Okay.
+00:28:14	T	You won't be given- like if we're just talking, of course, I'm not going to say write down, but-
+00:28:19	T	You'll be given expressions and asked to evaluate for a certain amount of money or numbers.
+00:28:36	T	So I'm going to give you an example- Here's what you were asking me Jen. Evaluate the expression, four H plus three.
+00:28:44	T	Now the part four H plus three is the expression and then it says for H equals two. What are we going to do with that?
+00:28:52	T	What are we going to do with H equals two? Marcus?
+00:28:58	SN	I guess like four times two. Four times two plus three, would be eleven.
+00:29:03	T	Good.
+00:29:06	T	Okay. What we- Marcus did here was, wherever he saw an H in our expression he substituted a two. So that was the first step.
+00:29:18	T	And remember, if there is nothing in between a number and parenthesis what operation do we do?
+00:29:26	SN	Multiplication.
+00:29:27	T	Patrick?
+00:29:28	SN	Multiplication.
+00:29:29	T	Good. And as Marcus said then, the answer is eight because four- I mean 11- four times two is eight, we add three, and we get 11.
+00:29:58	T	Any questions so far?
+00:30:17	T	Okay. Now, I'm sure you often hear, probably on radio ads or- or maybe even here at school,
+00:30:28	T	Phrases such as twice as much, three times as long, half as heavy. Yes?
+00:30:37	SN	So my answer to the question is, four times two is eight, plus three is-
+00:30:42	T	Is 11.
+00:30:43	S	All right.
+00:30:45	T	Okay? So you hear phrases like that. Twice as much. You hear that at the store, right? Or, things like that.
+00:30:52	T	Three times as long. Social Studies class is three times as long as math.
+00:30:59	SN	It is?
+00:31:00	T	Because math class is fun, Tim.
+00:31:02	SN	Oh, no.
+00:31:03	SN	Oh, I get it.
+00:31:04	SN	I just like math.
+00:31:06	T	No, it's not really three times as long. They're all the same, but- that was just an-
+00:31:10	SN	I thought fifth period was the longest?
+00:31:11	SN	Yeah.
+00:31:12	T	Okay. Well we have an extra 10 minutes because we read, but that's all.
+00:31:16	T	Okay. What we're doing there, is we're taking words and translating them into variable expressions.
+00:31:26	T	Now, there's two parts to that. Taking words and putting them into numbers or the opposite.
+00:31:35	T	So people, if you're sitting at your desk taking notes, write the opposite. You don't have to write both of those things up there.
+00:31:41	T	As long as you understand. Remember, you don't have to write everything I write.
+00:31:46	T	Take words, change them into numbers. Take numbers and change them into words.
+00:31:53	SN	You can do one of those?
+00:31:55	T	Yeah, and then just write either opposite or vice versa.
+00:32:06	T	I'm gonna give you an- some examples.
+00:32:14	SN	Wait-
+00:32:33	T	Okay. Say I give you the words, a number plus negative three. How would I take those words from a word phrase-
+00:32:48	T	Now this example is on page one-o-six, people, so you have your choice here.
+00:32:52	T	How do I take the words, a number plus negative three and make it a variable expression? Patrick?
+00:33:02	SN	A plus negative three.
+00:33:03	T	Okay. A plus negative three. You chose A. I chose N. Again, the letter doesn't matter.
+00:33:11	T	So we took a word phrase and changed it from words to a variable expression. I'm going to give you another- Yes?
+00:33:22	SN	Why'd you put the parenthesis around negative three?
+00:33:25	T	Good question. Why'd I put these here? Only because you don't get mixed up with the signs. If I put-
+00:33:32	SS	Oh.
+00:33:33	T	Okay? I don't- That's why I do it that way. Andrea?
+00:33:37	SN	Do you have to put it down there?
+00:33:38	T	You don't have to but I think it's- it makes it clearer to see. Okay? Tim?
+00:33:45	SN	Would it make a difference if we put it around N plus or not?
+00:33:49	T	Well, in this case, we have two operation signs technically, so that's why we- I did it here. Marcus?
+00:33:57	SN	What if you switched it around (inaudible) negative three before?
+00:34:00	T	Before N?
+00:34:01	S	Yeah.
+00:34:02	T	That would work okay. But it's- but- It's backwards here from what the words are.
+00:34:06	S	Oh.
+00:34:07	T	Technically in math that's not incorrect. Yes?
+00:34:10	SN	So a number means like you put a letter?
+00:34:14	T	Yes. That's the variable part of it. Any letter.
+00:34:17	S	So that means- oh.
+00:34:19	T	Okay, what if I say six less than a number. Six less than a number. Michelle?
+00:34:32	SN	Six minus N.
+00:34:34	T	Six minus N. What do you think Aubrey?
+00:34:36	SN	N minus six.
+00:34:38	T	Why do you think that?
+00:34:39	S	Oh because-
+00:34:41	T	You're right. Tell me why.
+00:34:42	S	Six is less than the number?
+00:34:44	T	Right. Do you see the difference? Six less than a number.
+00:34:47	SN	Oh.
+00:34:49	T	Yours was a number less than six. What you gave me. This will- that's the tricky saying right there. Questions so far?
+00:35:03	T	Alex?
+00:35:05	SN	So then when it says "less than" in, like, a question, you always minus the number from the letter?
+00:35:10	SN	Like go, the letter minus the number?
+00:35:14	T	I hate when I say "always", Alex. Uh, nine times out of 10, yes, but there may be like something else here.
+00:35:21	T	Like may- it may say two plus a number then less than. So you've got to be careful. It's not always. Okay. Yes?
+00:35:31	SN	Who did- do you have to put the parenthesis around the minus six or would that be considered a negative six?
+00:35:38	T	Well in here there's not another sign so it doesn't matter here.
+00:35:43	T	Well, we're going to learn next week that it's- negative- this also does mean minus.
+00:35:48	T	But we don't need to put parenthesis here because there's not another sign, okay?
+00:35:54	T	All right. Now, we're going to do it the other way. We're going to start with a variable expression and go to words.
+00:36:01	T	Start with the variable and go to words. So I'm going to give you this time- Yes?
+00:36:09	SN	Is this in the book too (inaudible)?
+00:36:11	T	Yeah. This is still all page one-o-six.
+00:36:14	T	K divided by eight. Try to write that in words without using the word divided. Can anybody do that? Jen?
+00:36:22	SN	K over eight.
+00:36:23	T	Okay. That's- Steve?
+00:36:25	SN	K into eight.
+00:36:26	T	Okay. Well no. That would be eight into K.
+00:36:29	S	Oh.
+00:36:30	T	Christy?
+00:36:31	SN	K of eight.
+00:36:32	T	No. What does "of" mean in that?
+00:36:34	S	Oh.
+00:36:36	T	Times. Okay? It's okay, you're thinking.
+00:36:39	T	All of those- what Jen and Steve were correct, I chose the big math word, quotient.
+00:36:46	T	K divided by eight, the quotient of the number and eight.
+00:36:51	T	What if I gave you 15 minus B? Fifteen minus B. Patrick?
+00:37:00	SN	Fifteen less than B. Or less- B less than 15.
+00:37:04	T	B less than 15 would work. I chose an easier route. Fifteen minus a number.
+00:37:12	T	Either one is correct. Questions so far on this, people?
+00:37:22	T	Any questions?
+00:37:28	T	Andrea?
+00:37:29	SN	What does quotient mean?
+00:37:30	T	Quotient means divided. See my- my sign up there in the corner has all the math words. Okay.
+00:37:38	T	Okay. The last thing then, variable expressions with more than one operation. Use the order of operations.
+00:37:46	T	What does that mean? Order of operations. Alex?
+00:37:52	SN	Uh, says sub- well take- Substitute words and change them into numbers.
+00:38:04	T	Well kind of, but I mean here. Do you remember back what order of operations means Jen?
+00:38:09	SN	PEMDAS.
+00:38:10	T	What's that mean?
+00:38:11	S	Parenthesis, exponent, multiplication, division and addition and subtraction.
+00:38:14	T	Very good. And what's the saying that goes along with that?
+00:38:17	SN	I know. I know.
+00:38:19	T	Jen?
+00:38:20	SN	Please Excuse My Dear Aunt Sally.
+00:38:22	T	Aubrey what's please mean?
+00:38:24	SN	Oh, parenthesis.
+00:38:26	T	No, not actually please, but I mean- parenthesis. Class. Excuse. What's that mean?
+00:38:32	SS	Exponent.
+00:38:33	T	My?
+00:38:34	SS	Multiplication.
+00:38:36	T	Dear?
+00:38:37	SS	Division.
+00:38:38	T	Aunt.
+00:38:39	SS	Addition.
+00:38:41	T	Sally.
+00:38:42	SS	Subtraction.
+00:38:44	T	Okay. Good. So that's what we do here. An example, evaluate one point five plus two N for N equals 12.
+00:38:52	T	How do I do that? Patrick?
+00:38:57	SN	You do the multiplication first. But put the- you put 12 in for N and then you do the multiplication and then you add.
+00:39:05	T	Good. Alex?
+00:39:06	SN	Or you could substitute N for 12 and put quotations around-
+00:39:12	T	Parenthesis.
+00:39:13	S	Yeah, parenthesis around N 12 so you know how to do those first.
+00:39:16	T	Good. Jen?
+00:39:17	SN	What about for us in the example that says, uh, a number plus a negative three.
+00:39:23	S	Wouldn't you have to do something with those parenthesis though, 'cause that's the order of operations.
+00:39:27	T	Right. So you would- you would have to take it out of there.
+00:39:31	T	So, next week- we haven't gotten to this yet, but plus a negative, depending on what this is. That's a good point. Yes. Marcus?
+00:39:38	SN	I have a question. Is that one point five?
+00:39:40	T	Yes. One point five plus two N.
+00:39:44	T	So Patrick said put 12 N for N. Class what's two times 12?
+00:39:49	SS	Twenty-four.
+00:39:51	T	Plus one point five gives us twenty-five point five.
+00:39:55	SN	Is this all in our notes?
+00:39:56	T	Yes, Brandon.
+00:39:57	S	Yes.
+00:39:59	T	Once you've finished writing I'd like you to take out your textbooks quietly.
+00:40:23	T	Remember, if you don't have a book please share. And open to page one-o-seven please. Page one-o-seven.
+00:40:46	T	Okay. Above number seven, somebody raise their hand and read the directions for me please. Above number seven. Michelle.
+00:40:56	SN	Write a variable expression for each quantity. Explain what the variable represents
+00:41:03	T	Good. Page one-o-seven. So we're going to write a variable and then explain what it is. Look at number seven.
+00:41:11	T	Kim's height if she's six inches shorter than her mother. What would a variable expression be? Steve?
+00:41:20	SN	Like N... N minus negative six?
+00:41:29	T	No, just N minus six.
+00:41:30	S	N minus six.
+00:41:31	T	Good. What does N represent?
+00:41:34	S	Her mom's height.
+00:41:35	T	Good. How about number eight. The number of calories in three slices of bread? Patrick?
+00:41:43	SN	Uh, C times three.
+00:41:45	T	Or how else could you say that?
+00:41:47	SN	Three times C.
+00:41:48	T	Andrea?
+00:41:49	SN	Three C.
+00:41:50	T	Three C. Okay. Look at- look at number nine. Mike's age if Mike is three years older than Jill. Ryan?
+00:42:02	SN	Three X.
+00:42:04	T	No. That would be multiply. Wouldn't it? Think- think about that one again.
+00:42:08	S	Plus X.
+00:42:09	T	So what would it be?
+00:42:10	S	Three plus X.
+00:42:11	T	Okay, good. What's X represent?
+00:42:13	S	Jill.
+00:42:14	T	Jill. Jill's age. Good. Go down to number 11. Twice a number. What would that be? Twice a number. Alex?
+00:42:23	SN	N two.
+00:42:24	T	Or how could we say that?
+00:42:26	S	Two N.
+00:42:27	T	Two N. Alex, always put the number first. Okay? Look at number 14.
+00:42:32	T	The quotient of three divided by W. There's that word Andrea. Quotient of three divided by W. Marcus.
+00:42:39	SN	W over three. Or three over W.
+00:42:42	T	Three over W. Okay. And one more, 16. Seventeen less than N. Michelle?
+00:42:50	SN	N minus 17.
+00:42:52	T	Good. N minus 17 is correct. Okay. Quietly put your books away. I'm going to pass out your homework.
+00:43:01	SN	Oh, do we- on our homework, uh-
+00:43:02	T	Shh.
+00:43:07	T	Brandon let me explain it. I'll tell you. Okay class, quiet please.
+00:43:18	T	Where do you think we use variable expressions in real life? Patrick?
+00:43:27	SN	When you're trying to figure out all the problems.
+00:43:31	T	Okay. Marcus?
+00:43:33	SN	Uh-
+00:43:36	T	How many of you have science this semester? Where do you use variable expressions in science? Formulas. Steve?
+00:43:47	SN	When you're trying to figure out like, how much something weighs.
+00:43:51	T	Okay. You have to substitute something in. Okay.
+00:43:52	S	Yeah.
+00:43:55	T	How about- Yes, Patrick?
+00:43:57	SN	When you're trying to convert uh, measurements.
+00:44:00	T	Very good. Jen?
+00:44:01	SN	When you're trying to find the price of clothes or something.
+00:44:04	T	Very good. That's another way. Yes.
+00:44:05	SN	Like, in science like when you try- try to find density.
+00:44:10	T	Okay. The density formula. Good.
+00:44:13	T	Okay, somebody raise your hand and read the homework board to me please. Andrea?
+00:44:20	SN	Page 64 from workbook, Xerox copy numbers one to 22, do all of them. And a quiz on Friday.
+00:44:28	T	Okay, good. There are two extra. Please give to Vince and John.
+00:44:40	T	Okay. Take a minute and look over your homework. Please do a couple and then I'll have you pack up. Yes?
+00:44:51	SN	For number one through 16, you don't have to write the answer?
+00:44:55	T	I'm not sure what you mean. Write a variable expression- Oh. It doesn't say evaluate.
+00:45:01	S	Oh yeah.
+00:45:02	T	Yeah, just write the expression.
+00:45:03	SN	There's an extra (inaudible).
+00:45:05	T	Could you pass it forward, John? Pass that forward please. Thank you John. Brandon?
+00:45:11	SN	On, uh, on number one do you have to have- do you have to put the number before you, uh, subtraction?
+00:45:16	T	No. That one has to be accurate. So like-
+00:45:18	S	So it would be like five subtract, uh, any number you- any letter you want to?
+00:45:19	T	Thank you.
+00:45:24	T	Yes. Any letter. Yes. Yes?
+00:45:26	SN	On number two it says, the absolute value do you have to put the lines in?
+00:45:32	T	What do you think?
+00:45:33	S	Yes.
+00:45:34	T	Yes.
+00:45:35	S	But do you like put an N?
+00:45:36	T	Yeah. You put it around N. Good question Michelle.
+00:45:52	T	Yes?
+00:45:53	SN	For number five do you have to put two expressions because it says, uh, says three more than the product.
+00:46:00	T	Yes. Yes. No, into one expression but use- so three more than the product.
+00:46:07	T	What would the product of eight and a number be?
+00:46:09	S	So wouldn't it be like X-
+00:46:10	T	Well, use a times because that looks like a variable. Okay?
+00:46:14	S	So- What should I use?
+00:46:16	T	Shh. Please John, please work.
+00:46:19	S	So then eight, and equals...
+00:46:22	T	Eight- No, plus-
+00:46:24	S	Plus-
+00:46:25	T	Plus three, right? Because that's three more than.
+00:46:28	S	Okay.
+00:46:29	T	Okay. Marcus?
+00:46:31	SN	I have a question on, like, number three.
+00:46:34	T	Okay, I'll be right there. Josh what's your question?
+00:46:37	SN	How do you solve this?
+00:46:39	T	What's the product of the number and negative eight? What does product mean?
+00:46:42	S	Multiplication.
+00:46:44	T	Okay, so how would you do that?
+00:46:45	S	Uh... I don't know.
+00:46:48	T	What are you multiplying here?
+00:46:50	S	Negative eight.
+00:46:51	T	And?
+00:46:52	S	A number.
+00:46:53	T	Okay, so how would we do that?
+00:46:54	S	Negative eight N.
+00:46:56	T	Good.
+00:46:57	S	All right.
+00:46:58	T	Very good.
+00:46:59	SN	What's the answer?
+00:47:00	T	Okay, hang on. Let me get Marcus. Yes?
+00:47:02	SN	All right, I have no clue what to put first.
+00:47:04	T	All right. What does product mean?
+00:47:06	S	Like the answer to a number.
+00:47:08	T	What kind of operation are we using for product?
+00:47:12	S	Multiplication.
+00:47:13	T	Good. So what are we multiplying here?
+00:47:15	S	Uh, negative eight.
+00:47:16	T	And?
+00:47:18	S	Negative eight and... P. And the product of-
+00:47:23	T	Well-
+00:47:24	S	So, is it negative eight?
+00:47:25	T	Times?
+00:47:26	S	P. So, negative.
+00:47:27	T	Yeah, negative eight P would be good. Alex do you have a question?
+00:47:35	SN	(inaudible) sum of the quarters.
+00:47:38	T	Okay.
+00:47:39	S	It would be?
+00:47:41	T	How much is a quarter?
+00:47:42	S	Twenty-five cents.
+00:47:43	T	So how do we represent that in numbers?
+00:47:44	S	Point twenty-five.
+00:47:45	T	Okay.
+00:47:46	S	So it would be N 25 or?
+00:47:49	T	Point two five N.
+00:47:50	S	Okay.
+00:47:51	T	Yeah. Okay. Brandon?
+00:47:54	SN	Yes.
+00:47:59	S	Right here. So, if it's five less than a number would it be five subtract X?
+00:48:03	T	No. Because this is the number. X is the number so it has to be the other way.
+00:48:04	S	Oh.
+00:48:07	S	So it up here it would be 15 more than... how do I- So it would be X plus 15?
+00:48:14	T	Just make sure you put it in absolute value of the box.
+00:48:16	S	Oh, so that's good. So fifteen's got to be in the box?
+00:48:19	T	Yeah- no, the number does.
+00:48:21	S	What number?
+00:48:22	T	Any va- any variable that you use.
+00:48:24	S	Oh, so it would be, uh, the box, then X, then plus 15?
+00:48:28	T	Yes. Yes.
+00:48:29	S	And then down-
+00:48:30	T	Wait a minute. Hang on. Okay, people you may pack up. We will go over this tomorrow.
+00:48:46	T	Yes?
+00:48:47	SN	(inaudible)
+00:48:49	T	Quickly.
+00:48:50	T	Okay, please listen.
+00:48:52	SN	Johnny.
+00:48:53	T	Tim.
+00:48:54	S	Johnny. Give me my magazine. Give me my magazine.
+00:48:58	T	We have about three minutes.
+00:49:00	SN	(inaudible) start.
+00:49:02	SN	No, I almost (inaudible).
+00:49:03	T	Marcus. Jen.
+00:49:05	SN	(inaudible)
+00:49:06	T	Yes. Marcus, you start?
+00:49:10	T	Class we're going to finish by playing 24.
+00:49:13	SN	I get to go first.
+00:49:15	SN	No you don't.
+00:49:18	T	Please finish your homework assignment and have it tomorrow.
+00:49:22	SN	All right. Eight, two, five and seven.
+00:49:32	T	That was on last week's quiz. Carly?
+00:49:35	SN	Two times five equals 10. Ten minus seven equals three. Three times eight equals 24.
+00:49:39	T	Very good.
+00:49:40	SN	Yeah, come on Marcus, you gotta make it harder than that.
+00:49:47	S	Yeah, that is (inaudible).
+00:49:48	SN	Seven, two, one, five.
+00:49:49	T	Shh. John.
+00:49:55	T	Marcus.
+00:49:57	SN	Oh, seven minus two is five. Five times five is 25. Twenty-five minus one is 24.
+00:50:01	S	Yeah.
+00:50:10	S	All right. Eight, nine, six and three.
+00:50:18	SS	Oh I got it.
+00:50:19	T	Andrea.
+00:50:20	SN	Okay, nine minus eight is one. One plus three is four, and six times four is 24.
+00:50:35	S	Three, five, nine and seven.
+00:50:45	T	Josh.
+00:50:46	SN	Five minus three is two. Two times nine is 18. Eighteen plus seven is-
+00:50:51	T	Twenty-five. It's okay Josh. You're trying. Let's go. Who else can get this? Tim?
+00:51:05	SN	Oh I got it.
+00:51:07	T	All right Brandon, you are next if Tim doesn't get it.
+00:51:09	SN	Nine plus- Yeah, nine plus five?
+00:51:12	SN	Fourteen.
+00:51:13	SN	Yeah, 14. And 14 plus seven is 21, and 21 plus three is 24.
+00:51:17	SN	I had nine- that 's not fair. Tim got one.
+00:51:20	T	He had his hand up.
+00:51:21	SN	Cheater Jen. Cheater Jen.
+00:51:23	SN	That's his second one.
+00:51:24	SN	Write the same one.
+00:51:27	SN	Say it out loud.
+00:51:29	SN	Three- nine, three, two and then seven.
+00:51:38	T	Nine, three, two, seven.
+00:51:42	SN	Got it.
+00:51:42	T	Josh.
+00:51:44	S	Seven times two equals 14. Fourteen plus nine equals-
+00:51:50	T	Oh Josh.
+00:51:52	S	I had it. I had it.
+00:51:53	T	That's okay. Keep trying.
+00:52:03	T	Oh, come on people. Patrick.
+00:52:10	SN	Nine, wait- quite. Seven- Nine minus seven equals two. Never mind.
+00:52:22	SN	Hey this is hard.
+00:52:24	T	Malia.
+00:52:25	SN	Nine plus seven is 16. Sixteen divided by two is eight and eight times three is 24.
+00:52:28	SN	Finally.
+00:52:30	T	Quickly. Quickly.
+00:52:31	SN	Run. Run.
+00:52:32	SN	Hurry up (inaudible).
+00:52:33	SN	No, they're winning.
+00:52:34	SN	Hey, Alex.
+00:52:36	SN	I refuse to lose.
+00:52:37	SN	Well, Jen added one.
+00:52:38	SN	It'll be a great win.
+00:52:40	SN	Tell Aubrey.
+00:52:41	SN	Three, seven, five, nine.
+00:52:53	SN	Oh god. Jeez.
+00:52:58	SN	Oh, I have it.
+00:52:59	T	Brandon.
+00:53:00	S	Uh, nine- Wait a minute. Yeah, nine plus seven-
+00:53:05	SN	Oh, my...
+00:53:06	T	Have a great day people. I'll see you tomorrow.
+00:53:07	SN	It's the same one. Nine plus three equals (inaudible), the same one.
+Ê

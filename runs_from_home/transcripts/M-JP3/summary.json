@@ -1,0 +1,1769 @@
+{
+  "lesson_id": "M-JP3",
+  "transcript": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math JP3 transcript.txt",
+  "n_bins": 109,
+  "n_risky_bins": 43,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Leave them upside down. [T] Well. [T] Well. Don't say that. [T] Hmm. [T] I'll also try to aim that as best as I can. [T] Oh. It's okay even if you don't have it."
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Oh. It's okay even if you don't have it. [T] Pass it back as it is, upside down, okay? [T] Here."
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Now, let's start class. [T] Onegaishimasu. [T] Okay, then please look at your handouts. [T] Okay, then these are the problems we're going to do today. [T] Okay. Um. It has been one month since Ichiro's mother has entered the hospital. [T] Um. He has decided say a prayer with his smaller br"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Um. He has decided say a prayer with his smaller brother at a local temple every morning so that she will be well soon. [T] Um. There are 18 10-yen coins in Ichiro's wallet and just 22 five-yen coins in his smaller brother's wallet. [T] They have decided every time to take one coin from each of "
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] the smaller brother's amount of money was greater than Ichiro's. [T] How many days has it been since they started praying? That's the problem. [T] Now, I think there are points that are a little too hard to understand with just these sentences, so- [T] Well, I think I would like to look at a fig"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Um, then... okay, over here is the smaller brother's wallet. And, also there is an offertory box there, right? [T] Okay? [T] Okay. [T] Now, first we'll start looking at Ichiro's, okay? Okay? If we look at the wallet there are only 10-yen coins in there, right? [T] How much is in this in the begi"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. The amount of money, well, in the beginning. [T] Okay. Compared to the smaller brother's. There are only five-yen coins in it, but how much is in it? [T] Yes. One hundred and ten yen. [T] This means in the beginning stages, um, Ichiro has more, okay? In terms of the amount of money, he has"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, um, after this. Okay? Every morning from each wallet they take out one coin from each, okay? [T] They put them in this offertory box, right? [T] Now, first day one. Okay. Ten yen from Ichiro's wal- let- um, wallet and five yen from over here. [T] Okay? Now, it goes in from here and in this"
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, then how about it at this stage? Comparing Ichiro's and his smaller brother's wallet. [T] The contents of the wallet. Which one has more in terms of the amount of money? [T] Hmm. [T] Yes. Ichiro has more, right? Okay, then second day. [T] Okay. Of course right? They put in the coins in her"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Um. They looked inside of each other's wallets, right? Then the smaller brother had more in the amount of money. [T] Now, that one day was how many days, um, since they started their praying? [T] Now I would like for everybody to think about that. Then, um, in the open space. [T] Well this part "
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Hm. Next to it is okay. Okay?"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hm. Next to it is okay. Okay? [T] Masa. You did it up to the second day, right? Then, on the third day who has more? [T] This one has more? Then, how about the fourth day? [T] If you keep on doing it like that? Okay? [T] That's good. [T] Now, just now see? You did it up to the second day, right?"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Now, just now see? You did it up to the second day, right? [T] Then, how about the third day? [T] How about it? [T] In the same manner try thinking, like how about the fourth day? [T] Do it the same way over here, okay?"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Do it the same way over here, okay? [T] Well see? Up to the second day this one has mor- had more, right? Then, on the third day who had more?"
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Well see? Up to the second day this one has mor- had more, right? Then, on the third day who had more? [T] Okay? [T] How much will it be? Well, if it's the third day, where is how much? [T] Okay? Do it like that then decide the answer, okay? [T] Oh. Is this 180 yen? Right?"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Oh. Is this 180 yen? Right? [T] Oh. Have you already solved at least one?"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Up to wh- where have you thought about it? [T] Hm. What do you mean? Did you erase this?"
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hm. You erased the first day okay. Then, how about the second day? [T] Hm. [T] Then, try putting in the dates there. [T] Okay? [T] How did you obtain this? [T] Oh. You counted it all the way? Hm.. [T] Now, well... is there any method to find it that's simpler? Can you please find that."
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Now, well... is there any method to find it that's simpler? Can you please find that. [T] Have you found it? Then, now it was quite tedious to write these out, right? [T] Is there any method to find it faster? [T] Okay? Can you please find that? [T] Now, this is also one of the methods, right? T"
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Now, if you have found the answer using one method, okay, aren't there any other methods? [T] Okay? [T] Oh, now it's okay. You can leave that. Oh. [T] Then... without using this Y... it seems you can do it just with this and this, right? [T] Yes. Then, quickly, okay? Put the symbols down on this"
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Yes. Then, quickly, okay? Put the symbols down on this, okay? On these, okay? [T] Huh? Can you stop for a moment? [T] What is this Y? This? [T] This 180 minus 10 X is... whose money is this?"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] That is? [T] Yes. It's Ichiro's... right? Then how about the smaller brother? [T] See? How much is in that, hum? [T] Hm. Oh. If you do that then?"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Hm. Oh. If you do that then? [T] Um? [T] Now, well, you can find it like that also, but can you try thinking about whether there are any methods that you can use to find it faster? [T] This person, this is... Ichiro's, right? Oh. This is the smaller brother's, right? [T] Then it seems you can do"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Then it seems you can do it by using this, okay? [T] Oh. You got it up to here? Okay. [T] This. It was obtained as how many days? [T] Oh. It was on the twelfth day, right? Then, can you do it a little more? Okay?"
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Oh. It was on the twelfth day, right? Then, can you do it a little more? Okay? [T] Then if you try combining this and this then you can make a mathematical expression. Okay? [T] Was it something like a mathematical expression? [T] Hmm. [T] Then, this okay? Can you do it without using the Y?"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Then, this okay? Can you do it without using the Y? [T] Okay? [T] Oh. You combined them, right?"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Oh. You combined them, right? [T] Whose amount of money is this? [T] Yes. [T] Hm. [T] Hm... [T] Then, how about over here? [T] And, how did you obtain this? This value? [T] Hm. [T] Yes. [T] Yes. [T] Oh. That's right, huh? [T] And you obtained this from the table, right?"
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, can't this be found by calculation? [T] Hmm. [T] Oh. You formed a simultaneous equation, right? Okay."
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Oh. You formed a simultaneous equation, right? Okay. [T] Well then. This okay? Can you try thinking if it will be found by formulating a mathematical expression? [T] Okay? [T] Then, this one also, can you try thinking if it can be found by formulating a mathematical expression? Okay?"
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Then, this one also, can you try thinking if it can be found by formulating a mathematical expression? Okay? [T] Oh. You made a mathematical expression like this, huh? Okay."
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Oh. You made a mathematical expression like this, huh? Okay. [T] Oh. The fact is you've counted all the way, right? Okay. [T] Then, okay? Also, okay? After this I'll have you come up again and present, okay? Okay? This problem. [T] Since we can't write it in and erase it also, so that means woul"
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Don't say that. I'm counting on you. Okay? [T] You went on solving this? Okay. Then you did this by making x equal one. Okay. [T] Then, okay? Well, later on I'm going to have you present this part. Okay? Hm."
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, okay? Well, later on I'm going to have you present this part. Okay? Hm. [T] Hm."
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hm. [T] Then, okay? Ando, okay? This part, okay? Would you come up to present it later on? [T] Here and also one more. Up to here. Would you write just this part and also this part? [T] The rest is okay with dot, dot, dot. Since it's troublesome to write all of this. [T] Okay?"
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay? [T] And also. [T] Now, okay? I want Bunmei to. Umm, is it over here? Would you present this part? [T] Yes. Please write it. Okay? That you thought of it like this, okay?"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. Please write it. Okay? That you thought of it like this, okay? [T] Then, okay? I want Choshi to present okay? Um, this expression, okay? I'm going to have you present it later on. So- [T] Hm. This is smaller than. [T] Smaller than. [T] Hm. [T] Then, please think beforehand why you formulate"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, please think beforehand why you formulated a mathematical expression like this. [T] Okay. Then, um, would you look up please. [T] Now. When I looked around a little just now, well there were people who did it with different solving techniques. Okay? [T] Umm. Well it seems there were even p"
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Please. [T] Ha ha. [T] How would you do it? [T] So before. See? [T] Yes. [T] Okay. That's good. Okay. [T] Hmm."
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hum. [T] Hmm. [T] And, please say it, okay? [T] By the way, what day is this?"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] By the way, what day is this? [T] Okay. How is it? [T] Now. Just now. [T] Umm, for Daishi's method, okay? [T] Okay. While actually putting these in, okay? [T] There were other people that kept drawing lines like this, and solved the problem that way. [T] Doing it like that well the answer is the"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, people who also did it with this method themselves or who also tried doing this method. [T] Then, well would you raise your hands? [T] Okay, then you can lower them. [T] Then, continuing. Um. Is it Etsumi? [T] Then, would you write it around here? In the top part. [T] Okay. Then. Okay. [T]"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Over here. Around here. Around this side, okay? Around here."
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Over here. Around here. Around this side, okay? Around here."
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Over here. Around here. Around this side, okay? Around here."
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Over here. Around here. Around this side, okay? Around here."
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Then can you say your method of thought and also, um, how many days was it since they started. Okay."
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. That means the answer is? [T] Yes. The fifteenth day. Okay. That's good. [T] Okay, then in this case, uh, he did it for us by using a graph, right? [T] Then, it doesn't matter if you drew lines or not, but people who wrote it this way raise your hands. [T] Okay. Then, you can lower your ha"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Then, you can lower your hands. Okay? Okay. Then, continuing, um, Bunmei. [T] Okay? Then, would you write it around here? That part I asked you to, okay? [T] Yes. Go ahead."
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Then please explain it."
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Okay. Okay? Um. In the beginning. He just now said it. There is a difference of 70 yen, right? [T] In this expression that becomes 65 yen. Then 60 yen. Right? Since it becomes smaller"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] In this expression that becomes 65 yen. Then 60 yen. Right? Since it becomes smaller [T] by five yen okay? So he obtained it by noticing this, okay? Are there people who also tried it using this method? [T] Huh? One person. Two people. Just two people? Okay. That's good. [T] Okay, then continuin"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, then continuing, um, Fujita. Okay. Then, would you write it around here? Okay? [T] It's okay to not write all the lines of the mathematical expression. [T] That. Okay. [T] Yes. [T] And, if you can write the amount for X."
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And, the answer. Okay. [T] That's right, huh? Okay. [T] Okay. Okay. Please say-"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Okay. Okay, it's good. Okay? [T] Okay. She did it using letters, and this one we call X, okay? Um, the day it becomes equal, okay? The same amount of money. She thought about this fact, okay? [T] Well, she put in Y as the amount inside of the wallet for that day, right? [T] Or some people did it"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, well, simultaneous equations like this or an equation with just X, okay? [T] People who have tried doing it using things like these? Can you raise your hands a little? [T] Okay. That's fine. Okay. That's good. [T] And, also of course they are using letters, but there were some people who f"
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It's okay. Okay. Now, how to say it is a little difficult. [T] Okay? [T] Yes. [T] Yes. [T] Yes. [T] Then, well, can you say why you got a mathematical expression like this? [T] Yes."
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Yes."
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Okay. That's okay. Okay? [T] Okay, then just before, okay? There were some people who formed equations or simultaneous equations. [T] So just now there were some people who just wrote some equations. [T] But how this X is placed is a little different, right? [T] Okay. Then, is there anybod"
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Compared to what he just said now, okay? Um... the day the smaller brother's is bigger is X days later. [T] Okay. Then, is there anybody who says they also formed equations like this? [T] Okay, so two people, right? So these kinds of expressions... [T] The fact is these are the ones we're going "
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, um, right around here on the handout, okay? In the box- [T] Um, this part. The part around here, okay? Then, the mathematical expression where the wavy lines are drawn. [T] Then, um, please try writing these in."
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Then, um, please try writing these in."
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Then, um, please try writing these in."
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] Then, um, please try writing these in. [T] Okay. You don't have to write the others. Just here is fine. Okay? [T] Okay. Then, would you look up again? [T] If there are parts you haven't written you will have time to fill it in later, okay. Pay attention this way. [T] Is it okay with people who a"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Um, actually in Choshi's situation he has already obtained things after this by calculating, [T] but I think there are lot of people who saw this today for the first time, okay? [T] So today I think we would like to find the value for X that holds true for this mathematical expression while actu"
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And, when we put in a number for X, which is bigger the left side or the right side? [T] Okay? I think we would like to investigate that. [T] Now even if we're to actually put in numbers, well, we don't know starting from what number we should put i- [T] start at right? It's okay if we put in co"
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, since we are using the vicinity of 15, so ones before that are 14, 13. [T] Then, ones after that are 16, 17, okay? Then, I think we would like to investigate up to around 18. [T] Then... okay? The left side, okay? [T] When we substituted 13 into this X... okay? One hundred eighty minus 10 "
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Okay. Compared to that the right side is 110 minus five times. [T] In this X if we still put in 13... how much is this? [T] Yes. Forty-five. [T] That means in this situation, the values of the left side and the right side, which is greater? [T] Yes. The left side is greater, right? That"
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Yes. The left side is greater, right? That means since this side is greater, if we ask about the size relationship, okay? [T] The greater than symbol goes in, right? [T] That means, can we say that putting in 13 for X holds true for this inequality? [T] Yes. Well, the direction is different, rig"
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] How about it when it's 15? Now, with that, okay? I think I would like for you to do up to here. [T] And, if you find a situation when you can say it is true please try putting circle marks. [T] Then, would you do it up to there?"
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Then, would you do it up to there?"
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Then, would you do it up to there?"
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, would you do it up to there? [T] What goes in? [T] When they're the same? [T] That's right, huh? [T] Then, how about over here? See? [T] You put a mark here, right? [T] If you couldn't say, it's the wrong mark X. [T] Are they the same? Since they're not the same, do you understand? [T] Tha"
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] That's right, huh? You put a wrong mark, right? Yes."
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] That's right, huh? You put a wrong mark, right? Yes. [T] Please put marks also over here, okay? [T] Then, please put marks here, okay? [T] When you can say it is true, put the right mark. When you can't say it is true, put the wrong mark, okay? [T] You're already done writing? Then, now I'm sorr"
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You're already done writing? Then, now I'm sorry but would you go up front and write this? [T] Okay? This place. You can bring up this handout. Okay? [T] Okay then. [T] How about you, did you finish them all? Are you still in the middle?"
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] How about you, did you finish them all? Are you still in the middle? [T] How about this? Which is it? Is it the wrong mark or the right mark? [T] How about it? It's greater if over here is greater, okay? It holds true, okay? [T] How about it? [T] When you com- compare them. [T] That means, what "
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] That means, what is this?"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That means, what is this? [T] People who are done writing, okay? Look at Goda's and would you compare it with yours to see if it's the same or not, okay? [T] Oh. Th- [T] Here, okay? The right mark or the wrong mark, okay? [T] Have it written, okay?"
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Have it written, okay? [T] Okay, then up to here is okay. Okay? Try putting marks here. Okay? Doing it like that, okay?"
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, then up to here is okay. Okay? Try putting marks here. Okay? Doing it like that, okay? [T] Then. Okay. It's good. Okay. [T] Okay. Thank you. [T] Okay, then please look in the direction of the blackboard. Okay? How about it? [T] Well, would the people who had theirs the same as this raise y"
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That means, well if we look at the symbols over here, an X that holds true for this mathematical expression is [T] these four: 15, 16, 17, 18, right? [T] If we look exactly at the relationship of the size, the first one was greater than, but the next one is equals. The next ones are all smaller "
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Uh huh. Numbers greater than. Okay? [T] Huh? [T] Okay. The values of X that hold true for this mathematical expression, um, like this. Okay? [T] We call this value... um, I think it came up before but, um, we call it... the solution, um, of the inequality."
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] We call this value... um, I think it came up before but, um, we call it... the solution, um, of the inequality. [T] When we were doing equations, we said to solve for X that will make expressions like these work, right? [T] Um. We will think about inequalities in the same way. [T] Well would you"
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Um, if we look at the things written before, all of them are on the fifteenth day. But the answer, that one day, is it just the fifteenth day? [T] Then, will somebody say it for me? Is it like this? Then, just now, well, Higashi said it for me, but well would you say it for me? [T] Hm. [T] Hm. I"
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Yes. [T] Yes. Since if it's the nineteenth day, there isn't any more, right? [T] Money, right? That means, like it was said just now, it's not just the fifteenth day, [T] but that one we call one day is of course the fifteenth day but it might've been on the sixteenth day, right? [T] Th"
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] of these... well it was one of these days, right? [T] Okay. Then please write in this part, okay? At the bottom of the handout. [T] Then, would you pass it to the back? [T] Then, would you pass it back while doing that."
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, would you pass it back while doing that. [T] Oh. Was there one extra paper? Well, one paper. [T] Oh. It's passed back. Well, will there be one paper extra? One paper will be left. Okay."
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Oh. It's passed back. Well, will there be one paper extra? One paper will be left. Okay. [T] Okay, then are most of you done? Then, the small handout that was passed out just now. Please look at that. Is it okay? [T] Then, I will try reading it, okay?"
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, I will try reading it, okay? [T] Umm. The prayer was answered and, um, their mother was able to leave the hospital safely and- [T] Um, that night they gave a toast with juice. [T] Um, currently there are 50 milliliters of juice in Ichiro's cup, and 80 milliliters in the smaller brother's c"
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Form an inequality and think about it. It's a problem like this, okay? [T] Okay, then like before, I would like for you to look at the figure. [T] Okay, then okay? Since the fact is the mother, okay? Feels better so, um, that night, um, they gave a toast, right? [T] And, the smaller brother dran"
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So it's greatly decreased right? Hm. Now, then the mother, um, after this... okay? [T] Since he had less, she poured some for him, okay? The juice, okay? [T] Now, then since it would be poured rapidly, the amount of juice increases like this, right? [T] Okay. If she did it like that... when they"
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, for that, okay? In this situation what should we place as X? [T] Somebody? [T] What should we place as X? [T] Well, is it hard to say it in words? Or it's also okay with you saying it's here. [T] Okay. Then, Choshi. Okay. [T] Yes. [T] Yes. [T] The amount needed. Then, did you understand th"
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Come up front and- Okay. [T] Where is it? [T] Yes. [T] Yes. [T] Yes. [T] Yes. [T] Yes. Okay, if we do that, it's when they become the same, right? Yes. What else? [T] Then if we think like that, did it became more?"
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Then if we think like that, did it became more? [T] When we're asked how about when it's equal, okay? We could think things like this, but we can get a viewpoint of it becoming more, right? [T] When it's an inequality, okay? When it's that- [T] When we exactly... go from this situation... what p"
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. The increased amount, right? So, um, about the inequality, if you thi- if it's an equation we can also do it exactly here, okay? [T] Or if you thought about forming an inequality just like that, it may be okay if you place this as X. Okay. [T] Then, write in X milliliters in the figure and "
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Using symbols like this, please try expressing it. [T] Well, just the mathematical expression is okay. Well, among some of you there are people who made tables and are about to put in numbers. [T] Okay. Please try writing X here. That X is milliliters, okay? [T] Okay. [T] Hm, so all you have to "
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hm, so all you have to do is make a mathematical expression that says this here is greater than this. [T] Since all you have to do is make a mathematical expression that says this here is great than this. How much was the total here? [T] Huh? It's 50 plus X, right? How about over here? [T] Eight"
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Now. We don't have much time so, well I'm sorry, but okay then. [T] Let's have somebody say the mathematical expression. Okay. Anybody who wants to say it becomes a mathematical expression like this. [T] Huh? How to say it is this. All you have to do is use this. [T] Okay? Mostly, everybod"
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. People who can say they also got equations like this? [T] Okay. Now, you may lower your hands. [T] Then... this mathematical expression's... um, the solution. Meaning the values of X that hold true for this mathematical expression. [T] If we say that, what kind of numbers can we say they a"
+    },
+    {
+      "t_start": 3090.0,
+      "t_end": 3120.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Somebody? How about it? If we talk about values of X that hold true for this mathematical expression. Okay. Then, Fujita. Go ahead. [T] Yes. [T] Yes. More than 30. [T] Well, if we have it in numbers, numbers more than, okay? Thirty. [T] Now, since the fact is if we ask what kind of numbers are m"
+    },
+    {
+      "t_start": 3120.0,
+      "t_end": 3150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Now, we will write it later, so would you look this way. [T] Okay. Then, have zero around here and, okay? We'll have 30 around here, okay? [T] Then just now, um, she said numbers more than 30 for us, but then, for example, what number should we think about it? [T] If we ask about numbers more th"
+    },
+    {
+      "t_start": 3150.0,
+      "t_end": 3180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Thirty point? [T] One one. Oh. Thirty point one one. Anything else? [T] Forty. Okay? Now, incidentally, um, just now we got one, two, three, four- four numbers that are more than thirty. [T] But about how many are there? [T] Yes. There is an infinite amount. Okay? Meaning thirty. Is thirty inclu"
+    },
+    {
+      "t_start": 3180.0,
+      "t_end": 3210.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. It's not included, but if it comes over here even a little like thirty point one, the fact is it becomes more than 30, right? [T] That means all the drawn parts here are included. [T] If we say that, if we ask what the answer is... okay? If we use this compared to 30 milliliters, right? Amo"
+    },
+    {
+      "t_start": 3210.0,
+      "t_end": 3240.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay? It becomes like this, right? [T] Then, um, time has run out, okay? After the ending bow is finished, well, I think I would like you to write it. Then, for now we'll end. [T] Okay."
+    },
+    {
+      "t_start": 3240.0,
+      "t_end": 3270.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. [T] Oh. You don't have to copy it. Well, just this part is fine. I want you to know that there are ways of thinking like this, okay?"
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Leave them upside down. [T] Well. [T] Well. Don't say that. [T] Hmm. [T] I'll also try to aim that as best as I can. [T] Oh. It's okay even if you don't have it."
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Oh. It's okay even if you don't have it. [T] Pass it back as it is, upside down, okay? [T] Here."
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Now, let's start class. [T] Onegaishimasu. [T] Okay, then please look at your handouts. [T] Okay, then these are the problems we're going to do today. [T] Okay. Um. It has been one month since Ichiro's mother has entered the hospital. [T] Um. He has decided say a prayer with his smaller brother at a local temple every morning so that she will be well soon."
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] the smaller brother's amount of money was greater than Ichiro's. [T] How many days has it been since they started praying? That's the problem. [T] Now, I think there are points that are a little too hard to understand with just these sentences, so- [T] Well, I think I would like to look at a figure and check it. [T] Now, pay attention to the blackboard. [T] What the? [T] Okay. This is Ichiro's wallet, okay? [T] Um, then... okay, over here is the smaller brother's wallet. And, also there is a"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Um, then... okay, over here is the smaller brother's wallet. And, also there is an offertory box there, right? [T] Okay? [T] Okay. [T] Now, first we'll start looking at Ichiro's, okay? Okay? If we look at the wallet there are only 10-yen coins in there, right? [T] How much is in this in the beginning? [T] All together. How much is in it? [T] Yes. [T] Okay. The amount of money, well, in the beginning."
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, um, after this. Okay? Every morning from each wallet they take out one coin from each, okay? [T] They put them in this offertory box, right? [T] Now, first day one. Okay. Ten yen from Ichiro's wal- let- um, wallet and five yen from over here. [T] Okay? Now, it goes in from here and in this offertory box. [T] Okay. It's gets stowed away in here, okay? Is it okay? [T] Yes. [T] Okay, then how about it at this stage? Comparing Ichiro's and his smaller brother's wallet."
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, then how about it at this stage? Comparing Ichiro's and his smaller brother's wallet. [T] The contents of the wallet. Which one has more in terms of the amount of money? [T] Hmm. [T] Yes. Ichiro has more, right? Okay, then second day. [T] Okay. Of course right? They put in the coins in here. [T] How about it in this stage? [T] Hmm. Ichiro still has more, huh? Okay? Now, the fact is they continued things like this every day, okay? [T] But, in the morning of some day, okay? [T] Um. They "
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hm. Next to it is okay. Okay? [T] Masa. You did it up to the second day, right? Then, on the third day who has more? [T] This one has more? Then, how about the fourth day? [T] If you keep on doing it like that? Okay? [T] That's good. [T] Now, just now see? You did it up to the second day, right?"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hm. You erased the first day okay. Then, how about the second day? [T] Hm. [T] Then, try putting in the dates there. [T] Okay? [T] How did you obtain this? [T] Oh. You counted it all the way? Hm.. [T] Now, well... is there any method to find it that's simpler? Can you please find that."
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Oh. It was on the twelfth day, right? Then, can you do it a little more? Okay? [T] Then if you try combining this and this then you can make a mathematical expression. Okay? [T] Was it something like a mathematical expression? [T] Hmm. [T] Then, this okay? Can you do it without using the Y?"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Oh. You combined them, right? [T] Whose amount of money is this? [T] Yes. [T] Hm. [T] Hm... [T] Then, how about over here? [T] And, how did you obtain this? This value? [T] Hm. [T] Yes. [T] Yes. [T] Oh. That's right, huh? [T] And you obtained this from the table, right?"
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, can't this be found by calculation? [T] Hmm. [T] Oh. You formed a simultaneous equation, right? Okay."
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, okay? Well, later on I'm going to have you present this part. Okay? Hm. [T] Hm."
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hm. [T] Then, okay? Ando, okay? This part, okay? Would you come up to present it later on? [T] Here and also one more. Up to here. Would you write just this part and also this part? [T] The rest is okay with dot, dot, dot. Since it's troublesome to write all of this. [T] Okay?"
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay? [T] And also. [T] Now, okay? I want Bunmei to. Umm, is it over here? Would you present this part? [T] Yes. Please write it. Okay? That you thought of it like this, okay?"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. Please write it. Okay? That you thought of it like this, okay? [T] Then, okay? I want Choshi to present okay? Um, this expression, okay? I'm going to have you present it later on. So- [T] Hm. This is smaller than. [T] Smaller than. [T] Hm. [T] Then, please think beforehand why you formulated a mathematical expression like this."
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Please. [T] Ha ha. [T] How would you do it? [T] So before. See? [T] Yes. [T] Okay. That's good. Okay. [T] Hmm."
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hum. [T] Hmm. [T] And, please say it, okay? [T] By the way, what day is this?"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] By the way, what day is this? [T] Okay. How is it? [T] Now. Just now. [T] Umm, for Daishi's method, okay? [T] Okay. While actually putting these in, okay? [T] There were other people that kept drawing lines like this, and solved the problem that way. [T] Doing it like that well the answer is the fifteenth day... they obtained it like that, okay?"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. That means the answer is? [T] Yes. The fifteenth day. Okay. That's good. [T] Okay, then in this case, uh, he did it for us by using a graph, right? [T] Then, it doesn't matter if you drew lines or not, but people who wrote it this way raise your hands. [T] Okay. Then, you can lower your hands. Okay? Okay. Then, continuing, um, Bunmei."
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, then continuing, um, Fujita. Okay. Then, would you write it around here? Okay? [T] It's okay to not write all the lines of the mathematical expression. [T] That. Okay. [T] Yes. [T] And, if you can write the amount for X."
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It's okay. Okay. Now, how to say it is a little difficult. [T] Okay? [T] Yes. [T] Yes. [T] Yes. [T] Then, well, can you say why you got a mathematical expression like this? [T] Yes."
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Yes."
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] Then, um, please try writing these in. [T] Okay. You don't have to write the others. Just here is fine. Okay? [T] Okay. Then, would you look up again? [T] If there are parts you haven't written you will have time to fill it in later, okay. Pay attention this way. [T] Is it okay with people who are looking down? Is it okay? Then-"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Okay. Compared to that the right side is 110 minus five times. [T] In this X if we still put in 13... how much is this? [T] Yes. Forty-five. [T] That means in this situation, the values of the left side and the right side, which is greater? [T] Yes. The left side is greater, right? That means since this side is greater, if we ask about the size relationship, okay?"
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] How about it when it's 15? Now, with that, okay? I think I would like for you to do up to here. [T] And, if you find a situation when you can say it is true please try putting circle marks. [T] Then, would you do it up to there?"
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You're already done writing? Then, now I'm sorry but would you go up front and write this? [T] Okay? This place. You can bring up this handout. Okay? [T] Okay then. [T] How about you, did you finish them all? Are you still in the middle?"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That means, what is this? [T] People who are done writing, okay? Look at Goda's and would you compare it with yours to see if it's the same or not, okay? [T] Oh. Th- [T] Here, okay? The right mark or the wrong mark, okay? [T] Have it written, okay?"
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Um, if we look at the things written before, all of them are on the fifteenth day. But the answer, that one day, is it just the fifteenth day? [T] Then, will somebody say it for me? Is it like this? Then, just now, well, Higashi said it for me, but well would you say it for me? [T] Hm. [T] Hm. It includes up to. How about the nineteenth day? [T] Why?"
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Yes. [T] Yes. Since if it's the nineteenth day, there isn't any more, right? [T] Money, right? That means, like it was said just now, it's not just the fifteenth day, [T] but that one we call one day is of course the fifteenth day but it might've been on the sixteenth day, right? [T] The day they looked accidentally was sixteenth day or the seventeenth or the eighteenth day... [T] of these... well it was one of these days, right?"
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then, for that, okay? In this situation what should we place as X? [T] Somebody? [T] What should we place as X? [T] Well, is it hard to say it in words? Or it's also okay with you saying it's here. [T] Okay. Then, Choshi. Okay. [T] Yes. [T] Yes. [T] The amount needed. Then, did you understand that one just now? [T] Then, would you point with your finger? [Laughter]"
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Come up front and- Okay. [T] Where is it? [T] Yes. [T] Yes. [T] Yes. [T] Yes. [T] Yes. Okay, if we do that, it's when they become the same, right? Yes. What else? [T] Then if we think like that, did it became more?"
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Using symbols like this, please try expressing it. [T] Well, just the mathematical expression is okay. Well, among some of you there are people who made tables and are about to put in numbers. [T] Okay. Please try writing X here. That X is milliliters, okay? [T] Okay. [T] Hm, so all you have to do is make a mathematical expression that says this here is greater than this."
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hm, so all you have to do is make a mathematical expression that says this here is greater than this. [T] Since all you have to do is make a mathematical expression that says this here is great than this. How much was the total here? [T] Huh? It's 50 plus X, right? How about over here? [T] Eighty. And, which is more? [T] Over here? So for that... all you have to do is use that symbol, right? [T] Ah. Okay. [T] Okay. Now. We don't have much time so, well I'm sorry, but okay then."
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Now. We don't have much time so, well I'm sorry, but okay then. [T] Let's have somebody say the mathematical expression. Okay. Anybody who wants to say it becomes a mathematical expression like this. [T] Huh? How to say it is this. All you have to do is use this. [T] Okay? Mostly, everybody seemed to be able to do it. [T] Okay, then. Izumi. Would you try saying it? [T] Yes. [T] Hm? Which? [T] Bigger than. Okay. Greater than. Okay. [T] Okay."
+    },
+    {
+      "t_start": 3090.0,
+      "t_end": 3120.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Somebody? How about it? If we talk about values of X that hold true for this mathematical expression. Okay. Then, Fujita. Go ahead. [T] Yes. [T] Yes. More than 30. [T] Well, if we have it in numbers, numbers more than, okay? Thirty. [T] Now, since the fact is if we ask what kind of numbers are more than 30, well I think I would draw a number line. [T] Now, we will write it later, so would you look this way."
+    },
+    {
+      "t_start": 3180.0,
+      "t_end": 3210.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. It's not included, but if it comes over here even a little like thirty point one, the fact is it becomes more than 30, right? [T] That means all the drawn parts here are included. [T] If we say that, if we ask what the answer is... okay? If we use this compared to 30 milliliters, right? Amounts more than that. [T] Okay? It becomes like this, right?"
+    },
+    {
+      "t_start": 3210.0,
+      "t_end": 3240.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay? It becomes like this, right? [T] Then, um, time has run out, okay? After the ending bow is finished, well, I think I would like you to write it. Then, for now we'll end. [T] Okay."
+    },
+    {
+      "t_start": 3240.0,
+      "t_end": 3270.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. [T] Oh. You don't have to copy it. Well, just this part is fine. I want you to know that there are ways of thinking like this, okay?"
+    }
+  ]
+}

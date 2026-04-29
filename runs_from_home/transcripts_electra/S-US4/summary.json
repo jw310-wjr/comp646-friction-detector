@@ -1,0 +1,1040 @@
+{
+  "lesson_id": "S-US4",
+  "transcript": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science US4 transcript.txt",
+  "n_bins": 82,
+  "n_risky_bins": 5,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] All right, let me show you something from yesterday. [T] Given enough time, and enough... depth, what's gonna happen to the sediments? [T] What's gonna happen, there Yolanda?"
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That's good. [T] Now if- how are you gonna spot, how are you gonna identify sedimentary rock when you see it? [T] What's (it have)? [T] Well, you're telling us certainly how it's made."
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And, you know, that's certainly a good thing, all right? But I- I just want to come back to this. [T] You know, we know how it's made. [T] Sediments get deposited, buried and cemented together, as Yolanda tells us, and it forms sedimentary rock. [T] But my question is, how are you gonna spot it,"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] But my question is, how are you gonna spot it, how are you gonna identify it when you see it? [T] There's a lot of roads that are cut from sedimentary rock, and you can see it if you know what to look for. [T] What's that, Samuel? [T] Oh. [T] Let's see. [T] Like that?"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now, how do you know that's sedimentary rock? [T] How do you know? How do you know? How do you know, Nikita? Look at it. [T] How do you know it's stuck together? [T] Say that. [T] Okay. That's what- who said that? [T] That's what Samuel said. Absolutely. Absolutely. [T] So, you know, just in a c"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So, you know, just in a cross-section, looking at it from the side, it appears like that. [T] All right. Now, how do you- why do you suppose you can see the layers here? Because if this river wasn't here, you wouldn't see the layers. [T] What did the river do to the rock? At least the sedimentar"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, but what did the river do to the sedimentary rock? [T] We did this. What is that, Eric? [T] That's right. So here's a wonderful example of a river- it's the Colorado River- cutting a canyon, [T] and in canyons, if the river is cutting through sedimentary rock, you could see the layer. Now,"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Suppose- and this was our little model from yesterday- suppose when the sediments got deposited in- in some ancient sea. [T] Sorry. [T] Suppose- suppose an animal, the remains of an animal, got deposited in the river along with the sediments. [T] So now we have an animal, you know, that could ha"
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So now we have an animal, you know, that could have been buried... a million years ago, 10 million years ago, 50 million years ago. [T] What do you think's gonna happen to that animal? [T] Rudy, what do you think? [T] That's right. Now, there's a word for that. There's a word for that. [T] What'"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That's good. Very good. [T] I'd love to pass it around, but since it's sedimentary rock- you can see the layers here- I'm afraid that it's gonna fall down and crack. [T] So I'll just come around. How do you like that, Terrence? [T] Huh?"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Huh? [T] You did good yesterday, Antwone. All right. Now, let me ask you another question. [T] Suppose we dig down further into the sedimentary rock, into a layer that's underneath it. [T] Maybe- maybe this fossil of a fish is found in here, and maybe something like this-"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Maybe- maybe this fossil of a fish is found in here, and maybe something like this- [T] is found below it. [T] Well, it's called a brachiopod. And to us it looks like a clam. It's a shelled animal. If you had this fossil and you found it over here, [T] which would you say is older?"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] which would you say is older? [T] Which would you say is older? [T] What would you say, Aisha- Angela? [T] This one is older? [T] Why is the bottom older? [T] That's right. [T] So I- so obviously the- the strata or the layers on the bottom are older than the ones on the top. [T] Now, you could u"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] This is how geologists go about figuring out what animal came first and what animal came second and what animal came third. [T] So it's almost like looking back in a book, where the pages at the bottom contain fossils that are older than the pages on the top. [T] All right. Now, let me show you "
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All right. Now, let me show you something. Let me shut this. Corey, you want to get the lights for a minute? [T] Don't laugh. [T] Sonia, I told you not to laugh. Oh. [T] All right. Any idea where I am? [T] Any idea?"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Well, I don't mean the exact- I can tell you the exact location, but the type of landscape I'm on. [T] No. It's not ice, Samuel. [T] Sonia? [T] It's a kind of mountain. [T] I don't know if you can call it a cliff. [T] I'm standing on rock."
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I'm standing on rock. [T] Sonia, got a clue here? [T] Delia. I'm sorry. [T] Yolanda? [T] No. That's not how this hole got here. All right. Rudy?"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No. That's not how this hole got here. All right. Rudy? [T] Let me tell you where it was, all right? This is in an island- [T] Does that help? The island of Hawaii. [T] Hawaiian islands- [T] There's many islands. The biggest one is- is Hawaii. The one that has the- the capital, Oahu- or Honolulu"
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] But there's something about the Hawaiian islands. [T] What is that? What was that? //Jeffrey? [T] That's right. [T] So I'm standing on a vol- near the top of a volcano. Now, if I'm standing on the top of a volcano, [T] Why am I not standing on sedimentary rock?"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Why am I not standing on sedimentary rock? [T] Why do I have to be standing on another kind of rock that we're gonna call non-sedimentary at least for the time being? Why? Paola? [T] Can't hear. [T] Well, you're getting close. [T] You're getting close. What is it? What do you say, Carl?"
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No. [T] Wait a minute. We just got through saying not 10 minutes ago that if sediments get deposited in some sea and they get buried deep enough- [T] they may be pressed into sedimentary rock. [T] Now, I'm not standing on sediments, and I'm not standing on sedimentary rock. What kind of rock am "
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Now, I'm not standing on sediments, and I'm not standing on sedimentary rock. What kind of rock am I standing on? [T] What is that- what do you say there, uh, Kyra- uh- [T] Kyra. [T] Yeah, but how is it different than sedimentary rock? Think the way this rock- this rock forms. [T] How did it for"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] How did it form, Terrence? How does it form, Samuel? [T] Heat is necessary. Sonia? [T] What comes out of a volcano? [T] Okay. //Now, [T] we can call it lava if it comes to the surface. [T] Some lava never comes to the surface. We can't call it lava; we have to call it magma."
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Some lava never comes to the surface. We can't call it lava; we have to call it magma. [T] Once you say magma, you include the magma that comes to the surface that we call lava, [T] or magma that never makes it to the surface, stays underground. Now, look at your charts. [T] What has to happen t"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What has to happen to magma, or in other words, molten rock- that's where the heat comes in- in order for it to become solid? Think about it. [T] That's right. So if magma cools, it becomes solid, much the same way that when water cools it becomes ice. [T] And what kind of rock is this non-sedim"
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Very good. So there's another type of rock. Now, look at this. Let me lower the screen a minute. [T] So I- I went down the slope of the volcano, I walked about four or five miles, and I came to this sign."
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So I- I went down the slope of the volcano, I walked about four or five miles, and I came to this sign. [T] So I'm giving away my age. What does it say there? [T] Sheba, what does it say? I know if you can see it, the rest of us can see it. [T] Okay. What kind of rock do you think this is? [T] W"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] You're right. Lava is magma, but this long since cooled down. This isn't hot anymore. It became solidified. What kind of rock? [T] Okay. So let's put that one on the board. If you had to- if you had to describe how igneous rock is formed, how could you say it in one sentence?"
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. So let's put that one on the board. If you had to- if you had to describe how igneous rock is formed, how could you say it in one sentence? [T] One sentence. [T] One sentence. [T] What would you say, Terrence? One sentence. [T] It's on the chart right in front of you."
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It's on the chart right in front of you. [T] You see it? [T] All right. How does igneous rock form? [T] How does it form, Kyra? [T] Can't hear."
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now, when magma cools, what happens to the state of matter that it's in? There's a change in state of matter? [T] Yeah. So what's the change, Rudy? [T] Okay. So it becomes solid so we could say it solidifies. [T] There you go. All right. Now, look at this."
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] There you go. All right. Now, look at this. [T] What evidence is there that this is igneous rock? Look at- look at the surface. Look at the surface. [T] Look at the surface."
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Touch it. [T] It's not hot anymore. [T] All right. Anyone see any evidence? Remember, it was once liquid. [T] What do you see there? What do you see, Terrence? [T] Well, you're right. What do you think the little holes are from? [T] What kind of bubbles?"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Well, what makes bubbles? [T] Air. Some kind of gas. [T] So when this magma came up through the volcano in Hawaii, the magma that it contained had a lot of gas in it. [T] I guess it was something like club soda, has bubbles in it. So when the rock cooled and solidified-"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The holes- yeah. The holes became preserved. All right? Now, take a look at your chart. I want to show you something. [T] Right under the rock cycle chart is a scheme for igneous rock identification. [T] Now, you see where it says vesicular? [T] You see? Look where I'm pointing. [T] Vesicular me"
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Vesicular means gas bubbles. So what I'm holding is vesicular basalt, all right? Gas bubbles. You could write it right on your chart. [T] All right? Now, I want to show you something else. [T] All right. I'm gonna pass back two igneous rocks. In a way they're almost the same, and in another way "
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Well, that's because it was near the projector. All right. I just want you to look at it and then pass it back. [T] You can touch it, but pass it back, because one of these is a fairly rare rock, and I don't have enough for everybody. [T] Pass it. [T] Okay. I'm gonna give one to Antwone. [T] All"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now, I'll tell you up front that you're looking at igneous rock, two different samples. Now, if I- if it's igneous rock, where did it come from? [T] All right. Well, yeah. Don't call it mag- don't call it lava. Let's call it magma. [T] Okay? [T] Now, let me tell you a little story."
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now, let me tell you a little story. [T] Here's a cross-section of some part of the crust of the earth. Now, what do you think these horizontal layers are? [T] What kind of rock? [T] What kind of rock? [T] What kind of rock comes in layers? [T] Yeah. All right? So these are different types of se"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yeah. All right? So these are different types of sedimentary rock, the layers. Oldest is on the bottom. [T] Now, what does it say- what does it say here, Kyra? If you can see it, everybody can. [T] Okay. So at one time this was molten. What happened to at least some of the magma? Look. [T] Well,"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That's right. And what we say is it intruded into the rock that was already there, so we call this an igneous intrusion. [T] Sort of intruded into the rock that was already there. Now, let's follow this intrusion. Where did this intrusion wind up? [T] Ah. Okay. Now, that could be a kind of volca"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] because the magma is very liquidy and loose, so it spreads out. [T] Now, why would this magma that came out at the surface cool faster than the magma, let's say, that never made it to the surface? [T] I mean, there's a lot. I'm just using this as an example. Cools slowly. Why? Why is that, Delia"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That's exactly right. As a matter of fact, some magma cools even quicker. There's magma- there are volcanoes under water, [T] and the magma comes up and freezes much quicker than it does in the air. But, anyway, how many people have ever made rock candy? [T] All right. The longer you let that st"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All right. Let me show you something. Magma is a liquid, and in the liquid you have charged atoms. [T] In the seventh grade, you learned that atoms when they become charged, when they become dissolved, [T] when they became liquid form- when the state of matter changes, they become ions. [T] Now,"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now, since this is magma and it's a liquid, the atoms can move around. What do you think's gonna be attracted by a positively charged ion? [T] Huh? [T] Why? [T] Right. So given enough time, positive atoms- positive ions attract negative ions and negatively charged atoms, and they'll- [T] they'll"
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] they'll line up due to electrical charges. Given enough time, they arrange themselves very orderly, and you might wind up with something like this. [T] What is it? [T] It's a cry- That's all a crystal is. It's an orderly arrangement of atoms, [T] and the atoms align- aligned themselves when the "
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So the longer the magma stays liquid, what can you say about the size of the crystal? [T] It gets bigger. Okay. But suppose the magma comes out at the surface and cools real quick. [T] What's gonna happen to the charged atoms? Will they have a chance to line up and become- [T] All right. Now, re"
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] There was one that had big crystals, and there was one that had small crystals. Who has the rock now? [T] All right. Do me a favor, Shevaun. Hold up the one that you see has big crystals. [T] Okay. And how do you know it has big crystals? [T] Yeah. Here it is. Well, here it is. I put this down o"
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No, it's not- you can see //the- [T] That's right. It's granite. [T] All right? So this- this, that cooled under ground, the crystals had time to line up, the magma took a long time, [T] because it cooled very slowly, so you get large crystals. [T] But where the magma- but where the magma comes "
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] But where the magma- but where the magma comes out at the surface, [T] atoms don't- and magma freezes really quickly, atoms don't have time to line up, you get small crystals. [T] Okay? Now who else has the rock now? [T] Okay, Antigua, hold up the rock that cooled quickly. [T] Hold it up. How do"
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Can you see little specks in there? [T] Those may be those tiny crystals, all right? Now, one more thing. If you're wondering how I'm naming these rocks, it's all on the chart. [T] First of all, is the rock that you are holding- is it light colored or dark colored? [T] Light colored. Okay. Now, "
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Light colored. Okay. Now, notice on your chart it says color: light. So these rocks over here are all light in color. [T] Now, according to the chart, what the- what's the color of these igneous rocks? [T] Yeah. It says \"dark.\" So since they're light in color, I know and you should know that it "
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] or even a rock called the pegmatite. Now, look over here where it says grain size. [T] That's a way of describing the crystal size. You might want to write \"crystals\" here. [T] All right? Which of these- which of these word- which of these correspond to something that has a fine grain or tiny cr"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Less than one millimeter or less than a tenth of a centimeter, light colored. That rock is rhyolites. [T] But if it has bigger crystals, let's say a tenth or one millimeter to a centimeter big- [T] That's right. Then it's granite. So it's really very simple. [T] Now, if the rock took a rea"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now, if the rock took a real long time to cool, if it's one centimeter or 10 millimeters or larger, then it's called pegmatites. [T] Let me see. Here's the pegmatite. Look how big those crystals are. There's one crystal right here. It's feldspar. All right? [T] So this one took a real long time "
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So this one took a real long time to cool. The crystals are really big. We say it has a very big grain size. Okay. Let's wrap this up. [T] How do you know by looking at an igneous rock, where the rock cooled? [T] Where the magma cooled? What's the general rule, Yolanda? [T] Look at the rock. How"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Look at the rock. How do you know that the magma that formed an igneous rock cooled underground? How do you know, Rudy? [T] Okay. So as the magma cools underground- Rudy, what did you say? [T] Well, tell us about the size. [T] //Big? Little? [T] Okay. [T] And on the other hand, if the magma came"
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And on the other hand, if the magma came out at the surface maybe through a volcano- [T] Then what's gonna be the size of the crystal? What, Terrence? [T] Okay. [T] All right. Now, listen to this question. Here's another igneous rock."
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All right. Now, listen to this question. Here's another igneous rock. [T] You see any crystals in here, Eric? [T] Okay. Tiny crystals. What's the name of this rock? Look at your chart. Look at your chart. [T] Here. I got one that was transported by a stream. What's- very ti- well, it's round."
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Here. I got one that was transported by a stream. What's- very ti- well, it's round. [T] It's really heavy. [T] What's the name of it, Shevaun? [T] Very good. How did you get basalt? [T] Okay. [T] Very good. [T] Ah. (inaudible) dark. Basalt: small, tiny crystals, dark in color, and- look- here a"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Ah. (inaudible) dark. Basalt: small, tiny crystals, dark in color, and- look- here are the minerals that make up the rock. [T] Here are the minerals that make up granite and rhyolite. [T] Why do you think granite and rhyolite are light in color? What does that tell you about the minerals- the co"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yeah. And look: quartz, clear to white; feldspar, pink to white. [T] So the rock is white- light colored, because the minerals that make up the rock are light. [T] But on the other hand, different parts of the world have different magmas. It's like soup. [T] So this soup, or this magma, containe"
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So now you know how to name the igneous rocks. Now, suppose you had an igneous rock that cooled so quickly no crystals had time to form. [T] What's the name of that rock? I can't pass this around because it happens to be very, very sharp. [T] That's right. It's glass. [T] If you ever wondered ho"
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If you ever wondered how did the cavemen shave- how do you- how do you- how did they shave before they had- [T] This. If you hit it the right way, it flakes off, and you get something as sharp as a razor blade, even sharper than a razor blade, [T] and that's how they shaved. [T] No, really, //if"
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All right? Now, here. How did you know that, Shevaun? [T] Where does it say that? [T] Okay. [T] No crystals. No crystals tells you something about how fast the magma cooled. [T] Right. So in this case there's magma that cooled so quickly no ions have time to line up, [T] and you get obsidian if "
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] and you get obsidian if it contains these minerals or basaltic glass if it contains the darker ones. [T] All right? Now, I sometimes do this. How did- how did the cavemen- [T] or how did the American Indians, people that- or before they invented- discovered metal, how did they flake these? [T] H"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No. They didn't do that. [T] They didn't do that. And they made some very fine tools out of this. [T] I think the Egyptians used this as scalpels. They did operations. So did the Indians in South America. They did operations. [T] They didn't have knives- well, they had knives, but how do you fas"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right. [T] I'm not gonna do it; I'm afraid it's gonna fly off and hit somebody, but if you hit it just the right way- [T] they used their hands and another tool to bang it on. If you hit it just the right way, you get these flakes that are real sharp."
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I think one went into my finger. I feel a little splinter. [T] Clean as a whistle. It's as sharp as any razor blade. [T] All right? How many people saw the movie Congo?"
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. I didn't see it. My son told me about it. It has to do with diamonds, right? [T] All right. Delia, what about the diamonds? Where were they? [T] How big were the diamonds? [T] All right. I read an article just two days ago. They didn't use real diamonds. [T] They didn't use glass."
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] They used a mineral that you find in granite. It's the clear one. It's called quartz. [T] All right? Now, this crystal of quartz, is kind of rare because it's called the twin. It has a point on both sides. [T] Not like this one that has- it's only pointed on one side. Now, as far as I know, ther"
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Not like this one that has- it's only pointed on one side. Now, as far as I know, there's only one place that has these quartz. [T] It's called Her- it's found in the city of Herkimer, New York, and they call it a Herkimer diamond. [T] It's not really a diamond, but it has this shape like a diam"
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right? Now, I told you- we talked about Cooperstown- Cooperstown, New York. [T] Remember Cooperstown? Remember Howe Caverns? [T] Right, Howe Caverns? [T] Well, if you go into Howe Caverns to see the limestone cave- [T] All right? Right here. I think it's a little north of Albany. [T] If you "
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] If you go a little further north- remember the Baseball Hall of Fame is here- you have the town of Herkimer [T] and as soon as you get into the town of Herkimer you see signs, \"Visit the Herkimer Diamond Mines,\" and that's where it is. [T] You go to the Herkimer Diamond Mines. They rent you- Ant"
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You see it? You can rent hammers, goggles, and they'll send you out into this cliff, and you can hack away at the rock, [T] and that's how I found the- this Herkimer diamond. They're there for you- they're there for you to get. [T] Yeah. So it's- it's kind of a neat geology- neat geology trip to"
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] They're very- I don't think they're found anywhere around the earth except in Herkimer, New York. [T] All right, now let me ask you- here's a tough question. [T] Okay. How many people saw ET? Does that look familiar? [T] That look //familiar?"
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] This is in Yosemite National Park. It's called Devil's Tower. I believe it's in Yosemite. It's out west. Now, this is solid granite. [T] How could you explain- since granite cools underground slowly- that's why it has big crystals- [T] how in the world can this piece of granite be above the surf"
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] how in the world can this piece of granite be above the surface? [T] What do you think, Paola? [T] All right. This has large crystals. It cooled slowly, it cooled underground, but yet here it is. [T] What do you say, Eric?"
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What do you say, Carl? [T] What do you say, Corey? [T] Kyra? [T] No. Samuel? [T] Oh. You mean- what are you saying? It really did cool underground? [T] All right. So if it cooled underground, that would account for the large crystals."
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All right. So if it cooled underground, that would account for the large crystals. [T] But you see it now above ground- so what do you say, Yolanda? [T] So you mean something pushed it up? [T] Okay. That's very good. [T] Almost. [T] It was pushed up, but at one time it was an intrusion, and ther"
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It was pushed up, but at one time it was an intrusion, and there was rock around it. [T] What happened to the rock around it? [T] Or what could have happened to the rock around it? And think back to Niagara Falls. [T] Carl?"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It might have been water, what? [T] What wore away? [T] The s- why? [T] Very good. It must have been softer. Okay. [T] Thank you. Yeah. All right."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Very good. So there's another type of rock. Now, look at this. Let me lower the screen a minute. [T] So I- I went down the slope of the volcano, I walked about four or five miles, and I came to this sign."
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right. [T] I'm not gonna do it; I'm afraid it's gonna fly off and hit somebody, but if you hit it just the right way- [T] they used their hands and another tool to bang it on. If you hit it just the right way, you get these flakes that are real sharp."
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right? Now, I told you- we talked about Cooperstown- Cooperstown, New York. [T] Remember Cooperstown? Remember Howe Caverns? [T] Right, Howe Caverns? [T] Well, if you go into Howe Caverns to see the limestone cave- [T] All right? Right here. I think it's a little north of Albany. [T] If you go a little further north- remember the Baseball Hall of Fame is here- you have the town of Herkimer"
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] If you go a little further north- remember the Baseball Hall of Fame is here- you have the town of Herkimer [T] and as soon as you get into the town of Herkimer you see signs, \"Visit the Herkimer Diamond Mines,\" and that's where it is. [T] You go to the Herkimer Diamond Mines. They rent you- Antwone, you looking for it? [T] You see it? You can rent hammers, goggles, and they'll send you out into this cliff, and you can hack away at the rock,"
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You see it? You can rent hammers, goggles, and they'll send you out into this cliff, and you can hack away at the rock, [T] and that's how I found the- this Herkimer diamond. They're there for you- they're there for you to get. [T] Yeah. So it's- it's kind of a neat geology- neat geology trip to go to Howe Caverns, go a little further north, and find- mine Herkimer diamonds. [T] They're very- I don't think they're found anywhere around the earth except in Herkimer, New York."
+    }
+  ]
+}

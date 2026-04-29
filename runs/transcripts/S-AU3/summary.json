@@ -1,0 +1,1080 @@
+{
+  "lesson_id": "S-AU3",
+  "transcript": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science AU3 transcript.txt",
+  "n_bins": 69,
+  "n_risky_bins": 23,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Have a seat, Al. Right, ready to start guys. Now, what we're doing today. [T] As you can probably see, we've got kidneys around the room, so we're going to do a kidney dissection. [T] Now we've started talking about, with this topic, we've talked about excretion. [T] Right, so- have a seat there"
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So first of all, we've said excretion is when wastes are removed from the body. [T] So excretion is when wastes are removed from the body. [T] For example, when we breathe out we get rid of some wastes- from our- from our blood. [T] What sort of wastes do we get rid of from our- from our blood w"
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So what waste is removed by the blood from the kidneys? We talked about this last lesson. Who can remember? Harry? [T] What's it called? It starts with u. [T] Urea, right. Now urea is made when the body breaks down protein. [T] If there's too much urea in the blood, it's a poison, it has to be g"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Water, well done. Okay, so the kidneys, they filter two things out of the blood. They filter urea and they filter water. [T] Right. When you mix the two together what do you get? can you tell me? Tony? [T] Urine well done. Okay, so you mix urea with u- with ah water and you end up with urine. Ri"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Now we want to- you had to cut out um sections of the kidneys for homework. [T] Let's go through and label the different parts. [T] Yeah, that's right. [T] So on your, the one you did for homework, let's just go through and label the different parts. I've already labeled them on mine."
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So on your, the one you did for homework, let's just go through and label the different parts. I've already labeled them on mine. [T] I'll just rub that writing off the board. I want you to label these on your sheet. [T] These are the parts of the kidney we're going to look at today. [T] Right, "
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So use your ruler, draw a line from the top part of the kidney, opened up from the inside and that's called the cortex. [T] So label that on yours please. [T] Open up the flap of the- of the- ah- fr- open the kidney up. Label the cortex. It's just the part there. So the cortex is the part here. "
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Next part. This part here is called the Bowman's capsule, but that's been really highly, highly magnified. [T] So that's- it's much, much bigger there that what it is normally. Have you got a note, Karen? [T] Okay, can you hand in the note please? So it's been really magnified. [T] So label thos"
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Next part. The really dark red part, which is involved in the filtering the blood. Yep? [T] //on the bus, okay, we're just um- you'll just have to copy someone else's book for homework. Okay. Right. [T] Medulla is this part here, the dark red part. [T] So when you colour in that dark red part in"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Come give me your note? Thanks, have a seat. Close the door. [T] Right, and so I said the medulla's the part that filters out the urea and it filters out the water. [T] Okay, if it breaks down then your body builds up with too much water- [T] And it builds up with too much urea and so you get po"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yep. So the medulla filters out the urea, it filters out the water and it collects here in the pelvis. [T] So label the pelvis, p-e-v, p-e-, p-e-l-v-i-s. [T] And it collects in the pelvis. And once it's collected in the pelvis it runs down to the bladder- just move this across- [T] It runs down "
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Okay, so, it gets filtered out in the medulla, it collects in the pelvis and it goes down the ureter, a tube down to the bladder. [T] So label the bladder, which is down there. There's your bladder. [T] Yep. [T] Okay, I'll have to give you the sheet, and you'll have to catch it up. Okay. [T] But"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] No, one per group. Right, so here's your bladder. Last part is your urethra. [T] And that's the part that goes from the bladder to the outside. Okay. [T] So the urethra is a tube going from the bladder to the outside. Yeah, John. [T] Okay, we've got sheep's kidneys here, and I've also got some o"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Ah, the ureter. [T] All right, everybody copied that down? [T] So what we're going to do is we're going to go through the dissection sheet with you. [T] Then you guys are going to dissect the um, kidney. And then we're going to put the results together. What we've found. [T] What the diff- where"
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] (inaudible) that's the one there. All right, now you- there's some good questions. [T] You can see the ones as you walked in, they're covered in a white material. Okay, so here is- okay, I'll fix it up in a minute. [T] Here is two kidneys out of an ox. Now as you can see, this is how they normal"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Fat. Okay, so both kidneys, in our bodies also, the kidneys are surrounded by fat. [T] All right, so to protect them and also to insulate them. Yeah, Julia? [T] How big are they? Okay, so about the same size as your fist again. [T] So a bit- a bit s- so it's a bit smaller than the heart. So your"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] You're going to do a number of things. I'll just get that in the right spot there. [T] All right, first of all, you have to remove the fat off the- off the kidneys. So you need a pair of scissors for that. [T] So first of all remove the fat from r- the outside of the kidneys. It takes a little w"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yeah, the fat comes off really easily. It's probably easier just to- to pull it off. [T] But as you pull it off, there's one thing to be careful of. There's a number of tubes coming out of the kidney. [T] You don't want to rip them out. [T] So peel- peel the fat off from all around the kidney on"
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Now, I'll show you how to use the scalpel. Scalpels are not for using like this, Al. Scalpels aren't to be used like this, okay. [T] The way you use a scalpel is by using it to push the- the meat away, or the fat away. [T] So you sort of scrape it with a scalpel. That sort of cuts it as well. So"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Okay so there's- you can see that there. There's the ureter. There's an artery. No, there's a vein and there's an artery. [T] As I said, the dissection's quite simple. [T] All you need to do guys is place the kidney on the side like this, and all you're going to do is do a cut- [T] As you can se"
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So you see how I'm cutting it. Guys look at- look at what I'm doing please. [T] So you start cutting from here, //right in the middle, [T] and you cut your way around. [T] Only a little way in. So it's quite a simple dissection. Just go all the way around."
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Only a little way in. So it's quite a simple dissection. Just go all the way around. [T] Yep. [T] It's not that bad. [T] So cut it in half totally, and you need to find the different areas. Okay, so there's- there's a kidney cut in half. [T] Let- let me show you the different areas. [T] So, as y"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So, as you're doing the dissection, use the overhead to find- help find the different parts. [T] Okay, so in the centre here, what's the one in the centre called? [T] What's the one in the centre called? [T] Not fat, no. [T] Pelvis, thank you. Right, hand up for the next one, please. What's- [T]"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Um, yes, Larry. [T] Ureter, right. This is what you've got to do guys, three things. [T] First of all, you've got to find those parts, and you need to put a pin in the right spot. [T] So when you find the medulla, put a yellow pin there. [T] When you find the cortex put a blue pin there. When yo"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Second thing, you've got to label this picture, you've got to label that picture. [T] Third thing- third and final thing you have to do is colour in the right spots. So I've got some coloured pencils here. [T] You need to use the coloured pencils and colour in the kidney the same as your dissect"
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So one pair of tweezers, one scalpel, one pair of scissors and one probe per group. [T] Last instruction is that you are going to be marked on this. [T] So you need to leave your dissections in the trays at the end, and also fill out the sheet properly. [T] Right, um, you can begin that now. I'l"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's okay. Have fun. You'll enjoy it. [T] Why were you late to class? Why were you late to class? [T] Yeah, but you were almost ten minutes late. [T] //All right, I'll talk to you later, okay. Talk to you later."
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //All right, I'll talk to you later, okay. Talk to you later. [T] Al, what- what was the first instruction? [T] Right. [T] Yes. [T] Yes, for today only."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's the fat. [T] Yes, where is she? Yes. [T] Yeah, that's right. Yep. So what you can do while you're waiting is get some pencils and colour it in. I haven't seen it yet. [T] Colour that- colour it the same colour as that. So when you- when you open it up-"
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Colour that in the same colour as what you see. [T] Oh careful. Use tweezers when you're using a scalpel. Otherwise you cut- cut right through. Cut your finger. [T] Yep. [T] Use the tweezers, here you are. [T] Be careful you don't destroy the um,"
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Be careful you don't destroy the um, [T] The tubes coming off. //Wires- [T] Keep going, you're doing well. [T] Okay, you're doing it properly guys? Being careful? Not destroying the tube? [T] Harold, can you tell me why you were late for class today?"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What happened to your diary? Who took your diary? [T] So this has got quite a bit of fat on it, hasn't it. [T] So you found the ureter. [T] We've found it have we. Yellow's, what yellow's medulla. Yeah, well done. [T] Yeah, red in the pelvis, that's right. [T] The cortex, yeah, is that the corte"
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The cortex, yeah, is that the cortex. [T] Yeah, that's right. [T] And the ureter. The ureter. [T] Yes, that means you have to open it up. It's one of these tubes, have to work out which one it is. [T] Yep. But you've got to put them back in when you find the other one. How are we going guys? [T]"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And you see three tubes coming out. The white one's the ureter. [T] Which stringy stuff? That clear- [T] Okay, that's connective //tissue. [T] It's called connective tissue. [T] It connects organs together. [T] Yeah, it's called connective tissue. [T] No, don't cut the string, though try and rem"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No, don't cut the string, though try and remove the fat without taking the string off. [T] Yep. [T] Um, it's going to a research company, and they're going- [T] Sorry? [T] Oh, in Australia I think. [T] You're doing well there. It's got lots of fat on it, hasn't it. [T] Lots and lots and lots. [T"
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So what have you found- what's the yellow one? Medulla. Yeah. [T] There it is, the white tube. Yeah, what's that called. [T] What's that one called. What's [T] No, the ureter. [T] Okay, did you find the ureter? So there should be three tubes coming off. The ureter, the artery and //the vein. [T]"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Finished? So you put the pins in the right spot. Well done, so that's- what's that called? [T] Pelvis. What's this one called? [T] Yeah, close enough, //medulla, [T] The cortex and- [T] Ureter, well done. Now, you need to do two more things. //You need to label your diagram- you need to label yo"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yeah. It connects all the organs in your body together. [T] So cause your organs don't just float around. They're connected to each other. [T] Yep. So you should find um, an artery in there. [T] So, you might cut it. Look, all right, you might've cut one off there, but keep going. [T] Just try a"
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] You may have cut it off. That's okay, the //ureter's the important one. [T] There it is look, there is some. [T] So there's your ureter. There's a artery to the artery, and here's your vein on the other side. [T] There's your vein there. See your vein's much thinner. [T] Okay. Renal means kidney"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] There's your vein. [T] And there's your ureter. [T] Cut it open, yep. [T] How you going guys? Where- you found what- so you've done the three things? [T] Yeah, well done. [T] Blue, cortex. //What's that called? [T] What's that called? [T] Pelvis. [T] Yep. [T] Yep, and [T] //No, no. [T] Uh. Yeah."
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, so (inaudible) what's this called? [T] Cortex. [T] What's this one? [T] Close, and- [T] And- [T] Ureter, [T] Ureter. Okay, let's go through them again Jenna. This one. Come on, you should know them. [T] You sta- you stage fright. (inaudible) cortex, medulla, pelvis, ureter. Cortex-"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You sta- you stage fright. (inaudible) cortex, medulla, pelvis, ureter. Cortex- [T] That's a city. And pelvis. Pelvis, ureter. Okay. So what, have you coloured it in? [T] Have you coloured your picture in, and have you labeled your diagram? Okay. Do that now please. [T] Okay, pack up quickly guy"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No, same name as this. What's that called? [T] Pelvis, and- [T] Yeah, good. Have you coloured your picture in? [T] And have you labeled your diagram? [T] Well you do that now please. So wash your hands and you can start doing that. [T] Good, excellent. [T] Say, you should almost be ready- you sh"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] Can you tell me what they are? [T] No, that's not right. [T] Yeah, that's it. Ureter. The tube coming away. [T] Okay. [T] Yep. [T] Well done, excellent. So label it. Well done, and colour it in. And then sit down. Sit down and do that. [T] Alice, what are you up to? Tell me what they are? Can yo"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yeah, medulla, what's the other side. [T] Yeah, [T] Yeah, and- [T] Yeah, ureter. That's right. There's a few sheets coming off there. Yeah, I'll get you another sheet. Okay. [T] So, have you coloured your picture in? [T] Colour your picture in please. And label your diagram. Can you do that now "
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, towels there. [T] All right, you should be sitting down now please. [T] Yes, I'll show you. So that's- that's your um, [T] That's right, so that's the pelvis, medulla and cortex. (inaudible). [T] Um, yeah that's right. That's right, and that's right. [T] Things down where?"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Oh they're ox kidneys. [T] So see they're much bigger. No, they've already been cut up. That one's already been cut up and they smell too. [T] Wash your hands guys. Sit down please."
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Wash your hands guys. Sit down please. [T] So at the end of the lesson I'll come around and mark your dissections. [T] You better. I hope you did. [T] You got one. Yeah last time it was like um, little cubes. [T] Medulla, pelvis, cortex, renal artery, renal vein, and that one there. What's that "
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yes."
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] I'll give you a half a minute, then we'll go through the an- answers. [T] Yeah. I'll wash my hands in a minute."
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yeah. I'll wash my hands in a minute. [T] Sorry. [T] No I will. Because they small, they're smelly. They smell like kidney. So, Crystal, have you had steak and kidney pie? [T] You had it. Do you like it? You had it on Sunday. I like it. It's nice. It's good for you too. [T] I love it. Yum. All r"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] I love it. Yum. All right, let's go through the answers, guys, sit down please. Go through the answers. [T] I've got a picture on the board and I want you to be able to label the different parts for me. [T] So finish colouring off what you're colouring in. [T] Let's go through the answers. Harry"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So have a look at your diagram. I'm going to choose someone at random, [T] And they're going to tell me what part it is. All right, Al, number one. This part here, in the middle, what's it called? [T] Pelvis. Well done. What colour's the pelvis, Al? [T] Okay. What colour is it? Kyle got it. What"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's white. Pelvis is white, it's not yellow. Next one. Right, what's this- okay, the dark red area around the outside. [T] Yeah, medulla, or medulla. Some people say medulla. Some people say medulla. Right, Julia, W. What's the outside called? [T] The outside called? [T] Cortex, well done. An"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I want you to be able to find the words, and as you find the words I'm going to go mark- round and mark your dissections. [T] You need to finish off the questions from that sheet and finish colouring it in. [T] So while you're doing that I'll mark your- your dissections. Can you share with Allis"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Oh, sorry, okay, I confused you. That's my fault. Sorry. [T] Yep. [T] So while you're working on that I'll come around and mark your dissections? mm, I'll give it."
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You'll find out. Shh. Thanks? I'll tell you in a minute. Mm. [T] Oh, I like this one... Yes, Anna."
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Oh right. Maybe I want the original. It's one between two. [T] Okay. I like this one. This one's good. [T] Can you what sorry? [T] Sit there? What do you mean? Yeah, but now you can. Yeah... They're good dissections. I like them."
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Sit there? What do you mean? Yeah, but now you can. Yeah... They're good dissections. I like them. [T] Could have done a little bit better. Last one."
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Could have done a little bit better. Last one. [T] I'll mark my own. Mm. Two do you think? [T] Can I get one person from each group please to get the kidneys and bring them down the front please."
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Can I get one person from each group please to get the kidneys and bring them down the front please. [T] So one person from each group, bring your kidneys, bring them down the front. Just put them in a pile. [T] Yeah, I'll tell your mark. Thank you. [T] Thank you. [T] Thank you. I'll tell you in"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Ahh yep. Thank you. And one more. Harry, yours please. Harry, your kidney please. Gee, they're starting to smell a bit. [T] I'll tell you in a minute. I'll read them out at the end of the lesson."
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] All right, let me just read out your marks, what you got for the dissection. [T] May I say everyone did a good job today, and it's hard to judge the different dissections. [T] They were fairly closely ranked together. Okay, here's your marks. Group one got eight and a half. [T] Oh sorry, here, s"
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Eight for this group here. Um, group six over there got nine and a half. Group ah five at the back got nine and a half again. [T] Back over here, nine and a half. [T] As I said, it was hard to tell the difference, they were so good. Right. The group here got nine. Nine and a half. [T] And I also"
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So finish off that find-a-word, or finish it off for homework if you don't finish it now. [T] Yes. [T] Yeah, they're all there. Some- it could be diagonally backwards. [T] Could I have all the pencils down the front please. Stand up behind your chairs. Stand up behind your chairs please."
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Could I have all the pencils down the front please. Stand up behind your chairs. Stand up behind your chairs please. [T] Do you want to say it louder? Say it again, say it again. [T] All right, stand up behind your chairs please. Guys, I don't want to have to say to stand up behind your chairs a"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] All right, stand up behind your chairs please. Guys, I don't want to have to say to stand up behind your chairs again. [T] Stand up behind your chairs quietly. Right, when you're ready I'll let you go. Which row's ready first? [T] There's so much rubbish there? Al, are you ready? [T] You should "
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Right, the row's not going until they're all back. Back row can go please. [T] Pick them all up please, Jackson. Front row can go. I'll wait for all those pencils to be picked up before that row goes. [T] Second row can go. [T] Did you wash your hands? [T] Thanks, Jackson. Yeah. Yep, you can go."
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Thanks, Jackson. Yeah. Yep, you can go. The box is over here."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So use your ruler, draw a line from the top part of the kidney, opened up from the inside and that's called the cortex. [T] So label that on yours please. [T] Open up the flap of the- of the- ah- fr- open the kidney up. Label the cortex. It's just the part there. So the cortex is the part here. [T] That part there. So it's the outside of the kidneys if you like. So the outside of the kidneys is called the cortex. [T] Next part. This part here is called the Bowman's capsule, but that's been r"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Come give me your note? Thanks, have a seat. Close the door. [T] Right, and so I said the medulla's the part that filters out the urea and it filters out the water. [T] Okay, if it breaks down then your body builds up with too much water- [T] And it builds up with too much urea and so you get poisoned. [T] Okay. [T] There's too much urea there, it's too concentrated and it starts to break down your body cells and so you die. [T] Yep. So the medulla filters out the urea, it filters out the wa"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Okay, so, it gets filtered out in the medulla, it collects in the pelvis and it goes down the ureter, a tube down to the bladder. [T] So label the bladder, which is down there. There's your bladder. [T] Yep. [T] Okay, I'll have to give you the sheet, and you'll have to catch it up. Okay. [T] But just watch for the moment- just so- just learn the parts yourself. [T] You'll have to catch it up later, but this is important to understand this for the dissection. [T] Okay. Understand the differen"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Ah, the ureter. [T] All right, everybody copied that down? [T] So what we're going to do is we're going to go through the dissection sheet with you. [T] Then you guys are going to dissect the um, kidney. And then we're going to put the results together. What we've found. [T] What the diff- where the different parts are, and what the different parts do. So [T] Yep. [T] It's all white. Um, that's right, good question. There's my big picture of the kidney. I'll just leave that up."
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Only a little way in. So it's quite a simple dissection. Just go all the way around. [T] Yep. [T] It's not that bad. [T] So cut it in half totally, and you need to find the different areas. Okay, so there's- there's a kidney cut in half. [T] Let- let me show you the different areas. [T] So, as you're doing the dissection, use the overhead to find- help find the different parts."
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So, as you're doing the dissection, use the overhead to find- help find the different parts. [T] Okay, so in the centre here, what's the one in the centre called? [T] What's the one in the centre called? [T] Not fat, no. [T] Pelvis, thank you. Right, hand up for the next one, please. What's- [T] Shh. [T] Right, so there's the pelvis. Next one out is called the what, Tony? [T] Medulla, close enough. Medulla, right. On the way out again. Okay, Julia? [T] Cortex, all right. And what's the name "
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So one pair of tweezers, one scalpel, one pair of scissors and one probe per group. [T] Last instruction is that you are going to be marked on this. [T] So you need to leave your dissections in the trays at the end, and also fill out the sheet properly. [T] Right, um, you can begin that now. I'll come round and watch what you're doing. [T] Yep. [T] That's okay. Have fun. You'll enjoy it."
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //All right, I'll talk to you later, okay. Talk to you later. [T] Al, what- what was the first instruction? [T] Right. [T] Yes. [T] Yes, for today only."
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Colour that in the same colour as what you see. [T] Oh careful. Use tweezers when you're using a scalpel. Otherwise you cut- cut right through. Cut your finger. [T] Yep. [T] Use the tweezers, here you are. [T] Be careful you don't destroy the um,"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No, don't cut the string, though try and remove the fat without taking the string off. [T] Yep. [T] Um, it's going to a research company, and they're going- [T] Sorry? [T] Oh, in Australia I think. [T] You're doing well there. It's got lots of fat on it, hasn't it. [T] Lots and lots and lots. [T] Year nine, yeah."
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Finished? So you put the pins in the right spot. Well done, so that's- what's that called? [T] Pelvis. What's this one called? [T] Yeah, close enough, //medulla, [T] The cortex and- [T] Ureter, well done. Now, you need to do two more things. //You need to label your diagram- you need to label your diagram and colour it in. [T] Which //one? [T] No. [T] Um, connective tissue."
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yeah. It connects all the organs in your body together. [T] So cause your organs don't just float around. They're connected to each other. [T] Yep. So you should find um, an artery in there. [T] So, you might cut it. Look, all right, you might've cut one off there, but keep going. [T] Just try and remember- oh there's the white one. There's a white one coming off, there's a ureter. [T] Um-"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] There's your vein. [T] And there's your ureter. [T] Cut it open, yep. [T] How you going guys? Where- you found what- so you've done the three things? [T] Yeah, well done. [T] Blue, cortex. //What's that called? [T] What's that called? [T] Pelvis. [T] Yep. [T] Yep, and [T] //No, no. [T] Uh. Yeah. [T] //Uh-"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, so (inaudible) what's this called? [T] Cortex. [T] What's this one? [T] Close, and- [T] And- [T] Ureter, [T] Ureter. Okay, let's go through them again Jenna. This one. Come on, you should know them. [T] You sta- you stage fright. (inaudible) cortex, medulla, pelvis, ureter. Cortex-"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No, same name as this. What's that called? [T] Pelvis, and- [T] Yeah, good. Have you coloured your picture in? [T] And have you labeled your diagram? [T] Well you do that now please. So wash your hands and you can start doing that. [T] Good, excellent. [T] Say, you should almost be ready- you should be colouring in at least, or labeling your diagram."
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] Can you tell me what they are? [T] No, that's not right. [T] Yeah, that's it. Ureter. The tube coming away. [T] Okay. [T] Yep. [T] Well done, excellent. So label it. Well done, and colour it in. And then sit down. Sit down and do that. [T] Alice, what are you up to? Tell me what they are? Can you tell me what the different parts are?"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yeah, medulla, what's the other side. [T] Yeah, [T] Yeah, and- [T] Yeah, ureter. That's right. There's a few sheets coming off there. Yeah, I'll get you another sheet. Okay. [T] So, have you coloured your picture in? [T] Colour your picture in please. And label your diagram. Can you do that now please? Just leave that there. [T] Yeah. [T] Okay, towels there."
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yes."
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yeah. I'll wash my hands in a minute. [T] Sorry. [T] No I will. Because they small, they're smelly. They smell like kidney. So, Crystal, have you had steak and kidney pie? [T] You had it. Do you like it? You had it on Sunday. I like it. It's nice. It's good for you too. [T] I love it. Yum. All right, let's go through the answers, guys, sit down please. Go through the answers."
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I want you to be able to find the words, and as you find the words I'm going to go mark- round and mark your dissections. [T] You need to finish off the questions from that sheet and finish colouring it in. [T] So while you're doing that I'll mark your- your dissections. Can you share with Allison please. [T] Charlene, can you hand those around please? There's one between two. [T] Yep. [T] The what colour?"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Oh, sorry, okay, I confused you. That's my fault. Sorry. [T] Yep. [T] So while you're working on that I'll come around and mark your dissections? mm, I'll give it."
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Can I get one person from each group please to get the kidneys and bring them down the front please. [T] So one person from each group, bring your kidneys, bring them down the front. Just put them in a pile. [T] Yeah, I'll tell your mark. Thank you. [T] Thank you. [T] Thank you. I'll tell you in a minute. [T] Ahh yep. Thank you. And one more. Harry, yours please. Harry, your kidney please. Gee, they're starting to smell a bit."
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So finish off that find-a-word, or finish it off for homework if you don't finish it now. [T] Yes. [T] Yeah, they're all there. Some- it could be diagonally backwards. [T] Could I have all the pencils down the front please. Stand up behind your chairs. Stand up behind your chairs please."
+    }
+  ]
+}

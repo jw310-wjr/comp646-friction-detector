@@ -1,0 +1,138 @@
+[
+  {
+    "friction": false,
+    "rationale": "The teacher is consolidating understanding by guiding students to see that LHS and RHS are identical expressions, using a structured verification approach with no signs of confusion or high-pressure tactics.",
+    "alternative_strategy": "N/A",
+    "t_start": 960.0,
+    "t_end": 990.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 1050.0,
+    "t_end": 1080.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYebbPjzcLHcTgEssea'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1320.0,
+    "t_end": 1350.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYes5JmqaB5kaPf18vV'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1350.0,
+    "t_end": 1380.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYf8FsFKYCnAAJeA1EZ'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is asking rhetorical questions ('Are they equal? All right? They are equal.') and immediately answering them without allowing students to reason independently, which combined with the low dominant quality signal suggests surface-level engagement rather than genuine sense-making.",
+    "alternative_strategy": "After writing both sides simplify to 2x-12, pause and ask students to turn to a neighbor and explain in their own words WHY having L.H.S. = R.H.S. for all values of x makes this an identity rather than an equation, then cold-call one pair to share before confirming.",
+    "t_start": 1380.0,
+    "t_end": 1410.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is explaining the concept of identity by demonstrating equivalence symbolically but acknowledges the written form 'is not so clear,' indicating low instructional clarity at a conceptually critical moment where students likely need more scaffolding to distinguish identities from equations.",
+    "alternative_strategy": "Pause and ask a guiding question directed at students: 'Can someone tell me the difference between an equation we solve for x and this identity — why can x be any value here?' to press for reasoning and surface whether students genuinely understand the distinction.",
+    "t_start": 1410.0,
+    "t_end": 1440.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 1440.0,
+    "t_end": 1470.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYg5fNvopb5TW4SBveh'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1530.0,
+    "t_end": 1560.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYgRgtpszMAXNjekVa8'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1560.0,
+    "t_end": 1590.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYgcdxVu9AUbYLRkZxb'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1590.0,
+    "t_end": 1620.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYgyHBNbQpGmdpZuCBK'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1710.0,
+    "t_end": 1740.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYhJWpTVRxhRJ4Z76NM'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is transitioning to independent practice with a low-quality instructional move—simply directing students to complete exercises without checking for understanding or addressing any lingering confusion about the identity concept just taught.",
+    "alternative_strategy": "Before releasing students to independent work, pose a targeted guiding question to the class such as 'Can someone tell me, in your own words, what makes an equation an identity rather than just a regular equation?' to surface and address any conceptual gaps before students attempt problems 1–7 on their own.",
+    "t_start": 1740.0,
+    "t_end": 1770.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is issuing procedural directives about how to show work without eliciting student thinking or checking for understanding, representing low-quality instructional talk during a moment where student confusion about verification steps is likely.",
+    "alternative_strategy": "Pause and ask a specific student to verbalize aloud why two expressions that look different might still be equal, e.g., 'Can someone tell me: if the left side says 5(x-3) and the right side says 5x-15, how would you decide if they're the same — walk us through your thinking step by step?'",
+    "t_start": 1770.0,
+    "t_end": 1800.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is issuing procedural directives in rapid succession ('write down the result,' 'before your conclusion') without checking for understanding or inviting student reasoning, which combined with the low dominant quality signal suggests students are receiving instructions without conceptual anchoring.",
+    "alternative_strategy": "Pause and ask a targeted guiding question such as 'Can someone tell me in their own words what it means for the left-hand side to equal the right-hand side, and why we need to show that before writing our conclusion?' to surface student understanding of the verification logic rather than just the procedural steps.",
+    "t_start": 1800.0,
+    "t_end": 1830.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 1830.0,
+    "t_end": 1860.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYij6Cg6gjN6dZGsS4D'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "friction": false,
+    "rationale": "This is a routine lesson closure moment where the teacher is wrapping up with a summary statement about identities and dismissing class, with no evidence of student confusion or high-pressure strategy coinciding with a conceptual struggle.",
+    "alternative_strategy": "N/A",
+    "t_start": 1890.0,
+    "t_end": 1920.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 1920.0,
+    "t_end": 1950.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYjbxrrUiVqvWnHZqFW'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  }
+]

@@ -1,0 +1,846 @@
+00:00:00	O	[Bell]
+00:00:01	S	But I looked in the answer booklet and it was wrong.
+00:00:04	T	Was the answer booklet wrong or were you wrong?
+00:00:06	SN	I was wrong.
+00:00:07	SN	Sir, I don't understand any of this chapter.
+00:00:08	SN	But you told me it was correct!
+00:00:10	T	That's nice.
+00:00:11	SN	Yes.
+00:00:12	T	That gives me something to do.
+00:00:15	SN	When is little Pete coming?
+00:00:17	T	Little Pete? He'll be coming up shortly.
+00:00:18	SN	I am at 28 but there's a few things I don't understand.
+00:00:21	T	That's possible. Um, I think I am still missing a few.
+00:00:31	T	I think so.
+00:00:32	SN	Sir?
+00:00:33	T	Good morning! Who isn't coming?
+00:00:36	SN	Laura.
+00:00:37	T	Why not?
+00:00:38	S	Well, she's at a funeral.
+00:00:39	T	Hm.
+00:00:40	SS	Sir, what is this? For photo or video?
+00:00:42	T	It's called video.
+00:00:44	SN	Sir, I forgot my folder.
+00:00:46	T	Do you have any loose sheets of paper?
+00:00:47	S	Yes, I have those in my backpack.
+00:00:48	T	And your book?
+00:00:49	S	That I do have.
+00:00:50	T	Yes, okay. Do you still remember where you had difficulties?
+00:00:52	S	Uh, no.
+00:00:53	T	Well, just have a quick look. Don't worry. Um, as you guys can see, uh, there is a camera here. That should have actually been announced in advance.
+00:01:02	T	But it doesn't make any difference otherwise, just pretend it's not here.
+00:01:05	SS	Why is it here?
+00:01:07	T	Uh, I will explain, uh, that to you next time. Okay?
+00:01:10	SN	What is it for, sir?
+00:01:12	T	Uh, to shoot a film.
+00:01:13	S	To shoot a film?
+00:01:14	T	Yes. Next time I will explain the purpose in more detail.
+00:01:18	T	Yes, that as well. So, uh, just grab your book and grab your notebook as I think some people may need this.
+00:01:36	T	You're still going to, uh, you're still going to, uh, do Pythagoras?
+00:01:38	SN	What?
+00:01:39	T	Are you still going to do Pythagoras, or chapter five?
+00:01:42	S	Oh, I'll do uh...
+00:01:51	SN	(inaudible)?
+00:01:52	T	I would prefer that.
+00:01:54	S	Yes, okay.
+00:01:55	SS	(inaudible)
+00:02:01	T	What did you say?
+00:02:02	S	Can I fetch my books for a second?
+00:02:03	T	Yes, of course. What are you doing here? You guys have class.
+00:02:06	O	Yes.
+00:02:07	T	Where do you guys have class?
+00:02:08	O	Uh, we don't know.
+00:02:09	O	Your mother came (inaudible).
+00:02:10	T	Hurry up then.
+00:02:15	T	Bye ladies! Those cases from one A, or one D, whatever it is.
+00:02:24	SN	Sir, you really have to explain this!
+00:02:26	T	Yes, I know.
+00:02:27	S	How are we supposed to do that?
+00:02:29	SS	I don't understand a thing. I am at three. I didn't understand it at all!
+00:02:35	SN	Ha! Excuses!
+00:02:37	SN	Yes, excuses! There are more of us who don't understand it!
+00:02:40	SN	This is it, I think.
+00:02:43	SN	No, I don't understand it.
+00:02:44	T	Very well.
+00:02:45	S	I (inaudible) understand it. Really.
+00:02:46	T	Yes, all right.
+00:02:50	SN	(inaudible) add it up because I don't really understand it.
+00:02:54	T	In a moment I will explain something about calculating variables. Uh, several people are still on assignment three, four or five,
+00:03:04	T	uh, while some haven't even reached one yet.
+00:03:07	T	Um, at the end of this week, the whole chapter has to be finished. Good morning, Erik!
+00:03:14	T	Um, those people who are at assignment one, have not been doing anything last week. That is my conclusion.
+00:03:23	T	So Erik, uh, you will have to work hard to catch up.
+00:03:28	T	Also if you cry, "I don't understand, don't understand", try to keep working nonetheless so that you will, uh-
+00:03:32	T	Because it's quite possible that you do not understand problem three, but suddenly see the light at problem five,
+00:03:37	T	and find yourself right back on track. Um, you didn't understand three. You-
+00:03:43	SN	I didn't bring my notebook.
+00:03:45	T	That is not too smart. Can you get some paper?
+00:03:47	S	Can I get some paper?
+00:03:48	T	Yes, there is some paper in the folder over here. Do you know where you were?
+00:03:53	S	Yes, at 16.
+00:03:54	T	Then afterwards you just need to copy that into your notebook. Yes?
+00:03:57	SN	Yes, I don't understand assignment 15.
+00:03:59	T	Assignment 15.
+00:04:01	SN	I don't have my notebook with me either.
+00:04:02	SN	I have a piece of paper for you.
+00:04:03	T	This is going great, you guys!
+00:04:04	SN	Yes.
+00:04:05	T	Will you make sure to put it in your notebook?
+00:04:07	S	Yes.
+00:04:08	T	Um, very well. We are just going to start. I will come by several people and then I will, uh, for everybody-
+00:04:13	SN	He's copying it.
+00:04:14	T	Yes, but that is his choice.
+00:04:17	T	That is his responsibility. You have the answer booklet.
+00:04:22	S	(inaudible)
+00:04:23	T	You have to get to work now. That's a different thing. And, yes, right now you are calculating variables aren't you?
+00:04:23	S	That's right.
+00:04:30	T	So, for example, with three, E is three E plus seven E.
+00:04:35	S	Yes, if you add that, then the outcome is-
+00:04:37	T	How many- how many E's do you have?
+00:04:39	S	Ten E altogether. That is ten E squared.
+00:04:40	T	No, why squared?
+00:04:42	S	Yes, because you have two E's.
+00:04:44	T	How much are three E's plus seven E's?
+00:04:47	S	Ten E's.
+00:04:49	T	Period. Only if you'd multiply it then it'll get an E squared.
+00:04:54	S	Oh...
+00:04:56	T	So, two E times three E? Two times three is?
+00:04:59	S	Two times three is six.
+00:05:00	T	And E times E, that is the E squared.
+00:05:02	S	Yes, but still, here-
+00:05:03	T	Yes, but you don't seem to have any E squared whatsoever.
+00:05:05	S	No, but here.
+00:05:06	T	Yes?
+00:05:07	S	No, but if this here is- you have to take the same ones. I multiplied all of them but I still ended up with the same thing. Just 11 P.
+00:05:15	T	Uh-
+00:05:16	S	But you are not allowed to multiply those with each other, as stated somewhere over here, look. Two different letters you cannot, uh-
+00:05:20	T	No, that is correct.
+00:05:21	S	Yes.
+00:05:22	T	L equals 11 P and always leads to the same solution. Well, let's see if he is right- by filling in P equals one, P equals six,
+00:05:28	T	and, and P equals 10 in both equations.
+00:05:32	T	So in this equation you have to fill in P equals one.
+00:05:36	S	Yes.
+00:05:37	T	Yes? What is the solution to this?
+00:05:39	S	Eleven times one. Eleven.
+00:05:41	T	Yes. And what is the solution to this?
+00:05:43	S	Also 11.
+00:05:44	T	Yes. Is it possible that they could be the same?
+00:05:46	S	Yes.
+00:05:47	T	It is possible, very good. So I will fill in P equals six.
+00:05:49	S	Is 66.
+00:05:51	T	And over here?
+00:05:52	S	Sixty-six.
+00:05:53	T	Yes. And now fill it in for real. Three times six is?
+00:05:55	S	Three times six is uh, 18. Six times eight is 48- oh, no, that is not correct.
+00:06:00	T	Eight plus 18 is? Twenty-six.
+00:06:02	S	Yes.
+00:06:03	T	Well, that is something completely different.
+00:06:04	S	Oh!
+00:06:04	S	No.
+00:06:05	T	Could this and that be the same then?
+00:06:10	T	Because P equals 10.
+00:06:12	S	Well, 110 and 80 plus 30, that one does work out fine.
+00:06:15	T	Yes?
+00:06:16	S	Yes.
+00:06:17	T	What is three times 10?
+00:06:18	S	I have that one- three times 10? Thirty.
+00:06:22	T	And eight plus 30?
+00:06:24	S	Eight plus 30 is 38. I need to multiply eight by 10 as well, don't I? Oh, no. Now I'm lost.
+00:06:31	T	Well, yes, the last one you did was correct. What's eight times- what is eight plus 30?
+00:06:36	S	Eight plus 30? Thirty-eight!
+00:06:37	T	That is just 38. And 11 times 10 is 110.
+00:06:42	S	Oh, like that.
+00:06:43	T	Beware, that's simply 110, right? For P you just fill in 10, not 11 P times 10.
+00:06:48	S	Oh.
+00:06:50	T	Yes?
+00:06:50	S	Yes.
+00:06:51	T	You have to fill in something at this spot.
+00:06:53	S	Yes.
+00:06:54	T	That is what it is about.
+00:06:56	S	(inaudible) make over again.
+00:06:59	T	Which one?
+00:07:01	SN	Do I have to make some calculations- or, uh, resolve this I mean? Or do I just have to (inaudible).
+00:07:04	T	How much are six A's plus five A's?
+00:07:06	S	Eleven A's. (inaudible)
+00:07:10	T	And two B plus three C, can you add anything up here?
+00:07:13	S	No, it just remains as it is.
+00:07:14	T	Exactly. Are you able to proceed now? Where are you at?
+00:07:18	SN	I am now at H because it is- uh, how are you supposed to- it's not possible because there is no E written at the end.
+00:07:27	T	Not over here, but in the other one there is.
+00:07:29	S	There is, I see. So this is six.
+00:07:32	T	Uh, huh.
+00:07:34	S	So what are you supposed to do with that? Do you just have to (inaudible)?
+00:07:37	T	How many F's do you have here?
+00:07:38	S	Huh?
+00:07:39	T	How many F's do you have here?
+00:07:41	S	Three.
+00:07:42	T	And here?
+00:07:43	S	One, uh, three.
+00:07:44	T	So what's the total?
+00:07:45	S	Nine.
+00:07:47	T	No. Here you have three. Three F's plus three F's is?
+00:07:51	S	Six. Eleven F's. Oh no, here it says minus.
+00:07:55	T	Therefore? You're left with? Six minus five F's equals?
+00:08:02	T	You have to see which numbers have F's in front of them. Over here is- I mean behind them- here is an F, here, and there.
+00:08:07	S	Yes.
+00:08:08	T	Over here we have three and over here we have three as well, so that is six, minus five equals one F.
+00:08:10	S	So one F is clear. And then one F minus three.
+00:08:15	T	F minus three.
+00:08:17	S	Okay.
+00:08:18	T	All right?
+00:08:19	T	That one is clear? Can you move along?
+00:08:22	S	Yes.
+00:08:23	T	Okay.
+00:08:26	T	Let's have a look. You are succeeding? With that table?
+00:08:31	SN	This one. If I am correct, it should be correct.
+00:08:34	T	Well, yes, if you are correct then it should be correct, that's-
+00:08:37	S	Yes, okay, but-
+00:08:38	T	But do you understand what you are doing?
+00:08:39	S	Yes.
+00:08:41	T	At least you are caught up. And you are not caught up, so you better continue working.
+00:08:45	SN	Yes.
+00:08:50	T	Are you just starting now? Or are you at, uh, five?
+00:08:53	SN	But I don't understand.
+00:08:54	T	Which one don't you understand?
+00:08:56	S	Problem D. Twelve Y minus Y, is that 12 or is it (inaudible)?
+00:09:02	T	How many Y's do you have?
+00:09:04	S	It is minus Y, isn't it- 11 Y?
+00:09:08	T	Yes, I know that much too. But how did she get it? How many Y's did you get over here?
+00:09:13	S	One.
+00:09:15	T	No, how many do you have here? The first section?
+00:09:20	S	Twelve.
+00:09:22	T	Give me a break and keep working, please.
+00:09:24	S	Twelve.
+00:09:25	T	Twelve. How many do you have here? How many should be subtracted? One Y.
+00:09:30	S	Yes, or two.
+00:09:31	T	No, because it says minus Y here, so that means minus one Y.
+00:09:35	S	Oh.
+00:09:37	T	If I say, take X, then that means take one X. And here too, minus Y means minus one Y. So 12 minus one equals 11, so you have 11 Y's.
+00:09:50	S	How are you supposed to know that because Y could also be two.
+00:09:53	T	No, then you fill in a two for Y. That is something else because then you will fill in a number for Y.
+00:09:59	S	Yes.
+00:10:02	T	How many Y's do you have here?
+00:10:03	S	One.
+00:10:04	T	No.
+00:10:05	S	Twelve.
+00:10:06	T	Twelve. How many do you take away?
+00:10:09	S	One.
+00:10:10	T	So how many will you have left?
+00:10:12	S	Eleven.
+00:10:12	T	Eleven. Eleven Y are left. It is not exactly, uh, what number the Y is because it's only afterwards that you'll fill something in for Y.
+00:10:24	S	Yes, but if you start filling in something for Y then it doesn't make sense any more.
+00:10:27	T	Yes, it does. Just cal- calculate it. Why don't you fill in for, uh, uh-
+00:10:32	S	(inaudible)
+00:10:32	T	No, because you have 11 Y left over.
+00:10:35	T	Suppose for example you fill in three for Y?
+00:10:39	S	Thirty-six.
+00:10:40	T	Minus?
+00:10:41	S	Three, that's-
+00:10:43	T	Thirty-three. You are left with 11 Y and that times three is indeed 33. Do you understand it?
+00:10:49	SN	Yes.
+00:10:50	T	Yes? Very well.
+00:10:52	SN	Teacher?
+00:10:53	T	Are the diagrams coming along?
+00:10:55	SN	This one?
+00:10:56	T	Yes.
+00:10:57	S	Yes, somewhat. But we still had a question about eight. One that we already asked you last week.
+00:11:02	T	Uh huh.
+00:11:04	S	And we're still clueless.
+00:11:06	T	Which eight?
+00:11:07	S	This one.
+00:11:10	T	Did you make a drawing of this?
+00:11:11	S	Yes.
+00:11:12	T	Can you show me?
+00:11:13	S	But I (inaudible) because I copied this.
+00:11:16	T	Yes. That's no big deal.
+00:11:17	S	Yes, it is.
+00:11:18	T	Um, what is the surface area of the top part?
+00:11:25	S	Fifty centimeters?
+00:11:26	T	Do you have a pencil? If you have a look here. Here you have the 50 and there the 15.
+00:11:34	S	Oh, yes. You have to do 50 times 15.
+00:11:36	T	So here- this is 750 square centimeters. What is the surface area of this here?
+00:11:47	T	How long is this section?
+00:11:49	S	Um, 750 centimeters.
+00:11:52	T	No, that is the surface area.
+00:11:55	S	Well, um-
+00:11:57	T	What is the length of this here?
+00:11:58	S	Fifty centimeters.
+00:11:59	T	This is also 50. What is the height of this?
+00:12:03	S	Fifteen.
+00:12:04	T	This one you don't know yet, correct? Of this whole area-
+00:12:06	S	Oh, yes.
+00:12:08	T	You don't know that yet, that is just H. Now how do you determine the surface area? You do 50 times H, length times width.
+00:12:16	S	Yes.
+00:12:17	T	Which is 50 times the H. Yes?
+00:12:20	S	Yes.
+00:12:23	T	Just like with those diagrams you're using over here, you actually just calculate a surface area. Fifty times 15 and 50 times H.
+00:12:32	S	So the surface area is 50 times H?
+00:12:35	T	Plus 750.
+00:12:39	SN	Okay.
+00:12:40	T	Yes? And then over here you have three equations- or, uh, four equations and two out of these four are correct.
+00:12:47	T	You need to figure out which ones. Just now you wrote down, A equals C. I know this is correct, but in a minute I would like you to tell me why. Okay?
+00:13:01	T	Could you please throw a window open?
+00:13:06	T	Are you able to sniff your way through it?
+00:13:09	SN	Huh?
+00:13:10	T	Are you able to sniff your way through it? Or are you doing okay?
+00:13:13	S	Oh, oh, yes, it is not too bad.
+00:13:15	SN	Sir, question 18 B.
+00:13:18	SN	Yes, I was just entertaining myself.
+00:13:20	T	What is this all about?
+00:13:22	SN	I had time to finish my homework and (inaudible).
+00:13:24	T	But what is it?
+00:13:25	S	To see if I have too much homework. But that is not what you asked. Look, this is question 18 E. You have to take similar terms together.
+00:13:36	T	Yes, what did you get in, uh, the first part?
+00:13:39	S	Huh? Here. This one here. First you have to calculate this.
+00:13:45	T	Yes.
+00:13:45	S	Then this, I already did that. Seventy times 50 equals 3,500. Then 60 times 120 equals 7,200.
+00:13:51	T	Yes.
+00:13:52	S	And then divide-
+00:13:53	T	And then here you have something written here.
+00:13:54	S	Yes-
+00:13:55	T	Uh.
+00:13:56	S	That is something like- uh, then you had to write this one- no, write it without brackets, this one.
+00:13:59	T	Right.
+00:14:01	S	And then this one is 3,500 plus 120 and then say 20 times 60 and 120 time B, say-
+00:14:07	T	Exactly, so, uh-
+00:14:09	S	And one 120 times 60 is 7200.
+00:14:12	T	Let me check, here you have 60 times this 20 is 7200. That is correct. And you have 120 times minus B.
+00:14:22	S	Yes.
+00:14:23	T	How much is 120 times minus B?
+00:14:26	S	Minus B. Yes- or uh-
+00:14:28	T	One hundred twenty- minus 120 B.
+00:14:29	S	Yes, and do you have to write that down here as well?
+00:14:33	T	Whereas here you write 120.
+00:14:35	S	Over here 20? One hundred twenty?
+00:14:36	T	No, what is this 120 about?
+00:14:39	S	That relates to uh, this 3,500 plus 120.
+00:14:47	T	But you have to multiply the 120 with this. So you can- you cannot just add this together.
+00:14:52	T	So this 120 over here doesn't make much sense. For here you calculated something. Sixty times 120.
+00:15:01	S	Is 500 plus 7200 and then minus 120 B.
+00:15:05	T	Exactly. So the B has to be taken away over here.
+00:15:07	S	Plus or times?
+00:15:08	T	What does it say? Minus.
+00:15:10	S	Yes, but-
+00:15:12	T	So minus 120 B. Yes?
+00:15:14	S	Yes, okay.
+00:15:15	T	Fifteen didn't work?
+00:15:16	S	Huh? No, it did work. I just didn't come around to it yet. I still had a question about this. I'll make it in a second.
+00:15:21	T	Okay, yes.
+00:15:22	SN	Are you actually wearing a microphone?
+00:15:23	T	Yes?
+00:15:26	SN	Could you step over here, oops, I don't understand half of this. I understand A, though. Yes, I don't know.
+00:15:39	T	Take a moment to draw it.
+00:15:41	S	This?
+00:15:42	T	Yes. Just, uh, the- no, you've got it already, it's already here, the multiplication table.
+00:15:47	S	Yes, but I had-
+00:15:48	T	What's stopping you from filling it in? Or how much is three times two D?
+00:15:51	S	Six D.
+00:15:52	T	Yes, and you can fill in the second one as well.
+00:15:55	SN	Sir, at 20 you just have to add, uh...?
+00:15:57	T	With?
+00:15:59	SN	At 20, don't you simply have to do, uh, minus 50 minus 1,540?
+00:16:07	T	Yes.
+00:16:10	SN	Kind of a dumb question, really.
+00:16:12	T	Yes, but we need those too.
+00:16:18	T	Those have to be calculated just as well. Is it coming along?
+00:16:24	SN	I don't understand 15.
+00:16:25	T	Fifteen? More people have a problem with 15. I will circulate for that one shortly. Or actually explain it on the blackboard in a minute.
+00:16:32	T	Can you write them down more briefly?
+00:16:33	SN	Yes.
+00:16:34	T	Okay.
+00:16:39	T	Where are you uh- oh, here.
+00:16:43	T	What? Eight. Not far enough but further than some of the others. Try to catch up. Can you do that?
+00:16:52	SN	Yes.
+00:16:54	SN	I am tired.
+00:16:55	T	That is possible.
+00:16:56	S	Why wouldn't it be possible?
+00:16:58	T	Did you succeed with 15?
+00:16:59	SN	Uh, no.
+00:17:00	T	You also don't have a notebook with you?
+00:17:01	SN	No.
+00:17:02	T	Next time please report that beforehand, not afterwards. Just go ahead and do 16 together. Check it out together.
+00:17:09	T	And then in a minute you will also- did you succeed with 15?
+00:17:12	SN	No, we didn't do-
+00:17:13	T	Did 15 work out?
+00:17:14	SN	I didn't do that one.
+00:17:16	T	Very well, then we'll do that one on the blackboard in a minute. Okay?
+00:17:19	SN	I don't understand this at all. Is, uh, yes-
+00:17:21	T	Just, uh, yes-
+00:17:22	S	the circumference of-
+00:17:23	T	One of these sides, this one, is H.
+00:17:25	S	Yes.
+00:17:27	T	That is the surface area of this small section: length times width is five times that H. Five H. The surface area of this whole square, how long is this section?
+00:17:39	S	Five.
+00:17:40	T	And this?
+00:17:41	S	Five.
+00:17:42	T	So what is the surface area?
+00:17:44	S	Five squared.
+00:17:45	T	Right.
+00:17:46	S	Yes, but isn't all of this part of it as well?
+00:17:49	T	And you have four times five times the H. Four sections of five multiplied by H.
+00:17:54	S	Yes.
+00:17:55	T	And you have to take the sum of all that. That is the surface area, and the circumference is H plus H plus five plus H plus H plus five.
+00:18:04	S	So do I need to add them all up?
+00:18:07	T	Yes. Yes?
+00:18:09	S	Yes, but I don't understand the circumference- uh, the surface area, do you have to- this must be, uh, five squared.
+00:18:16	T	Yes.
+00:18:17	S	And then afterwards you still have to write down five, um, times five, five times H.
+00:18:22	T	Plus five times H, plus five times H, plus five times H, plus five times H.
+00:18:26	S	Or can I do four times... H as well?
+00:18:33	T	Uh, five times H and do that four times. Four multiplied by five times H.
+00:18:40	S	Oh, right.
+00:18:41	T	This is 25. You know that one. And this is five H.
+00:18:47	S	Yes.
+00:18:48	T	And then you have these four pieces of five H.
+00:18:51	SN	Twenty H.
+00:18:53	S	Then it becomes four times H. Four times five times H.
+00:18:55	T	Four times- yes. Yes?
+00:18:59	S	Okay.
+00:19:00	S	Twenty H.
+00:19:01	SN	Sir, I don't understand it.
+00:19:03	SN	How are you supposed to do this then? For example: Q is two B-
+00:19:07	T	Plus three C, can you do anything with that?
+00:19:09	S	Yes, I think- I don't know.
+00:19:12	T	I can't do anything with it.
+00:19:13	S	No?
+00:19:14	T	Those are two different letters. So can you do anything with it?
+00:19:17	SN	No.
+00:19:18	T	Exactly.
+00:19:19	S	This will remain the same then. Then at C. What are you supposed to do here? Only minus?
+00:19:23	T	Yes.
+00:19:25	S	So you do eight G minus six G?
+00:19:27	T	Yes.
+00:19:28	S	Uh, what do you call those things? Is there a two G?
+00:19:31	T	Sure.
+00:19:32	S	Oh, well that is an easy one.
+00:19:33	T	Yes? Very well, um, have a look ahead at assignment 15. Um, almost- not everybody is there yet, I believe. But we'll get there.
+00:19:46	SN	(inaudible)
+00:19:47	T	Which one?
+00:19:48	S	(inaudible)
+00:19:52	T	For Dalton? Um, yes, I think so, but I have a lot more folks. I will have to look and see how many reservations I have.
+00:20:00	SN	Yes, we too.
+00:20:03	T	Otherwise I will get in an argument with class two B because they all want to reserve as well.
+00:20:07	SN	Yes, but we are not two B.
+00:20:10	T	Yes, but that is my mentor class.
+00:20:12	SS	Yes, but you cannot play favorites?
+00:20:14	T	No, you are not allowed to play favorites, but I'm doing it anyway.
+00:20:17	SS	Well, that is not allowed.
+00:20:18	SN	Well, sir, that is your problem, not ours.
+00:20:21	T	Uh, that depends. Um, take a look at 15. Um, what are you supposed to do?
+00:20:29	SN	I don't know.
+00:20:30	T	What are you supposed to do at 15? How would you start? Yes?
+00:20:34	SN	Draw an axis system.
+00:20:37	T	Draw an axis system.
+00:20:39	S	The ones of A, B and C.
+00:20:41	T	And you will use the equations of A, B and C- please look for a moment, exercise 15. Um, drawing an axis system.
+00:20:48	T	From how far to how far does that axis system need to run?
+00:20:56	SN	The X-axis has to go from minus six to eight.
+00:20:57	T	From minus six through eight. Well, that's something we can picture. Minus six, huh, huh, huh, minus four, minus two.
+00:21:07	T	Over here somewhere a zero, two, four, six and eight. Very well, the Y-axis, do you know anything about that?
+00:21:17	SN	No.
+00:21:20	T	You don't know that yet. Um, what should you do, though? You have to plot those three equations. How do you plot an equation? How do you start?
+00:21:35	T	Just imagine something.
+00:21:37	SN	Um, a line like this and a line like that?
+00:21:39	T	Yes, that is the axis system. How are you going to plot the equation itself? Marjolein?
+00:21:48	SN	The lines in there.
+00:21:49	T	Yes, the lines in there. But how will you get those lines? Erik?
+00:21:54	SN	I don't know.
+00:21:55	T	You don't know?
+00:21:57	S	By calculating those equations.
+00:21:58	T	By calculating those equations. You start by making a table. So the first thing you want to do when you plot an equation, is definitely making a table.
+00:22:12	T	The table A, if you fill in the X's and calculate the Y's, which numbers do you need to fill in for that? Erik?
+00:22:23	SN	The ones that are shown in the graph, uh, uh, the equations.
+00:22:27	T	Go ahead and do it. What numbers are you going to fill in for the X?
+00:22:32	S	Uh, I don't know. How are you supposed to know that yet?
+00:22:39	T	No, there is indeed no way you could know that yet. Therefore you may fill something in at random. Go ahead and pick a number.
+00:22:46	S	One.
+00:22:49	T	One. Very well, if you fill in one, what is the outcome? I will fill in one for the X.
+00:22:56	S	Um, that will be, um, one plus four equals five. And then times three.
+00:23:05	T	Exactly.
+00:23:06	S	Is 15.
+00:23:08	T	So to: "X is one" belongs "Y is 15". If you fill in a one for X, you have to calculate it, one plus four so in between brackets it becomes five.
+00:23:27	T	Three times five equals 15. You can obviously do that with more numbers. Which numbers can you do that with? Just name one. Marjolein?
+00:23:36	SN	Three.
+00:23:37	T	Three, for example. What is the outcome then?
+00:23:43	SN	Seven.
+00:23:46	T	Three plus four is indeed seven, and then?
+00:23:49	SN	Twenty-one.
+00:23:50	T	Twenty-one, yes. You can do that with many other numbers. I'll just do it really quickly.
+00:23:56	T	You guys may, uh, do a bunch. You can do it all from minus six up till eight. So, what is the outcome at minus six? Also minus six. Why?
+00:24:08	T	Minus six plus four is?
+00:24:11	SS	Minus two.
+00:24:12	T	Three times minus two.
+00:24:13	SN	That is minus six.
+00:24:14	T	Minus six. And I will also just fill in eight.
+00:24:20	SN	Thirty-six.
+00:24:21	T	Why would I choose minus six and eight?
+00:24:25	SN	They are, uh, (inaudible).
+00:24:26	SN	Minus six is at the beginning and eight at the end.
+00:24:29	T	Precisely. So it is not exactly a coincidence. We also need to have a few points in between. What is the outcome at eight?
+00:24:36	SN	Thirty-six.
+00:24:38	T	Because eight plus four is 12, three times the 12 is 36. Very well, now you fill this in.
+00:24:46	T	It appears something will show up between minus 10 and 40. We can draw the vertical axis.
+00:24:55	T	Um, this goes up to 40. Ten, 20, 30 and 40. And this goes minus 10 and minus 20. Yes?
+00:25:08	T	Um, it makes no big difference what you fill in on the vertical axis, as long as you're taking the same steps every time.
+00:25:15	T	So if you took steps of two over here, that's fine. If you took steps of five, that's just as fine. What matters is that the steps are equal.
+00:25:25	T	Um, then we will draw it. At minus six, we had an outcome of minus six. That is over here. At one, we had an outcome of 15, that is over here.
+00:25:36	T	At three we had an outcome of 21. And at eight we had an outcome of 36. Uh, that is over here somewhere. And I am not sure whether we have a nice ruler over here-
+00:25:49	T	I don't think we do. So now I will draw a very straight line... Ah, not too bad. Um, you will do the same thing in order to get the second and third line.
+00:26:03	T	Well, the second line, four X plus six, let me just- that starts at minus 18. You guys may calculate that one yourselves real neat. At zero it is six.
+00:26:16	T	And at eight it is 38. That one will be over here. Well, we can draw that one more or less like this.
+00:26:27	T	And the third line, that one I do want everyone to calculate for now. Go ahead and make the same table,
+00:26:35	T	and calculate it briefly, just a couple of points.
+00:26:42	T	After which you may tell me what caught your eye.
+00:26:50	T	Yuck, disgusting!
+00:26:54	SN	No, no, that one's right as well.
+00:26:56	T	What you said is correct.
+00:27:08	T	Is that a pencil or a pen?
+00:27:10	SN	Pencil. And a pen.
+00:27:15	SN	I don't have a triangular protractor.
+00:27:17	T	Yes, but you can borrow one.
+00:27:19	S	No.
+00:27:22	T	Do you have a triangular protractor or not? You don't have a triangular protractor? You don't either?
+00:27:26	SN	Yes, I do have one but it is at home-
+00:27:27	SN	Yes, I don't have, I don't have a, uh, a triangle but I do have a triangular protractor.
+00:27:29	T	Yes!
+00:27:32	SN	No, you have to- look, this one you have to (inaudible).
+00:27:36	T	Were you able to follow this, at 15?
+00:27:38	SN	Well...
+00:27:41	T	You continued, okay.
+00:27:46	SN	I really don't understand how you do it.
+00:27:49	T	The things I do? I calculate each time what I get with, uh, with every number. So, for example, if you, uh, fill in one for the X-
+00:28:02	T	Uh, do me a favor and keep working.
+00:28:05	T	Once I fill in a one for X, then what does it say? Three times one. What is that?
+00:28:13	SN	No, three.
+00:28:14	T	Three. Twelve plus three is?
+00:28:19	S	Fifteen.
+00:28:19	T	Fifteen. So once you fill in a one for the X- well, just put a one here somewhere, what does that do for the Y?
+00:28:29	S	Is that times three?
+00:28:30	T	What did we just calculate? Fifteen. So what you write down is 15. Very well, now you are going to fill in a different number for X here.
+00:28:38	T	Tell me what number you want to fill in.
+00:28:39	S	Three.
+00:28:40	T	Three. Go ahead and calculate it. You replace the X by a three, and then what does it say?
+00:28:47	S	Three times three is nine.
+00:28:49	T	Exactly.
+00:28:50	S	Plus 12.
+00:28:51	T	Is?
+00:28:52	S	Twenty-one.
+00:28:53	T	Precisely. Well...
+00:28:54	S	That is exactly like the previous one.
+00:28:56	T	Yes.
+00:28:58	S	But then different.
+00:29:00	T	Try to fill in another number.
+00:29:05	S	Um, three times eight equals...
+00:29:06	T	Twenty-four.
+00:29:09	S	So then it's...
+00:29:15	T	What do you think the outcome will be?
+00:29:17	SN	Minus six, I think.
+00:29:18	T	Well, check it.
+00:29:21	S	(inaudible)
+00:29:24	T	Three times minus six equals? Three times six equals 18 so three times minus six equals minus 18.
+00:29:31	T	Yes?
+00:29:32	S	Yes.
+00:29:33	T	Plus 12.
+00:29:35	S	Equals minus six.
+00:29:36	T	And indeed. They do seem very similar. Have a look at those equations.
+00:29:46	T	Is it possible that the A and the C are the same?
+00:29:48	SN	Yes, because, um-
+00:29:50	SN	No, because uh-
+00:29:53	T	Steffi, is it possible?
+00:29:55	S	It has to be.
+00:29:56	T	Yes, it has to be, I know that much as well, but...
+00:30:00	SN	(inaudible)
+00:30:02	T	Exactly. Three times this four, that becomes 12.
+00:30:06	S	And three.
+00:30:08	T	Times...?
+00:30:09	S	Times-
+00:30:10	SN	Uh, no, here you've got three times that X, and, uh-
+00:30:13	T	Exactly.
+00:30:14	S	Tah-dah!
+00:30:15	T	Precisely, those equations are exactly the same.
+00:30:18	S	Do we need to draw it once again?
+00:30:20	T	Yes, you may draw it again. But actually it is already there. So you can add A plus C. Yes?
+00:30:26	S	Yes.
+00:30:27	T	Do you understand what is going on? Do you understand why these two are the same?
+00:30:33	SN	Well, no...
+00:30:36	T	If you make a multiplication table,
+00:30:40	T	here's an X- or uh, here's a multiplication sign. This is a multiplication sign, not an X. It stays tricky, doesn't it?
+00:30:46	T	Those multiplications signs mixing with those X's.
+00:30:48	S	Yes, but, uh, weren't X's always written like this and multiplication signs like that?
+00:30:52	T	Yes. Yes, exactly. Um, doing that will give you a three over here.
+00:30:58	T	The X will be and over here, and the four over here.
+00:31:03	T	Three times four is 12. Then you are done with this surface area over here. And three times the X equals that three X.
+00:31:12	T	So the equations of A and C are exactly the same.
+00:31:16	S	Oh, right.
+00:31:17	T	You get the picture? So earlier you calculated the surface area first, then you used the multiplication table. And finally you can see it at one glance.
+00:31:27	T	But until you're there you'll utilize the multiplication table.
+00:31:29	S	Okay.
+00:31:30	T	Yes?
+00:31:31	SN	So did I also answer B since these are the same?
+00:31:34	T	Yes, what particularity do you notice?
+00:31:36	SN	Well, that the A and the C are the same.
+00:31:38	T	Very good.
+00:31:39	S	Tah-dah!
+00:31:40	T	Tah-dah! Yes?
+00:31:45	SN	Is it true that A and C are the same?
+00:31:48	T	Yes, certainly, it is correct [in French].
+00:31:53	SN	Sir, that's the first sentence of (inaudible).
+00:31:55	T	It disappears completely? Why don't you move all of this out of the way. You guys have French class later on?
+00:32:01	SN	Yes we do.
+00:32:02	T	Test or paper?
+00:32:03	SN	A test.
+00:32:04	SN	But it's really (inaudible).
+00:32:05	T	From whom?
+00:32:06	S	(inaudible) There are a lot of sentences.
+00:32:07	T	Ooh...
+00:32:08	SN	An awful lot.
+00:32:09	SN	It is really difficult, you know.
+00:32:11	SN	Yes.
+00:32:12	T	Are you going to put it away now?
+00:32:13	SN	He told me to-
+00:32:14	SN	She snatched it from me.
+00:32:17	T	Ooh! Bad girl!
+00:32:20	S	Yes, really bad.
+00:32:21	T	That is not allowed, is it?
+00:32:23	SN	Sir, can we do Biology then?
+00:32:26	SN	Sir, today we have a Biology test. May we study a little?
+00:32:30	SN	Don't say that because then for Math-
+00:32:35	T	You guys have a Biology test shortly?
+00:32:37	SN	No, sir, we have French.
+00:32:41	SN	Sir, shortly we will have reproduction.
+00:32:46	SN	We have a lot of labs, you know.
+00:32:48	T	La-bor-a-tor-ies.
+00:32:50	SN	Art!
+00:32:51	T	No.
+00:32:52	SN	(inaudible)
+00:32:54	T	Yes, I know.
+00:32:56	T	Meanwhile, how far did you get? You made exercise one, 15 and 20 in the meantime.
+00:33:05	SN	No, I am, I am already beyond that.
+00:33:06	T	You are beyond that? You've even gotten as far as 36 by now?
+00:33:11	SN	I will at some point.
+00:33:14	S	Let me see.
+00:33:17	T	Just put it away for the time being. Really people, put your French away for now. I mean now.
+00:33:26	T	Um, let me see. Steffi? Why don't you just get to work.
+00:33:34	T	Laurie, just get to work.
+00:33:39		
+00:33:59	T	Uh, by the end of this week the chapter has to be completely finished.
+00:34:04	SS	Oh. Yes, sir! [In English]
+00:34:06	T	Um, so be sure you make that. Because next week we will continue with chapter six.
+00:34:12	SN	Is the additional subject matter tough?
+00:34:14	T	Which makes this week the last opportunity to ask questions about chapter five.
+00:34:16	S	Yes.
+00:34:18	T	Yes?
+00:34:19	S	But sir, what about the additional subject matter?
+00:34:20	T	Also the additional subject matter. Everything on chapter five.
+00:34:23	SN	The test, when is that?
+00:34:25	T	The test isn't until the exam week.
+00:34:28	SS	Ooh. Oh, yes!
+00:34:33	SN	Sir, are the additional assignments due tomorrow?
+00:34:35	T	What?
+00:34:37	SN	Sir?
+00:34:38	T	Yes?
+00:34:39	SN	Are the additional assignments due tomorrow as well?
+00:34:41	T	Yes. Of course.
+00:34:48	T	Tomorrow is essentially the last time that you can ask questions about it.
+00:34:55	T	We will still continue anyway, but that's not the intent.
+00:35:00	SS	Yes. We don't have a test.
+00:35:04	SN	Sir?
+00:35:06	T	Uh, ladies! Do cut the French now.
+00:35:10	SN	Okay.
+00:35:14	SN	But sir, (inaudible) last five minutes.
+00:35:16	T	Last three minutes.
+00:35:18	SS	Yes, but...
+00:35:19	SN	But sir, aren't we off then- sir?
+00:35:21	T	Do you really think that you can learn something all of a sudden in the last five minutes?
+00:35:25	SN	Of course.
+00:35:26	T	Then you might as well do it in the last three minutes.
+00:35:31	SN	Could you be so kind as to check if (inaudible).
+00:35:36	T	Oh, uh, for Dalton in a moment.
+00:35:41	SN	Tomorrow we don't have math and Friday is our last day.
+00:35:44	T	No, then it is Friday.
+00:35:45	SN	"A de" is not possible I think.
+00:35:46	SN	No, that is not possible.
+00:35:47	T	Whatever you want.
+00:35:49	SN	No, that becomes "au".
+00:35:51	T	Uh, who else?
+00:35:52	SN	Louise and I, sir.
+00:35:54	T	Louise?
+00:35:55	SN	Yes.
+00:35:56	T	I have five- I already have five tests from two B and five papers from two F here. Ah, Harley is sick again?
+00:36:05	SN	Yes. Yes, (inaudible). We have two quizzes coming up.
+00:36:09	SN	I have four things, dude.
+00:36:12	T	So, uh, you can't reserve, you just have to be here in time.
+00:36:18	T	All right? Because in a minute I will be all filled up. Or, uh- at least, yeah.
+00:36:32	T	Yes, very difficult.
+00:36:33	SN	German is what we have then.
+00:36:34	T	I have a very special one for you, three times more difficult.
+00:36:37	SN	Can I join the class of Harley in that case?
+00:36:40	T	Uh, you may, yes, you just have to hurry- you just have to get here fast.
+00:36:46	T	You just have to get here fast. Hey, I want you to finally start doing something now.
+00:36:50	SN	Huh? I am hurrying, I am busy.
+00:36:52	T	Yes. You are very busy.
+00:36:56	S	That is three times X, isn't it-?
+00:36:57	T	Keep working. Hey, just get to work.
+00:37:03	SN	Sir, I don't understand 18.
+00:37:04	SN	I am calculating it the other way around. If I have to calculate a surface area- look, 45 meters is five meters times eight meters.
+00:37:11	T	I think that, uh, 40 is five times eight or 45 is five times nine.
+00:37:15	S	Oh, right.
+00:37:16	T	Oh, right. But it's fine-
+00:37:18	S	I'm not very good at doing it by heart.
+00:37:21	T	Uh, it is fine that you do it the other way around.
+00:37:23	S	Yes, because otherwise I can't calculate it too well.
+00:37:25	T	And now you do-
+00:37:27	S	Now let's have a look. This is exactly a square, so that is nine times nine.
+00:37:32	T	True. Iris?
+00:37:34	SN	I can't figure out 18 with that, uh, Ruben and the orchard and all that-
+00:37:39	T	Yes, you have this orchard. What is the surface area of that?
+00:37:44	S	Um, 350- no, 3,500.
+00:37:47	T	Yes. What is the surface area of the other area? How do you calculate a surface area to begin with?
+00:37:55	S	Um...
+00:37:56	T	Just real simple-
+00:37:57	O	[Knocking]
+00:37:58	SN	Ruben, Ruben!
+00:38:00	T	Ruben, pick it up. Yes, I know but you are the one who is picking it up.
+00:38:05	S	Length times width.
+00:38:06	T	Yes. What is the length here?
+00:38:09	S	Sixty.
+00:38:11	T	Sixty?
+00:38:13	S	Yes. Oh, no, wait, 120.
+00:38:15	T	One hundred twenty. What is the width?
+00:38:17	S	Uh, 16.
+00:38:19	T	But do you need the whole 60?
+00:38:26	T	Do you need to include the B or not?
+00:38:28	SN	Yes, no.
+00:38:29	T	No, because that is away a bit, that doesn't belong there. So you have to take 60- and what are you supposed to subtract from that?
+00:38:35	SN	Twenty.
+00:38:36	SN	Minus B.
+00:38:37	T	Minus B. Exactly. And what that B is you don't know yet. So the length is 120 times the width and we know, in this case, that is 60 minus B.
+00:38:51	T	The last part you have to put in between brackets.
+00:38:53	SN	Sixty minus B in between brackets.
+00:38:54	T	Yes. Write that down and then calculate further from there.
+00:38:57	SN	(inaudible)
+00:39:00	T	Even better: exactly.
+00:39:02	S	Yes.
+00:39:03	T	Is that possible?
+00:39:04	S	Yes, I don't know...
+00:39:06	T	Have a look, uh, at the equations.
+00:39:09	S	Yes.
+00:39:11	T	Could they be identical?
+00:39:12	S	Over here, uh, it is, uh, four by minus 12.
+00:39:15	T	Yes, but over here it has three times in front of it.
+00:39:17	S	Yes, but over here it has three times behind it.
+00:39:19	T	How much is three times... what is shown in between brackets? Three times X plus four. Three times the X is?
+00:39:27	S	Three X.
+00:39:28	T	We have that over here. Three times the four is?
+00:39:31	S	Twelve.
+00:39:32	T	Twelve. We have that one over there. It could be the same, right?
+00:39:35	S	Yes, of course.
+00:39:36	T	Yes. So what do you notice and what is the answer for B?
+00:39:41	S	That it's identical.
+00:39:43	T	Exactly. Yes? You understand that one?
+00:39:51	T	Are you going to show me on Friday that you have completed up to paragraph five?
+00:39:55	SN	I will.
+00:39:57	T	Yes? And of whatever you couldn't finish you need to copy the text and the answers.
+00:40:06	T	Usually on Fridays I have some happy hours left, since on Fridays I'm sitting here until 11 o'clock in the evening anyway.
+00:40:12	SN	Oh, yes, then it is party time.
+00:40:14	T	Yes, then it is party time. Are you joining us as well?
+00:40:17	SN	No.
+00:40:17	T	Why not?
+00:40:19	S	Yes, I don't know?
+00:40:20	T	I wish you would.
+00:40:21	S	Oh no, I have a match for school, for soccer.
+00:40:24	T	Well, just make sure you are there.
+00:40:27	S	Yes, well, I, I don't know-
+00:40:29	T	I said: make sure you are there.
+00:40:32	S	Fine then.
+00:40:33	T	Okay.
+00:40:34	T	Yes, of course.
+00:40:36	SS	Me too.
+00:40:38	T	Yes, you bet.
+00:40:39	SN	Five more minutes to go. Sir, may we study a bit?
+00:40:41	SN	Sir?
+00:40:42	T	Yes?
+00:40:43	S	Here it says that Robin has a width of 50 centimeters. That is the length, isn't it?
+00:40:47	T	Yes, but that depends on how you look at length and width.
+00:40:52	SN	Yes, but this is the width, isn't it? From the top to the bottom?
+00:40:54	T	Does it matter what you take as the width or the length?
+00:40:58	S	Yes, sometimes I think it does.
+00:41:01	T	Length times width or width times length is the same.
+00:41:05	T	Three times four is the same as four times three.
+00:41:08	S	Yes?
+00:41:09	T	Yes?
+00:41:10	SN	Okay.
+00:41:11	T	So, if they mean something different when they talk about length and width here-
+00:41:13	SN	No but look over here-
+00:41:14	T	Yes?
+00:41:15	S	Over here is uh- suppose that this is the width-
+00:41:18	T	Yes.
+00:41:19	S	Then that is H centimeters- then you need to do 50, but if you'd turn it around would it still stay the same? Oh, I see.
+00:41:24	T	H times 50 or 50 times H is the same. Three times four and four times three is the same.
+00:41:32	S	Yes but that is not an H.
+00:41:33	T	Yes, but- hey, four times three and three times four is the same as well, isn't it?
+00:41:36	S	Yes, that's true.
+00:41:38	T	Well, there.
+00:41:39	S	Okay.
+00:41:43	T	Laurie, try to keep working just a wee bit longer.
+00:41:46	SN	We were allowed to study, weren't we?
+00:41:48	T	Have the last three minutes started yet?
+00:41:49	SS	Yes.
+00:41:50	T	Yes.
+00:41:52	SN	They did for me.
+00:41:54	T	Look how fast the French books are appearing on the tables now.
+00:41:57	SN	Sir, can I ask you one more thing?
+00:41:59	T	Yes?
+00:42:00	SN	This one. What is...?
+00:42:02	T	How much is three times 40?
+00:42:06	T	And how much is three times four?
+00:42:07	S	Oh right, 120.
+00:42:08	T	Yes. So that one you can write down.
+00:42:13	T	And what is, uh, the outcome of the whole equation? You know that you can just write this down here.
+00:42:20	T	Three D plus 120.
+00:42:23	SN	And the 'aux', the AU and X, that's what you get with A and plural.
+00:42:27	T	This is how you use the table.
+00:42:29	SN	Oh.
+00:42:30	T	Yes? Do you understand it?
+00:42:33	T	Why don't you try that one again.
+00:42:35	T	Uh, let's see which one. At 13 you will get a few more. Yes? You have to keep on making multiplication tables.
+00:42:47	T	What is the matter? That you are kind of blushing?
+00:42:51	SN	Me? I always have that.
+00:42:53	SN	No but he said something and then I went like that and then he went like- It was kind of funny.
+00:42:58	T	Good morning, um...
+00:43:02	SN	Yes, I have I note.
+00:43:03	T	A note?
+00:43:04	SN	Yes.
+00:43:05	T	Do you have it with you?
+00:43:07	S	Yes.
+00:43:08	SS	Yes.
+00:43:09	T	Where are you coming from?
+00:43:11	S	I went to the doctor.
+00:43:12	T	Oh, okay. Um, you just have to drop it off at Mr. Fort. He eventually will remove that.
+00:43:20	T	Where did the braids go?
+00:43:22	S	I had such a bad headache.
+00:43:26	T	Uh, huh. Were you still able to do anything for, uh, later on. Pythagoras. Test.
+00:43:33	S	Yes, I completed some problems but I should think I can get at least a seven and a half.
+00:43:38	T	Oh yeah? What should we bet for?
+00:43:39	S	Well, the fact that I'm doing that test.
+00:43:42	T	Oh, yes, we already agreed on that, yes. That is true. But please mention that at least three more times to me otherwise I will forget. Yes?
+00:43:53	T	Um, let's have a look, who else is absent?
+00:43:59	T	Uh, Laurie, who else is absent over there?
+00:44:02	SN	Loes.
+00:44:03	T	Right, Loes.
+00:44:07	S	Uh, j'ai mal a la...
+00:44:09	T	Loes and Laura? Why?
+00:44:11	S	Laura (inaudible).
+00:44:12	T	Yes, but why?
+00:44:21	T	Is you memory perhaps also like, uh... Really? Like what?
+00:44:31	T	What is the date today, the 11th?
+00:44:37	SN	Hey, "l'air", isn't that "looks like".
+00:44:43	SN	As in: you look sporty.
+00:44:47	T	Well, good luck with uh, French!
+00:44:50	SN	Thanks.
+00:44:51	T	Um...
+00:44:53	T	The third period you have here, uh...
+00:44:59	O	[Bell]
+00:45:03	T	See you soon!
+00:45:04	SN	Next week.
+Ê

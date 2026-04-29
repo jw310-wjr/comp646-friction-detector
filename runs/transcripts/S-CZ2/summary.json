@@ -1,0 +1,1250 @@
+{
+  "lesson_id": "S-CZ2",
+  "transcript": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science CZ2 transcript.txt",
+  "n_bins": 90,
+  "n_risky_bins": 15,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I'm going to- [T] Why don't we all stand up. Please be quiet. You may sit down. [T] I would like to find out, who's missing? [T] (Novakova) and (Kolarova)."
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] (Novakova) and (Kolarova). [T] Today, we're going to start off, by giving someone an oral quiz. It's going to be (Straka). Take the chalk and stand up behind the blackboard."
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Today, we're going to start off, by giving someone an oral quiz. It's going to be (Straka). Take the chalk and stand up behind the blackboard. [T] (Stojkova) is next. (Stojkova). Please take the chalk and stand behind the second part of the blackboard. [T] (Terner) and (Vojtikova). You two will "
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The entire class will open their notebooks from the back. Everyone else- as always, we'll write formulas. [T] Okay, let's begin. Is everyone ready? I would also like to divide the class into two groups of A and B. [T] Please make an effort not to look at your neighbor's work. [T] Okay, let's beg"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Okay, let's begin. Calcium chloride, calcium chloride. [T] Potassium sulphite, potassium sulphite, potassium sulphite. [T] The next formula is, ammonium bicarbonate, ammonium bicarbonate, ammonium bicarbonate."
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] The next formula is, ammonium bicarbonate, ammonium bicarbonate, ammonium bicarbonate. [T] The next formula is, copper sulfate."
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] The next formula is, copper sulfate. [T] The last formula is very difficult. It's called, sodium tetraborate, sodium tetraborate."
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] The last formula is very difficult. It's called, sodium tetraborate, sodium tetraborate."
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] The last formula is very difficult. It's called, sodium tetraborate, sodium tetraborate. [T] Okay. Please step back from the blackboard. Exchange your work with your neighbors. [T] Those of you who are sitting alone, can offer their work to anybody in the class. Okay, we're finished. [T] Now, we"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Now, we're going to correct and check our work. Let's start with the students, who are up here by the board. [T] The first one is calcium chloride. Which formula is correct and which one isn't? [T] CaCl2. What about here- why did you write CaCl? Why did you write CaCl? Can you explain it to us?"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] CaCl2. What about here- why did you write CaCl? Why did you write CaCl? Can you explain it to us? [T] Very good. So, you knew that the oxidation value of calcium is two and the oxidation value chlorine is negative one. Very good. [T] How about the second formula. Okay? [T] The second formula is?"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The second formula is? Please read the formula that you wrote down. Read it. [T] Just read the formula. //K2 [T] Is it correct, everyone? [T] Yes. Okay, both formulas are correct. This was supposed to be ammonium bicarbonate. Which one of those formulas is correct? [T] Is it correct? Did one of "
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This formula is correct, this formula is incorrect. Completely wrong. Okay? The next formula is supposed to be anhydrous copper sulfate. Is it correct? [T] Yes, it is. This one is not even here. And the last one is sodium tetraborate. Is this formula correct? [T] Those of you that agree with him"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Those of you that agree with him, please raise your hand. Okay, good. [T] Sodium tetraborate is okay because the oxidation value of boron is- [T] All these formulas here were correct. We'll give an A grade. This one has two incorrect and one is missing so we'll give it a C grade."
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] All these formulas here were correct. We'll give an A grade. This one has two incorrect and one is missing so we'll give it a C grade. [T] Yes, the C grade. The last formula is- okay, grade C. [T] On this side of the board- we'll just confirm the formulas. Correct, correct, correct. This one is "
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Please step away from the board. Now, everybody in class, please open your books. Group A, will look up page 114. There is a table, number nine. [T] Please fill out the table with your pencil. Okay? Group B of the class, turns to page 118."
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Please fill out the table with your pencil. Okay? Group B of the class, turns to page 118. [T] It's the assignment number five and there is a table. Fill it out with your pencil as well. [T] And those of you up here, we will continue. I will ask you some questions and you will answer them. Okay?"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] During the vegetation growth. Can you name some fertilizers? [T] Mineral fertilizers. Can you think of other fertilizers? [T] Organic fertilizers. Can you name some organic fertilizers? [T] And they are? [T] Sewage."
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] The wastewater. Are there any other organic fertilizers, which you can name? [T] No. You've mentioned all of them. What is a mineral fertilizer? Do you know of any mineral fertilizers? [T] Yes, it may be potassium chloride. But what about some different ones, can you name any? [T] Crushed limest"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Industrial fertilizer. Can you name a few? [T] The rest of you, must do your work quietly. [T] Single element fertilizers and the multiple elements fertilizers. Name some single element fertilizers? [T] Potassium fertilizers, yes. Nitrogen, phosphate- please do your work quietly. Okay, next one."
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The ceramic industry, creates ceramics. What kind of ceramics do we know? [T] The standard. What is considered the standard ceramics? [T] Okay. What is considered the standard ceramics? Please name a few, for us? [T] The sink, for instance. [T] Tiles, tiles."
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Toilet sinks, correct. Anything else? What other ceramics do you know? [T] Rough ceramics. Name some rough- [T] Roof tiles. Can you think of other items? How would we categorize pottery, for instance? [T] It falls under rough ceramics as well. Are there other ceramics?"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] It falls under rough ceramics as well. Are there other ceramics? [T] Okay. What are these items made of? [T] We've said that the fine ceramic is made out of what? Of what? [T] It's made out of kaolin. Yes. It's made out of kaolin. What is the kaolin? What is the kaolin? Is it being mined in the "
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It's made out of kaolin. Yes. It's made out of kaolin. What is the kaolin? What is the kaolin? Is it being mined in the //Czech Republic? [T] Yes, what is produced- it's clay, which is being mined in this country. At what part of the country is kaolin being mined? [T] Well, around major cities. "
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Karlovy Vary, for instance. Very good. Now everyone, grab a piece of chalk because you will write your grade. [T] This student gets a B grade, you get an A, you get a B and you get an A. Those are your grades. [T] And for the final evaluation, please write some chemical reactions. How about the "
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hydrochloric acid plus sodium hydroxide. Sodium hydroxide. Everyone is doing it on their own. Sodium hydroxide. Okay. [T] Do you know how to complete the chemical reaction? [T] Okay? Underneath that, please write, what type of reaction is it? What kind of reaction is it? [T] Okay. Very good, ver"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Very good, very good. [T] And it is a neutralization. This one is correct. Very good. You may go back to your seats and I'll give you your grades. [T] So, I think (Straka) will get an A because he did a remarkable job. Next student is (Terner), he will also get an A."
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So, I think (Straka) will get an A because he did a remarkable job. Next student is (Terner), he will also get an A. [T] (Stojkova) gets a lower A grade and... [T] (Vojtikova) also gets an A minus. Over all, it was pretty good. Please sit down. [T] Okay. Now I would like to ask the entire class-"
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Okay. Now I would like to ask the entire class- on page one- 114. The table. Which of you did not fill it out? [T] Obviously, those of you, that were up here, did not do the table. Did anyone not complete it? Did anyone have difficulties with anything? [T] No? Okay. You did? Okay, what's the pro"
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The chemical name. Which of you knows the chemical name of the bluestone? [T] Copper sulfate pentahydrate. Come up here and write up the formula. Copper sulfate pentahydrate. [T] No, just come up here to the board really fast, so you don't waste time. Copper sulfate pentahydrate. [T] Okay. So th"
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Please sit down. Very good. The second table graph, letter B. It's on page 118. Which of you had trouble with this one? [T] Okay, which one? [T] Okay. Calcium sulfate hemihydrate. Who knows the name of- hemi means, half of something. [T] Yes, it is plaster. It's a baked plaster. Okay, we a"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, it is plaster. It's a baked plaster. Okay, we all write the baked plaster in our tables. Any other problems? [T] Okay. We- [T] The name of potassium permanganate. Wait a minute, we can already derive that one, we already have the formula of KMNO4. Which one is it? [T] Excellent. It's the ma"
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, I'm not going to go over your correct answers because I want you to use the answers in the following table, which we'll be working on. [T] In this class, we have to discuss the use of the salts and the chemical reactions with salts. Okay. Please erase the board, erase the board, quickly. ["
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] While he's erasing the blackboard, we can distribute the following tables. Okay? Here, distribute these all over the classroom. [T] You, as well. Let's speed it up. Why don't you distribute these as well?"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You, as well. Let's speed it up. Why don't you distribute these as well? [T] No, no. That's enough. [T] Okay. In our previous lesson, we've introduced the chemical nomenclature of salts, how to write the formulas, and what some of the salts look like."
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] And today, we'll finalize all this information and we'll complete the table, which is in front of you. [T] I will turn off the lights, so we can take a look- everyone can orient themselves, so I know where- [T] We'll view the table on the overhead projector. Everyone will orient themselves. Okay"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] We'll view the table on the overhead projector. Everyone will orient themselves. Okay. Everyone at the same time. [T] Here we have the first salt. What is the first salt called? Who can tell us? [T] Potassium chloride. It's here. Can we write the formula? [T] KCl. Please fill in KCl in the- into"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] KCl. Please fill in KCl in the- into the table. Potassium chloride. Do you know the common name or do you know the name of the mineral in which- [T] No, it's not rock salt. Potassium chloride or sylvine. Okay, so why don't you write sylvine, sylvine. It's a mineral, which is potassium chloride. "
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The next thing is, coming up with an example of the usage. Can you recall a situation, where the potassium chloride can- [T] Yes, it is the industrial fertilizer. Why don't you write, industrial fertilizer. Okay. [T] KOH can be also produced from it. What is the KOH? [T] Potassium hydroxide. Ver"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] We have NaCl. What is it? [T] Sodium chloride. Yes. The name of this formula is sodium chloride. [T] Can anyone tell me the common name or mineral? [T] Rock salt. Have you ever seen it? [T] Where have you seen it? [T] In the household, which is in the kitchen. I brought you a large piece of salt"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] In the household, which is in the kitchen. I brought you a large piece of salt. I'm sure, you've never seen this kind before. [T] Here, take a look. This large piece is only one crystal. [T] You've seen this in your geology class, for instance. Okay. So this is a solid salt crystal. Yes. Beautif"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] At home as seasoning. What else is it used for? [T] I don't think so. I would say- [T] Food additive for animals. But what can be produced from it? Some kind of hydroxide. What kind? [T] The sodium, yes. Why don't you write, the production of KOH- NaOH. Good. The next salt on the list is? Let's "
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The sodium, yes. Why don't you write, the production of KOH- NaOH. Good. The next salt on the list is? Let's take a look. [T] Ammonium chloride. Please take good notes because this table will be used as the review. Everything you write in, you must memorize. Okay. [T] Ammonium chloride. What is "
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] NH4Cl. Yes. NH4Cl. Do you know the common name? [T] Sal ammoniac. Very good. Sal ammoniac. Can someone tell me- has anybody seen the sal ammoniac? The look of it? [T] No, you haven't seen it. I brought these tools here, to show you how easily it can be produced. What is the sal ammoniac produced"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. So, we're going to use hydrochloric acid. [T] Hydrochloric acid. Let's take a look here. The hydrochloric acid. I'm pouring a small amount, into the graduated cylinder. It only takes a very small amount. [T] And what is the second matter, we'll be using? [T] Ammonia, very good. It's also ca"
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Ammonia, very good. It's also called ammonium hydroxide. Yes. Ammonium hydroxide. Take a look what is being created. It's going to be sal ammoniac. [T] Take a look. Do you see it? Here it is. [T] It's very beautiful. So these white vapors are sal ammoniac. Okay? [T] Well it's not poisonous. But-"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Well it's not poisonous. But- are you familiar with term sal ammoniac, what is it used for? I have already heard it here- [T] Yes, very good. For cleaning. I will cover the beaker, so it doesn't stink up the room. Okay. Sal ammoniac. [T] What is the next salt, is on the list? [T] Sodium nitrate."
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Sodium nitrate. Sodium nitrate is poisonous. What is the formula? Everyone will write the formula. Please write it down. You wrote it down already? [T] NaNO3 is sodium nitrate. Okay. [T] Is it poisonous? I got it mixed up with silver sodium. I was ahead of myself. The sodium nitrate is not poiso"
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Okay. Nitrate- where is saltpeter being used? [T] The saltpeter fertilizer. Very good. Why don't you write, saltpeter as the fertilizer. Okay? [T] In the table, we'll skip potassium nitrate because it's very similar to the previous one. Okay? Just tell me the formula. [T] KNO3. Fill in your tabl"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] KNO3. Fill in your table for potassium nitrate. The silver nitrate. The formula for that is? Please raise your hands. [T] AgNO3. Is everyone keeping up with the writing? Yes. The silver nitrate. Where can we find that? [T] Caustic. What does caustic mean? [T] For warts. Correct. So, where is it "
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] In medicine, for example. Yes, in medicine. [T] Why don't you, Jonasi, read the next formula, which is in the table. It's this one. It's this formula. [T] Yes. [T] Can you read the written format? [T] Copper sulfate pentahydrate. Correct. Everyone will write, copper sulfate pentahydrate. What is"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Copper sulfate pentahydrate. Correct. Everyone will write, copper sulfate pentahydrate. What is the name of it? [T] Blue vitriol. Did you all see blue vitriol? I took the opportunity to bring in- show you from the laboratory, these crystals or blue vitriol. [T] Why don't you take a look at this "
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] During your chemical experimenting. Okay. That's how blue vitriol looks like, which you observed this summer in your study. [T] Where is blue vitriol being used? [T] Excuse me? [T] Very good. Why don't you write... you can even write, disinfectant products against mold or the controlling of grow"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Very good. Why don't you write... you can even write, disinfectant products against mold or the controlling of growth against mold. [T] And as metal coating, for instance. Okay? We have the word green below that. Yes? What word is missing there? What is- [T] Green vitriol. What actually, is gree"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Iron sulfate heptahydrate. Very good. Who has seen the green vitriol? No one. It's a good thing that I brought it with me. [T] Unfortunately, I left it upstairs, so I don't have it here. It's green and very similar to the crystal matter. It's used against the moss. Okay? [T] Why don't you write,"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Why don't you write, the moss. Okay, the next one is CaSO4. CaSO4 times 2H2O. How do we read the formula, for that one? [T] Not everyone has been raising their hands. How about back there. Shirek? [T] Excuse me? [T] But the 2? H2O? [T] Calcium sulfate dihydrate. Yes. What is the common name? Deh"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It is gypsum. Correct. It is gypsum. What is gypsum used for? [T] The production of plaster. Let's all write, the production of plaster. The production of plaster. [T] Very good. The next one is, sodium carbonate. What is the formula for sodium carbonate? [T] Na2CO3. Na2CO3. Which of you have se"
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Na2CO3. Na2CO3. Which of you have seen the word, soda. [T] Soda. That's the common name. So, the common name is soda. But be careful. Soda must have what? [T] Excuse me? It must include water. Now I want to show all of you the soda. I brought it with me. [T] So it's- it's not- soda is a crystal "
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So it's- it's not- soda is a crystal matter. Here, take a look at the soda. Please take a look at the soda. [T] What does it look like? How would you characterize it? [T] White, without color. White, crystallized matter. Okay? [T] Everyone can see the soda. What is soda used for? [T] The product"
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The glass. Excellent. Is it also being used somewhere in the household? [T] The softening of water. Okay. So, the softening of hard water. Okay? [T] The next one is? The formula is, NaHCO3. What is that? [T] Sodium hydrogen carbonate. Sodium hydrogen carbonate. Does anybody know- did someone com"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Sodium hydrogen carbonate. Sodium hydrogen carbonate. Does anybody know- did someone come across it? [T] Sodium bicarbonate. Very good. Sodium bicarbonate. Good observation. Excuse me? [T] Well, we can use it as the common name. Sodium bicarbonate. Has anyone used sodium bicarbonate? What is it "
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] To prevent stomach acid. Good. The prevention of stomach acid. [T] We're going to skip the carbonated potassium because it's being used for- we'll leave it alone. Calcium carbonate. Calcium carbonate? [T] CaCO3.Everyone should write, CaCO3. What is the name of the carbonate- as a mineral? How ab"
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Or what's the other word? [T] So that is a mineral. [T] Mountain limestone. Yes, the limestone. Can someone tell me- we've already seen the solidification of cement, slaked lime? [T] So, what is it used for? What is the limestone used for? [T] Burned lime. So, why don't you write, the b"
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Can someone tell me, what the burned lime is? What is it? [T] CaO. You've had geology, earlier today. Correct? [T] In your previous class. I wanted to ask you, didn't you also learn- [T] Limestone. And what is created from the limestone? [T] The limestone or the karst-like process. Yes? Do you k"
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Well, limestone precipitates, it creates calcite. And what grows from that? //Stalagmite. [T] Yes. The stalagmite grows from it. What else do we- I brought a sample. I'm sure you've seen it before, but I brought some //limestone here, just in case. [T] It is not a chalk. It's the limestone. It's"
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The next one on the list is the second to last. It's KMnO4. What does that mean? [T] Potassium manganate. Potassium manganate. What is it- from the table? [T] Potassium permanganate. It is given in the table. Potassium permanganate. [T] Do you know what potassium permanganate- you may have heard"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Do you know what potassium permanganate- you may have heard it somewhere. What is it used for? [T] As a disinfectant and oxidizing agent. Write down, disinfectant and oxidizing agent. [T] Okay. The last one is? Please read the formula?"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. The last one is? Please read the formula? [T] Calcium phosphate. Calcium phosphate. What is the common name for it? Do you know? [T] Well, the super phosphate is commonly used. It's a mineral, whose name is? [T] Apatite. Phosphate, apatite. Phosphate and apatite."
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Apatite. Phosphate, apatite. Phosphate and apatite. [T] I would like to return to the potassium permanganate. I brought one, for you to see. You probably can't see it. [T] I'm going to demonstrate- yes it dissolves into a purple liquid. [T] Let's take a look here, at this Petri dish and I'm goin"
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Let's take a look here, at this Petri dish and I'm going to place several crystals and pour in some water. [T] Very good. What kind liquid is it? You can all see that it's- [T] The pink liquid. This has disinfecting qualities. [T] In the civilian world, for example, kids are taught to use potass"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] In the civilian world, for example, kids are taught to use potassium permanganate, for disinfecting masks and so on. [T] Do you see it? We're not going to add anymore. You can see, it's a pink liquid. Okay? [T] I think we're done with the table. Why don't you study the table? The next topic is, "
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] I think we're done with the table. Why don't you study the table? The next topic is, the reaction. [T] I had prepared another table. I would like you to take a look at it. It is a very difficult theme. Can you see it? [T] Okay. I'm sure, you're going to recognize the formulas. Let's go over it. "
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. I'm sure, you're going to recognize the formulas. Let's go over it. Can somebody tell me what that is? The chemical formula. [T] Calcium carbonate. And what is this? [T] Calcium oxide. Can someone write up the equation? How calcium carbonate turns into calcium oxide. Go up to the board and"
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] In the meantime, you'll write the formula into your notebooks. Write the formula into your notebooks. [T] CaCO3. [T] It derives- so the arrow should be pointing, what direction? [T] Is the calcite created from that? What is created from that? [T] You need to reverse it. Yes. Okay. [T] I'm going "
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I'm going to turn on the light, so we can have more light. [T] Okay. CO2 is created and what is CaO? [T] Calcium oxide and what else? [T] Carbonated, yes. I would like to ask you kids, what is the common name for CaO? What is the common name for CaO? [T] We should see more hands up. We've alread"
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. (Antolova)? [T] It is burned lime. Very good. Okay. How about the second formula? Who can outline the second formula? Everyone should write the second formula. [T] The formula is Ca and we want to turn it into Ca(OH)2. How are we going to do that? How are we going to formulate the second e"
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The formula is Ca and we want to turn it into Ca(OH)2. How are we going to do that? How are we going to formulate the second equation? [T] Yes. Very good. Plus H20- Jan has said it. Okay. Plus H2O. What formula comes out of that? What will be the equation? [T] What do we come up with? Ca(OH)2- b"
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Ca(OH)2. Why don't you, (Dubravska), come up to the board and write it up. Hurry up. [T] Yes. [T] No. Not that. You're supposed to write the second one. Ca, which is lime. Ca plus H2O- as we've said. The result is? Ca(OH)2."
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No. Not that. You're supposed to write the second one. Ca, which is lime. Ca plus H2O- as we've said. The result is? Ca(OH)2. [T] But something is still missing there. What is it? [T] Yes. Plus H2 is still missing. So, what is H2? [T] Hydrogen. We still need to fill in the formula with? [T] 2H2O"
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] 2H2O. Very good. Now let's concentrate on- formula number seven. Let's take a look at it. [T] The number seven formula is CaOH- [T] Number two and the result is CaCl2. Let's write the formula. Which student- which student will come up to the board and write it?"
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Number two and the result is CaCl2. Let's write the formula. Which student- which student will come up to the board and write it? [T] Jakube! Why don't you come over here? [T] Yes, you. Jakube, why don't you write the formula which is on the sheet? CaCl2, CaCl2, draw an arrow- you can probably a"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Wait a minute. That derives from- so the arrow- [T] Yes. Very good. [T] Number two. Okay. Jakube, I'm going to ask you and the entire class. What is Ca(OH)2? [T] Hydroxide and what's on the right side? [T] What type? [T] Calcium. Very good. Now, why don't you tell me, what exactly is the calcium"
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Calcium. Very good. Now, why don't you tell me, what exactly is the calcium chloride. What are the substances in the //calcium chloride? [T] Salt. Very good. How is salt created? [T] Excellent. The neutralization of hydroxide and acids. So, why don't you write- what kind of acid? [T] HCl. Very g"
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] HCl. Very good. HCl. What else evolves out of that? [T] H2O, yes. H2O. How do we complete the reaction? [T] 2H2O, yes. Okay? 2H2O, very good. Take a look. I would like to show you this experiment."
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] 2H2O, yes. Okay? 2H2O, very good. Take a look. I would like to show you this experiment. [T] So, here we have calcium oxide or... [T] //Burned lime. We put out the lime. What do we use to put it out? [T] Water. What happens then? [T] Slaked lime or the chemical term is? [T] Calcium hydroxide. Ho"
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] Calcium hydroxide. How can we prove, that the calcium hydroxide is present? Does anyone know? [T] An indicator. Do we know of some kind of indicator? [T] This one here. And what do we call it? [T] No. Can you name some indicators? [T] Okay. Go ahead. [T] Litmus, very good. Any other indicators? "
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Phenolphthalein. I have a phenolphthalein in my hand. I'm going to drop some into the liquid. Take a look. It turned- [T] Purple. I have to- here it is. Can everyone see the color? [T] Okay? Now, watch please. What do we have to do, in order to produce salt? [T] We need to add some acid. Good. W"
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] HCl. Let's take a look. [T] When the salt is neutralized, what color will it be? [T] It is colorless. You can see that it turned back to the original colorless stage. That's about it. Your homework assignments are? Your homework assignments are?"
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It is colorless. You can see that it turned back to the original colorless stage. That's about it. Your homework assignments are? Your homework assignments are? [T] Please, write the formula from the diagram, which is in your book- look it up in your book. [T] The diagram, which we saw on the ov"
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Please write in your notebooks- we did reaction number five. Please, write down reaction three and four for now."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The second formula is? Please read the formula that you wrote down. Read it. [T] Just read the formula. //K2 [T] Is it correct, everyone? [T] Yes. Okay, both formulas are correct. This was supposed to be ammonium bicarbonate. Which one of those formulas is correct? [T] Is it correct? Did one of them, write it correctly? [T] Yes. So-"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] During the vegetation growth. Can you name some fertilizers? [T] Mineral fertilizers. Can you think of other fertilizers? [T] Organic fertilizers. Can you name some organic fertilizers? [T] And they are? [T] Sewage."
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The ceramic industry, creates ceramics. What kind of ceramics do we know? [T] The standard. What is considered the standard ceramics? [T] Okay. What is considered the standard ceramics? Please name a few, for us? [T] The sink, for instance. [T] Tiles, tiles."
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, it is plaster. It's a baked plaster. Okay, we all write the baked plaster in our tables. Any other problems? [T] Okay. We- [T] The name of potassium permanganate. Wait a minute, we can already derive that one, we already have the formula of KMNO4. Which one is it? [T] Excellent. It's the manganese potassium. [T] Okay, I'm not going to go over your correct answers because I want you to use the answers in the following table, which we'll be working on."
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The sodium, yes. Why don't you write, the production of KOH- NaOH. Good. The next salt on the list is? Let's take a look. [T] Ammonium chloride. Please take good notes because this table will be used as the review. Everything you write in, you must memorize. Okay. [T] Ammonium chloride. What is the formula for that? [T] Excuse me? [T] NH4Cl. Yes. NH4Cl. Do you know the common name?"
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] In medicine, for example. Yes, in medicine. [T] Why don't you, Jonasi, read the next formula, which is in the table. It's this one. It's this formula. [T] Yes. [T] Can you read the written format? [T] Copper sulfate pentahydrate. Correct. Everyone will write, copper sulfate pentahydrate. What is the name of it?"
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The glass. Excellent. Is it also being used somewhere in the household? [T] The softening of water. Okay. So, the softening of hard water. Okay? [T] The next one is? The formula is, NaHCO3. What is that? [T] Sodium hydrogen carbonate. Sodium hydrogen carbonate. Does anybody know- did someone come across it?"
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Or what's the other word? [T] So that is a mineral. [T] Mountain limestone. Yes, the limestone. Can someone tell me- we've already seen the solidification of cement, slaked lime? [T] So, what is it used for? What is the limestone used for? [T] Burned lime. So, why don't you write, the burning of lime."
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] In the meantime, you'll write the formula into your notebooks. Write the formula into your notebooks. [T] CaCO3. [T] It derives- so the arrow should be pointing, what direction? [T] Is the calcite created from that? What is created from that? [T] You need to reverse it. Yes. Okay. [T] I'm going to turn on the light, so we can have more light."
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. (Antolova)? [T] It is burned lime. Very good. Okay. How about the second formula? Who can outline the second formula? Everyone should write the second formula. [T] The formula is Ca and we want to turn it into Ca(OH)2. How are we going to do that? How are we going to formulate the second equation?"
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The formula is Ca and we want to turn it into Ca(OH)2. How are we going to do that? How are we going to formulate the second equation? [T] Yes. Very good. Plus H20- Jan has said it. Okay. Plus H2O. What formula comes out of that? What will be the equation? [T] What do we come up with? Ca(OH)2- but what else is there. Or no? [T] Ca(OH)2. Ca, plus-"
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Ca(OH)2. Why don't you, (Dubravska), come up to the board and write it up. Hurry up. [T] Yes. [T] No. Not that. You're supposed to write the second one. Ca, which is lime. Ca plus H2O- as we've said. The result is? Ca(OH)2."
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No. Not that. You're supposed to write the second one. Ca, which is lime. Ca plus H2O- as we've said. The result is? Ca(OH)2. [T] But something is still missing there. What is it? [T] Yes. Plus H2 is still missing. So, what is H2? [T] Hydrogen. We still need to fill in the formula with? [T] 2H2O. Very good. Now let's concentrate on- formula number seven. Let's take a look at it."
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] 2H2O, yes. Okay? 2H2O, very good. Take a look. I would like to show you this experiment. [T] So, here we have calcium oxide or... [T] //Burned lime. We put out the lime. What do we use to put it out? [T] Water. What happens then? [T] Slaked lime or the chemical term is? [T] Calcium hydroxide. How can we prove, that the calcium hydroxide is present? Does anyone know?"
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] Calcium hydroxide. How can we prove, that the calcium hydroxide is present? Does anyone know? [T] An indicator. Do we know of some kind of indicator? [T] This one here. And what do we call it? [T] No. Can you name some indicators? [T] Okay. Go ahead. [T] Litmus, very good. Any other indicators? I'm sure you've studied it last year. [T] Phenolphthalein. I have a phenolphthalein in my hand. I'm going to drop some into the liquid. Take a look. It turned-"
+    }
+  ]
+}

@@ -1,0 +1,905 @@
+{
+  "lesson_id": "M-HK1",
+  "transcript": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math HK1 transcript.txt",
+  "n_bins": 69,
+  "n_risky_bins": 8,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, page 161. Uh, we have learned something about the square, do you remember? [T] No? So uh, we have learned- for example, I give you a... question for you to think about. [T] So first of all, what is... the square... of three?"
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So first of all, what is... the square... of three? [T] What is the square of three? So- so that you may understand what is the square of. [T] So what is the answer? [T] Six? Yes? Uh, Leung Chi Fu. [T] Nine, yes. So uh, we can answer the question like that- the square of three... is equal to nin"
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So you can show the step. What is the square of nine? [T] You can use mathnotics- sorry, mathematical notation. How to write the square of three? Fung Chi Pui. [T] Three times three. And then, there is a step, the square of three. [T] So, can you write a mathematical notation? Uh, Mung Wing Chi."
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Very big. Yes. Uh, the square of three, you can write, uh, at the same as this. [T] So that it- the meaning of uh, square of three is equal to three times three. So the answer is nine, okay? [T] So, what is the square of negative three? [T] Negative three. So can you show the step? Okay, the fir"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Negative three. So can you show the step? Okay, the first- the first line, what do you- what do you write? Wong On Kei. [T] The first line. [T] Okay. So, have you found out- there's something missing. [T] So you must write down- what do you- what did you find out? What did you find? [T] Okay, uh"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, uh, next. Oh, you- you can answer it again. [T] The square of... [T] Negative three. So, the square of negative three, you can write like this. And then, square means? [T] What's the- what's the meaning of square? So the answer- next step, what do you write? Ng Hoi Yan."
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What's the- what's the meaning of square? So the answer- next step, what do you write? Ng Hoi Yan. [T] Can you answer me? [T] Okay. [T] Neg- negative three times negative three. Okay? So the answer is- what's the answer? You can answer me. [T] Uh, orally, so uh, Chan Wai Yan. [T] Nine. [T] Okay,"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, now uh, we will learn another- another type of question. [T] Okay. Now, what is the positive value of A if the square of A is nine?"
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Okay. Now, what is the positive value of A if the square of A is nine? [T] So can you find the answers? So what is the positive value of nine? Law Oi Ping. [T] Three. So how can you do that? [T] How can you- how can you find the answers? [T] So first of all, you must express the square of A equa"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So, can- what do you write on the left hand side? Wong Chun Kei. [T] A times A. Or? [T] Yes, write the little two on the top. The square of A equals nine, okay? [T] So then now, we want to find A. So some of you say, the answer is three. [T] So I- I think you can go- oh three times three is nine"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Uh, I will teach you a step to solve. So, uh, if you find the- uh, the value of A, you can write like this. [T] So A, you want to find A, then this side, you put square root, okay? So this sign- this signs... [T] We call it radical signs. Radical sign, okay? Radical sign. [T] So what is the mean"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Square root of nine means to find a positive value of A, A huh, if the square of A is nine, okay? [T] Square root of nine- to find a value. [T] To find a positive value. [T] Its square equals to nine. Okay? [T] Do you know- do you understand what's the- what is the meaning of square root of a nu"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, okay. So now, number two. [T] What is the negative... value of A if the square of A is nine? [T] So the result is the same, the square of A is nine. But now, you want to find the negative number. [T] Can you find the answer?"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yeung Suk Ping. [T] Negative three. So how can you find that? How can you find that? [T] So first of all, if the square of A is nine, then you can write an equation. [T] So, can you write an equation for me? [T] Lo Chi Hung. [T] So now, in this question, you want to find the negative value of A."
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So now, in this question, you want to find the negative value of A. [T] What is the difference? What is the difference between this part and the- and the previous question? [T] Good. [In Chinese] [T] But now A, A is a negative number, not negati- negative A. [T] So the square of A- the square of"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So the square of A- the square of A is nine. Yes. [T] Haha. Is there any question? If the square of A, so which number? The square of which number? [T] The square of A. You just write this sentence as a- as an equation, as an equation. [T] Yes, good. Okay, so A- uh, square of A equals nine."
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, good. Okay, so A- uh, square of A equals nine. [T] So now, you will- you know that, the answer is negative three. Why? Because you- you know. [T] Because you know that, negative three times negative three equals nine. [T] So negative three squared equals nine. [T] So the answer, compared of"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So, first of all, what is the difference? So A is equal to the square root of nine. Is it the same? [T] No, so you must add... [T] Kwong Wai Kit. [T] Yes, just- just talk. [T] Another sign? [T] In..."
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, in here. Okay? Negative sign in front of the square root. [T] So if you want to find the negative value, then in- in front of the, uh, square root- [T] Before the square root, you write a negative sign. [T] So that you can get the answer is negative three. Okay? [T] So now, I want you to fi"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Can you find the answers? So square root of 36, what is the answer? [T] So square root of 36 means- find a number. [T] The square of this number equals 36. So which number? [T] Choi Ka Yan. [T] Six, okay? And then, negative square root of 36. So the answer is... Woo Hau Pang? [T] Negative six. O"
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Negative six. Okay. [T] Open your book to page 162 to do question number two in your book. [T] Page one hundred and sixty-two, number two."
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] (inaudible)"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] (inaudible)"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] (inaudible)"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. [T] Okay, part two A. Square root of 36 is six. We have done it before. Okay, part B. [T] Square root of 49. What is the answer? [T] Ng Ka Wing."
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Seven. Yes. Part C. Square root of 100. So the answer is... [T] Cheung Ka Wai. [T] Ten, because 10 squared equals 100, okay? And then uh, part D. [T] Square root of 196, so the answer is...? [T] To Tsung Him. [T] Fourteen. Fourteen, yes. Okay. Part E. What is the- what is the answer?"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Fourteen. Fourteen, yes. Okay. Part E. What is the- what is the answer? [T] Wong Yee Hung- sorry, Wong Yee Ling. [T] Seventeen. Next. [T] Part F. So the answer is... Lui Man Hing? [T] Twelve. [T] Mm? [T] Twenty. [T] Twenty, yes. Okay, uh, part G, part G. So the answer is... Choi Ka Man? [T] Hmm?"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Thirteen, yes. Thirteen. Okay, H? The answer is...? [T] Uh, Wong On Tin. [T] Nine? Nineteen. Nineteen. Okay, I? What is the answer? Wong Wai Yan. [T] Chan Wai Yan. [T] Huh? [T] Negative 11. Okay, your last one. What is the answer? [T] So Chi Yan."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So Chi Yan. [T] Negative... four. [T] So you must know that, if uh, a- A squared is equal to nine, there is two- sorry, there are two answers. [T] There are two answers... to make uh, A squared equal to nine. [T] The values of A may be positive three or negative three. Why? [T] Because negative "
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Because negative three times negative three is nine. And three times three is also equal to nine. Okay? [T] So there are two answers. [T] So if- uh, before the square root, there is uh- there is no sign, it shows it is a positive. [T] If, in front of the square root sign, there is a negative the"
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If now, I want to find what is the value of, uh, A if the square of A is nine. [T] Now, I'm- I just want to find the values of A. I only to uh- I- I want to find the value of A. [T] Okay? But now uh- is- is there any request about A? A must be positive or negative? [T] No. So how do we wri- writ"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So in this case, it's similar. A squared equal to nine because it is given that the square of A is nine. [T] Next, so we know that there are- there are two answers. So how to write this? So A... [T] The- one of the answer is negative nine or...? [T] There are two answers, one of these is square "
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] There are two answers, one of these is square root of nine. The other...? The other is...? [T] La- Lai Chi Fu. [T] Negative... square... root... [T] Of nine. Okay. So that means square root of nine. So you just combine the two questions, okay? [T] So before, uh, if it is positive, then it is pos"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And then this one, you want to find a negative, then there is a negative. It's the same, okay? [T] So in this case, you can find the answer, this is equal to one and then this is equal to negative three. [T] So if in the question, uh, you- you want to find, uh, the value of A... [T] And then, yo"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, do it in your classwork."
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, do it in your classwork. [T] Okay, find this- do these two classworks okay? Two questions. [T] So each of uh- each of the questions, you can find two answers, okay?"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So each of uh- each of the questions, you can find two answers, okay? [T] Two answers in each question."
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Two answers in each question. [T] (inaudible) [T] Okay. Quick."
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Quick. [T] Because there are two answers. (inaudible) [T] Did you get two answers?"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Did you get two answers? [T] There are two possible answers. [T] Okay, who can do this for us? Okay, number four?"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Leung Hoi Chung. [T] Number five? [T] Uh... Ng Chun Mei."
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] (inaudible)"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] (inaudible) [T] Okay, uh, number four, so you- you write this e- equation to express this, uh, condition. [T] So the square of A equals 64. [T] So A equals the square root of 64. This is to represent a positive value, okay? [T] Or negative square root of 64. [T] So this you can find the answer i"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So there are two answers because eight times eight is 64. [T] Negative eight times negative eight is 64. So there are two answers, okay? [T] And then, for this case, it is correct, okay? [T] In this case, you do not need to write it, uh- this sentence again- this equation again. [T] Do you have "
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. There are some things for you to think about. [T] Okay. [T] Okay, think... think about, uh, square root of negative four- sorry, square root of the square of negative four."
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, think... think about, uh, square root of negative four- sorry, square root of the square of negative four. [T] Is it equal to four or equal to negative four? [T] Lo Chi Hung. [T] Four. Why?"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, very good. [T] Yes, very good. [T] So, this square root of the square of negative four, you can express- [T] the number inside, you can expand it as- you can calculate. [T] Negative- the square of negative four is equal to negative four times negative four. [T] So it is equal to positive 16"
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Is it equal- equal to negative- negative four? [T] Why? Because there is no negative sign in the front. So, the answer must be positive, okay? [T] So in this case, you can see that the answer is positive. [T] You can- you can find the answer is positive if there is no sign. Okay? [T] If the answ"
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If the answer is negative, only if there is a negative sign, uh, before the square root, okay? [T] So in this case, there is no negative- negative sign... [T] Uh, uh, in the front, so, we call- uh, we can find the answer positive. We can find a positive answer. [T] Do you have any questions? [T]"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Now, uh, we have another question for- for- uh, for you to think about. Uh, it is this. [T] Okay. [T] Okay, wait a min- wait a minute for you to think about this."
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, wait a min- wait a minute for you to think about this. [T] So, this, uh, square root of a- sorry, uh, negative- sorry, square root of negative four. [T] Is it equal to two, or negative two, or no solution? [T] Okay. Who says that it is equal to two? [T] Put up your hand. [T] Why? Because t"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Why? Because take square root means- what is the number times itself equal to negative four? [T] So two times two is four. [T] So it- it does not equal negative four. It is- it does not equal negative four. [T] How about negative two? So this answer is incorrect. How about this? [T] Is it correc"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So, there is...? [T] No solution. [T] Why? Because, uh, if you find that it is, uh, just like that, A squared is equal to negative four. [T] So which number times itself is equal to a negative number? [T] None. Because a number A- all number can be, uh, divided or grouped into three- uh, must be"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] No solution. No. [T] A number must be one of- one of- one of these. Maybe it is a positive. Maybe it is negative, or...? [T] Zero, yes. Very good. [T] So uh, if A squared- we see, uh- by case, so if A is positive, then what is the value of A squared? [T] Positive? Negative? Or zero? [T] Positive"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Positive. And then if it is negative, what is the result of the square of A? [T] Positive. If it is zero, then what is the squ- square of zero? [T] Zero. So is there any answer equal to negative? [T] No. So, this answer- this neg- uh, negative four, you cannot find the answers. Okay? [T] Because"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Do you have any questions? No. [T] So uh, in this case, we just, uh, learned something about the meaning of the square root. [T] So that's- what is this meaning of square root? [T] So, take square root of nine is to find the number of A such that the square of A is equal to nine. [T] So you just"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So, in this case, it solves the answer is- the answer is positive. [T] If this one, there is a negative sign, then the answer is negative. [T] Okay? [T] Finally, there are some, uh, uh, special, uh, questions for you to think about. [T] So you must think carefully that, uh, this answer must be p"
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] This one... because inside there is a negative number, then it is- it is, uh- there is no solution. [T] Okay, if there is no, uh, questions, [T] uh, please go home to read page 163 to page 164. [T] Or you can, uh, read these pag- pages now okay?"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Or you can, uh, read these pag- pages now okay? [T] So now, please read, uh, page 164 to page 164. [T] Uh, in the next lesson, we will learn something about the square root, okay? The properties of the square root."
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Uh, in the next lesson, we will learn something about the square root, okay? The properties of the square root. [T] At the end. Finished. [T] Hmm. Okay."
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Hmm. Okay."
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Hmm. Okay. [T] Uh, some of you, uh, try to do the class practice, okay? [T] So read the pages and do the questions."
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So read the pages and do the questions."
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So read the pages and do the questions."
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] (inaudible) [T] Okay, this times."
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, this times. [T] (inaudible)"
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Goodbye class."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, do it in your classwork."
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Leung Hoi Chung. [T] Number five? [T] Uh... Ng Chun Mei."
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So, in this case, it solves the answer is- the answer is positive. [T] If this one, there is a negative sign, then the answer is negative. [T] Okay? [T] Finally, there are some, uh, uh, special, uh, questions for you to think about. [T] So you must think carefully that, uh, this answer must be positive because there is no negative sign. [T] This one... because inside there is a negative number, then it is- it is, uh- there is no solution."
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] This one... because inside there is a negative number, then it is- it is, uh- there is no solution. [T] Okay, if there is no, uh, questions, [T] uh, please go home to read page 163 to page 164. [T] Or you can, uh, read these pag- pages now okay?"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Or you can, uh, read these pag- pages now okay? [T] So now, please read, uh, page 164 to page 164. [T] Uh, in the next lesson, we will learn something about the square root, okay? The properties of the square root."
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So read the pages and do the questions."
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So read the pages and do the questions."
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Goodbye class."
+    }
+  ]
+}

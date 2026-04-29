@@ -1,0 +1,483 @@
+00:00:01	T	Okay, in you go. Take your hats off.
+00:00:29	T	Good morning, year eight.
+00:00:33	T	Okay, write down the answers to these please. Yes, Daniel.
+00:00:37	SN	Um, what time are we gonna come back from computing?
+00:00:40	T	Three o'clock.
+00:00:49	T	First one...
+00:00:51	T	Nine sevens...
+00:00:54	T	Three eights...
+00:00:57	T	Thirty-two divided by four...
+00:01:01	T	Negative six plus nine...
+00:01:05	T	Three times negative nine...
+00:01:10	T	A mathematical formula for the mean...
+00:01:19	T	A formula for the area of a circle...
+00:01:28	T	Simplify four X all cubed.
+00:01:49	T	And three quarters of 16.
+00:02:00	T	Here are your answers...
+00:02:03	T	Sixty-three, 24, eight, negative six plus nine, positive three, three times negative nine, negative 27.
+00:02:16	T	The formula for the mean: sigma F X on sigma F.
+00:02:22	T	Area of a circle, pi R squared.
+00:02:27	T	Four X all cubed simplified. Four cubed is?
+00:02:32	SS	Sixty-four
+00:02:33	T	Sixty-four X cubed.
+00:02:36	T	And three quarters of 16. One quarter of 16?
+00:02:40	SS	Four.
+00:02:41	T	So three quarters?
+00:02:42	SS	Twelve.
+00:02:42	T	Twelve.
+00:02:43	T	Mark the number.
+00:02:51	T	Slayed you. What happened? Which one caused the difficulty?
+00:02:57	SN	Twenty-five.
+00:03:01	T	Four X all cubed.
+00:03:02	SN	Yeah.
+00:03:02	T	Okay, don't forget, if you've got that situation where something is all cubed, both the numerical coefficient as well as the variable has to be cubed, yeah?
+00:03:12	T	So what does four cubed mean?
+00:03:15	SN	Four by four by four.
+00:03:16	T	Four- four multiplied by itself three times. So four fours is 16, times four, 64.
+00:03:23	T	Okay, nine. Eight. And less than eight.
+00:03:31	T	Okay, any questions about them?
+00:03:34	T	All right, here's the story.
+00:03:38	T	My wife bakes hot chocolate chip cookies, which I like.
+00:03:51	T	But lately, the number of cookies- or the number of chocolate chips in the cookie... has been decreasing.
+00:04:01	T	We're going to simulate an experiment here whereby we have to find out how many chocolate chips I've got to put into a mixture to create six cookies-
+00:04:19	T	Which you have on that sheet that I've given you- so that I can be pretty sure that each cookie is going to end up with at least three, yes?
+00:04:31	T	Now, anyone got any ideas as to how many chocolate chips I would have to put into my mixture so that I would end up with at least three in each cookie?
+00:04:43	SN	Eighteen?
+00:04:44	T	Eighteen.
+00:04:45	T	What about if I had 18- now, they're mixed up in this mixture for the six cookies- are you sure that each time you scoop out some of that mixture, you're gonna get three?
+00:04:57	T	So you- you're riding on the bare minimum there, aren't you? You're hoping- you're hoping that you're going to get three each scoop.
+00:05:05	T	What we're going to do is this little simulation exercise and it's just to gather some statistical data so we can carry on with our statistics.
+00:05:14	T	You're gonna work in pairs. One person's going to roll the dice.
+00:05:19	T	The number of the dice indicates the cookie and your cookies are numbered one to six. For example if I rolled a five that means I've got one chocolate chip for cookie number five.
+00:05:31	T	You're going to have to roll the dice sufficient times to end up with a minimum of three chocolate chips in each cookie. Do you understand?
+00:05:42	SS	Yeah.
+00:05:42	T	Okay.
+00:05:43	T	Tim, I'll help you, seeing you- who's away today?
+00:05:46	SN	Renee.
+00:05:47	T	Renee, thank you.
+00:05:49	T	All right. So you know what to do? One person's rolling the die. Each time that number comes up, you put a stroke into your cookie.
+00:05:59	T	Now, it may be that you end up with ten chocolate chips in cookie number five. That doesn't matter.
+00:06:05	T	Okay, here we go. Three...
+00:06:10	T	One.
+00:06:12	T	Five.
+00:06:14	T	Five.
+00:06:17	T	One.
+00:06:19	T	One.
+00:06:21	T	Four.
+00:06:23	T	Two.
+00:06:25	T	Six.
+00:06:28	T	Five.
+00:06:30	T	One. Can you continue?
+00:06:34	T	Do you understand what you're doing? Good.
+00:06:37	T	Don't forget you've gotta end up with a minimum of three in each.
+00:06:42	T	Roll it quickly. We want to get this started to- together. Roll it faster.
+00:06:48	T	Roll it quickly. We want to get this started.
+00:06:56	T	Would you roll it properly please.
+00:07:05	T	Roll it properly.
+00:07:07	SN	Sorry.
+00:07:20	T	Hurry up, get your cookies done. I've got it.
+00:07:31	SS	Do we roll it- we roll until each (inaudible) three?
+00:07:31	T	Who's finished?
+00:07:34	T	You must keep rolling until every cookie has got three chocolate chips in it.
+00:07:39	SN	Our dice has got all these dots in it.
+00:07:45	T	Don't worry, continue. No, not yet.
+00:07:59	T	Hurry up, Josh. You're gonna be the last group.
+00:08:02	T	Who's finished? Well done.
+00:08:09	T	Any group not?
+00:08:11	SN	Yeah.
+00:08:15	T	Once you have finished, count up the total number of cookies- or sorry, the total number of chocolate chips that you required to get three chocolate chips into each cookie.
+00:08:38	T	Mitch, have you finished?
+00:08:40	SN	No, we're unlucky.
+00:08:55	SS	Yay!
+00:08:56	T	Okay, let's have those results please. We'll go around the classroom. Thanks, girls.
+00:09:00	SN	Um, 25.
+00:09:01	T	Twenty-five.
+00:09:02	SN	Twenty-seven.
+00:09:04	SN	Twenty-two.
+00:09:08	T	Daniel?
+00:09:09	SN	Um, 36.
+00:09:10	SN	Forty-two.
+00:09:13	SN	Thirty-six.
+00:09:16	SN	Twenty-five.
+00:09:18	SN	Twenty-nine.
+00:09:22	SN	Twenty-eight.
+00:09:24	SN	Thirty-one.
+00:09:26	SN	Twenty-five.
+00:09:30	SN	Twenty-six.
+00:09:32	T	And Tam.
+00:09:33	SN	Thirty-three.
+00:09:34	T	Thirty-three.
+00:09:35	T	Okay, Rebecca, we're a bit different from the 16 or the 18 that you originally said.
+00:09:41	T	What I want you to do now- there are all the results, okay? From our experiment, I want you to now draw up a frequency distribution table. There are your scores.
+00:09:52	T	Do your frequency.
+00:09:53	SN	Um, we got 43.
+00:09:55	T	Forty-three. Thank you.
+00:10:02	T	They are your scores. Yes.
+00:10:24	T	Come on, just get it done quickly. Thanks.
+00:12:21	T	Get the rest of your table completed.
+00:13:33	T	Don't forget your headings, Jacques.
+00:13:46	T	Is there anyone who hasn't completed the frequency column?
+00:13:51	T	Come on, hurry up.
+00:14:12	T	Would you just check your frequency columns, see if you agree with this. Otherwise, your results will be wrong.
+00:14:21	T	Who had one, three, one, one, one, one, one, one, two, one and one?
+00:14:30	SN	Yeah.
+00:14:31	T	And sigma F will be?
+00:14:34	T	Fourteen, correct. Okay, get the other two columns complete.
+00:15:01	T	You can use your calculator.
+00:15:22	T	What's up, Jacques?
+00:15:26	T	You're looking on his. What's the problem? All right.
+00:15:31	T	Anyone not completed the F X column?
+00:15:38	T	You're finding multiplying by one and two difficult?
+00:15:45	T	Oh, you're adding, okay.
+00:15:46	T	Okay, let's just check the F X column.
+00:15:50	T	Twenty-two, 75, 26, 27, 28, 29, 31, 33, 72, 42, and 43. Agreed?
+00:16:11	T	Four twenty-eight as sigma F X. Thank you. Anyone not completed the cumulative frequency column?
+00:16:19	T	Here we go. One, four, five, six, seven, eight, nine, 10, 12, 13, 14.
+00:16:30	T	When you have completed that fre- uh, cumulative frequency column, what should you check? Josh.
+00:16:36	SN	That the, um, total- that the last number in the cumulative frequency table is equal to sigma F... Is equal to the sigma F.
+00:16:45	T	Sigma F, good. Okay, would you now find for me the three points of central tendency, please.
+00:17:51	T	Finished, Josh?
+00:17:52	SN	(inaudible)
+00:18:02	T	Is there anyone else having difficulty with the median?
+00:18:07	T	Okay. Just stop what you're doing, listen in for a moment please. What is the median score?
+00:18:13	T	The middle score. How many pieces of data do we have?
+00:18:15	SN	Eleven.
+00:18:16	SN	Fourteen.
+00:18:17	SN	Fourteen.
+00:18:18	T	Fourteen pieces. Okay, now think of it, 14 pieces of data balanced, how many on each side?
+00:18:24	SS	Seven.
+00:18:25	T	Have we got any piece of data for the center?
+00:18:26	SS	No.
+00:18:27	T	So we haven't got an actual median which is one of our pieces of data. What are we going to have to do?
+00:18:33	SN	Get the seven and eighth pieces of data, add them together, and (inaudible).
+00:18:38	T	Find their average, okay. Do you understand that, girls? So the s-
+00:18:42	SN	(inaudible)
+00:18:44	T	If it requires a decimal, certainly.
+00:18:46	SN	Could it be you get six and eight?
+00:18:49	T	Well, how many pieces of data are on each side? How many pieces of data all together?
+00:18:54	SN	Um, 14.
+00:18:56	T	Fourteen, so how many on each side?
+00:18:58	S	Seven.
+00:18:59	T	So numbers one through to?
+00:19:01	S	Seven.
+00:19:02	T	And from?
+00:19:02	SN	Oh, yeah! Seven.
+00:19:17	T	Okay Tam, how'd you calculate the mean?
+00:19:29	T	Four twenty-eight over 14.
+00:19:32	S	(inaudible) which is approximately thirty point five seven.
+00:19:36	T	To two decimal places, 35 was it?
+00:19:42	T	Sorry?
+00:19:43	SN	Thirty point five seven.
+00:19:44	T	Thank you. Thirty point five seven. Who had thirty point five seven as the mean? Anyone not?
+00:19:51	SN	Oh I- I didn't do that. I had it as a fraction- three and four-sevenths.
+00:19:55	T	Fine. Okay, the median, the middle score which is the one we were talking about... Alissa, what was the seventh score?
+00:20:05	SN	Um, 28.
+00:20:07	T	Who used the cumulative frequency column to find it?
+00:20:10	T	Good. So we came down to the seventh score and found it to be 28, down to the eighth score, 29. The av- average of 28 and 29?
+00:20:20	SS	Twenty-eight point five.
+00:20:22	T	Who had twenty-eight point five as the median?
+00:20:25	T	Good, and the mode. What is the mode?
+00:20:28	SS	The one with the highest frequency.
+00:20:29	T	Okay, and what is that?
+00:20:31	SS	Twenty-five.
+00:20:32	T	Twenty-five. Good. Who had all three points correct? Well done.
+00:20:37	T	All right, now let's look at that five number summary. All right? The five number summary, what is the five number summary, Tam?
+00:20:47	SN	Um, the lowest score, the lower quartile, the median the upper quartile and the highest score.
+00:20:49	T	Yes.
+00:20:54	T	Correct. Would you find those please.
+00:21:15	SN	Can we use our calculators?
+00:21:16	T	Certainly, yep.
+00:21:27	SN	(inaudible) I'm sort of stopped here.
+00:21:30	T	All right. Finding the lower quartile.
+00:21:33	T	Well, remember the lower quartile is going to be the midpoint of that lower range, yeah? So have we used one of those pieces of data to obtain this median?
+00:21:44	S	No.
+00:21:45	T	No, so all pieces of data that are in that lower range are in play. So how many pieces are there?
+00:21:52	S	What do you mean?
+00:21:53	T	Well, how many pieces of data did I have all together?
+00:21:56	S	Forty-three. Oh, 22.
+00:21:59	T	How many pieces of data?
+00:22:00	SN	Fourteen.
+00:22:01	T	Fourteen, right? So how many on each side?
+00:22:03	SN	Seven.
+00:22:04	T	Seven. Now we used the seventh and eighth to generate that median, yeah?
+00:22:09	T	But we haven't used a piece of data, one of our pieces of data as the median, have we? It was the average of those two. So the seventh and eighth piece of data is still in play.
+00:22:22	S	So you do one through seven.
+00:22:23	T	One to seven, so what is the midpoint there?
+00:22:26	S	(inaudible)
+00:22:27	T	That's it... Anybody else having trouble finding the first and third quartile?
+00:22:32	SN	Yes.
+00:22:34	T	Listen in, listen in then.
+00:22:36	T	Don't forget when we are finding the median, we had the full 14 pieces of data, yes?
+00:22:41	SN	Yep.
+00:22:42	SS	Yes.
+00:22:43	T	Data numbers one to seven on the right-hand side, we moved the seventh and eighth piece of data in to find the median.
+00:22:51	SN	Yeah.
+00:22:52	T	Now, we haven't used one of our pieces of data as the actual median, have we? We found the average of the seventh and eighth piece.
+00:23:00	T	Therefore, the seventh and eighth piece of data can still remain in play when we are trying to find the first and third quartile.
+00:23:08	SN	Yeah.
+00:23:09	T	So how many pieces of data do I now have on the right-hand side?
+00:23:11	SN	One to seven.
+00:23:12	T	One to seven. And the lower quartile is going to be the...?
+00:23:15	SN	Four.
+00:23:16	SN	Four.
+00:23:17	T	The midpoint of that- of data pieces one to seven. So you now look for the fourth piece of data.
+00:23:49	T	Anyone not finished? Okay, let's have a look please.
+00:23:56	T	Michael, low score?
+00:23:58	SN	Twenty-two.
+00:24:00	T	Lower quartile?
+00:24:02	S	Twenty-five.
+00:24:04	T	Median.
+00:24:05	S	Twenty-eight point five.
+00:24:09	T	Upper quartile.
+00:24:10	S	Thirty-six.
+00:24:11	T	And the high score.
+00:24:12	S	Forty-three.
+00:24:14	T	Who agrees with Michael?
+00:24:16	T	Well done. Would you now construct a box plot.
+00:24:24	T	A box and whisker plot, yes. Yep.
+00:24:30	T	No, you first of all are going to have to draw up your own scale, aren't you?
+00:24:37	T	Now, is your scale- is your scale going to start at zero?
+00:24:43	SN	No.
+00:24:44	T	If it does, imagine the length of the scale that you're going to need, right?
+00:24:49	T	So we are going to break that scale, and where do you think you'd start it?
+00:24:53	T	Low score of 22, high score of 43.
+00:24:57	SN	Twenty-one.
+00:24:58	T	Twenty-one? You could start it at 22 if you wish. Yeah?
+00:25:04	T	Miles.
+00:25:05	SN	Um, so you said just then, we- we could start from 10 and end at, say, 43?
+00:25:11	T	Yes.
+00:25:12	S	Or- or we could start at one or end at 50 if we wanted.
+00:25:14	T	You could, but think of all that wasted scale and how long that scale is gonna be on your pad so that you can then fit-
+00:25:21	S	So, it would be better from about 20 to 45.
+00:25:24	T	Yes.
+00:25:25	S	Okay.
+00:25:26	T	Yeah, definitely.
+00:25:31	T	Now you may have to turn your book on its side rather than going across the page to get a suitable scale. Yep?
+00:25:39	SN	Um, when you- when you're doing the bottom line thing, do you put it like 36 twice and 25 three times on the scale d- or do you just put it once?
+00:25:43	T	Yes.
+00:25:48	T	No, your scale is just going to indicate those individual scores isn't it?
+00:25:52	S	All right.
+00:25:53	T	Yeah? So you start- What- what range are you looking at?
+00:25:57	S	Um.
+00:25:58	T	What's the range that you're going to show on your scale?
+00:26:01	S	Twenty-one.
+00:26:02	T	Twenty-one, so you are going from 21 up to?
+00:26:05	S	Forty-three.
+00:26:06	T	Forty-three. So you start at 21, 21, 22, 23, all the way up to 43.
+00:26:10	S	Oh, okay.
+00:26:11	T	Yeah?
+00:26:14	T	Yep.
+00:26:15	SN	(inaudible) got to this point. Um, do we just draw a line?
+00:26:18	T	Draw in the box, yeah.
+00:26:19	S	Yep.
+00:26:26	T	That's it. Yes.
+00:26:29	SN	Why would it be better to start at 21 than 22?
+00:26:32	T	Why would it? No particular reason. It's just that you- you're not going to start your actual plot right on the extremities of your scale.
+00:26:43	S	Okay.
+00:26:44	T	All right?
+00:26:45	T	Don't forget once you have completed drawing your- your plot, then you must show those five points on that scale, yes?
+00:26:53	SN	Mr. Learoyd, this- is this correct?
+00:26:57	T	Looks all right. Looks all right to me.
+00:27:01	SN	Mr. Learoyd...
+00:27:02	T	Yep.
+00:27:03	SN	I don't know- I don't get how to, like, do it, how to make the box plot. Do you put down here one to 24?
+00:27:08	T	Well, you could go across here because you've got plenty of room.
+00:27:12	T	You're going to need a line showing a scale from. Now what range are you going to use?
+00:27:18	T	Now you've gotta- On your plot, you're going to have to show those five numbers, yes?
+00:27:25	S	Yeah.
+00:27:26	T	Now, low score of 22, high score of 43. So your scale must incorporate those numbers at least...
+00:27:36	T	And what I'm saying is, is there any need to include from zero up to 22 on your scale? There's not, is it? So you might just start at 20 and go up to 45.
+00:27:50	S	Oh, so it doesn't have to be (inaudible) 22 (inaudible)?
+00:27:54	T	You could start at 22 and go to 43, all I'm saying is that, you know...
+00:28:00	T	Rather than have your plot start on the extremity of your scale and finish on the extremity of your scale, you could have a little bit each side.
+00:28:08	S	Oh, okay.
+00:28:11	SN	(inaudible) 23, 24, 25?
+00:28:14	T	Not- no, you don't have to, but that is the reason why, when we do these box plots, yeah?
+00:28:21	T	You show those five points on the scale. You mark them as actual points...
+00:28:29	T	Because it's going to be very difficult with a scale like that to actually determine what the exact median, for example, is.
+00:28:36	S	So that's not right, here.
+00:28:38	S	So that's not right.
+00:28:41	T	Yes, that's right, but you now have to show what scale- the scale that you used on the actual line there, don't you?
+00:28:48	S	Yeah.
+00:28:49	T	So what- what scale did you use? Where did you start?
+00:28:53	S	On this (inaudible).
+00:28:55	T	Did you start at 22?
+00:28:56	S	Yep, 22.
+00:28:57	T	Okay, so you might go up and say, uh, twos, 22, 24, 26, 28, 30, all the way up to 44. Yeah?
+00:29:06	S	Okay.
+00:29:07	SN	Um, so we don't put- we don't put the, um, (inaudible) the- the five points?
+00:29:12	T	That's correct.
+00:29:13	S	Okay.
+00:29:14	T	Yep.
+00:29:15	S	Okay.
+00:29:16	T	Your box plot is created using that five number summary. You don't need to show the mean or the mode.
+00:29:25	T	That looks all right, yes? But now you've gotta show what these actual points are, right?
+00:29:33	T	Look, let me just run through that with you again. Watch in, please.
+00:29:40	T	If you have created your scale and your scale is starting at 20 and going up to 44, right?
+00:29:49	T	So you've put your increments in here, say each of those increments is worth two...
+00:29:55	T	So we've got 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44.
+00:30:09	T	Okay, so that was the scale that you elected to use, let's say. We then mark on that our five number summary...
+00:30:17	T	Twenty-two, there it is.
+00:30:20	T	Twenty-five. Well, if that's 24 and that's 26, 25 is going to be right in the middle.
+00:30:26	T	Twenty-eight point five. If that's 29, twenty-eight point five is going to be there. You understand what I'm doing?
+00:30:34	T	Thirty-six, an easy one to locate. And 43. Forty-three is going to be there.
+00:30:42	T	We then draw in... the box.
+00:30:51	T	Show the whisker. Yes?
+00:30:54	T	And then, so that anybody else looking at our graph is able to determine the exact values of those five points, we mark those normally above the line on the scale.
+00:31:09	T	So we've got 22. What is this point here?
+00:31:13	SN	Twenty-five.
+00:31:14	T	Twenty-five. Put in a dotted line there, 25. This point here?
+00:31:21	SN	Thirty-six.
+00:31:22	T	Uh, that's a bit wonky.
+00:31:31	T	What was that point there?
+00:31:33	SN	Twenty-eight point five.
+00:31:34	T	Twenty-eight point five. This one?
+00:31:40	SS	Thirty-six.
+00:31:43	T	And the last.
+00:31:44	SN	Forty-three.
+00:31:45	SN	Forty-three.
+00:31:47	T	Now there is no doubt what each of those points is. You agree?
+00:31:51	SN	Yes.
+00:31:52	SN	Mm hm.
+00:31:53	T	Anybody got any questions? Yes?
+00:31:56	SN	If you just told them the range, wouldn't they be able to determine all of the other values?
+00:32:00	T	Sorry, say that again.
+00:32:01	S	If you just told them the range, wouldn't they be able to figure out the other values?
+00:32:07	T	Well, what is the range?
+00:32:09	S	Um, (inaudible).
+00:32:10	T	Beg your pardon?
+00:32:11	S	Oh no, I think I missed that one.
+00:32:14	T	High score minus low score, so what is the range?
+00:32:18	SN	Twenty-one.
+00:32:19	T	Twenty-one. Now how is that going to help them determine what the five-point summary is? All right?
+00:32:26	T	And like if I had drawn that, if I had drawn that like so and hadn't marked those individual values on the scale...
+00:32:36	T	Who's to say whether that is twenty-eight point five or twenty-eight point six?
+00:32:44	T	Do you follow what I mean?
+00:32:46	T	So we want you to show the exact value, twenty-eight point five... above your scale line. Okay.
+00:32:56	T	Yes?
+00:32:58	SN	Is this right?
+00:32:59	T	That looks good.
+00:33:00	S	All right.
+00:33:01	T	Yes.
+00:33:03	T	All right, let's check to see how we go.
+00:33:12	T	Would you pass one to each person please?
+00:33:16	T	Tam. Here, Josh.
+00:33:21	SN	Yes, please.
+00:33:22	T	One each, six.
+00:33:37	T	Now, don't do anything with your calculators until we all get started, please.
+00:33:44	T	Where have you indicated the exact value of that point?
+00:33:48	SN	Oh, so we have to write it in.
+00:33:49	T	Above the line, yeah, at there. So that is twenty-eight point five- that's it.
+00:33:55	SN	Is this right, Mr. Learoyd?
+00:33:56	T	For all five points. That's it. That's it.
+00:34:02	T	Is there anybody without a calculator?
+00:34:31	T	All right, let's have a look and see if we can get our calculators to... verify what we've done.
+00:34:57	T	Take the cover off your calculator.
+00:35:14	SN	Can we clear all the stuff in it?
+00:35:16	T	Just wait. We'll all do it together. That way, we'll get to the end.
+00:35:31	T	Okay, at this stage you've got nothing on your screen. All right?
+00:35:36	T	Press the "On" button... bottom left-hand corner.
+00:35:45	T	If you've got any statistical data already there, press "Clear." And have your flashing cursor top left-hand corner. Everyone at that stage?
+00:35:58	SS	Yes.
+00:35:59	T	Would you go to "Stats," press the "Stats" key.
+00:36:06	T	Everyone got that screen?
+00:36:07	SN	Yeah.
+00:36:09	T	Press "Enter."
+00:36:14	T	Up arrow, so that the cursor is on L one.
+00:36:22	T	Clear and enter. You have now deleted all information from list one, yes?
+00:36:33	T	Right-hand arrow, bring the cursor onto L two.
+00:36:42	T	Clear and enter.
+00:36:48	T	Left-hand arrow, bringing your cursor back to L one.
+00:36:52	T	Let's now enter our data. This is for the data we're going to work on, your chocolate chip... cookie one, right?
+00:37:03	T	And just before we go on there... How many chocolate chips do you think you would need to ensure that you ended up with three?
+00:37:14	SN	Twelve million of 'em.
+00:37:16	SN	At least 40.
+00:37:17	T	At least?
+00:37:18	S	Forty.
+00:37:19	SN	There's no way you could tell because if all the cookies- all of the chips (inaudible).
+00:37:27	T	Well let's face it, you know...
+00:37:28	T	If we- if we put these chocolate chips into the mixture and mixed them around, we would expect them to get mixed a little bit and not sit in one corner, wouldn't we? Right?
+00:37:38	T	But using- using the information that we gathered from that little thing-
+00:37:43	SN	Twenty-nine?
+00:37:44	T	Twenty-nine?
+00:37:45	SN	About 30.
+00:37:46	T	So where are you getting these figures from?
+00:37:48	SS	From the mean.
+00:37:49	SN	The mean!
+00:37:50	T	The mean? Okay. Let's just have a look at those three numbers again: a mean of thirty point five seven, a median of twenty-eight point five, and a mode of 25.
+00:38:01	T	So you are electing, in this case, to use the mean.
+00:38:05	SN	Yeah.
+00:38:06	SN	Yeah.
+00:38:07	T	Why? Why did you select the mean rather than the, uh, the mode for example? Yep?
+00:38:14	SN	'Cause that's on an average of, um, all of the... things.
+00:38:19	T	Yeah?
+00:38:20	S	Yeah-
+00:38:21	SN	'Cause it's the largest number (inaudible) get.
+00:38:23	T	Okay, so you're going to select the larger number, and just ensure that you're going to end up with the three, yeah?
+00:38:32	T	What about if you were a chocolate chip cookie manufacturer, yeah? And you were looking at ensuring that every cookie had three chocolate chips in it?
+00:38:47	SN	You make a separate batch for each one, for each cookie.
+00:38:52	T	You're joking.
+00:38:53	SN	Mix up- mix up the-
+00:38:54	SN	Well, that's- that's- a way to ensure it.
+00:38:55	SN	Mix up the pan- mix up the- the, um, dough...
+00:38:59	T	Yeah...
+00:39:01	S	Put it on the pan, and then put three things in each one.
+00:39:04	T	Oh, I see.
+00:39:05	S	Yeah.
+00:39:06	T	Okay.
+00:39:07	T	But what about if all of the ingredients were all mixed in, which I've got no idea if they are because every-
+00:39:12	T	When you buy those chocolate, uh, chip cookies, they don't all have the same number. There's no fellow sitting there poking in the same number of, uh, chips is there?
+00:39:20	E	Ha ha ha.
+00:39:23	T	So all of the ingredients are mixed together.
+00:39:25	T	And they would have some quality control and quantity control to ensure that there are a minimum number of chocolate chips.
+00:39:35	SN	They base it on weight. They- what they do is they say each cookie, say, weigh- weighs, um, say, X number of grams.
+00:39:41	T	Yeah.
+00:39:42	S	If they- if it's under, then... well, what they do is they just mix it up so that even if it's a different size or shape, it still weighs the same.
+00:39:51	T	So are you telling me that they weigh every cookie?
+00:39:53	SN	Yep.
+00:39:54	SN	Yeah. After (inaudible).
+00:39:55	T	I doubt it.
+00:39:56	SN	Well, that's what they do, that's what they (inaudible).
+00:39:57	SN	My- my dad says they do.
+00:39:59	T	Yeah?
+00:40:00	S	And he's a quality manufacturer.
+00:40:01	T	Is he?
+00:40:02	E	Ha, ha, ha!
+00:40:03	T	Yeah? What, where they make these chocolate chip cookies?
+00:40:07	S	Yeah.
+00:40:08	T	Ha ha, aw, go on! Is he?
+00:40:10	S	No, he does different companies.
+00:40:12	T	Okay.
+00:40:13	S	But he's done it for (inaudible).
+00:40:15	T	In your home situation, most likely you wouldn't look at the thirty point five seven. Yeah?
+00:40:21	T	If you were a bulk manufacturer, uh, of these things and you wish to ensure that you had them, uh...
+00:40:31	T	I guess the thirty point five seven, which you'd take is th- uh, 30 or 31, would be the number that you'd pick.
+00:40:38	SN	Yeah.
+00:40:39	T	There were- there were a couple of scores there, like the 42 and the 43, that mentioned- who got the 42?
+00:40:46	SN	We did.
+00:40:47	T	Okay.
+00:40:48	S	We got-
+00:40:49	T	Those- those two scores seem very high compared to the rest, yes?
+00:40:50	O:	[Bell]
+00:40:54	T	And we are not going to have time to enter this data and check it.
+00:41:00	T	So, second function, "On." Put the covers back onto your calculators.
+00:41:12	T	Beg your pardon?
+00:41:14	T	Yes, thanks.
+00:41:40	T	Yep.
+00:41:43	T	We will be back at school here before the buses leave. We'll be back about three o'clock.
+00:41:55	T	Just wait, thank you. Just wait. I wanna make sure that every calculator has been brought back.
+00:42:18	T	Is there anybody who has not returned their calculator?
+00:42:24	T	That's it? Have a nice weekend, people.
+00:42:27	SN	Do you want these, or (inaudible)?
+00:42:29	T	You can keep those. Bring them back in on Monday. Bring those sheets back in on Monday, please.
+00:42:37	SN	We have to bring them in?
+00:42:39	T	Yeah, bring them back and we'll just continue with that.
+00:42:44	SN	So we can get to check them with a calculator-
+00:42:46	T	Yes, we will.
+00:43:03	T	Michael.
+00:43:04	SN	Sorry.
+00:43:04	T	You're just going to help this man take his gear over to J (inaudible). Too late, rest of you outside.
+00:43:12	T	I've gotta do it. Liam, outside, thank you.
+00:43:15	SN	They found a better candidate.
+00:43:18	T	Oh, don't tell me that, Jack.
+Ê

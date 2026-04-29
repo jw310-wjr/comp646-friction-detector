@@ -1,0 +1,1263 @@
+{
+  "lesson_id": "M-SW2",
+  "transcript": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math SW2 transcript.txt",
+  "n_bins": 92,
+  "n_risky_bins": 17,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Close your books. [T] Sure. [T] No, hardly. [T] All right, close your books, please. We are going to begin a new chapter in mathematics today."
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All right, close your books, please. We are going to begin a new chapter in mathematics today. [T] It is our first algebra chapter in third grade secondary school. I have written two, three things at the board, [T] which are important in this algebra chapter. It is about terms and variables. [T]"
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] something with terms. Another word that will be important, is the word variable. A variable is, another word for it is... [T] Not yet heard of it? A substitute symbol, a placeholder. We are then going to operate with these placeholders or, as we learned before, variables. [T] And to operate in m"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now I have drawn a sketch at the blackboard. What is it? [T] I heard lines. More specific. Anja? [T] Correct, that's two lengths. [T] And, if I write the number five next to this length and the number three next to the other length, [T] then it is already somewhat clearer. I now have two lengths"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] then it is already somewhat clearer. I now have two lengths and I am now able to operate with them. For example... [T] I can illustrate this equation with these two lengths. The equation five minus three equals two. I want to show you, [T] how it works, and I will give another equation afterward"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] how it works, and I will give another equation afterwards, which you will solve by yourselves using this one as an example. [T] So now I am going to present this equation five minus three equals two algebraically. [T] In order to do so, I will draw two straight lines, which have a distance of tw"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] In order to do so, I will draw two straight lines, which have a distance of two unit squares. I will determine a starting point on the upper straight line. [T] With the compass... I will... mark... this length five... like that."
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] With the compass... I will... mark... this length five... like that. [T] All right... five... from the starting point... until here. [T] Minus three. [T] I take the compass... and adapt the length three to it."
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I take the compass... and adapt the length three to it. [T] Minus three, that means that I will go in the opposite direction, to the left again. [T] I get the rest of the length... from the starting point until here."
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I get the rest of the length... from the starting point until here. [T] The length two. [T] I have now illustrated the equation five minus three equals two. [T] By first drawing the length five to the right. Two square units down the length three to the left,"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] By first drawing the length five to the right. Two square units down the length three to the left, [T] because it is minus, and marked the result two in color. Can you understand that? [T] In that case I will give you another equation... That was our first problem, the one I explained to you at "
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Our problem: three... times five, minus... two times three equals nine. [T] That's problem one, page 40. Take textbook and notebook and solve this problem in your notebook now."
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That's problem one, page 40. Take textbook and notebook and solve this problem in your notebook now. [T] One glance at page 40 in the book will show you at the top in problem one, what I have been explaining to you. [T] The two lengths are also drawn in the book. Now you don't have to take the p"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The two lengths are also drawn in the book. Now you don't have to take the protractor to measure a length of five. [T] You must take the compass and do the same thing in the book as I did at the blackboard. [T] Namely, adapt the length to the compass and then mark it."
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Namely, adapt the length to the compass and then mark it. [T] I can see that a lot of you are first drawing two lines with a pencil in a distance of two square units. That is absolutely correct. Do it that way."
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I can see that a lot of you are first drawing two lines with a pencil in a distance of two square units. That is absolutely correct. Do it that way. [T] How long these two lines are is not significant. [T] What is significant is what you will draw on these straight lines. And that's what the equ"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Three times five minus two times three equals nine."
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Three times five minus two times three equals nine."
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Three times five minus two times three equals nine. [T] Who can say in words, how he is going to mark three times five on the upper straight line?"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Who can say in words, how he is going to mark three times five on the upper straight line? [T] Anja? [T] With the compass. Yes, exactly. You will adapt the length five into the compass and mark it next to each other."
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] With the compass. Yes, exactly. You will adapt the length five into the compass and mark it next to each other."
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] With the compass. Yes, exactly. You will adapt the length five into the compass and mark it next to each other. [T] Don't forget the arrowheads, they indicate the direction."
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Don't forget the arrowheads, they indicate the direction. [T] With the number five we mark that and show that we're dealing with the length, with the number five. [T] Now explain to me what I should do on the other straight line... Bal- Rafael?"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What exactly are you doing with these three... with the length three that you have been adapting to the compass? [T] How many times? [T] Yes, correct. [T] Once, twice."
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Once, twice."
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Once, twice. [T] Left is a piece that we will mark with yellow color. We also want to give it a so-called name. Which one? [T] Anja?"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I would like to finish this first problem. Are there any questions concerning it? Nothing."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I would like to finish this first problem. Are there any questions concerning it? Nothing. [T] All right, now let's move to another problem."
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] On the left side of the blackboard I have, instead of lengths, put up these... colored paper sheets. The blue ones stand for a length of five, [T] and yellow ones for a length of three. Now try to illustrate the following number with these sheets. The number 17."
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] and yellow ones for a length of three. Now try to illustrate the following number with these sheets. The number 17. [T] Right here at the blackboard. What is there to do? How can you present the number 17 with blue sheets of five, [T] and with yellow sheets of three. Give it a try, Fabian. Comme"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Eh, I would like to have that judged first, what he did. Is it okay like that? Esti?"
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Okay... Now where can the number 17 be spotted? Can you show it, Tamara? [T] Yes. [T] From the left margin of the blackboard to the margin of the sheet on the right."
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] From the left margin of the blackboard to the margin of the sheet on the right. [T] Good. Thanks. Do you have another idea? [T] Namely? [T] Also equals 17. Good. Well done. [T] New number."
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] New number. [T] Sheets of five, sheets of three. Present the number of 26. [T] Yes. Sandra please."
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. Sandra please. [T] Sandra, please also comment on what you're doing."
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Christoph."
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Jenny? [T] Yes, on the one hand it equals 27. And further, Andi? [T] Otherwise it would mean that this is the length of 15. [T] But that isn't the length of 15. What is the length in this case here? Tamara?"
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] But that isn't the length of 15. What is the length in this case here? Tamara? [T] That would be a length of eight, because the length five plus the length three, would add up to the length eight. [T] You considered another operation. Multiplication. You said that this was nine. [T] Three times "
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] And what would be the total length now? Not 27 or 26, but a total length would be here? [T] Seventeen, right. Eight, six, three. So we have to choose another way of doing it. Who is going to try?"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Who will give it a try? Twenty-six... Adrian. [T] At the blackboard."
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Stop! Now I expect a reaction from the rest of the class. Stephanie? [T] Why not? All right, Adrian tried to do it the same way as Sandra did before. With a multiplication, right. [T] What do we disagree with there? Desiree?"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Well... That way- yes, I will let Anja explain, too. [T] One moment, do you understand that? [T] The length five, and once again the length five adds up to the length 10. You have marked it twice and you want 25."
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The length five, and once again the length five adds up to the length 10. You have marked it twice and you want 25. [T] Anja gave you the hint. Now you could think about if it makes sense to mark the length five, five times. [T] What do you think? We want 26 at the end. Michelle? [T] So there ar"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Four times. Adrian... Now here's the suggestion from Michelle and the confirmation from Fabian, you should only mark it four times."
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Four times. Adrian... Now here's the suggestion from Michelle and the confirmation from Fabian, you should only mark it four times. [T] Adrian, are you satisfied with your work? [T] Back to your seat. Anja? [T] Under. What do you mean by under? Do it. [T] Adrian can go back to his seat. [T] Then"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Then let's drop it. All right. Five plus five plus five plus five equals 20, plus three equals 23, [T] plus three equals 26. Now you can solve such a problem by yourselves, in your notebook, and again with the values [T] that you have in problem one, with the lengths from the textbook, adapt the"
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Choose example D. The number four, so to speak. [T] That is problem two, page 40, letter D. Present the number, with the lengths five and three."
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That is problem two, page 40, letter D. Present the number, with the lengths five and three. [T] Was that clear, before? [T] Good. That's correct. Just write down: three. Because that is the length three that you have marked twice here,"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] three, write three. [T] Are you aware of why you're making arrowheads? [T] What does the arrow indicate?"
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] M-hm, yes, well the- [T] So now what indicates the direction to the right? What calculating operation? [T] Yes exactly. And the counter operation of plus is, as you know, minus. That's why you go in the opposite direction with minus."
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It becomes even clearer, Silvio, if you trace the result with color. Here it would be nine, hm. [T] Again with the arrow. [T] Anja is done. Could you also do the problem at the blackboard?"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Anja is done. Could you also do the problem at the blackboard? [T] No. With the compass. [T] That would be five again, and that would be three. You can adapt these two lengths to the compass. Down here."
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That would be five again, and that would be three. You can adapt these two lengths to the compass. Down here. [T] Push it down a little bit so that- that we have something different here. [T] For those who have finished: Think about the other problems in number two, without solving them in your "
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] For those who have finished: Think about the other problems in number two, without solving them in your notebook, [T] but in a way that you would be able to explain how to proceed afterwards."
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] but in a way that you would be able to explain how to proceed afterwards. [T] All right, now you've had some time to think about that. [T] So now I'm going to ask you how to present problem two A, the number 15. Fabian? [T] Good. B, the number 12. Esti? [T] In the..."
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Good. C, 13? Carmen? [T] Good. Everything in the same direction. Twice the five you said, and once the three. Now we can do the check at the blackboard. [T] Anja is almost done with this presentation of the number four... Please evaluate it."
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Anja is almost done with this presentation of the number four... Please evaluate it. [T] What is your comment about Anja's work at the blackboard? Rafael? [T] Well she did the right step. If you say not so exact, what is it that is not so exact?"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Well she did the right step. If you say not so exact, what is it that is not so exact? [T] M-hm, I see. [T] Good. All right, so those who are not used to working with a compass and chalk at the blackboard... then it's maybe no- not possible to present [T] it the way that you would like to have i"
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And then we will go one step further. [T] I would like to do an example form number three. Patrick, please read it out loud."
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I would like to do an example form number three. Patrick, please read it out loud. [T] All right. And what lengths do we have at our disposal now. [T] Which lengths do you have at your disposal now?"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Which lengths do you have at your disposal now? [T] Well what are they called. Five? Three? [T] Aha. [T] So now you haven't got numbers anymore, but so-called variables, placeholders instead of a number, maybe. [T] And we want to do a presentation again, as we did before. Draw a length which wil"
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And we want to do a presentation again, as we did before. Draw a length which will correspond to the term X plus Y minus Z. [T] You don't have to do anything in your notebook now. So how do we present the term X plus Y minus Z... Fabian. [T] One moment, one moment! Explain to me- okay I will jus"
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Yes. [T] Line."
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Thank you Fabian. There you have a yellow piece of chalk. Show the term X plus Y minus Z on your drawing... Fabian."
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Thank you Fabian. There you have a yellow piece of chalk. Show the term X plus Y minus Z on your drawing... Fabian. [T] Menhir. [T] What would you change? Or did you think it was correct? [T] It is correct. Maybe just the arrow, hm. Well done. X plus Y minus Z, that's the term. Good. Jenny? You "
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It is correct. Maybe just the arrow, hm. Well done. X plus Y minus Z, that's the term. Good. Jenny? You don't agree. [T] Yes, explain. [T] Yes."
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Stephanie shakes her head. Can you also describe it in words, what your head shaking means? [T] And with white, what Fabian did with white chalk, is the way to get there. The idea, X plus Y minus Z and then it's exactly like the"
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And with white, what Fabian did with white chalk, is the way to get there. The idea, X plus Y minus Z and then it's exactly like the [T] result, the way you would like to eh- name it. Now this is exactly what is called a term, X plus Y minus Z. Good. [T] You're now going to get different problem"
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You're now going to get different problems, which you are going to sketch up at the blackboard afterwards, in pairs... Problem three. [T] B, C, D... E, B, C, D, E, B, C, D, E, B. [T] Discuss with each other, you don't have to write anything in your notebooks. Decide together how you want to pres"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Discuss with each other, you don't have to write anything in your notebooks. Decide together how you want to present the solution at the blackboard. [T] Finished your discussion? Good. Think about problem E."
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Finished your discussion? Good. Think about problem E. [T] Are you finished? E. E, yes. Think about D like Daniel... Finished? You too. Think about E. [T] E, yes."
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] E, yes. [T] Very well. Finish your discussions. Problem B. Five times Y. [T] You've got that. No? Who has got B? Here, good... Show us. [T] Only sketches, without compass. Christoph and Rafael, your task as well as for all of the others: evaluate them."
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Only sketches, without compass. Christoph and Rafael, your task as well as for all of the others: evaluate them. [T] It will come out even better, Fabian and Menhir, if you comment on what you are doing."
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Could you also name the partial lengths?"
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Could you also name the partial lengths? [T] Rafael? [T] For all of you? All right... Problem C was solved by Miriam and Sandra."
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] For all of you? All right... Problem C was solved by Miriam and Sandra. [T] You have? Which one? [T] Also C."
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Could you also mark in yellow what three Z is? From where to where does three Z go? [T] Show it with yellow color."
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Show it with yellow color. [T] Thanks. Three times Z. [T] Christoph? [T] That's right. Christina. Are you ready for D- Y plus four times Z? Please go ahead then."
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Length?"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] What length? [T] Good... Do you agree? You're nodding, good. Then we will proceed to the last one, problem E. Who would like to show it?"
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Good... Do you agree? You're nodding, good. Then we will proceed to the last one, problem E. Who would like to show it? [T] Desiree and Anja, please, yes. Two times X plus Z."
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] And with yellow you showed, from here to here, that's the term two times X plus Z. Yes. Good. Comments? Jenny? [T] Is correct. Good. Now you have noticed so far in this lesson that with these variables you are also able to present something figuratively."
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Is correct. Good. Now you have noticed so far in this lesson that with these variables you are also able to present something figuratively. [T] But to operate doesn't only mean to present figuratively, it also means to calculate. [T] The following problem four is going to show you, for the first"
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The letter E does not stand for a length anymore, but in our case, Debbie? [T] Exactly. Which means that- the letter E stands for one adult. It doesn't say how much it costs. [T] Three Francs, four Francs. Just the admission fee for one adult. In exactly the same way the letter K stands for, Pas"
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, if somebody wishes to rent a locker, he has to pay an additional fee. And finally the letter B, according to our problem, Menhir? [T] If somebody uses a cabin, a further additional fee has to be paid. Now if a family, here in the text book the name is Fuchs, [T] pays for the following: Two "
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] pays for the following: Two times E plus three times K... plus three times A... plus B... What can we make out of that? [T] The family Fuchs goes to the swimming pool and pays the following amount at the cash register: two times E plus three times K plus three times A plus B. [T] Please explain."
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It consists of two adults... three children... [Bell] What else? [T] And one cabin. Okay. That way we see that behind a term, which at first just consists of numbers and letters, [T] we suddenly find a family, standing at the cash register. We know what they're renting, what they're paying. How "
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] we suddenly find a family, standing at the cash register. We know what they're renting, what they're paying. How much they pay, [T] you will, amongst other things, determine for tomorrow. I'm now giving you your homework assignment. [T] There's more to this problem... You will solve A, B and C.."
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] There's more to this problem... You will solve A, B and C... number four, page 40, 41, problems A, B, C. [T] That's the end of the lesson, Marina, Jeanine, could you clean the blackboard. That one, hm. Long break."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] In order to do so, I will draw two straight lines, which have a distance of two unit squares. I will determine a starting point on the upper straight line. [T] With the compass... I will... mark... this length five... like that."
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I take the compass... and adapt the length three to it. [T] Minus three, that means that I will go in the opposite direction, to the left again. [T] I get the rest of the length... from the starting point until here."
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Our problem: three... times five, minus... two times three equals nine. [T] That's problem one, page 40. Take textbook and notebook and solve this problem in your notebook now."
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Three times five minus two times three equals nine."
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Three times five minus two times three equals nine."
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I would like to finish this first problem. Are there any questions concerning it? Nothing."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I would like to finish this first problem. Are there any questions concerning it? Nothing. [T] All right, now let's move to another problem."
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Eh, I would like to have that judged first, what he did. Is it okay like that? Esti?"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Well... That way- yes, I will let Anja explain, too. [T] One moment, do you understand that? [T] The length five, and once again the length five adds up to the length 10. You have marked it twice and you want 25."
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Four times. Adrian... Now here's the suggestion from Michelle and the confirmation from Fabian, you should only mark it four times."
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That is problem two, page 40, letter D. Present the number, with the lengths five and three. [T] Was that clear, before? [T] Good. That's correct. Just write down: three. Because that is the length three that you have marked twice here,"
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Thank you Fabian. There you have a yellow piece of chalk. Show the term X plus Y minus Z on your drawing... Fabian."
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Discuss with each other, you don't have to write anything in your notebooks. Decide together how you want to present the solution at the blackboard. [T] Finished your discussion? Good. Think about problem E."
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Only sketches, without compass. Christoph and Rafael, your task as well as for all of the others: evaluate them. [T] It will come out even better, Fabian and Menhir, if you comment on what you are doing."
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Length?"
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] And with yellow you showed, from here to here, that's the term two times X plus Z. Yes. Good. Comments? Jenny? [T] Is correct. Good. Now you have noticed so far in this lesson that with these variables you are also able to present something figuratively."
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] There's more to this problem... You will solve A, B and C... number four, page 40, 41, problems A, B, C. [T] That's the end of the lesson, Marina, Jeanine, could you clean the blackboard. That one, hm. Long break."
+    }
+  ]
+}

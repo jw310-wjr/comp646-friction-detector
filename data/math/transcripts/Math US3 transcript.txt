@@ -1,0 +1,1144 @@
+00:00:07	SN	I sit right here.
+00:00:15	T	Okay. You guys, sit in the same proximity where you were sitting before. The only thing that's changed is-
+00:00:21	T	Brian.
+00:00:22	T	Would be this section right here. Ian, grab the second seat right there. Okay.
+00:00:30	T	That- yeah, that can work the same for you.
+00:00:32	SN	It's on.
+00:00:38	SN	You got no homework?
+00:00:56	T	Okay. We're starting a new chapter today, so Chris is gonna pass out your chapter assignments.
+00:01:02	T	Go ahead and put that away.
+00:01:10	T	So we're missing- Britney's here.
+00:01:14	T	Okay. Everyone's here.
+00:01:17	T	Okay attendance is (inaudible). I guess I better put the lights back on.
+00:01:46	SN	Miss (inaudible), I have a (inaudible).
+00:01:47	T	What?
+00:01:49	S	My homework.
+00:01:50	T	Okay. Okay, get your assignment and go ahead and put it away for now.
+00:01:58	SN	Oh my gosh (inaudible). The next assignment (inaudible).
+00:02:04	T	I don't know if you want their assignment sheet, but this is what we're gonna work on in class for a little bit today. Okay.
+00:02:10	SN	Miss (inaudible), are we- Do we need paper? (inaudible)
+00:02:12	T	Yes. Go ahead and keep it for later.
+00:02:16	T	Yes?
+00:02:17	SN	Do you have some paper?
+00:02:19	T	Well, we- we'll worry about that later. Okay.
+00:02:22	S	Okay.
+00:02:23	T	Yes, Austin.
+00:02:24	SN	Do you want us to put our folders up (inaudible) put it in?
+00:02:26	T	I just want you to put your assignment in your folder and put your folder away.
+00:02:29	T	I will give you a sheet that we're gonna work on today that you can take notes on.
+00:02:32	S	Okay.
+00:02:33	T	Okay. The only thing you need on your desk is this piece of paper I'm gonna give you and a pencil.
+00:02:39	SN	Do we need a calculator?
+00:02:40	T	You don't need your calculator right now. No.
+00:02:43	SN	Want our book?
+00:02:45	T	You don't need your book right now either.
+00:02:47	T	Send that five to that other group back there.
+00:02:49	SN	I forgot my book at home.
+00:02:51	SN	I'm a bad girl.
+00:02:53	T	Yes, Tim?
+00:02:55	T	Please excuse, tardy. Okay.
+00:03:03	SN	Where do I sit?
+00:03:04	SN	Right there.
+00:03:05	SN	Right there.
+00:03:21	T	Okay. I have you broken into groups today because I want you working-
+00:03:26	T	We're gonna work on this individually and we're gonna work on this as a group.
+00:03:30	T	I do not want you to begin anything on the assignment, so turn the paper over please.
+00:03:36	T	You didn't get one?
+00:03:41	SN	Yeah. He has one.
+00:03:42	T	He has one?
+00:03:43	S	Yeah.
+00:03:44	T	Okay. So turn it over, and most of chapter eight that we're gonna deal with, is dealing with exponents.
+00:03:51	T	And for exponents we have to remember back from what I first introduced to you in fifth grade.
+00:03:57	T	You learned about two squared and two cubed. Okay.
+00:04:01	T	Remember on the- the- the composition of your exponent it always has a base number.
+00:04:06	T	And then the power or the exponent is the number that it is risen to. Okay.
+00:04:10	T	The exponent stands for the number of times that the base is going to be multiplied.
+00:04:17	T	So if we have two cubed, this tells me that the base is gonna be multiplied three times.
+00:04:22	T	Two, times two, times two.
+00:04:25	T	And the thing we're gonna learn about in this unit is exponential growth.
+00:04:29	T	If we look over here, we have two cubes. This would be like two to the first power.
+00:04:34	T	So if we made it two squared, which would be two times two, we would see that it grows to two squared. That's two times two, right?
+00:04:44	T	Two cubed is two, times two, times two. Two to the third power. You see it's starting to double in size.
+00:04:53	T	Then if we go two to the fourth, you're looking at...
+00:04:59	T	And you see how quickly it starts to grow. Okay.
+00:05:05	T	Now two to the fourth is how much?
+00:05:08	SN	Sixteen.
+00:05:09	T	Sixteen.
+00:05:11	S	Yeah. That's (inaudible).
+00:05:12	T	See if I can get this to stand here. I don't know if I will.
+00:05:14	T	Okay. So two to the fifth would be how much?
+00:05:17	SN	Twenty-five.
+00:05:18	SN	Twenty-five?
+00:05:19	SN	No.
+00:05:20	SN	Twenty.
+00:05:21	SN	Thirty-two.
+00:05:22	T	Well, we know that-
+00:05:23	S	Thirty-two.
+00:05:24	T	Two to the fourth is 16.
+00:05:25	SN	Thirty-two.
+00:05:26	T	And we take that and multiply it by two and we get?
+00:05:28	SS	Thirty-two.
+00:05:29	T	Thirty-two. Okay.
+00:05:31	T	So you see it is continually doubling. Look at the growth.
+00:05:36	SN	It's very big.
+00:05:37	T	It's very, very big.
+00:05:39	T	Okay. So whenever we're dealing with powers...
+00:05:43	SN	(inaudible)
+00:05:44	T	Kamikaze. Whenever we're dealing with powers, we're gonna see that the growth goes quickly. Okay.
+00:05:51	T	So think about that in terms of a graph. We've looked at slope. Right? And we've always had a constant slope.
+00:05:58	T	What do you think if we were gonna graph two to the X power?
+00:06:03	T	Think about that in turns. We found that two to the one was two.
+00:06:07	SN	Two.
+00:06:08	T	Two to the two was four.
+00:06:09	S	Four.
+00:06:10	T	Two to the three was?
+00:06:11	SS	Eight.
+00:06:12	T	And two to the fourth was?
+00:06:14	SS	Sixteen.
+00:06:16	T	What do you think that graph's gonna look like?
+00:06:19	SN	It- a curve.
+00:06:21	T	Yeah. It's gonna be a curve. Think about that.
+00:06:26	T	Two to the first power, we get just two. Right?
+00:06:30	T	Then we go up to four. We go up to eight. We go up to sixteen. We get some significant growth. Okay.
+00:06:39	T	Yes?
+00:06:40	SN	Become a parabola if you go to the negative side.
+00:06:43	T	That's a good question. We're gonna explore that in this unit. Okay.
+00:06:47	T	We're gonna start dealing with the negative exponents.
+00:06:50	T	But first we're just gonna play around and there's certain rules that you have to learn when you deal with exponents. Okay.
+00:06:55	T	And that's what you're gonna work on as a group and individually.
+00:06:59	T	First of all, there's gonna be three different rules that we're gonna find out about when we multiply exponents.
+00:07:05	T	And what I want you to do on your worksheet in front of you, we're gonna work on just section one right now.
+00:07:10	T	But before we get there, I'm gonna go through the three different rules of multiplying exponents. Okay.
+00:07:16	T	If we think about this, what does two squared mean?
+00:07:20	SS	Two times two.
+00:07:21	T	That's two times two. Right? And what does two cubed mean?
+00:07:25	SS	Two times two times two.
+00:07:26	SS	Two times two times two.
+00:07:29	T	Okay. Now if I want you to write this out as a solution, we could go two times two is four times two.
+00:07:35	T	But I want you to write it out as a solution of a power. What would this equal?
+00:07:42	SN	Two to the fifth power.
+00:07:43	T	Two to the fifth power. Okay.
+00:07:46	T	Then let's look at this. What is this telling me now that I have parentheses?
+00:07:50	SS	(inaudible)
+00:07:53	T	Well-
+00:07:54	SN	You have to multiply it by-
+00:07:55	SN	You have to do (inaudible).
+00:07:56	T	Two to the third power times two to the-
+00:08:00	SN	Third power.
+00:08:01	T	Third power. Right?
+00:08:03	T	We have because it's squared-
+00:08:04	SN	What?
+00:08:05	SN	Oh, squared.
+00:08:06	T	We're taking the inside and we're multiplying it twice. Right?
+00:08:09	T	Yes, Lucia?
+00:08:10	SN	Is- is that the same thing as doing two to the third power and then just, like, getting the answer-
+00:08:19	T	Right now I'm not- in terms of finding out what the actual value is. I'm trying to find out what the power would be. Okay.
+00:08:25	T	So I'm saying here I have two to the third power and it's squared.
+00:08:30	T	So I have to take two to the third power and multiply it by itself twice. Right?
+00:08:34	SN	Mm-hm.
+00:08:35	T	Well, we can even break this down further and what is this? Two-
+00:08:39	SN	Times two.
+00:08:40	T	Two times two. And this is?
+00:08:42	T	Two times two times two.
+00:08:43	SN	Two times two times two.
+00:08:44	T	And what do we get here if I write it as a final power?
+00:08:47	E	Two to the sixth power.
+00:08:49	T	Two to the sixth power. Okay.
+00:08:53	T	Now for the last example, what's being squared here?
+00:08:57	SN	The X.
+00:08:58	SN	One X.
+00:08:59	SN	The two.
+00:09:00	SN	Two X.
+00:09:01	T	Two and X or just-
+00:09:02	SN	Two.
+00:09:03	SN	Two.
+00:09:04	SN	Two.
+00:09:05	T	Both of them. This is-
+00:09:06	SN	Two X.
+00:09:07	SN	Two X.
+00:09:08	T	Two times X times two times-
+00:09:09	SN	X.
+00:09:10	T	X. Or because we have the associative property in math, we go two times two, and X times X. Right?
+00:09:17	SN	Oh.
+00:09:18	T	Is that any different?
+00:09:19	SN	Yeah.
+00:09:20	SN	No.
+00:09:21	SN	No.
+00:09:22	SN	No.
+00:09:23	T	Okay. And this is two squared times-
+00:09:24	SN	X squared.
+00:09:25	SN	X squared
+00:09:26	T	X squared. Right?
+00:09:28	T	Okay. Turn your paper over.
+00:09:30	T	Look at section one. For the next minute I want you to do the first three problems.
+00:09:36	T	And in your head think if you can come up with the rule, after you've done these problems, for multiplying these exponents.
+00:09:45	T	See if you see a pattern developing on your own.
+00:09:48	T	Don't talk to your neighbor. Just do those three problems.
+00:09:57	T	And if you need to expand it out to get the answer like I did, that's what I'd like you to do.
+00:10:02	T	Expand the problem out, the multiplication out, and then combine it with an answer to a power. Okay.
+00:10:10	SN	Oh.
+00:10:27	T	Okay. Expand that out.
+00:10:30	T	Expand it out on your paper.
+00:10:59	T	Okay. Expand that out.
+00:11:01	T	Show me what that is. I want you to expand those out. All of those out before you come up with your answer. Okay.
+00:11:08	T	Expand those out like I did on the board please.
+00:11:12	SN	Can I (inaudible) by expanding?
+00:11:13	SN	Right.
+00:11:14	T	Yes. I want you expanding them out. Good.
+00:11:15	SN	Okay.
+00:11:16	T	Mm-hm. And then give us the final answer.
+00:11:18	SN	So you want us to just tree, branch off, and just-
+00:11:20	T	Yeah.
+00:11:21	S	Okay.
+00:11:24	T	Yes, Brett?
+00:11:27	SN	Just asking am I doing it right? Is that right?
+00:11:30	T	Yes.
+00:11:31	S	Yes?
+00:11:32	T	Okay. Now that most of you have the problems worked out, I want you in your group to discuss if you see something-
+00:11:41	T	A pattern developing when you're multiplying the exponents.
+00:11:44	T	If you see something that you can do with the exponents.
+00:11:48	T	Discuss it with your group.
+00:11:51	SN	Do we- do you want us to do our rule thing too?
+00:11:52	T	Yes.
+00:11:54	S	Okay.
+00:11:56	SN	I already know- what?
+00:11:58	SN	Yeah. Don't you, like, add the little exponents together to get (inaudible).
+00:12:02	SN	No (inaudible).
+00:12:03	SN	Otherwise, you just-
+00:12:05	SN	No. You're not (inaudible).
+00:12:06	T	Okay.
+00:12:07	SN	Well, yeah that too, but what did you guys get for the rule?
+00:12:08	T	Did you come up with a rule?
+00:12:09	SN	You just add all the exponents, and if there's a letter-
+00:12:10	SN	I- I understand.
+00:12:12	T	Okay. So then what- what- that doesn't show me a rule, though.
+00:12:16	T	What does A to the M, times A to the N.
+00:12:19	T	If you say you're gonna add exponents, how would you write that?
+00:12:22	SN	A plus N equals... equals...
+00:12:29	T	Okay. What's your base? Remember your exponent has to be written to a base. What's your base in this problem?
+00:12:35	SN	A.
+00:12:36	T	Okay.
+00:12:37	SN	Okay. Did I do this right?
+00:12:39	T	And so you're saying then that you just add the exponents. Okay. Very good.
+00:12:49	SN	You would say, add the exponents-
+00:12:50	SN	The exponents to-
+00:12:51	SN	Add the exponents to find your base...
+00:12:55	T	Okay. So you're just saying that you're gonna- yeah.
+00:12:56	S	To find your base exponent? Or how would you say, add the- add the exponents (inaudible).
+00:13:01	SN	How would you- what would you call it?
+00:13:02	T	Add the exponents is sufficient.
+00:13:03	SN	Add the exponents.
+00:13:04	T	Mm-hm. Mm-hm.
+00:13:05	SN	So you have to add the exponents?
+00:13:06	T	So then show me that.
+00:13:07	SN	(inaudible), you know how to spell it, right?
+00:13:08	T	Okay. Robert, what did you find out?
+00:13:11	SN	What- oh, I was gonna ask you a question.
+00:13:13	T	Okay. Ask the question.
+00:13:15	S	Do we have to write it in words?
+00:13:17	T	No. You can- you can do it in symbols, Robert.
+00:13:19	S	Okay. In that case, we are-
+00:13:21	T	If I A to the M times A to the N, what did we find out when we multiplied?
+00:13:27	S	A to the M plus N.
+00:13:30	T	Okay.
+00:13:32	T	Did anybody get something different?
+00:13:34	SN	(inaudible)
+00:13:35	T	Okay. What did you get, Chad?
+00:13:36	SN	A to the N in the parentheses and then N on the outside of the parentheses.
+00:13:40	SN	No that's not right.
+00:13:41	SN	No.
+00:13:42	T	A to the M in parentheses and to the outside N. Okay.
+00:13:47	T	So then you found- so how would I do it if I had A to the two to the four?
+00:13:55	SN	You would A to the sixth? So you just add it?
+00:13:58	T	Okay. So you're saying that if you have it this way, it's being added. Okay.
+00:14:02	T	What does parentheses stand for in math?
+00:14:05	SS	Multiplication.
+00:14:07	T	Okay. So would someone seeing this say, oh, multiplication or addition, do you think?
+00:14:11	SN	Multiplication.
+00:14:12	SN	Multiplication.
+00:14:13	T	Multiplication. Okay. So then how are you gonna show me since you tell me that if I add these two that's gonna be the answer.
+00:14:19	T	How can I show it such that it's being added?
+00:14:23	SN	What Robert says.
+00:14:24	T	Okay. Okay.
+00:14:27	T	So are- yes, Austin?
+00:14:28	SN	I got A and then 27.
+00:14:32	T	On which problem?
+00:14:33	S	On the rule.
+00:14:34	SN	For the rule.
+00:14:35	T	Okay. And what did you plug in for M and N, then?
+00:14:39	SN	I said N is A to N to the A B C's is 13.
+00:14:44	T	Okay. So you took all- you took all the- you took all the A's out of the problem. Right?
+00:14:48	S	Yeah.
+00:14:49	T	Okay. Those were just examples to look at to find a pattern.
+00:14:52	T	'Cause if you look at the first problem, we had A square times A to the fourth and we got A to the-
+00:14:58	SN	Sixth.
+00:14:59	T	Sixth. And two plus four is-
+00:15:01	SN	Six.
+00:15:02	SS	Six.
+00:15:03	T	Okay. Then we had A squared times A. And what's the exponent on A?
+00:15:06	SN	One.
+00:15:07	SN	One.
+00:15:08	T	So two plus one is-
+00:15:09	SS	Three.
+00:15:10	T	And we got A cubed. Right? For number two.
+00:15:11	SS	Yeah.
+00:15:12	T	And then on number three we had A cubed times A times A to the fourth. So three plus one plus four is-
+00:15:19	SS	Eight.
+00:15:20	T	A to the eighth.
+00:15:21	T	Okay. So you found that when we are multiplying the same base, did you notice that the base had to be the same?
+00:15:30	T	Okay. When you multiply the same base with exponents we just add the exponents to get the new answer. Right?
+00:15:41	T	Okay. Let's look at section two. Do problems four through six. Multiply that out and see if you can find the rule for that.
+00:15:49	T	And I want you to expand it. It's very important that you expand it.
+00:15:52	T	'Cause when you expand it, you'll be able to see the pattern much more quickly.
+00:15:57	SN	Okay.
+00:16:00	SN	Three A, two, two.
+00:16:01	SN	Miss (inaudible)?
+00:16:02	T	Yes.
+00:16:03	SN	When you do this three, you break that?
+00:16:05	T	Okay. That's cubed. Right?
+00:16:07	T	So how many times would you multiply the inside part? What's in the inside part?
+00:16:10	S	The two A squared.
+00:16:12	T	Okay. So write A squared.
+00:16:14	T	And how many times would you have A squared?
+00:16:16	SN	Three- oh, three times.
+00:16:17	SN	Oh, three times.
+00:16:18	T	Okay. So write that out.
+00:16:19	SN	(inaudible), you would break it down, and- right.
+00:16:20	T	Okay. So now you have that. Can you break that down even further now?
+00:16:24	S	I did.
+00:16:25	T	What's A squared look like?
+00:16:26	S	A times A.
+00:16:28	T	Okay. And then you have to have how many sets of those?
+00:16:29	S	A multiplied by A.
+00:16:30	SN	Three.
+00:16:31	SN	Three.
+00:16:32	SN	Three.
+00:16:33	T	Three. So then you write that out and you've expanded it.
+00:16:35	SN	It'd be A, by A, by A, by A, by A, by A.
+00:16:36	SN	So it would be A to the sixth.
+00:16:38	T	So how many A's would you have?
+00:16:40	SN	Six.
+00:16:41	T	A to the-
+00:16:42	SN	So it would be A to the-
+00:16:43	T	Sixth power. Good. Okay. So make sure you expand it out.
+00:16:44	SN	That's-
+00:16:45	SN	That's what I got.
+00:16:46	T	Yes. Lucia, did you have a question?
+00:16:48	SN	Oh, I get it. I get it.
+00:16:49	SN	No, I was asking the same thing as she did, but I heard you explain it.
+00:16:51	T	What's that?
+00:16:52	S	How you- I'm gonna just write it three times, write this three times?
+00:16:57	T	What's in the parentheses is being cubed. So it's three times. Right?
+00:17:00	S	Yeah, so-
+00:17:01	T	Okay. Then how do you break out for your A squared?
+00:17:04	S	Two A's?
+00:17:05	T	You go two A's. Right?
+00:17:06	S	Yeah.
+00:17:07	T	A times A, and you do that three times. Right? So how many A's do you end up with?
+00:17:10	SN	A to the sixth.
+00:17:11	SN	Six.
+00:17:12	T	A to the sixth.
+00:17:13	SN	So then it'll be A to the sixth. He got A to the fifth.
+00:17:15	SN	How did you all get six A's? I got five A's.
+00:17:16	SN	Because two times three is six.
+00:17:17	T	Did you do- okay.
+00:17:18	SN	And that's (inaudible) six.
+00:17:19	T	Okay. Show him.
+00:17:20	S	So see, you do.
+00:17:21	T	Well now show him, Lucia. Show him how yours is broken out. Explain to Chad how that works.
+00:17:25	S	Here. If there's three, it's A squared times three, so you have to do three A squared, then you have to break it down to A times A,
+00:17:34	S	'cause that's what A squared is, and then you do that for each of them and that's three A squared with (inaudible).
+00:17:35	SN	So basically I- isn't the rule, like, you just times whatever's in here? The number by that.
+00:17:39	T	So you're gonna multiply your exponents, right?
+00:17:41	S	Yeah.
+00:17:42	T	Okay. Did you guys have it?
+00:17:43	SN	So you multiplied the two and three and got six?
+00:17:44	SN	Yep.
+00:17:45	SN	Yeah.
+00:17:46	T	You have your rule?
+00:17:47	SN	(inaudible) Oh.
+00:17:48	T	What's your rule? Don't forget your rule.
+00:17:49	T	Don't forget to do your rule if you have determined it with your group.
+00:17:52	SN	All right.
+00:17:53	T	Yes.
+00:17:55	SN	Can we sh- we (inaudible) that it was multiplying. Can we show it anyway we want?
+00:17:57	T	Okay. That's- that's exactly- yes.
+00:18:01	SN	Hi. I'm on TV.
+00:18:07	T	Yes. (inaudible)
+00:18:08	SN	How do you do this one? It said like-
+00:18:11	SN	So on number five we (inaudible)?
+00:18:13	T	Okay. So you have A squared. Right?
+00:18:15	SN	Yeah.
+00:18:16	T	And how many times do you need A squared?
+00:18:18	SN	Three.
+00:18:19	T	Three times. So you have it once here. Where's the other two times?
+00:18:23	T	Don't you need three A squares?
+00:18:24	S	This one.
+00:18:25	T	No. No. No. Don't look at that bottom part.
+00:18:27	S	Oh.
+00:18:28	T	I want you to write that out in expanded form.
+00:18:30	T	What's A squared cubed? What does that look like?
+00:18:34	S	Isn't it- She says that, like- Didn't you do it this way?
+00:18:39	T	No. No. No.
+00:18:40	S	That's what...
+00:18:41	T	What- what's being cubed here?
+00:18:42	S	Three.
+00:18:43	T	No. What's being cubed here?
+00:18:44	S	Oh.
+00:18:46	T	What's in the parentheses?
+00:18:47	S	Three twos.
+00:18:48	T	Okay. So write three A twos for me.
+00:18:51	S	Three A twos.
+00:18:52	SN	Oh.
+00:18:53	T	'Cause isn't that- don't you have A squared three times?
+00:18:54	SN	Oh, I get it.
+00:18:55	T	No. Write three A twos out.
+00:18:58	SN	Three A twos.
+00:19:01	T	Isn't this A two A squared times A squared times A squared?
+00:19:02	SN	Oh. Oh.
+00:19:05	SN	So this is wrong? You have A squared, A squared, like that?
+00:19:10	T	Okay. Now can you break those down further?
+00:19:18	S	So it's A- six
+00:19:20	T	Okay. And redo these. You guys, okay- with the same logic and see if you see a pattern.
+00:19:25	SN	Okay, Mrs. Scott?
+00:19:26	T	Yes.
+00:19:27	SN	It's A to the sixth power.
+00:19:28	SN	I don't understand that. I don't-
+00:19:30	T	Okay. So break those down. What's A cubed look like?
+00:19:34	SN	That, I don't know.
+00:19:36	T	What's A cubed look like? How do you write A cubed in expanded form? How many A's is it?
+00:19:40	S	Three.
+00:19:42	T	So write A times A times A.
+00:19:46	S	Okay.
+00:19:47	T	And then what do you have here? Another A cubed. So what do you write?
+00:19:50	S	Another? Where did you get another?
+00:19:51	T	There's A cubed times A cubed. I was just reading your paper.
+00:19:54	S	Oh, well-
+00:19:55	T	That's right.
+00:19:56	S	Oh.
+00:19:57	T	So write out another A cubed. Another A cubed. Break it out.
+00:20:01	SN	Oh, we have to keep going? So we can't just stop right there.
+00:20:04	T	So how many A's do you have?
+00:20:05	SN	Well, how- what about the two? Where did we get the two from?
+00:20:08	T	Look it. What's being squared? A to the three.
+00:20:11	SN	Yeah.
+00:20:12	T	So A three times A three, is that-
+00:20:13	S	Oh, twice. Huh?
+00:20:14	T	Yeah. Now you're breaking these down, A times A times A. So how many A's do you have?
+00:20:19	SN	Six.
+00:20:20	T	There you go. Okay.
+00:20:21	SN	Do we really have to break them down the whole way?
+00:20:24	T	Mm-hm. 'Cause if you can pick it up, yes.
+00:20:26	T	Okay. Let's look at number four.
+00:20:36	T	Okay. Are we all focused? Let's go.
+00:20:37	SN	Yeah.
+00:20:38	T	Number four. What did you get, Lucia, in your group?
+00:20:42	SN	(inaudible)
+00:20:43	T	No. I just want to know what the answer to number four is.
+00:20:46	S	A to the sixth.
+00:20:47	T	A to the sixth. Okay. Now what did you get over here, Phoebe, for number five?
+00:20:50	SN	A to the sixth.
+00:20:51	T	And Robert's group, what did you get for number six?
+00:20:54	SN	A to the eighth.
+00:20:55	T	A to the eighth. Okay. Did someone find a rule?
+00:20:58	SN	I know. I know. I know.
+00:20:59	T	Chris, what did you find out?
+00:21:01	SN	A to the M times N, or A to the MN.
+00:21:04	T	Okay. When we have an exponent within parentheses raised to an exponent, we get A to the what?
+00:21:13	S	A to the M times N, or A to the MN.
+00:21:16	T	A to the M times N.
+00:21:18	T	So he's saying, his rule is that you're going to multiply the exponents. Does that work?
+00:21:25	T	A squared cubed, two times three is six. Right?
+00:21:28	SN	Mm-hm.
+00:21:29	T	And if we look at number six, two times four is eight. Okay.
+00:21:32	T	So now you've got two rules already down. You've discovered them all by yourself. I didn't have to tell you them. Right?
+00:21:38	T	You found that when you multiply exponents that have the same base, we're gonna add them.
+00:21:44	T	Then when we take an exponent and raise it to a power, we're gonna multiply those exponents. Okay.
+00:21:52	T	Let's look at the third section. Okay.
+00:21:55	T	Now we have two terms within the parentheses being raised to a power. Okay. Expand that out just like I did down here.
+00:22:06	T	Two X, we went two X times two X, and then we grouped our like terms, two times two, we got two squared times X squared. Okay.
+00:22:14	T	Do that with seven, eight, and nine and see if you can come up with the rule.
+00:22:29	O	We- we're having trouble with the update for R T A (inaudible).
+00:22:41	O	I'm trying to work something (inaudible).
+00:22:42	T	Then we'll let them know 'cause I've- I already got-
+00:22:49	SN	Miss?
+00:22:51	SN	And then A five times A five. And then A four times A four.
+00:22:56	T	Okay.
+00:22:57	S	You just put the exponent after the number.
+00:22:58	O	You don't- you don't need to get in- get in on it. Just let it- let them go.
+00:23:01	T	Okay.
+00:23:02	SN	So if we did this, Could- A three times A three will be the same as A B three. Right?
+00:23:08	T	I don't know. Write that down, what you said you think it is.
+00:23:12	S	What?
+00:23:13	T	Okay. That's A cubed times B cubed. Right?
+00:23:16	S	A, A, A, times B, B, B.
+00:23:19	T	Okay. So you asked me is it the same as what?
+00:23:23	SN	A B. Okay. So, it would be A B times A B times A B (inaudible).
+00:23:29	SN	Wanna ask her like how do you combine it. How do you combine it?
+00:23:30	T	Okay.
+00:23:31	SN	Those aren't the same.
+00:23:32	T	Yeah they're the same. How many A's do I have?
+00:23:36	S	Three and three.
+00:23:37	T	Okay. So I'm okay.
+00:23:38	T	But you- I though you asked me is it the same as this. A B cubed.
+00:23:43	T	Is it? It is?
+00:23:45	SN	No.
+00:23:46	T	That says to me A times B times B times B.
+00:23:52	SN	A three, B three.
+00:23:54	T	That's- that's what you have to make sure. Okay.
+00:23:57	T	'Cause this is when you asked me-
+00:23:58	SN	Right. I told you.
+00:24:00	T	That's what it sounded like you had asked. And that's not the same as that. And you understand why. Right?
+00:24:03	T	Okay. Yes?
+00:24:04	SN	So this would be right, and (inaudible).
+00:24:07	T	Uh-huh. Okay. Try to develop your rule if you can, too, with your group?
+00:24:13	SN	How do you keep- You just combine them. Right?
+00:24:16	T	Okay. Well, think about this. This is- you have A B cubed.
+00:24:20	T	If I were to expand this- okay, if I was going to expand that, that would be A times B times B times B. Is that the problem I gave you?
+00:24:30	S	No.
+00:24:31	T	Okay. So find out where you went wrong with this logic. I don't see you writing this out in expanded form.
+00:24:37	S	All right.
+00:24:39	T	Okay?
+00:24:41	T	Yes?
+00:24:42	SN	Am I doing this right?
+00:24:43	T	Yes.
+00:24:44	S	Oh.
+00:24:46	SN	Miss (inaudible)?
+00:24:47	T	Yes.
+00:24:48	SN	I told you, brat.
+00:24:49	SN	I don't understand the next step. Okay. So far I (inaudible) A times B so that'd be A B.
+00:24:51	T	Okay.
+00:24:53	S	And then it's times three.
+00:24:54	T	Three times. Yeah.
+00:24:55	S	So A times- A B, A B, A B. What do I do next?
+00:24:57	T	Okay. So how many A's do you have?
+00:24:59	SN	Three A's and three B's.
+00:25:00	SS	Three As.
+00:25:01	SN	And three Bs.
+00:25:02	T	Okay. So what does this say? That says one A and three B's.
+00:25:04	SN	Is this right?
+00:25:05	SN	Oh.
+00:25:06	SN	One A and three Bs?
+00:25:07	T	Doesn't that what that says?
+00:25:08	SN	Where?
+00:25:09	T	Right here. Doesn't that say one A? A to the one times B to the three?
+00:25:14	S	That's not what I have. I have this.
+00:25:15	SN	Oh, what?
+00:25:16	S	Is it A cubed?
+00:25:17	SN	Well, would it be like-
+00:25:18	T	So I don't know. How many A's do you have?
+00:25:19	S	Three.
+00:25:20	SN	Three.
+00:25:21	T	So what's- what's-
+00:25:22	SN	A.
+00:25:23	SN	Cubed. A cubed times (inaudible)?
+00:25:25	SN	A cubed times A cubed?
+00:25:27	SN	And that's- that's-
+00:25:28	SN	So then I was right?
+00:25:29	T	Yeah.
+00:25:30	S	Oh. Cool.
+00:25:31	SN	So A B times- to the third isn't right?
+00:25:32	SN	Would it be (inaudible) or would it be times that?
+00:25:35	SN	Is that right, Ms. Scott?
+00:25:36	T	That's- that's fine.
+00:25:37	S	A cubed times B cubed.
+00:25:38	T	Uh-huh.
+00:25:39	S	So A cubed times-
+00:25:40	T	And- and then if you can get rid of the multiplication it can just be A cubed, B cubed. Can't it?
+00:25:47	S	Sure.
+00:25:49	T	Okay.
+00:25:56	T	Yes, Phoebe?
+00:25:57	SN	Okay. I don't- okay, for number seven, wouldn't it equal, like- wouldn't you put in for instance A times A times A,
+00:26:04	S	and then other times you'd put it B times B times B?
+00:26:06	T	Okay. And what- that would equal what? Write it as powers. How many A's do you have?
+00:26:11	S	A- or A cubed.
+00:26:13	T	Okay. Times what?
+00:26:15	S	Times B cubed. So would that be the answer or would I put A B cubed?
+00:26:20	T	Okay. Write A B cubed for me.
+00:26:23	S	Five times and then times B, times B, times B.
+00:26:25	T	Okay. How many A's is that?
+00:26:27	S	Three.
+00:26:28	T	Is it? Where's the three on the A?
+00:26:29	SN	Oh.
+00:26:30	SN	Oh. So you'd have to put A cubed plus B cubed?
+00:26:34	T	Are we- did I tell you to plus?
+00:26:36	S	No.
+00:26:37	T	What are we doing?
+00:26:38	SN	Times.
+00:26:39	SN	Multiplying.
+00:26:40	T	Okay. And how do we designate multiplying in algebra?
+00:26:43	S	Parentheses.
+00:26:44	T	And what other way?
+00:26:45	S	And the little dot thing.
+00:26:46	T	And what other way?
+00:26:48	SN	Times, the X.
+00:26:49	SN	The X.
+00:26:50	T	And what other way?
+00:26:51	S	I don't know.
+00:26:53	T	Well, if I write A B, what does that mean?
+00:26:56	S	A times B.
+00:26:57	T	So you can just have them next to each other, right?
+00:27:00	S	Yeah.
+00:27:01	T	And that still means multiplication.
+00:27:02	S	And then would I put like A B cubed, or A cubed and B cubed.
+00:27:06	T	Yep.
+00:27:07	S	What? A cubed and B cubed. Is that what I would do?
+00:27:10	T	Uh-huh.
+00:27:12	S	Like-
+00:27:16	S	I mean B cubed. Is that what I would put?
+00:27:18	T	Uh-huh.
+00:27:19	S	That's the answer. That's how I would get it?
+00:27:21	T	I hope so. Keep working. See the other ones.
+00:27:23	SN	So we put it in parentheses.
+00:27:25	SN	Oh, that doesn't help.
+00:27:26	T	Yes, you could also do it in parentheses. But we want you to get it expanded so that the powers are on each one of the variables.
+00:27:33	T	Okay. Let's look at number seven. The quantity A B cubed.
+00:27:41	T	What did we find out when we had the quantity of A B cubed? Robert, how would we rewrite that?
+00:27:47	SN	A B Cubed.
+00:27:48	T	Okay. A cubed times B cubed. Right?
+00:27:50	SN	Mm-hm.
+00:27:52	T	And on eight, Courtney, the quantity A B to the fifth power?
+00:27:58	SN	A to the fifth times B to the fifth.
+00:28:00	T	Okay. And what about number nine? Ryan, you have that? A B-
+00:28:06	SN	It's A to the fourth and B to the fourth.
+00:28:08	T	Okay. Did someone find the rule?
+00:28:10	SN	We did.
+00:28:11	T	Blake?
+00:28:13	SN	It's A to M times B to M.
+00:28:16	T	Okay. So when we have our base in here being raised to a power, each individual term is raised to that power. So we get-
+00:28:34	T	A to the M, B to the M. Okay.
+00:28:40	T	And remember when we have two variables next to each other, they're being multiplied.
+00:28:46	T	Okay. So there's the third rule of exponents for multiplication that you need to know. Okay.
+00:28:53	T	When we have the same base being raised to a power, we just add the powers.
+00:28:59	T	When we have a base raised to a power, raised to a power, we multiply the exponents.
+00:29:05	T	When we have two terms raised to a power within parentheses, we raise each term to that power. Okay.
+00:29:14	T	So now, let's work on some division. Let's think about this.
+00:29:20	T	We're going to expand this, so this is two, times two, times two, times two. And two squared is two times two. Okay.
+00:29:29	T	What is two over two equal to?
+00:29:31	SN	One.
+00:29:32	SS	One.
+00:29:33	T	One. And what is two over two equal to?
+00:29:36	SS	One.
+00:29:37	T	One. So what are we left with?
+00:29:38	SS	Two.
+00:29:39	T	We're left with one square, which is what?
+00:29:42	SN	Four.
+00:29:43	SN	One squared.
+00:29:44	T	One, right?
+00:29:45	SN	One, yeah.
+00:29:46	T	Okay. And two squared. Right?
+00:29:49	SN	So...
+00:29:50	SN	So...
+00:29:51	SN	What do we do with the one?
+00:29:52	T	Okay. Shh.
+00:29:53	SN	Multiply it.
+00:29:54	T	Okay. We take our two to the fourth power, we expand it out two times two, times two, times two.
+00:30:02	T	Our denominator is two squared, so it's two times two. And we know that a number divided by itself is always one.
+00:30:11	T	So this becomes one and this becomes one, and one times one is one. Right? And one times two is two.
+00:30:17	T	So the ones there, we just don't have to write it.
+00:30:21	T	So what are we left with? Two times two, or two squared. Right?
+00:30:25	SN	That's all you write?
+00:30:26	T	Okay.
+00:30:28	T	Now, what is this saying? This is saying I have four over two how many times?
+00:30:34	SS	Three.
+00:30:35	T	Three times.
+00:30:40	T	So how many fours do I have?
+00:30:42	SS	Three.
+00:30:43	T	And how many twos do I have?
+00:30:44	SS	Three.
+00:30:46	SN	Oh, that's pretty easy.
+00:30:47	T	Okay.
+00:30:48	S	That's all we have to do?
+00:30:49	T	So do section four and come up with a rule for me. Section four, problems 10 through 12.
+00:30:54	S	Oh my gosh. I feel so stupid (inaudible).
+00:30:56	SN	How does this one look? For section (inaudible)?
+00:31:00	T	A to the sixth for A squared. That's wrong.
+00:31:05	SN	Isn't it A-
+00:31:06	T	How many A's. Look it. If these are ones. Right?
+00:31:08	SN	Mm-hm.
+00:31:09	T	How many A's do you have left?
+00:31:10	SS	Four.
+00:31:11	T	And he wrote three.
+00:31:12	SN	Oh.
+00:31:13	SN	I wrote three, too.
+00:31:14	T	Okay. And look at these. A to the fourth over A to the one. A over A is one. Right? So how many A's would be left?
+00:31:22	SN	Two.
+00:31:23	SN	Three.
+00:31:24	SN	Two.
+00:31:25	SN	Three, cause right there.
+00:31:26	SN	Two.
+00:31:27	SN	One, two, three.
+00:31:28	T	Yeah.
+00:31:29	SN	Three?
+00:31:30	SN	Yeah, cause there's three.
+00:31:31	T	Help each other out. See if you come up with a rule on that one.
+00:31:34	SN	A to the fourth power.
+00:31:41	SN	How do we do (inaudible), like that?
+00:31:42	T	Yes, Tiffany?
+00:31:44	SN	I don't understand how to do that one.
+00:31:46	T	Okay. So how many A's do I need to write out here?
+00:31:48	SN	Four- six.
+00:31:49	SN	Six.
+00:31:50	T	So write out A- six A's.
+00:31:52	S	Okay.
+00:31:53	SN	This is... Cynthia?
+00:31:55	SN	Uh-huh?
+00:31:56	SN	Did you get A to third?
+00:31:58	SN	A to the fourth. Right?
+00:32:00	T	Okay. And what's it being divided by?
+00:32:03	S	A to the second.
+00:32:04	T	Okay. So put your division line. And then how many A's are you gonna write?
+00:32:10	SN	Two.
+00:32:11	SN	Two.
+00:32:12	T	Okay.
+00:32:14	T	Now A over A becomes what?
+00:32:16	S	One.
+00:32:17	SN	One.
+00:32:18	T	And A over A becomes what?
+00:32:19	S	One.
+00:32:20	T	So-
+00:32:24	T	Okay. And how many A's do you have left?
+00:32:26	SN	Four.
+00:32:27	SN	Four.
+00:32:28	T	Okay.
+00:32:29	SN	So wouldn't it be A to the fourth?
+00:32:30	SN	So it's two A squared?
+00:32:31	T	Why is it two A? What's one times one?
+00:32:33	SN	One.
+00:32:34	SN	One.
+00:32:35	T	And what's one times A to the fourth?
+00:32:37	SN	A to the fourth?
+00:32:38	SN	A fourth. A fourth.
+00:32:40	SN	So then it's just A to the fourth.
+00:32:42	SN	He was the smart one.
+00:32:43	T	'Cause isn't that your multiplication? One times one is one. One times A is A. And A times A is A squared. And A times-
+00:32:50	SN	Oh, okay.
+00:32:51	SN	Okay.
+00:32:53	SN	Okay, I got it.
+00:32:54	T	Yes?
+00:32:55	SN	Would you add these together, the four and the four (inaudible)?
+00:32:59	T	Okay. If you have A to the fourth up top, why do we have A to the fourth on the bottom?
+00:33:03	T	What's the denominator?
+00:33:06	S	Oh, (inaudible).
+00:33:07	T	How many A's are supposed to be down there?
+00:33:08	S	Okay.
+00:33:09	T	Okay.
+00:33:10	S	Is this right, Miss Scott? Did you do A to the sixth and A to the (inaudible)?
+00:33:12	T	Okay.
+00:33:13	SN	Is this A to the fourth?
+00:33:14	T	Uh-huh. What's left here?
+00:33:16	S	I still don't get how it's down by four.
+00:33:18	T	Okay. What's this? A over A?
+00:33:20	S	One.
+00:33:21	T	Okay. And what's this?
+00:33:22	S	One.
+00:33:23	T	Okay. And what's this?
+00:33:24	S	Four.
+00:33:25	T	Okay. A to the fourth. Right? What's one times one?
+00:33:28	S	One.
+00:33:29	T	And what's one times A to the fourth?
+00:33:31	S	A to the fourth.
+00:33:34	S	Oh, I got the rule now. Okay.
+00:33:36	T	You get- Does that make sense to you?
+00:33:37	S	Yeah.
+00:33:38	SN	Miss Scott, is this right? Did you get A to the sixth on top and then A-
+00:33:40	T	Squared on the bottom. Yep.
+00:33:42	S	And then-
+00:33:43	T	Yep.
+00:33:44	SN	Does the answer equal A to the...
+00:33:45	SN	And this one's A. Right? 'Cause-
+00:33:47	T	Okay. And see if you can find the rule now. See if you can find the rule.
+00:33:51	T	Okay. Let's look at problem-
+00:33:53	SN	You just add them. You just add them.
+00:33:56	T	Problem number 10.
+00:33:58	T	Dominic, what did you get for the answer to problem number 10?
+00:34:01	SN	A to the fourth.
+00:34:03	T	A to the fourth. Okay. Sam, on number 11, what answer did you get?
+00:34:07	SN	A to the third.
+00:34:08	T	A cubed. Okay. And on number 12. Chelsea, what did you get?
+00:34:13	SN	A.
+00:34:14	T	A. Okay. Do we have a rule? We have a rule?
+00:34:18	T	Lucia?
+00:34:19	SN	A to the M minus N.
+00:34:22	T	A to the M minus N.
+00:34:24	T	So you're saying that when I have a base to an exponent and it's the same base, we take the exponents-
+00:34:34	T	We take the numerator and we subtract the denominator from it. Okay?
+00:34:39	SN	Yeah.
+00:34:40	T	Does that make sense?
+00:34:41	SS	Yeah.
+00:34:42	T	Okay. Very good.
+00:34:44	T	So now you've got the fourth rule. We've only got one more rule to learn. Okay.
+00:34:49	T	Now on this one, on this rule we need to take these and expand them out this way so that you can see the rule develop. Okay.
+00:34:58	T	So go ahead and do 13 through 15 quickly.
+00:35:01	SN	Oh.
+00:35:04	T	Yes?
+00:35:05	SN	I need help. How do you get it?
+00:35:07	SN	Oh yes, I do.
+00:35:07	T	Okay.
+00:35:10	SN	Okay. So first you expand it out, right? You get A times A, times A, over B times B, times B.
+00:35:17	S	So wouldn't it equal A over B? I don't know.
+00:35:21	T	Well, how many A's do you have?
+00:35:22	S	Three.
+00:35:23	T	So how do you write that?
+00:35:24	S	Oh, so it wouldn't be A cubed over B cubed?
+00:35:28	T	Okay. Looks good to me. Try the next one and see if you see a pattern develop.
+00:35:33	SN	A times (inaudible).
+00:35:35	SN	That was really, really (inaudible).
+00:35:37	SN	B times B.
+00:35:39	SN	So now, what would that equal? Zero, or would it just equal A?
+00:35:42	SN	Yeah.
+00:35:43	T	Yes.
+00:35:44	SN	Miss Scott, am I doing this right?
+00:35:45	SN	Miss Scott, on number 13, would it be A over B or would it just be zero? 'Cause they all-
+00:35:48	T	Okay. Well, what- what is- You have A divided by B, right?
+00:35:52	T	And what power is it being raised to? Okay.
+00:35:54	S	To three.
+00:35:55	SN	Three.
+00:35:56	T	So it's A over-
+00:35:57	SN	Third. So, it'd be, right?
+00:36:01	T	Okay.
+00:36:02	S	But those both canc- the thirds cancel out so it'd just be A over B?
+00:36:06	T	They do.
+00:36:07	SN	Couldn't it be one?
+00:36:08	T	How do you know that?
+00:36:09	SN	I don't know because they're- they're both to the third power.
+00:36:11	SN	Because-
+00:36:12	T	Okay. But what's to the third power?
+00:36:13	SN	But you don't know.
+00:36:14	T	A?
+00:36:15	S	A and B. So it's still- So they're different. So it's just A over B.
+00:36:18	T	Okay. Are they like terms?
+00:36:19	S	Nn-hnh.
+00:36:20	T	So can we combine unlike terms?
+00:36:22	S	Nn-hnh.
+00:36:23	T	No. So then they're in simplest form, then. Right?
+00:36:25	S	Okay. Yeah.
+00:36:26	T	Okay.
+00:36:27	SN	So what was the last answer if they're in simplest form?
+00:36:31	SN	It's A to the third, B to the third.
+00:36:32	SN	Why-
+00:36:35	S	But Miss Scott, did you say-
+00:36:36	SN	Couldn't that still be A over B. though?
+00:36:37	SN	Ms. Scott?
+00:36:38	T	Yes, I'm listening, Lucia.
+00:36:39	S	You said it was (inaudible) like, this is all one. Didn't you, because-
+00:36:44	T	Okay. So- So how many A's do you have?
+00:36:47	SN	Three.
+00:36:48	SN	Oh.
+00:36:49	T	A cubed and B cubed. Right.
+00:36:50	T	Okay. Now, let's say I had A on the bottom- to go to your point. 'Cause you were saying the threes cancel out.
+00:36:58	T	Okay. What if I had A cubed over A cubed? What would I have?
+00:37:02	S	Then that would cancel out and it would be these here. Right? Or no.
+00:37:06	S	'Cause they're both-
+00:37:08	T	What's A- What- What's- What's A over A?
+00:37:10	S	Oh. Oh. It would still be-
+00:37:12	SN	A over-
+00:37:13	T	What's A over A equal?
+00:37:14	SN	One.
+00:37:15	T	If I had three of those, what would I have?
+00:37:16	S	Three.
+00:37:17	SN	One.
+00:37:18	T	Well what's one times one times one?
+00:37:19	SN	A to the third.
+00:37:20	SN	One.
+00:37:21	SN	Oh. One.
+00:37:22	SN	One.
+00:37:23	SN	One, yeah.
+00:37:24	SN	One.
+00:37:25	SN	Three.
+00:37:26	T	Okay. So if- if the denominator was the same variable as the numerator, yes, we could simplify it.
+00:37:30	SN	Mh-hm.
+00:37:31	T	But you can't simplify it because it's a different term. Right?
+00:37:33	S	Mm-hm.
+00:37:34	T	Okay. Quickly now, let's go. Number 13.
+00:37:41	T	What is our answer, Robert?
+00:37:44	SN	A to the third over B to the third.
+00:37:46	T	Good. Number 14, Austin.
+00:37:49	SN	A over the- A to the five over B to the five.
+00:37:53	T	Okay. And number 15, Rachelle.
+00:37:58	SN	A to the sixth and B- over B to the six.
+00:38:00	T	Okay, and a rule. Cristie?
+00:38:03	SN	A M.
+00:38:05	T	Okay. When we have the variable term in here, A divided by B, each term is raised to that power.
+00:38:16	T	Okay. We cannot simplify because A and B are not the same terms. Okay.
+00:38:22	T	Now, why I have you in groups, and this is what you're gonna do for today. And you're gonna present your answer tomorrow.
+00:38:30	T	Knowing those rules of exponents... knowing those rules of exponents-
+00:38:37	T	Knowing different properties, like distibu- distributive property, associative property, commutative property,
+00:38:43	T	I want you to prove two things to me.
+00:38:45	T	I want you to prove that A to the zero is equal to one. And I want you to prove that A to the negative N is equal to one over A to the N.
+00:38:59	SN	This is math homework for tonight?
+00:39:00	T	This is what you're gonna work on in your group right now.
+00:39:03	T	See if, knowing what you know about exponents, if you can come up with proof of this. Could you show me proof. Okay.
+00:39:14	T	That's what you're gonna work on for the next 13 minutes. You'll present it to me tomorrow, in class.
+00:39:19	SN	What if we don't know?
+00:39:20	SN	Do we have to?
+00:39:21	SN	Are you serious?
+00:39:22	T	Yes. That's why you're in groups. So start working on that.
+00:39:24	SN	All right.
+00:39:26	T	Do you need me Robert?
+00:39:27	SN	If A equals one over-
+00:39:31	SN	I don't get that. A equals zero is another one, right?
+00:39:33	SN	Yeah.
+00:39:38	SN	So you're gonna keep plugging A in.
+00:39:39	SN	Oh, no, because lookit. A to the zero is A to the zero. So if you don't (inaudible).
+00:39:43	SN	If you plug in a number it's still A, 'cause there's no one.
+00:39:46	SN	Nuh-uh, 'cause if you plug in a number, then what if the A equals six?
+00:39:48	SN	Yes. See- yes, we're right.
+00:39:50	SN	Okay.
+00:39:52	SN	I can do A minus (inaudible), right?
+00:39:55	T	Yes.
+00:39:56	SN	You- you have the question.
+00:39:57	SN	Okay, no. Okay, well- it- would this be- okay.
+00:40:00	S	You know, zero times everything is zero, right?
+00:40:03	T	Okay.
+00:40:04	S	Okay. But, if A equals one then... then- One times zero is zero. Like... never mind.
+00:40:13	SN	You're not making much sense.
+00:40:16	SN	Never mind. Ryan made it sound better.
+00:40:17	SN	I always.
+00:40:19	T	Okay. Well, just think about your rules of division and multiplication that you just did.
+00:40:25	T	Work out some sample problems and see if you can come out and prove to me why A to the zero is one.
+00:40:31	SN	A- Because A is one.
+00:40:35	T	No. A can be 10. And 10 to the zero power is one. A million to the zero power is one. Why is that?
+00:40:44	T	Think about using those rules.
+00:40:47	S	That like, just, went right over my head.
+00:40:52	T	Yes?
+00:40:53	SN	Okay.
+00:40:54	SN	Okay guys.
+00:40:55	SN	He says that A zero plus N, equals one.
+00:41:00	SN	That's not right.
+00:41:01	SN	What?
+00:41:03	SN	Isn't that zero, not one?
+00:41:04	T	That's A to the zero equals one. A to the zero power equals one.
+00:41:08	SN	Zero- A to the zero, but then it would still be zero.
+00:41:10	SN	Wouldn't it be zero?
+00:41:13	SN	Unless you can-
+00:41:14	SN	Because anything times zero is zero. Right?
+00:41:16	SN	But we have to prove to her why it's one.
+00:41:17	SN	Unless you have zero over one, and then you reciprocolated it.
+00:41:19	SN	It's not one, though.
+00:41:21	SN	Reciprocolated it?
+00:41:22	SN	That'll still be zero.
+00:41:24	T	Okay.
+00:41:26	SN	I don't get how it could be one, though, 'cause anything times zero is... zero.
+00:41:29	SN	Is gonna be something that I can (inaudible) myself and (inaudible).
+00:41:32	SN	So then how could it be one?
+00:41:36	SN	Divide by zero.
+00:41:38	T	You guys, you're trying to think of terms in- things in terms of numbers.
+00:41:42	T	Think about putting your rules over here that we learned about, the adding and the- and the subtracting rules into-
+00:41:51	T	If you took variables- don't do numbers-
+00:41:57	SN	M-A-B.
+00:41:59	T	How could you prove something is equal to one? What do we know about the rule of one?
+00:42:05	SN	How are we gonna do these (inaudible). A by negative (inaudible).
+00:42:06	T	Think about that.
+00:42:09	T	Yes. You have a question?
+00:42:10	SN	We never learned these. The negative ones. Remember. We never learned these.
+00:42:14	T	Oh, I know, but if you take the rules that you learned over here and think about that, you can make some examples.
+00:42:23	T	Using either your multiplication or your division rules up there that you developed.
+00:42:28	T	Let's see if you can come up with an example where that would be true.
+00:42:32	T	Yes.
+00:42:33	SN	Hi. Since- Well, why do you have to multiply 'cause you didn't have to multiply it. Right? So it would just be one.
+00:42:39	T	Really? What if A was a million?
+00:42:41	S	Huh? A million?
+00:42:43	T	Yeah. Let's say our A was equal to a million.
+00:42:44	SN	Oh, no. 'Cause it would be equal to six. Huh?
+00:42:45	SN	A million and one.
+00:42:48	SN	Equals six.
+00:42:49	SN	How do you-
+00:42:50	T	And they- So six to the zero power is one.
+00:42:51	S	Yeah. And any-
+00:42:53	SN	How?
+00:42:54	SN	'Cause anything is one.
+00:42:55	T	Well, that's what I want you to show me. How?
+00:42:56	S	But if it says like- like when you multiply something by zero it says you're not doing anything to the-
+00:43:02	S	Like if you had six times zero it says that you're not multiplying anything (inaudible) zero.
+00:43:05	T	Okay. But we're dealing- we're dealing with powers now.
+00:43:08	S	Yeah I know, but I don't- I don't see how it could make anything different.
+00:43:09	SN	So it'd be A times C.
+00:43:10	SN	Oh I know. 'Cause it's only one of these.
+00:43:13	SN	That's what I was trying to say.
+00:43:14	SN	Is that it? It's only one A because there (inaudible).
+00:43:15	T	You're getting- you're on the right track.
+00:43:18	SN	'Cause it's only one. It's not-
+00:43:19	T	Start thinking about it in terms of multiplication and division now.
+00:43:21	SN	I know. I know. I know. I know. I know.
+00:43:22	T	She's on the track. Yes?
+00:43:23	SN	I really don't get this.
+00:43:24	SN	Instead of- even if you- you were like-
+00:43:25	SN	Like, what- What if there was like one- One times zero, that would be zero, right? If it- if like (inaudible).
+00:43:30	SN	'Cause if (inaudible) A were a number-
+00:43:31	SN	'Cause if any number multiplied by zero is zero, right?
+00:43:33	T	But is that what you're saying? That it's being multiplied?
+00:43:36	S	It says A to the (inaudible) power. So-
+00:43:39	SN	So-
+00:43:40	T	Does A to the zero mean A times zero?
+00:43:42	SS	No.
+00:43:43	T	No it doesn't. What does it mean?
+00:43:44	SN	A would have to be one then, right?
+00:43:46	T	No. 'Cause I can tell you that a million to the zero power is one.
+00:43:48	SN	Oh. So A times- A times itself to-
+00:43:51	T	Ten thousand to the zero power is one.
+00:43:54	SN	What?
+00:43:55	SN	Over- Oh.
+00:43:57	T	Start thinking about it. You're getting there, Brandon. Start thinking about it.
+00:44:03	SN	'Cause these have to be A, they're A right?
+00:44:05	SN	'Cause it'll be one over (inaudible). It'll just be (inaudible).
+00:44:09	SN	The first one we're having a hard time understanding.
+00:44:12	T	Okay.
+00:44:15	T	A to the zero power equals one.
+00:44:18	T	So any number I plug in for A if I have it raised to the zero power, my answer's gonna be one. That's what I'm saying.
+00:44:25	T	Now, think about what you can use over there between your multiplication and your division rules and prove to me that A to the zero is one.
+00:44:40	SN	Well, we thought we had it and then we weren't sure.
+00:44:42	T	Well what did- what did you do? Let's see.
+00:44:44	SN	We thought that if A equaled one, then it would be true. 'Cause then-
+00:44:48	T	Okay. And I'm telling you that if A is equal to 100, it's true.
+00:44:53	SN	(inaudible)
+00:44:54	SN	Yeah, but why?
+00:44:57	T	How can I get something to the zero power? What types of things can we do? Using your rules up there?
+00:45:06	SN	Oh, okay.
+00:45:08	T	Start thinking about that. How am I gonna get that zero power, and it'll start making sense to you.
+00:45:12	SN	Okay. Cause he kept saying this is impossible 'cause wouldn't it be zero equals A?
+00:45:16	T	No. 'Cause what's two to the one power?
+00:45:19	SS	Two.
+00:45:20	SN	Two.
+00:45:21	T	Okay. What's two to the second power?
+00:45:23	SS	Four.
+00:45:24	T	Okay. And how did you do that?
+00:45:27	SN	I multiplied two by itself.
+00:45:29	T	You multiplied it twice. Okay.
+00:45:33	T	So here, this is not saying A times zero, this is say A to the zero power.
+00:45:37	SN	Told you.
+00:45:38	T	A to the zero power.
+00:45:40	S	That means you're not timesing it by anything so it stays A. So that would be one, right?
+00:45:44	T	Well, not necessarily. What if A was equal to 1,000?
+00:45:48	S	Then it'd be A to, I don't know.
+00:45:50	T	No 'cause a thousand to the zero power is...
+00:45:53	S	Is...
+00:45:54	T	Is one. Now you have to prove that.
+00:45:57	T	And think about it in terms of your multiplication and your division rules of exponents.
+00:46:03	T	How am I gonna get A to the zero power as a solution. What can I do mathematically to get A to zero power?
+00:46:15	SN	Mathematically A to the zero power?
+00:46:17	T	Mh-hm.
+00:46:18	SN	Oh you plus- plus N.
+00:46:19	SN	Can we use the calculator?
+00:46:20	T	Yeah, you could use a calculator.
+00:46:22	SN	Okay.
+00:46:23	T	You could use a calculator.
+00:46:24	SN	Okay. So- so the second-
+00:46:26	T	Put in 100 to the zero power. See what they give.
+00:46:36	T	Put in 1,000 to the zero power.
+00:46:40	SN	Oh, 'cause you're just timesing it by nothing, right? So it would be one, right? Or, you just get it.
+00:46:45	S	How do you get zero equals one.
+00:46:47	T	So no matter what number you're gonna put in to the zero power, you're gonna get one.
+00:46:51	T	But using those laws right there, if you start thinking about it...
+00:46:57	T	Work out a problem so that the solution is A to the zero and the light will go off. It will.
+00:47:04	T	Start thinking, can I do a multiplication problem, can I do a division problem? Start working with exponents. Okay.
+00:47:11	SN	Okay, I don't get it.
+00:47:12	T	Okay. Well-
+00:47:14	S	Maybe you divide it by one or something, so that would be-
+00:47:16	T	Well, how would you get a negative N up there looking at your rules of exponents?
+00:47:23	T	Look at your rules of exponents up there, and where do you think you can get a negative N?
+00:47:27	S	Oh, A times M over A times N equals A M minus N.
+00:47:33	T	Okay. So therefore M would have to be larger than N. Right?
+00:47:36	S	Yeah.
+00:47:38	T	So you can prove that to me using that law. Think about it.
+00:47:42	SN	We don't understand this.
+00:47:44	T	Okay. Now, Ryan, I figured you'd have this solved in no time.
+00:47:47	SN	I- I- I can't work with them.
+00:47:50	SN	Work with us?
+00:47:51	SN	It's weird.
+00:47:53	SN	We don't under...
+00:47:54	SN	I remember learning this a long time ago. Like, it was one of those questions (inaudible).
+00:47:58	SN	It was like one of those brain stumpers.
+00:47:59	SN	Yeah. And-
+00:48:00	SN	Where you had to like (inaudible).
+00:48:01	T	Okay. So let's look at of our laws of exponents. We can add, we can multiply, and we subtract, and we can divide. Right?
+00:48:05	SN	And we can divide.
+00:48:08	SN	Yeah.
+00:48:09	T	So think if I want you to set up a problem so that the solution would be A to the zero power.
+00:48:16	T	What kind of problem could you give me?
+00:48:19	SN	I don't know.
+00:48:20	SN	A multiplication problem.
+00:48:22	T	With exponents.
+00:48:23	SN	With exponents
+00:48:24	SN	With exponents.
+00:48:27	SN	A to the one.
+00:48:28	SN	Yeah.
+00:48:29	T	Okay. A to the one and then what would I have to do to A to the one so that it becomes A to the zero.
+00:48:33	SN	Divide it.
+00:48:34	SN	Minus it.
+00:48:35	T	(inaudible) divided by what?
+00:48:36	SS	One.
+00:48:37	SN	One.
+00:48:38	T	By one or by-
+00:48:39	SN	Zero.
+00:48:40	T	Let's see. Write that down. A to the one. Divided by- Okay.
+00:48:47	T	Now since we're doing division, what does the rules of exponents say?
+00:48:50	SN	Oh you have to minus, right?
+00:48:53	T	So it says that what you're going to do to get this, and we want this, put this equal A to the zero.
+00:48:59	SN	To equal?
+00:49:00	T	A to the zero. Okay.
+00:49:01	T	What do we do about division rules?
+00:49:06	T	What do we know about division rules? What- what's- what's one of the rules?
+00:49:10	SN	You have to minus, minus.
+00:49:11	SN	You subtract the-
+00:49:12	T	You subtract the top exponent from the bottom.
+00:49:14	S	Yes.
+00:49:15	T	So how am I going to- what am I gonna put down here such that this would be zero when I'm done?
+00:49:20	SN	One A?
+00:49:22	SN	A to the one.
+00:49:23	SN	A to the one.
+00:49:24	T	Okay.
+00:49:26	SN	So it'd be A to the zero, and-
+00:49:28	T	Now is A to the one over A to the one equal to A to the zero?
+00:49:32	SN	Yeah.
+00:49:33	SN	No.
+00:49:34	T	Okay. Is it? By your rules, what do you do?
+00:49:36	SN	Yeah. You subtract.
+00:49:37	SN	'Cause you subtract (inaudible).
+00:49:38	T	You go one minus one is zero.
+00:49:40	T	Okay. Now, what do you know about math when a number is over itself?
+00:49:45	SN	They cancel out.
+00:49:46	T	And what does it equal?
+00:49:47	SS	Zero.
+00:49:49	SN	One.
+00:49:50	SN	One. One.
+00:49:51	T	No. Come on. What does A divided by A equal?
+00:49:53	SN	One.
+00:49:55	T	Okay. So, now if we do this division, what answer do we have here?
+00:49:58	SN	One.
+00:49:59	SN	One.
+00:50:00	T	And what's that equal to?
+00:50:01	SS	Zero.
+00:50:03	T	No. What does that say?
+00:50:04	SS	A to the zero.
+00:50:06	T	And what is that equal to?
+00:50:07	SN	One.
+00:50:08	SN	One.
+00:50:09	T	Now didn't you just prove it?
+00:50:10	SN	Yeah.
+00:50:11	SN	Yeah.
+00:50:12	SN	So how do you write that out?
+00:50:13	SN	Oh. I-
+00:50:14	SN	Can we just show that?
+00:50:16	SN	All right.
+00:50:17	SN	That's it. That's real easy.
+00:50:18	T	Now, see you guys figured this out. So now with the next problem, we use the same type of logic to solve the second set. Okay.
+00:50:26	SN	All right.
+00:50:27	SN	Okay.
+00:50:28	T	Now was it as hard as you thought?
+00:50:29	SN	Yep.
+00:50:30	SN	Sure.
+00:50:31	SN	Easy.
+00:50:33	T	Okay. You guys, we need to wrap it up.
+00:50:36	SN	Shh!
+00:50:38	T	We need to wrap it up. I will give you time in class tomorrow to finish up.
+00:50:43	T	I know most of you will probably take this home and go, Mom and Dad help! Don't worry about it.
+00:50:49	T	If you don't come up with a solution, we will work through and prove this for you. Okay?
+00:50:55	SN	Do we have homework tonight?
+00:50:57	T	Yes, you have your assignments. You have homework tonight.
+00:50:59	SN	Oh.
+00:51:01	T	See ya.
+00:51:02	SN	The first one.
+00:51:03	SN	Bye Mrs. Scott. I love you.
+00:51:06	S	You're the best teacher in the whole wide world. We think you're the bomb.
+Ê

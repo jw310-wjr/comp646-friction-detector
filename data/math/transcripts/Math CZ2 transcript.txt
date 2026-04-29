@@ -1,0 +1,266 @@
+00:00:12	T	In our previous class we'd talked about circumference and circles.
+00:00:18	T	And we were solving the relationship between the plane of a line and circumference of a circle.
+00:00:26	T	That was mostly a geometrical construction and today we'll take a look at calculating numerical tasks.
+00:00:32	T	But the first main obstacle will be to figure out the reason and purpose of the circumference.
+00:00:41	T	So as a headline, write... Length of the circumference.
+00:00:57	SN	(inaudible)
+00:01:00	T	It does not matter, it doesn't matter today. Length of the circumference and very often we use another term, perimeter of a circle.
+00:01:20	T	Length of the circumference, perimeter of a circle. So when you see these two terminologies, you'll know it's the same.
+00:01:31	T	I may be talking about the length of the circumference and sometimes I'll call it perimeter of a circle and you'll know it's the same thing.
+00:01:41	T	Why am I changing the name as such? Because if you recall how to determine, for example... what-
+00:02:05	SN	Perimeter.
+00:02:06	T	Perimeter of what.
+00:02:07	SS	Square
+00:02:08	T	Perimeter of a square, you'll be able to remember that, yes?
+00:02:10	SS	Four times A.
+00:02:11	T	Yes, so in this case we're talking about the perimeter. Formula. Paul?
+00:02:23	SN	(inaudible) Four times A.
+00:02:26	T	Four times A. Make sure no one makes a mistake. If you have this type of figure...
+00:02:43	SN	Two times A. Symbol S.
+00:02:47	T	That's debatable.
+00:02:49	SN	The area.
+00:02:49	T	What are we trying to figure out.
+00:02:51	SN	The perimeter.
+00:02:52	T	If we're looking for the perimeter then the symbol will be?
+00:02:54	SN	O.
+00:02:55	T	Correct. Perimeter, which we mark as O. And you know?
+00:03:01	SN	O equals two times A plus two times B.
+00:03:12	T	We can continue with this. Nicolie?
+00:03:21	SN	A to the second power plus B to the second power.
+00:03:23	T	I think you overdid it with that one, wouldn't you say?
+00:03:26	SN	A to the second power times B.
+00:03:28	T	What do you have to see here? You can see this side, correct? Here you have another one. Yes, same length and parallel to each other.
+00:03:35	T	And this side? You've mentioned that you take both sides twice and add it up. I can do that as well. Excuse me?
+00:03:50	SN	Two times A plus B.
+00:03:55	T	I can add it up, because there are two pairs. We add A plus B and multiply... yes, so...
+00:04:01	SN	By two.
+00:04:01	T	By two correct. So, two times A plus B. You may use this formula.
+00:04:07	T	When you start studying Algebra, you'll need to know this formula.
+00:04:12	T	You'll have a pair of parentheses and be able to calculate it. Or you'll have a formula and will have to figure it out.
+00:04:20	T	It will become handy. So, you guys know how to define it when it comes to these forms.
+00:04:25	T	You also know how to figure out a triangle, yes?
+00:04:27	SN	O equals A plus B plus C.
+00:04:30	T	Yes, when you have three sides, you just add up the three sides of a triangle.
+00:04:37	T	And now what about the circumference. Perimeter of a circle or the distance of a circumference, that's a difficult question.
+00:05:04	T	How to go about solving it. People have been solving these problems as early as 2,000 years ago.
+00:05:27	T	Mr. Archimedes figured out the perimeter of a circle formula. Do you have an idea? John?
+00:05:40	SN	You somehow draw a square.
+00:05:42	T	Where.
+00:05:44	S	May I come up to the board?
+00:05:45	T	You may.
+00:05:53	B	[Blackboard: Drawing of a square]
+00:06:03	T	Good job. We know the perimeter of a square. We can figure that out. I have to assume the circumference, that this drawing which-
+00:06:16	T	This drawing which John outlined corresponds to what...
+00:06:25	T	What does this correspond to?
+00:06:26	SN	Radius.
+00:06:28	T	No, no. To what?
+00:06:29	SN	Secant of circumference.
+00:06:31	T	That is correct as well. What is this...
+00:06:35	SS	Radius.
+00:06:37	T	Excuse me?
+00:06:37	SN	Length of the square.
+00:06:39	T	Yes, so this will be the length of the square. And what does this blue segment in the circumference mean?
+00:06:49	SN	Linear equation.
+00:06:50	T	It's not a linear equation, it's a segment.
+00:06:52	SN	(inaudible)
+00:06:53	T	Diameter. Correct, diameter. So, John is suggesting a diameter of the circumference, which- or to compare it with the side of a square.
+00:07:08	T	He's said that D equals to A and from that he can figure out the perimeter of a circle.
+00:07:24	T	What's being left out when he substituted the length of the circumference with the perimeter of a circle. Is that correct?
+00:07:30	T	Michael?
+00:07:30	SN	It's not accurate.
+00:07:31	T	It's not accurate. Simply, it's not accurate. The shape is different. I just can't replace it as we did in this example.
+00:07:42	T	So, I'll do it more accurately. Which more accurate method should I use?
+00:07:47	SN	I would try to divide it into four segments.
+00:07:54	T	With what?
+00:07:55	S	Through center S.
+00:07:56	T	Through center S and then what, once you divide it up.
+00:07:58	S	Well in order to find out the radius... to know the radius of the circumference, I multiply the radius by four.
+00:08:06	S	When I will have three centimeters times four.
+00:08:11	T	Well, why four times for instance.
+00:08:12	S	Because, I'll divide it into four pieces.
+00:08:15	SN	Yes, but...
+00:08:16	T	Yes.
+00:08:16	S	That's the same thing as if I divided it in eight pieces and that would be the same.
+00:08:21	T	Well, you're making a mistake because that would still be this, yes.
+00:08:23	T	You for instance talked about a radius. But that's the same concept as if we would discuss diameter. And there is a lot more of them.
+00:08:34	SN	Could I draw the square in the inside?
+00:08:36	T	Yes, that would work. That's a good idea. Draw it inside. Inscribe it.
+00:08:41	T	The difficulty is that when I inscribe the square, compared to how simple it is here, one side (inaudible) equals the diameter.
+00:08:50	T	So, when I inscribe it, when... should I do it? I don't want to. Do you know why? Because the picture... (inaudible). You're correct.
+00:09:04	T	Then the diameter is by what? The diameter in the square is by what? The diameter in the square is?
+00:09:26	SN	Diagonal.
+00:09:27	T	Diagonal. The diameter in the square is diagonal. We would have a great difficulty determining the area of a square.
+00:09:41	T	Not that it wouldn't work. We would figure it out. After all... well...
+00:09:58	T	I think I complicated it for you. Would you be able to do something else?
+00:10:05	T	The perimeter in this case... the perimeter of a square would be a problem in this case why because you don't know...
+00:10:10	SN	The lengths.
+00:10:12	T	Sides. Now you could calculate it, since you know the root, you ought to be able to calculate the area from the square.
+00:10:19	T	And from that you could calculate the sides. Yes. But you simply would not be able to figure it out. So you cannot determine the perimeter of the square.
+00:10:27	SN	So, I would for example use an octagon.
+00:10:31	T	Octagon. You will not be able to determine the sides. Where can you easily determine the sides.
+00:10:36	SN	Triangle?
+00:10:37	T	No. Not the triangle. Stanley?
+00:10:42	SN	Hexagon.
+00:10:42	T	Hexagon. Do you remember? You take a radius, mark it here and here. You place the radius here as well and mark it here and here.
+00:10:57	T	The radius. And what ever comes out of that... is what?
+00:11:13	SS	Hexagon.
+00:11:14	T	Hexagon. What is the length of one side.
+00:11:18	SN	Radius of the circumference.
+00:11:21	T	Well, I used the radius. I measured it with the radius. The length of one side of the hexagon is the length of the radius.
+00:11:32	SN	It still isn't accurate.
+00:11:34	T	It still is not accurate. So how would you define it more precisely?
+00:11:37	SS	Hexahedron.
+00:11:39	T	Wait a minute. Hexahedron.
+00:11:40	SS	Dodecagon, octagon...
+00:11:44	T	Which one?
+00:11:44	SN	Dodecagon.
+00:11:45	T	Dodecagon, correct. That means I would mark points here. What else? I'm sure you wouldn't be happy with this... this will be a dodecagon.
+00:12:01	T	Then you can do a icositetragon...
+00:12:05	SN	Forty...
+00:12:06	T	Tetraconiakaioctagon.
+00:12:08	SS	Would that work?
+00:12:09	T	Up to enneacontakaihexagon. You would not be able to figure it out not even the twelfth angle.
+00:12:18	SN	But more of the angles...
+00:12:19	T	But the more angles we have, the more likely it will start to look like a circumference.
+00:12:23	T	And then the perimeter can be applied to the length of the circumference. That's the formula Mr. Archimedes created.
+00:12:35	T	Okay? We can write a note; Archimedes used for his calculations the ninety-sixth angle. The ninety-sixth angle.
+00:13:11	T	You can read it in your books that this was in the year 2300 B.C. Three hundred years before Christ.
+00:13:21	T	He came up with this formula. I will get back to that later. But from this formula which we used with the help of this square and hexagon,
+00:13:32	T	is arriving to one thing, that the perimeter of a square has four diameters, the perimeter of a hexagon, Philip?
+00:14:00	SN	Six.
+00:14:01	T	Six of what.
+00:14:02	SN	Diameters. Radius.
+00:14:04	T	Radius. Six radius. And if you recall, you can see it from this picture, diameter and radius are in what condition? Diameter and radius?
+00:14:26	SN	The radius is half of the diameter.
+00:14:28	T	The radius is half of the diameter, so here I can use the diameter, once again I'll write, three times two times R.
+00:14:41	T	And the two times R is...
+00:14:45	SN	Diameter.
+00:14:47	T	Diameter, correct. So, it came out to be three times D. From this calculation you can see one thing, that the perimeter of the circle,
+00:14:58	T	the length of the circumference is somewhere between the fourth diameter and the third diameter. It is not very accurate, that's correct.
+00:15:09	T	Mr. Archimedes has tried as I've mentioned, he used the polygon, and he came out with a more accurate result.
+00:15:17	T	This ought to be enough for our lecture. We'll write up a conclusion to this matter.
+00:15:35	T	Note, the length of the circumference depends on... what do you think it depends on?
+00:15:54	SS	Diameter...
+00:15:58	T	Or radius, yes. It depends on the diameter. You know from your seventh grade the proportionality. I could write that it's simply proportional.
+00:16:29	T	Diameter. The length of the circumference is a proportional diameter. Do you also remember the equation of that?
+00:16:40	SN	K equals three.
+00:16:45	T	That part is correct. What about the actual formula.
+00:16:51	SN	Y equals K over X.
+00:17:00	T	K times X. If I say proportional, then we recalled the formula of K times X. Take a look at our discovery here.
+00:17:11	T	Once again we have diameter here and here... and in front of that is a number or a constant.
+00:17:15	T	So, I can consider, that the length of the circumference will be proportional as to K times... what did we say, diameter.
+00:17:27	T	The difficulty is that we still don't know the letter K. That we don't know the constant.
+00:17:38	T	But from this reasoning, we've found out that the K will be located where? Is it going to be three? No, that would be a hexagon.
+00:17:52	T	Is it going to be four?
+00:17:53	SS	No, No.
+00:17:54	T	That would be a square. The square of a larger perimeter and hexagon of a smaller perimeter. So, where is the letter A going to be?
+00:18:02	SN	Between the two.
+00:18:03	T	Between the two. So, the letter A will be between the two. This is not an accurate number.
+00:18:16	T	As you've mentioned earlier, if we were to use other polygons, then we would be getting a more accurate number.
+00:18:23	T	And since we're not able to figure out the accurate calculations, we must consider a formula, which will be enough for this sample.
+00:18:47	T	The number of three point fourteen or 22 divided by seven.
+00:19:08	T	These numbers are rounded-off. If you take a look at the graph tables in your book, you'll see it on page 54.
+00:19:32	T	All the way on top, the terms with the letter Pi. The term Pi. And the constant which we found as letter K in the circumference is marked as letter Pi.
+00:19:49	T	And the number in here is marked at the nearest thousand. If you use a good calculator you'll be able to figure out to the nearest million.
+00:20:00	T	You may try it on your calculator but you may not have the option on this particular calculator.
+00:20:04	T	I'll give you calculators later on, which does not have the option either.
+00:20:07	T	You'll be using only the numbers and formulas which we've used in class. We'll mark it with letter Pi, it's marked as Pi and it's called Ludolf formula.
+00:21:00	T	The Pi is named after Ludolf. Why is it named after Ludolf? Does anyone know? Anyone?
+00:21:30	T	Ludolf Van Ceulen, he was from Holland and he calculated the same thing as Mr. Archimedes but around the year 1600.
+00:21:51	T	This information is only for the curious, around the year 1600 he calculated it to several numbers nearest the tenth decimal.
+00:21:57	T	Approximately 30 numbers nearest to the tenth decimal. Which is not very practical but he found out one thing, that the number,
+00:22:10	T	this number looks like it could be replaced with a fraction, but you would find out that 22 divided by seven,
+00:22:16	T	and three point fourteen are similar, but you cannot place an equal sign between them. In the mathematical tables, this number Pi has other decimal places.
+00:22:28	T	If you were to punch in the number you would come out with several different... Michael, that no same number is repeated.
+00:22:38	T	It doesn't have a periodic cycle nor is it divisible, not even with a remainder of zero, so no same remainder is repeated.
+00:22:44	T	So, it's a number which cannot be formulated with a fraction. Note, Pi cannot be formulated with a fraction. Okay?
+00:23:18	T	That is why, as I've shown you over there that this value will be used. I can note that Pi is approximately... you'll always write the dot there...
+00:23:29	T	Either the 22 divided by seven or Pi as three point fourteen to the nearest tenth.
+00:23:51	T	Can't be formulated with a fraction. What does that mean? If you were to take a ruler and measure a radius or diameter.
+00:24:06	T	You will not... in this system, you will not be able to exactly determine the length of the circumference. To measure it.
+00:24:15	T	Not that you're not capable of calculating it. You take a circumference mark a point on it and you let it roll, yes?
+00:24:30	T	When this point reaches the equation then here you have the measurement of the circumference.
+00:24:37	T	But if you measured the radius correctly, I'm sure you will not be able to measure with the same gauge.
+00:24:44	T	The radius and the measurement of the circumference is in this relation.
+00:24:48	T	Okay, in order to wrap this up, did we discover a direct proportion? Let's write that instead of K, Paul please complete it.
+00:25:16	SS	Pi, pi, pi.
+00:25:17	T	And O is pi times D. The only relation we can use. I wrote over there that the diameter has two radius, then instead of D, I'll write, John.
+00:25:40	SN	(inaudible)
+00:25:42	T	Martin.
+00:25:43	SN	Half.
+00:25:43	T	How should I write it up?
+00:25:44	SN	Two times R.
+00:25:45	T	Two times R. So, I'll write O equals Pi times two times R. It's common to write the numbers before the letters.
+00:25:56	T	So, I'll write O equals two times Pi times R. Both of the formulas are used.
+00:26:06	T	Those of you that can't remember it, can look it up in table graphs. You'll use a certain formula depending on the situation.
+00:26:44	T	Calculate the length of the circumference, given... Can you Teresa and Petra distribute the calculators please?
+00:26:59	T	Calculate the length of the circumference. Letter A, D equals two point four decimeters. Letter B, D equals one point forty-five centimeters.
+00:27:46	T	The assignment requires only multiplying and you have only decimal numbers in order not to spend too much time on calculation.
+00:28:01	T	That's the most important principal of this assignment. You must calculate the length of the circumference if you know the radius.
+00:28:10	T	The mathematical steps are similar like in Physics. Make a note Stanley.
+00:28:19	SN	Perimeter equals.
+00:28:20	T	What's already written there. Write it into the formula and calculate it. Come up here Martin.
+00:28:39	T	You'll pick a formula that is suited for this problem. Why are you changing it?
+00:29:09	SN	Diameter and then I can change it to...
+00:29:12	T	You may, but why would you do that since you have the formula? Yes.
+00:29:31	S	We will convert to decimeters.
+00:29:34	T	Come on Martin. That may be possible but... I still don't understand the logic of why you switched the numbers.
+00:29:49	S	I know it like this. (inaudible)
+00:29:56	T	One more time?
+00:29:58	S	I believe I have to know the diameter.
+00:30:01	T	I would write it in the same spot where the diameter is. You're correct, it's not significant, but... that has no significance either.
+00:30:10	T	You don't know the number of Pi?
+00:30:12	S	I know.
+00:30:15	T	Why don't you choose the numbers.
+00:30:20	S	Three point fourteen.
+00:30:21	T	Three point fourteen is used as Pi. The fraction is used only when you can reduce it by a fraction. I'll show you that later. Multiply it and...
+00:30:58	T	Exactly. Do you all understand? The first thing Martin could have or should have done is, when it's a substitute for a rounded number,
+00:31:13	T	then he needs to write the word approximate above the equation. He needs to write approximately here as well.
+00:31:19	T	And the next thing is that this result, should be written in the nearest decimal unit.
+00:31:26	T	And the answer ought to be in real numbers. Those are just details you should consider. Eric.
+00:31:49	T	You should be able to remember the formula. If you're having troubles remembering it, you may look it up on page 44.
+00:32:09	T	Do you understand? In time, you'll realize that these exact answers will not be useful.
+00:32:18	T	Because as you continue to use these formulas, you'll be rounding it off to the nearest decimal point.
+00:32:21	T	If I have a dimension which is to the nearest tenth and we rounded off at the hundredth point. Is it clear? Is it hard?
+00:32:44	T	Centimeters. Good, next person, Nik. Just erase the information which we don't need anymore so we can see the problems clearly.
+00:33:01	T	You may leave the formula there just erase that over there, yes.
+00:33:21	T	He may change the radius to the diameter, he may use it but he can also use the other formula.
+00:34:27	T	Six times (inaudible) zero seventy-two, very good. Jana. I also added E and the value of a diameter as a fraction, which is not common.
+00:34:45	T	Try to calculate the perimeter. Mike, you're not thinking.
+00:35:27	T	I just made a note that if you can cleverly calculate it then instead of using three point fourteen you may use a fraction.
+00:35:38	T	But only if it makes sense. Not that this wouldn't work, it will work. But here you must have it exact, here it has to be approximate.
+00:35:47	T	Rounded off, here you must multiply with an approximate number. Approximately seven point forty-five centimeters. Good.
+00:36:10	T	That was problem D. And how about problem E?
+00:36:20	SS	You have (inaudible), that should have been nine point one hundred and six thousandths.
+00:36:30	T	Why don't you fix it. You punched in incorrect numbers... let me see. Go ahead calculate it. Six point twenty-eight times... nine point...
+00:36:55	T	She made a mistake. She punched in an incorrect number. It was overlooked. Go up Jana and correct it.
+00:37:26	T	Good. And once again Simona, since this over here is an approximate number then here you must always write the word approximately.
+00:37:33	T	Even though on the first look it looks like a complete number. But the value is approximate. Pi is an approximate value.
+00:37:47	T	Do you all understand it?
+00:37:49	SN	Yes.
+00:37:50	T	There is nothing to it. These problems will be a bit more difficult. I'm sure you will not have too much trouble with it.
+00:38:01	T	Find or calculate the diameter... the diameter of the circumference. The perimeter.
+00:38:46	T	Calculate the diameter and in this similar problem, calculate... the radius...
+00:39:24	T	You? Go up there and try to calculate it. Calculate the diameter and radius.
+00:39:51	T	That's not bad, but this is something we... we haven't mentioned a formula for this.
+00:40:01	T	So, you're going to have to in some way figure it out, or you must use the formula which we've discovered
+00:40:09	T	And then form it with some substitutions and adjustments, you can come up with an answer.
+00:40:14	T	It's not bad but there are three variations from the formula, which we need to list.
+00:40:21	T	I can outline it in your grade books, but you will not remember it. We'll use the simplest kind.
+00:40:26	T	So, always write that the perimeter is Pi times D, yes. Substitute, as we did in Physics, four point two.
+00:40:41	T	Three point fourteen times D, good. Approximate number, yes. And D is approximate, you have to be careful here.
+00:40:53	T	The formula. Generally, you had it right. Yes, calculate it and you're done. Do you all understand?
+00:41:47	T	This number doesn't work well for you.
+00:41:50	T	You calculated it to the nearest tenth point and the result comes out to 10 numbers so you can round off to approximately-
+00:41:58	SN	Approximately...
+00:41:59	T	Thirty.
+00:42:01	S	Hundredths.
+00:42:02	T	Thirty. To the nearest hundredth, yes? One point thirty. Nikolai...
+00:42:12	S	Yes.
+00:42:19	T	Yes, underlined twice. Now Teresa can go up and try it.
+00:43:06	T	Good, yes. And the next line, whatever Nikolai wrote over there. What's important is the letter D now. Yes, yes.
+00:43:32	T	Calculate it. You will learn these formulas... you'll learn how to work with it and later on we'll study more technical problems.
+00:43:48	T	You'll get familiar with it and then we'll cover area. You'll have a complete understanding of the circumference.
+00:44:07	T	Teresa, always write approximate number. Good. We'll continue on Monday.
+00:44:17	T	Take a rest over the weekend, you don't have any assignments for the weekend. On Monday we'll continue with area.
+Ê

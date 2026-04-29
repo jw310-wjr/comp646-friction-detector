@@ -1,0 +1,2355 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science US1 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. The bells are kind of messed up so we will- I will probably just go ahead and dismiss you. We're now starting like five minutes late, [T] because they didn't get the bells working right. [T] All right, who is absent? Anybody? [T] You don't know? Do you know who sits at your table normally? [T] //Devin is gone."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Right. He's here. [T] Jennifer, I'm gonna have you move to- [T] Yeah, a table of three people, not the one that's got four. [T] All right, so nobody is absent? Everybody is here? [T] Okay. [T] Um, I'm not going to return your papers today. I'll save that for tomorrow. We'll get right into what we're going to be talking about today."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Um, I'm not going to return your papers today. I'll save that for tomorrow. We'll get right into what we're going to be talking about today. [T] There's just a couple of things that I needed to go over with you first that I'm not sure that you got it before. [T] Yes? Writing your homework books? Okay. [T] All right. Open up your book. What?"
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What's wrong? [T] Did you ever go to the doctor? [T] What? [T] Okay. Take these right here. Go. Bye. They must feel like they have the plague or something. [T] All right. You ready? [T] Okay. On page- open your book to page 588. [T] There are-"
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] There are- [T] There are some weather maps. There's actually four weather maps on those pages that are in front of you. [T] They are showing a progression of weather over a four-day period? Three-day period, okay. Where the weather is going. [T] Looking at those four maps, looking at the one on the page before that- flip one page back-"
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Looking at those four maps, looking at the one on the page before that- flip one page back- [T] Okay? And looking on the page after that- flip two pages, forward- [T] So you're looking at page 587, 88, 89, and 90- find the high pressure centers; [T] find the low pressure centers,"
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] on any one of those five or six maps, [T] find the cold fronts and the warm fronts. [T] Okay, now here's a puzzle for you. What do you notice about fronts and pressure centers? [T] What do you notice about the fronts and the high pressure; and the fronts and the low pressure? [T] Look- and you gotta look at the map in order to answer the question. [T] And if you can't figure it out with one map, move to another map."
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And if you can't figure it out with one map, move to another map. [T] Make some comparisons. [T] What pattern do you notice about fronts and pressure centers? [T] Mm. No- no, no. I'm waiting. [T] Oh. Question? Okay."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The pointed ones are the cold fronts. [T] I thought you were gonna answer the question. I am waiting for some people to get that look on their face, like, \"oh.\" [T] Stuart, are you noticing anything? [T] Is there something you're noticing about the high pressure centers that is not the same as the low pressure centers?"
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Is there something you're noticing about the high pressure centers that is not the same as the low pressure centers? [T] Besides the what? [T] What about the points? [T] There's no triangles where? [T] Oh. [T] Oh. Okay. So there's more cold fronts than warm fronts?"
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, but what about the low pressure centers and what about the high pressure centers? [T] Mitch, what do you think? [T] //And what about the high pressure centers? [T] They don't seem to have fronts attached to them, do they?"
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They don't seem to have fronts attached to them, do they? [T] You notice that, Jeff? [T] Look at all the low pressure centers. Do you see fronts attached to them? [T] No. Can you tell me why? Remember the balloon thing? Can you tell me why? Jeff, what do you think? [T] So you got a warm air mass and a cold air mass?"
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. You're saying the warm air rises above that cold air? [T] Okay. [T] And the warm air has what kind of pressure? [T] Okay. Mark, did you have something to add? [T] Okay. Let me show you a real easy way to really kind of understand it. I have three balloons this time, and they are different color. Red is?"
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Let me show you a real easy way to really kind of understand it. I have three balloons this time, and they are different color. Red is? [T] Warm air. Blue is? [T] Cold, and yellow is? [T] Is cooler. Let's say cooler. All right. Let's look up here for a second. [T] And you'll even notice on this map there aren't any fronts attached to those low pressure centers, right? [T] Just- or to the high pressure centers. Just to the low pressure centers, right? [T] Okay. So where would the red balloon go? If this is the- what kind of front?"
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So where would the red balloon go? If this is the- what kind of front? [T] Then where's the warm air going to be? [T] Behind it? This is the front of a warm air mass? [T] It's gonna be in front of it? [T] Okay. Where's the cold air gonna be? [T] Behind it. And we'll put the yellow air up here, okay? This is where the low pressure center happens. Watch what happens. [T] Here's the warm air. Here's the cold air. Here's the cool air. You see the hole in between the three?"
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Here's the warm air. Here's the cold air. Here's the cool air. You see the hole in between the three? [T] There's your low pressure center. It's where those big bubbles of air have a depression, or an area, a gap, that space, [T] that's the low. See? Yeah. [T] Ah. Okay? That's what you're looking at. You're looking at that bubble of warm air, the bubble of cold air behind. [T] Here's the front right here, right? The front of the air mass, yes? [T] And then where they all meet up- where these bubbles of air meet up, that's where that low pressure center comes in."
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And then where they all meet up- where these bubbles of air meet up, that's where that low pressure center comes in. [T] The high pressure is going to be this big bubble of cold air at the very highest point of it as far as pressure goes. [T] It's not gonna ever have a front because it occurs in like the middle of the air mass, okay? [T] Get it? [T] Ooh. Yes?"
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. That depression of low pressure air, right. What you got is air funneling in and air funneling up at the same time, [T] and then once it starts to twist- when we see that video on \"Understanding Weather,\" [T] it's really cool because it shows the air funneling like this on the ground. What's that called? [T] Right. It shows that on the ground like a big tube doing that, and then when that- I think it showed cold air- hits it- excuse me- hits it,"
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Right. It shows that on the ground like a big tube doing that, and then when that- I think it showed cold air- hits it- excuse me- hits it, [T] it- remember when I said the cold air hits that blue and the blue goes flying off- or the- [T] Cold air hits the red and the warm air goes flying up? That's what causes the storm? [T] What it shows is that that tube gets split and splits up this way, and that's the beginning of a funnel cloud. It's very cool. [T] But you'll see that on the, uh, video. Okay. So does that help with low pressure and high pressure and-"
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] //Okay? Kind of a visual. [T] Okay. The reason you need to know that is because this is what you are going to be doing. [T] First hour did not even finish the cities on their map which was kind of disappointing. I thought they'd get further than that. [T] You do not need- and I won't let you use- your book or your notes. I was going to let you, and then I thought, [T] \"No, I think that you need to get that station model plugged into your head a little better than you have it.\" [T] Okay? So you don't need any of that. You may use the map on page 770, I think. Check page 770 in your book."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? So you don't need any of that. You may use the map on page 770, I think. Check page 770 in your book. [T] There should be, yep, a map of the United States. You also have a map like this at your table with all of the cities on it. [T] Oh. They don't have one down there. [T] Hannah, would- would you take that map down to the office and ask them to give it to the kids inside the conference room?"
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hannah, would- would you take that map down to the office and ask them to give it to the kids inside the conference room? [T] Okay? I think they brought the map back from their- and then tell them to leave it there. Leave the pencils and the map, okay? [T] All right, so you've got enough reference for finding certain cities. You're going to get a list of 12 cities in the United States. [T] Oh, that stays on; this goes off. [T] A list of 12 cities in the United States, with some other data. I told you this last week. [T] And you're going to get a blank map that- handing out?"
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And you're going to get a blank map that- handing out? [T] Okay. Handing out? [T] Yeah. Dorothy. [T] I want to let Dorothy do it, because she threw her hand out there first. I didn't think she wanted to get up, but she does. [T] Okay. You're gonna get a sheet like this, that has all of the instructions that you need on it. [T] What you are going to do is, on the map, in front of you- and put all your notes away right now- [T] any notes, any... You can only have your book open at page 770."
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] any notes, any... You can only have your book open at page 770. [T] Okay. On the blue sheet is a list of the 12 cities, around the country. You might wanna make note that- [T] Hatteras, fourth from the bottom, is actually called \"Cape Hatteras\";"
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hatteras, fourth from the bottom, is actually called \"Cape Hatteras\"; [T] most of you have probably never heard of it. You will, though, by the time we get done with oceans. [T] It is in North Carolina. North Carolina. [T] I'm not gonna show you where that is; you ought to know where North Carolina is. [T] And, uh, Kansas City. There are two big Kansas Cities. We're talking about- thank you- Kansas City, Missouri. Okay? [T] So you might wanna write \"MO\" after Kansas City, just so you remember where it's from."
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So you might wanna write \"MO\" after Kansas City, just so you remember where it's from. [T] All right, who wants to read the directions? I'm gonna stop you a lot as you go through, and explain certain things. [T] Mark, go ahead. [T] Okay. The first thing you're going to do is find the cities, one at the time. Detroit, okay? [T] When you find it on the map, you're gonna put the little dot where Detroit goes."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] When you find it on the map, you're gonna put the little dot where Detroit goes. [T] Then you're gonna write \"Detroit,\" but you've got to write small, and you've got to write neat, so that I can read it. [T] Stuart, you haven't started yet, have you? [T] Don't, because I- I've got to tell you the whole thing. [T] Remember where Detroit goes on a station- a weather station model, right? [T] Many of you forgot to put \"Weather City\" when you had to redo another station model on that worksheet. [T] Lots of people did not put that city name. They put all the other stuff but didn't put the city."
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Lots of people did not put that city name. They put all the other stuff but didn't put the city. [T] So when you write \"Detroit,\" to the left of it make your circle right away and start building that station model. [T] Otherwise, if you go through and write all the cities first, then you're gonna have to go back and make sure you've got room to put the station model. [T] So do one city at a time, okay? Do you know what I'm saying? [T] You got it? Yes? [T] Like this. I'll just start this first one just so you know."
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If you have got this part of Michigan right here, and you put the dot, you need to write \"Detroit\" over here, okay? [T] And then start your station model right here. [T] All right? A reminder that the wind direction is that arrow to the middle. [T] All right? And- I'm trying to think what else they had trouble with. They had a little trouble last hour with cloud coverage in the circle."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right? And- I'm trying to think what else they had trouble with. They had a little trouble last hour with cloud coverage in the circle. [T] If you're not sure, ask someone at your table first before I come around to help you with that. Make sure you get it before- [T] or somebody else- you've asked somebody else before you ask me, okay? [T] Because you had the 25%, you had the 50%, and you had the 75% then you had full coverage. [T] Remember what those meant because that's how they are on this sheet, okay? Okay. So there's your- any questions on the station model? [T] You know where everything goes on there? There are only two cities with current conditions, and I'll put the symbols on the board."
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You know where everything goes on there? There are only two cities with current conditions, and I'll put the symbols on the board. [T] They're very simple, okay? So you don't need that chart either. Okay. Next one. Mark, keep going. [T] Appropriate locations. [T] //Yep. All right. Now, that's as far as everybody got for second hour, okay? Go ahead and read on, Mark."
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You're gonna have to look at what in order to do that? What's some indicators of high and low pressure? [T] Oh, no. You know what we thought of last hour? Don't do this one. Put an arrow, four, five, and five to four. [T] Do step five first. It'll make four a lot easier. Or three and four. I'm sorry. I'm sorry. Wait, wait, wait. [T] Do step four first and then go back up and do step three. Read step four, Mark, so I can explain what I mean there."
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Do step four first and then go back up and do step three. Read step four, Mark, so I can explain what I mean there. [T] Okay. Do you see why I said to do this one first? [T] When you find the areas of precipitation and then you find the cold and warm fronts, [T] it should be a lot easier to put the low pressure and high pressure centers, right? Okay."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So do number four first and then go back and do number three. When you shade for precipitation: [T] if it's light rain, it's a light green; if it's medium rain, if they just say rain, then it's a yellow; and if it's a thunderstorm, then it's red. [T] That's how the Doppler Radar satellite picture picks it up, okay? It's the density of the air is what they pick up, all right? [T] Okay. Go ahead, Mark."
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. This will be on a separate sheet of paper- probably won't get it until about the middle of class tomorrow-"
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] where now you have to explain why you put everything on your map where you put it, okay? [T] So you're kind of explaining yourself: low pressure, high pressure. And hopefully you'll be able to do that. [T] I think you can, if you allow yourself to think in that direction. Okay, and then six. [T] Okay. Are there any questions about what I expect you to do? No?"
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Are there any questions about what I expect you to do? No? [T] So I will be able to just sit here the whole time you're doing this and just watch you like last hour? Todd? [T] Okay. On the map that you had to do for the weather station models, they told you to shade the areas of precipitation. [T] The same way that this map did- you see how they shaded these areas? Where it's raining."
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The same way that this map did- you see how they shaded these areas? Where it's raining. [T] And once you get done with all your station models, you'll be able to see it better. [T] You'll look for the cloudy areas, and then from that you'll look for the rainy areas. [T] No. No. Well, yeah. You're gonna do four first before you do three. [T] Oh, no. Not before two though, right. Okay. Got ya. [T] Jeff? [T] You work as a group, yes. [T] Which means talking quietly about the mapping activity, not about what you did over the weekend, okay?"
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Which means talking quietly about the mapping activity, not about what you did over the weekend, okay? [T] Yes, Wes? [T] Okay. [T] Did you do that worksheet last week? [T] The one that you were supposed to turn in for a grade on Friday. [T] You had \"weather city\" and then \"around the circle\" which had cloudiness in it."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right, I'm not sure you turned it in. [T] Okay. We'll see what your group can help you with. [T] Jeff? [T] Sure. Mark? [T] Somebody want to answer Mark's question?"
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Somebody want to answer Mark's question? [T] Don't go- don't do all the cities first and then go back and do the stations because you might write the name of the city in the wrong place, [T] and you won't be able to fit the weather station around it. Hannah? [T] Okay. There are only two. Thanks for that. There are only two. Let me pull this up. [T] They call it on those dir- and that's actual data information from last Wednesday, the 23rd, straight off the Weather Channel."
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They call it on those dir- and that's actual data information from last Wednesday, the 23rd, straight off the Weather Channel. [T] When you're all done, I'm going to give you the actual satellite map with the warm fronts and cold fronts and high and low pressures. [T] You're gonna compare that to what you came up with on your map. I'm looking at probably Wednesday by the time we get to that. [T] Then you're- you're gonna forecast at the bottom. Your last step is gonna be a forecast. [T] Then you're gonna look at what happened the next day and see how well your forecast came out, okay?"
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then you're gonna look at what happened the next day and see how well your forecast came out, okay? [T] Uh, but on the Weather Channel, instead of calling it intermittent rain, they call it light rain. So this is the symbol for light rain. [T] I know it's tough, and I don't know if you're gonna be able to remember it, but that's light rain, okay? [T] There are no thunderstorms, none of that, all the fancy stuff they had on that chart. And guess what this is? [T] Light snow. [T] If it were heavy snow, there would be two of them. Oops. Okay?"
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If it were heavy snow, there would be two of them. Oops. Okay? [T] Any other questions? Yes, Wes? [T] //Two dots, yep. Yep. [T] Yeah. If you need a pencil, let me know. Don't try to do this in pen. It's too- too much erasing going on. [T] Yes, Mitch? Question?"
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I have a box of pencils right up- colored pencils. I did. Right up here. Whatever color you want except red or blue. [T] Oops. You needed this. [T] Whatever color you want except red or blue, okay? All right. If there are no more questions, get started. [T] I'm gonna put this away so I don't trip on it. [T] Yes?"
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Go back over there and get one from where I got it, top- that little top drawer. Mark, did you have a question? [T] Why? [T] On the wall? Do you want me to move you up here? [T] Oh. I thought so. Christina? [T] Yes, you may sharpen your pencil. [T] Yeah. You guys are supposed to do this beforehand."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah. You guys are supposed to do this beforehand. [T] Okay. Let's see if I can talk you through this. You wrote \"the city of Detroit.\" [T] And then there was a circle next to it so just draw a circle, a relatively large circle. [T] Okay. Now- no. Don't fill it in. Just a //circle. [T] And I just said \"use a pencil.\" Is that a pencil? [T] Oh. That's a cool pencil. Okay. An open circle. Now, in the circle you have four choices."
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh. That's a cool pencil. Okay. An open circle. Now, in the circle you have four choices. [T] These are your choices: mostly sunny- no. Clear, mostly sunny, partly cloudy, mostly cloudy, cloudy. That's it. Five of them. Okay? [T] And they are- it's saying cloudy. And they are represented by how much you shade that circle. [T] Actually, cloudy is gonna be all shaded."
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Actually, cloudy is gonna be all shaded. [T] Okay? [T] And let me see your pencil for a minute, and I'll draw them on the back so you can- all right. [T] This one is totally unshaded so that's going to be what? [T] Clear. Yeah. Sunny or clear. This one is gonna be a quarter shaded. [T] This one is gonna be- let's do them all first and then you can compare. This one is gonna be this way. [T] And that one is gonna be completely- and you know this one's cloudy and this one's clear."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And that one is gonna be completely- and you know this one's cloudy and this one's clear. [T] Okay? So now your other options are mostly cloudy, mostly sunny or partly cloudy. [T] Okay. If- [T] //That's all right. Relax. If that's clear, then this is like mostly clear or mostly?"
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] //That's all right. Relax. If that's clear, then this is like mostly clear or mostly? [T] Mostly clear or mostly? If this one's sunny- [T] Okay. This one is mostly sunny. Now you've got mostly cloudy and partly cloudy and these two left. [T] Which one's mostly cloudy and which one's partly cloudy? What's that one? [T] What's that one? [T] Okay. So you've got- [T] Yeah. Sunny or clear."
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Beautiful. [T] Detroit was easy, but you're gonna get to some other ones that- okay? [T] All right, now, the next thing that you have to figure out is where the temperature goes and where the dew point goes. [T] You guys, you have humidity information. Does it go on the weather station model anywhere? [T] No. We didn't put humidity on there, did we?"
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, just- you don't need it right now. You'll need it to answer some questions, but you don't need it on the weather station model. Mark? [T] Eight-mile-an-hour wind- I told you last week, your choice. It's either a five- you listening, Geoffrey? [T] Eight-mile-an-hour wind is either a five or a 10. Your choice. [T] If you show me three long lines there, I'm gonna know you didn't know what you were doing, okay? All right. [T] Do you remember where temperature went?"
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Do you remember where temperature went? [T] Yeah. Right above it to the left. [T] Okay. And then dew point went? [T] Below left. [T] Okay? You've got the city there. Do you remember what goes above the city on this thing?"
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? You've got the city there. Do you remember what goes above the city on this thing? [T] Yep. [T] When you do the pressure, make sure you show falling, steady or rising, either with the letters or the arrows. [T] Rising would be just shooting straight across, a horizontal line. [T] Okay. So, now, if you're not doing humidity, the only thing you have left is wind speed and direction. Do you remember how that was represented?"
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So, now, if you're not doing humidity, the only thing you have left is wind speed and direction. Do you remember how that was represented? [T] Huh? [T] An arrow that's shooting into the circle. [T] And it is a //northeast wind, so- [T] That's northwest. [T] Yeah. [T] If you have trouble remembering your directions, make little compass rows at the top of your map. [T] Ah."
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ah. [T] No. You don't need to worry- all of these weather- or all of the wind directions are in either northeast or south- or south- [T] I didn't put east, northeast or- [T] No. I didn't do any of that. [T] You can tell her, Jennifer."
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, you guys, I told you where it was. [T] Yes. In your- on your map in your book it says Cape Hatteras, right. [T] It's not on your plastic map. [T] Does that help? [T] I don't think it is. It might be."
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Nope. It's not on your plastic map. [T] Well, no. The name is out in the ocean. The little dot //is actually on land. [T] You're right. There is no dot. Hmm. I'm looking in the wrong place anyways. //I'm looking in- [T] //New York is on here. It's just very hard to find. [T] Mm-hm. Here's the state."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Here's the city right there. Yeah. [T] You're not stupid. It's just buried on an island. [T] You haven't finished the Detroit station weather model yet. [T] Shouldn't you finish that? Before you start one? [T] I mean, that's what I would do. I guess you can do it any way you want, but- I guess everybody else is doing it that way, too."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I mean, that's what I would do. I guess you can do it any way you want, but- I guess everybody else is doing it that way, too. [T] Remember to keep your handwriting very small and really nice and neat, those of you that struggle with neat. Really nice and neat. [T] Yes. [T] How about on the plastic map? That's why I gave you that plastic map, too, because-"
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] some of these cities- some of these cities are not as maj- well, Des Moines is a major city, but some aren't. [T] And they're just on weather maps because they have a weather station there. [T] What did you have to do on the weather station model? [T] Oh. You mean tell me what it is? No. I know what it is."
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh. You mean tell me what it is? No. I know what it is. [T] Yeah. No. You just write it down. [T] Yeah. Make sure I'm not- make sure you don't get too much clutter around it so that you can't tell that that's what it is. [T] Okay? So make it clear enough that I'll be able to see it, because NY could easily get lost in there."
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? So make it clear enough that I'll be able to see it, because NY could easily get lost in there. [T] Okay? [T] S. [T] Or an arrow- here's your circle, [T] An arrow just shooting off."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You guys seem to be having a lot less trouble than second hour did, or maybe I just explained it better this time. I don't know. [T] Mm-hm. [T] I know. [T] I told you it would be a challenge for some of you. Yes. You have very large handwriting."
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I told you it would be a challenge for some of you. Yes. You have very large handwriting. [T] Oh, no. That looks good, though. That looks- that's pretty good for you. Yeah. [T] 'Cause I know you would want to fill the map up with- like Los Angeles would cover from L.A. all the way to Florida. [T] Mm-hm. Oh. Kansas City is Kansas City, Missouri. Did I say that? [T] Okay. Missouri."
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hmm? Which one? [T] Yep. It's right on the edge. And then there's another one in Kansas, too, but it's not as big of a city. This is a big city here. [T] I know. They don't have it on that map. Do they have it on the plastic one? [T] Missouri. Yep. And Missouri, yep. And Kansas."
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Mm-hm. [T] I can't give you medicine. [T] She would have to bring either a written- she would have to bring a note. We need something written that says that we can- [T] Do you want to go call home? [T] Well, if you don't want to go home, can you call home and somebody can bring you the medicine?"
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Aspirin? Painkiller? [T] Tylenol? It won't let you hear, but it'll kill the hurt- it'll kill the pain if you're in pain. [T] Well, then you need to take like Tylenol or something. Do you want to call home? [T] Okay. Do you want to call from here or do you want to go down to the office? [T] Is it like around here? [T] Okay. Yeah. Go ahead and call home. See if somebody can bring you something. We're not allowed to administer any medication."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Yeah. Go ahead and call home. See if somebody can bring you something. We're not allowed to administer any medication. [T] Not even cough drops. Nine. [T] Uh-huh. [T] //Des Moines. [T] The S is silent. [T] In your book or the plastic map? [T] Plastic map only. [T] How far did you get? [T] Where what? [T] Humidity. Were you listening when I gave directions?"
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You weren't listening? It's showing right now. What did I say about humidity? Did you have to put humidity on it last week? [T] Think for a minute. Did you remember putting any on that worksheet we did? [T] Humidity? [T] Nnn- [T] Dew point goes below air temperature. Humidity is not on your station model at all. Remember I said that?"
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Dew point goes below air temperature. Humidity is not on your station model at all. Remember I said that? [T] Ah. It's not on there at all. [T] Humidity isn't on there at all. [T] There's no humidity on that station model. Because when you look at dew point, you should be able to tell what the humidity is like, right? [T] For instance, look at- [T] is it New Orleans or Kansas City? Whose got a hundred percent humidity?"
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] is it New Orleans or Kansas City? Whose got a hundred percent humidity? [T] Denver? [T] Okay. There's Denver. Okay. What's temperature in Denver? [T] What's dew point? [T] So what does that tell you about the humidity? [T] What's the humidity? [T] A hundred percent. [T] It's- and it is doing that, right? Right."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I will eliminate the ability to talk to your neighbors with- for the worksheet, if we're gonna talk about other things. [T] //Message for you. I know. Somebody called me last week and left me a message. I never answered it. [T] Okay? Do you get it now, Stuart? No humidity because you can tell the humidity by the dew point. How are you doing?"
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? Do you get it now, Stuart? No humidity because you can tell the humidity by the dew point. How are you doing? [T] Now, these all have to go a certain way. [T] This one I can't tell- oh. Okay. There it is. Your direction for wind. [T] The cloudies? [T] Okay."
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What one is this one? [T] Okay. But you've got some sun there. Is it completely cloudy? [T] Mostly cloudy means there must be some- a little bit of sun. [T] So what have you got there? [T] A little bit of sun. Right. You want it all the way cloudy so what are you going to do? [T] Right."
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh-huh. [T] Yes. [T] Yep. [T] That's right. You know what it is. You're the only one that has to look at it. So then what is going to be mostly sunny?"
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's right. You know what it is. You're the only one that has to look at it. So then what is going to be mostly sunny? [T] That's clear. That's completely sunny. [T] If you've got partly cloudy here, what's mostly sunny gonna look like? [T] Mostly clear except a little bit of clouds. Right. Right, right, right. Yep. Yep. There you go. You got it."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Mostly clear except a little bit of clouds. Right. Right, right, right. Yep. Yep. There you go. You got it. [T] You sigh like you're in pain, Todd. Is this hurting? [T] Come on, you're not gonna make me stand here the whole time, are you? [T] Okay. Then stay on task, okay? [T] Okay. A very good question, Jennifer. That was the other one I hadn't answered. Listen, please."
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] One of those has a variable direction which means you're not gonna have an arrow shooting into that circle because they're all over the place. [T] If you don't have the arrow shooting into the circle, then you can't put the what? Five miles per hour? [T] Okay. So put the line on there anywhere. Because if it's variable, it's changing a whole lot. [T] So just put it anywhere, and then put the five-mile-an-hour line on there. There's another one, though, that says variable- [T] Speed. [T] speed, so put the arrow for the wind direction and then put a V at the end of it, okay?"
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] speed, so put the arrow for the wind direction and then put a V at the end of it, okay? [T] Because you can't say. It's probably anywhere from three to 15 miles an hour. [T] Okay? Get it? [T] Okay. Does that help? Okay."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh-huh. [T] Nine is closer to what? Nine or- I mean 10 or five? [T] Okay. So use the 10. [T] Okay? And even when you get to the 12- that's halfway between the 10 and the 15- you'll pick. [T] Okay? You can either pick one 10 mile an hour or the 10 mile and five mile."
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] \"Calm\" you don't put any //line at all. [T] There's no line because there's no direction, there's no nothing, okay? [T] You shouldn't have two on there. It's one or the other. What is that? New York? [T] Nine-mile-an-hour wind out of the northeast. Which direction is the northeast? [T] Yeah. So erase that one you've got on the bottom, and then don't forget to put your 10-mile-an-hour line on there."
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah. So erase that one you've got on the bottom, and then don't forget to put your 10-mile-an-hour line on there. [T] Okay. [T] All right. How many of you guys got done here? We only have like 15 minutes. How many have you got gone? [T] On your what? [T] Hannah! Oh. You found all your cities first?"
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You're halfway done? [T] Uh-huh. [T] Uh-huh. [T] //Uh-huh. [T] What do you think? What is it mostly of if only a quarter of it is dark? [T] Mostly clear or mostly sunny. [T] You don't have any on there. [T] Unfortunately it was a cloudy day all the way around the country."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah. [T] Yeah. If you use the- when you use the colored pencils, if they're dull, just use the hand sharpeners please. Don't use the power sharpeners, [T] because they chew it up, eat them away. [T] Yeah. [T] Yeah they drew their hand today, in art. They didn't- [T] You had to do your hand. Remember you had to do your hand?"
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They haven't got there yet. [T] Don't push too hard. [T] What are you in now? [T] Oh, (inaudible). No, you can't come back to art. Sorry. [T] What's creepy?"
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What? [T] Whose cousin? [T] Your cousin has a- had a //crush on you? [T] Oh. Not Lydia, your cousin? [T] Oh."
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Make sure you're putting those in the right place. [T] Okay. Because it looks like Los Angeles is on top of your circle. Your circle needs to be to the left of that city name. [T] Yes. And that's the one where I told you to just put the arrow anywhere."
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They were? [T] Ooh."
+      }
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They did drive? I wouldn't have gotten on an airplane. [T] Oh. //Yeah. [T] Were they even flying planes at that point? [T] When they were coming //back they were? [T] We weren't having any planes in the air at that point. Wow. [T] It would be a nice drive, unless you're in a hurry."
+      }
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2730.0,
+        "t_end": 2760.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh. Yeah. [T] Yeah. [T] Oh, I'm sure. Yeah. Supply and demand. [T] Variable direction? I think I answered that a few minutes ago. [T] What did I say about variable direction, Wes? [T] What did I say when the direction is variable? [T] Just put a line on there somewhere to attach your five miles per hour."
+      }
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2760.0,
+        "t_end": 2790.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Just put a line on there somewhere to attach your five miles per hour. [T] There you go. There you go. [T] No. Uh-uh. No. Not on the station model. The whole thing can be the same color. When you shade, if you want to use color, you can use color. [T] Okay. It's just like shading when you did the station model worksheet. [T] How are you doing over here? [T] You get it?"
+      }
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2790.0,
+        "t_end": 2820.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good. [T] How many you got done, Mitch? [T] How many station models? [T] Eight? One, two, three, four, five, six, seven, eight. Okay. [T] Yes? Who's calling me? What? [T] It isn't in the ocean. [T] It is right- it's a cape so I'm assuming it's like right here. We'll just make it right there. There's the city. Now go with it."
+      }
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2820.0,
+        "t_end": 2850.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It is right- it's a cape so I'm assuming it's like right here. We'll just make it right there. There's the city. Now go with it. [T] It's not in the ocean. [T] Actually, I should show you the picture of the lighthouse that's there. [T] I'll pull that stuff out for tomorrow because it's kind of interesting."
+      }
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2850.0,
+        "t_end": 2880.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's not in your book map. Oh. Yes, it is in your book map. It's not on the plastic map. It's right here. [T] It's- [T] You know? Why are you asking //me? [T] Okay. [T] It- it should be like right here somewhere. Anywhere that it looks like it might- right in that little cove area there. [T] There- okay. I'll- to put it to you this way, there's a lighthouse on Cape Hatteras so it can't be back in that cove area, right?"
+      }
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2880.0,
+        "t_end": 2910.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] There- okay. I'll- to put it to you this way, there's a lighthouse on Cape Hatteras so it can't be back in that cove area, right? [T] It's got to be the most sticking out point of North Carolina. How's that? [T] Okay. But they had to move the lighthouse because the most sticking out point of North Carolina got washed away, and they thought //that they- [T] Okay, Dorothy. You got me there."
+      }
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2910.0,
+        "t_end": 2940.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I can't- no. They actually rolled it back. It's very interesting. [T] //I'll find the stuff. You keep working, I'll find the picture. [T] You just keep working. Just- [T] It's that little part sticking out right there. [T] Yeah, everything filled in. You're gonna have to wait for your group mates to figure out their stuff so //that you can move on to it, but- [T] //Look at- look at where your cloudiness is; look at where your precipitation is and you can go ahead and shade that,"
+      }
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2940.0,
+        "t_end": 2970.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] //Look at- look at where your cloudiness is; look at where your precipitation is and you can go ahead and shade that, [T] and then they're all gonna want to look at yours when they get done so they can copy it. [T] Rhode Island is not an island, nope. They probably thought it was when they named it."
+      }
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2970.0,
+        "t_end": 3000.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'm really thinking we need an American geography class, you guys. [T] Yeah."
+      }
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3000.0,
+        "t_end": 3030.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, is there a problem? Do I need to be babysitting? [T] No, I don't think that's in my job description."
+      }
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3030.0,
+        "t_end": 3060.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Not when the kid being babysitted is 14 years old. [T] There it is. [T] Uh-huh? [T] Hmm. Good question. Where would the most humidity be?"
+      }
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3060.0,
+        "t_end": 3090.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hmm. Good question. Where would the most humidity be? [T] Think about- look at- well, think about a weather map. [T] Where is the precipitation around the fronts? [T] Precipitation is behind the front or in front of the front? [T] In front of the front. Okay. So if you're looking at precipitation, you're looking at humidity, too. [T] So what is higher humidity gonna tell you?"
+      }
+    },
+    {
+      "t_start": 3090.0,
+      "t_end": 3120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3090.0,
+        "t_end": 3120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So what is higher humidity gonna tell you? [T] It's gonna tell you there's precipitation so where would it be located in relationship to the front? [T] What will be by the precipitation? [T] The front. What front? [T] Very good. [T] It's not Des Moines. It is Des Moines."
+      }
+    },
+    {
+      "t_start": 3120.0,
+      "t_end": 3150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3120.0,
+        "t_end": 3150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's in Iowa. [T] Hmm? [T] Were you? [T] You know what? I'm not sure. Jennifer, go ask Mrs. O'Brian if she is going to let everybody out for lunch by the bell or at nine minutes after. [T] Okay? Okay. So far Jennifer is the only one that got all of the cities plotted."
+      }
+    },
+    {
+      "t_start": 3150.0,
+      "t_end": 3180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3150.0,
+        "t_end": 3180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Two more? You might finish if you don't talk. [T] //Sit on your butt. [T] You what? [T] Tomorrow is gonna be even worse because you won't be allowed to talk in here either. [T] Mark, sit. Thank you. Work."
+      }
+    },
+    {
+      "t_start": 3180.0,
+      "t_end": 3210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3180.0,
+        "t_end": 3210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You got all the cities done? Okay. I told Jennifer to go ahead and- ooh, Cynthia, you went ahead of your group. [T] You're supposed to be making those decisions with your group together. [T] Okay. When you get to the point when you are ready to do precipitation and the fronts, decide as a group, [T] so that you can explain why you think the front needs to go somewhere and then someone else can either debate with you or agree with you."
+      }
+    },
+    {
+      "t_start": 3210.0,
+      "t_end": 3240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3210.0,
+        "t_end": 3240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And don't agree with the person just because they get better grades in science. [T] Because a lot of times when it comes to this kind of stuff they won't get it. It happens an awful lot. [T] They know the bookwork, they understand some of the concepts, but when it comes to actually applying them, [T] sometimes those people that really get good grades have a real hard time with this kind of stuff. Mitch? [T] No. It is not homework. [T] I'm gonna give you one more minute to work and then I'm gonna explain the rest to you. What did she say?"
+      }
+    },
+    {
+      "t_start": 3240.0,
+      "t_end": 3270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3240.0,
+        "t_end": 3270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'm gonna give you one more minute to work and then I'm gonna explain the rest to you. What did she say? [T] Nine after? I figured she was gonna be going to lunch. [T] No. You'll get out before the bell. If you want to get out at the bell, it probably won't ring until a quarter after or so. [T] The bells are behind. Because it would actually be ringing during the middle of- if we were following that clock during the middle of fourth hour. [T] It's that middle bell."
+      }
+    },
+    {
+      "t_start": 3270.0,
+      "t_end": 3300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3270.0,
+        "t_end": 3300.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You won't be today. [T] Because there will be teachers in the hallway making sure you make it, because you won't be talking to each other in the hallway. [T] It's actually working out quite nicely. [T] //That's how we want it to feel. [T] No, we won't do that, but we are definitely- it is definitely a //crackdown situation. [T] Work. [T] //Work."
+      }
+    },
+    {
+      "t_start": 3300.0,
+      "t_end": 3330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3300.0,
+        "t_end": 3330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hm? [T] Huh? [T] Last Friday's behavior. [T] No. [T] Who's done? [T] Oh, there's that lunch bell. Stop. Freeze. You are responsible to bring the map and the instructions back to this room- [T] She is on her way. [T] Tomorrow if you don't have it, am I going to give you another one?"
+      }
+    },
+    {
+      "t_start": 3330.0,
+      "t_end": 3360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3330.0,
+        "t_end": 3360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No. Are you going to get a grade? [T] No. Just so long as we understand that. Have a nice lunch. [T] Make sure everything else is on the middle of the table. Don't- thank you, Jeff. [T] Yes, I want my pencil back. Put that on and leave it on. It's not working, Victoria. [T] Oh, thank you, Jeff. I'll see you tomorrow, too. Have a good afternoon."
+      }
+    },
+    {
+      "t_start": 3360.0,
+      "t_end": 3390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3360.0,
+        "t_end": 3390.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, thank you, Jeff. I'll see you tomorrow, too. Have a good afternoon."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Looking at those four maps, looking at the one on the page before that- flip one page back- [T] Okay? And looking on the page after that- flip two pages, forward- [T] So you're looking at page 587, 88, 89, and 90- find the high pressure centers; [T] find the low pressure centers,"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Right. It shows that on the ground like a big tube doing that, and then when that- I think it showed cold air- hits it- excuse me- hits it, [T] it- remember when I said the cold air hits that blue and the blue goes flying off- or the- [T] Cold air hits the red and the warm air goes flying up? That's what causes the storm? [T] What it shows is that that tube gets split and splits up this way, and that's the beginning of a funnel cloud. It's very cool. [T] But you'll see that on the, uh, video. Okay. So does that help with low pressure and high pressure and-"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] any notes, any... You can only have your book open at page 770. [T] Okay. On the blue sheet is a list of the 12 cities, around the country. You might wanna make note that- [T] Hatteras, fourth from the bottom, is actually called \"Cape Hatteras\";"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If you have got this part of Michigan right here, and you put the dot, you need to write \"Detroit\" over here, okay? [T] And then start your station model right here. [T] All right? A reminder that the wind direction is that arrow to the middle. [T] All right? And- I'm trying to think what else they had trouble with. They had a little trouble last hour with cloud coverage in the circle."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right? And- I'm trying to think what else they had trouble with. They had a little trouble last hour with cloud coverage in the circle. [T] If you're not sure, ask someone at your table first before I come around to help you with that. Make sure you get it before- [T] or somebody else- you've asked somebody else before you ask me, okay? [T] Because you had the 25%, you had the 50%, and you had the 75% then you had full coverage. [T] Remember what those meant because that's how they are on this sheet, okay? Okay. So there's your- any questions on the station model? [T] You know where everything goes on there? There are only two cities with current conditions, and I'll put the symbols on the board."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You know where everything goes on there? There are only two cities with current conditions, and I'll put the symbols on the board. [T] They're very simple, okay? So you don't need that chart either. Okay. Next one. Mark, keep going. [T] Appropriate locations. [T] //Yep. All right. Now, that's as far as everybody got for second hour, okay? Go ahead and read on, Mark."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. This will be on a separate sheet of paper- probably won't get it until about the middle of class tomorrow-"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They call it on those dir- and that's actual data information from last Wednesday, the 23rd, straight off the Weather Channel. [T] When you're all done, I'm going to give you the actual satellite map with the warm fronts and cold fronts and high and low pressures. [T] You're gonna compare that to what you came up with on your map. I'm looking at probably Wednesday by the time we get to that. [T] Then you're- you're gonna forecast at the bottom. Your last step is gonna be a forecast. [T] Then you're gonna look at what happened the next day and see how well your forecast came out, okay?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I have a box of pencils right up- colored pencils. I did. Right up here. Whatever color you want except red or blue. [T] Oops. You needed this. [T] Whatever color you want except red or blue, okay? All right. If there are no more questions, get started. [T] I'm gonna put this away so I don't trip on it. [T] Yes?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Here's the city right there. Yeah. [T] You're not stupid. It's just buried on an island. [T] You haven't finished the Detroit station weather model yet. [T] Shouldn't you finish that? Before you start one? [T] I mean, that's what I would do. I guess you can do it any way you want, but- I guess everybody else is doing it that way, too."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Mostly clear except a little bit of clouds. Right. Right, right, right. Yep. Yep. There you go. You got it. [T] You sigh like you're in pain, Todd. Is this hurting? [T] Come on, you're not gonna make me stand here the whole time, are you? [T] Okay. Then stay on task, okay? [T] Okay. A very good question, Jennifer. That was the other one I hadn't answered. Listen, please."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They were? [T] Ooh."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2910.0,
+        "t_end": 2940.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I can't- no. They actually rolled it back. It's very interesting. [T] //I'll find the stuff. You keep working, I'll find the picture. [T] You just keep working. Just- [T] It's that little part sticking out right there. [T] Yeah, everything filled in. You're gonna have to wait for your group mates to figure out their stuff so //that you can move on to it, but- [T] //Look at- look at where your cloudiness is; look at where your precipitation is and you can go ahead and shade that,"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2940.0,
+        "t_end": 2970.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] //Look at- look at where your cloudiness is; look at where your precipitation is and you can go ahead and shade that, [T] and then they're all gonna want to look at yours when they get done so they can copy it. [T] Rhode Island is not an island, nope. They probably thought it was when they named it."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3000.0,
+        "t_end": 3030.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, is there a problem? Do I need to be babysitting? [T] No, I don't think that's in my job description."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3270.0,
+      "t_end": 3300.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3270.0,
+        "t_end": 3300.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You won't be today. [T] Because there will be teachers in the hallway making sure you make it, because you won't be talking to each other in the hallway. [T] It's actually working out quite nicely. [T] //That's how we want it to feel. [T] No, we won't do that, but we are definitely- it is definitely a //crackdown situation. [T] Work. [T] //Work."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3360.0,
+      "t_end": 3390.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3360.0,
+        "t_end": 3390.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, thank you, Jeff. I'll see you tomorrow, too. Have a good afternoon."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3270.0,
+      "t_end": 3300.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3360.0,
+      "t_end": 3390.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/S-US1"
+}

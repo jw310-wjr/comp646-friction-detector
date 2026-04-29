@@ -1,0 +1,1773 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math US1 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] (inaudible) four. One for each group of four. Okay? Or three. Okay? [T] Okay guys, let's get started here. Okay, listen closely. [T] To save a little time I won't bring out my overhead like you're usually accustomed to. [T] Okay? Instead, let me just tell you. [T] What I'm going to give you for each group is a little three-page packet. Okay? [T] What I need for you to do right now is, every one of you get out a blank sheet of paper. Every one of you needs a blank sheet of paper."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What I need for you to do right now is, every one of you get out a blank sheet of paper. Every one of you needs a blank sheet of paper. [T] Just put it right on the table back there, (inaudible). [T] Thank you Sarah. Don't leave without it, all right."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Thank you Sarah. Don't leave without it, all right. [T] Okay. Now- Here you go. [T] All right. [T] Okay, so... listen closely now. Everybody ready? [T] Okay, everybody within your group of four or three, you need to work together. I know normally we work in pairs. [T] Okay? But I figured today you have another pair of students-"
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? But I figured today you have another pair of students- [T] You know, a couple of extra brains there to help you get through this little lesson. Okay? We've done this plenty of times before. [T] Some of you honestly are still a little shaky. So, if you look at the packet which you are all sharing as a group- [T] Page one has five equations I want you to graph. Now you can graph it any way that you know how to do it, as long as you do it correctly."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Can someone raise their hand and tell me what's one obvious thing that I can do to graph? Nick? [T] Use the slope with the? [T] Y intercept. Right? That's probably the way you'll probably want to do it, right Nick? [T] Is there another way, though? Robert? [T] Right, to make a table for the equation, right? And then plot the points from the table. Everyone got that? [T] So those are the two main ways, right, we can graph those equations? So right now I need you to get started. [T] The key thing is when you're done with the first five, the first page, as noted on the paper, please make sure I check to make-"
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The key thing is when you're done with the first five, the first page, as noted on the paper, please make sure I check to make- [T] Make sure you did it right before you move on. Okay? So go ahead and get started. [T] Nick, question? [T] Yeah. You're going to graph on that. That is your result for your group. [T] Right. [T] So someone here can assign themselves as the grapher or whatever. [T] The rest of you kind of work together to make sure it's accurate. Okay? You going to do it? Good job, Nick."
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The rest of you kind of work together to make sure it's accurate. Okay? You going to do it? Good job, Nick. [T] Yes? [T] All right, the grid paper- All right, you know what? Hey, listen up real quick. [T] Five, four, three, two, one, zero. I probably forgot 'cause I'm still a little nervous. Okay? [T] But the grid paper, you have one per group. Right? [T] So I'm relying on one of you in that group to be the designated grapher for the group. [T] But the rest of you please help out- you know, help each other. Get the graphs done correctly. Okay?"
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But the rest of you please help out- you know, help each other. Get the graphs done correctly. Okay? [T] There you go, Robert. So while he's doing that, let's get started on this, guys. What are we going to do? [T] Yeah. [T] All right? This is actually the- use the ruler, Robert. Use the ruler man. Make it neat. All right? [T] Ah, see, so now you've already forgotten, right? First of all zeros are our favorite number, right? [T] You put in zero. Two-thirds times zero is what?"
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You put in zero. Two-thirds times zero is what? [T] Plus eight is? [T] Eight. Now because this fraction is a two-thirds, do you remember what I told you what numbers you should pick now? [T] All right. So maybe zero, three and six would be good numbers to try with this one, right? [T] That way you don't have to worry about fractions and mixed numbers. [T] Okay? All right. [T] Okay, so now wait a minute. You want to make a table then, right? So you're going to make an X Y table, okay?"
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, so now wait a minute. You want to make a table then, right? So you're going to make an X Y table, okay? [T] Now... the idea again is, to make our points we just pick any number we want for X. [T] We can do that, right? Everybody agree? Jenna? [T] Ah, that's true, except because this is a two-thirds fraction- [T] Exactly. [T] Right, and if you want to just do zero, three, six and stay away from negatives, you can do that too. All right?"
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Right, and if you want to just do zero, three, six and stay away from negatives, you can do that too. All right? [T] Right. [T] And you think you can do it on your own now? You just want to be on the camera. Okay. [T] Okay, we're going to put in zero here, right? [T] What's two-thirds times zero? [T] Everybody watching, right? Plus eight is? [T] Eight. [T] Six. [T] Three is two."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Eight is? [T] Okay. Good job. [T] Okay. [T] How come you have your table backwards? I've never done that before. [T] Okay. [T] All right, if you say so. [T] Times negative three. [T] Right. Well, you- negative three, you remember, is negative three over one. There you go."
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Right. That's still a negative there. [T] Plus eight is? [T] Yeah. [T] So negative three is six, zero is eight. Now three I question, though. Try a positive three. [T] Okay. [T] No, wait a minute. Wait a minute. [T] Two plus- wait a minute, no, you were \"times-ing\" it."
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's 10. And then six is 12. [T] All right. Yes? [T] Okay, now what I liked- you at least remember to use multiples. Like this one- Let's try this one right here. All right? [T] You remembered to use fives, but let's try zero. If I put in zero there, what's three-fifths times zero? [T] Right. Minus 10."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So put a negative 10 there. So now you're going to- now try five in there, right? [T] So just write a little five there so you can mentally see it. So if I do three times five that's? [T] Now remember I'm going to divide by the five, which gives me? [T] Minus 10. [T] Good job. I think you got it now. [T] All right. Finish it up. [T] All right. [T] Well that's a very good question. Obviously, how many points do I really need to make a line?"
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well that's a very good question. Obviously, how many points do I really need to make a line? [T] Two. Right? But just to make sure- [T] Plot at least three points. [T] That way if they're all in a line you know you did it right. Okay? [T] Yeah? [T] Use the whole paper, man. Look at these big grid lines here. Everyone, make it count one. Okay? [T] Yeah, you're going to graph these five. That's why I want you to use the whole paper. Make a big coordinate system."
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] As a matter of fact- Let me give you a fresh one to save you some time. [T] Okay. So start over again. [T] Use the whole coordinate system, that way all the lines are nicely spaced out and everything. [T] Okay? [T] Okay, well how do you want to graph it? Using an X Y table? [T] Or do you want to learn how to use slope and Y intercept?"
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So you're gonna make a X Y table. Do you agree, Ben? All right. [T] See, if you work with Chris side-by-side, then you can compare answers. Right? [T] Don't just rely on Chris here. [T] All right now, Chris, the idea is I'm gonna plug in any values I really want for X and figure out my corresponding Y. Okay? [T] But because this fraction is a two-thirds, what numbers should I possibly use that would make it easier for me?"
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But because this fraction is a two-thirds, what numbers should I possibly use that would make it easier for me? [T] Numbers based on three. So like maybe negative three, zero, three, six. Or zero, three, six, would be good enough, right? [T] That way you can get that graph down. Okay? [T] So, you need my help, or do you want to try it on your own first? [T] All right, you ready? [T] Well, if you want, we don't have to do the negative. You want to do the negative?"
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, if you want, we don't have to do the negative. You want to do the negative? [T] Okay, here we go. Put a little negative three above there. Now you know I'm going to do two times negative three... is? [T] Divide by three is? [T] Good. Plus eight. [T] Positive six. [T] Right? Now you're going to put in a zero and do the same thing, right?"
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right? There you go. See, with zero you don't even have to bother putting it in. Right? [T] You alr- you should already know that is your Y intercept. All right, try three. Now just make that a positive three. [T] That's it. You got it. You got it. Ben, see what Chris did there. [T] All right? [T] Okay. All right sir, it looks like you're being left out here, aren't you? [T] Okay, you understand what they're doing?"
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So all right, let me- let me test you here. Let's try number four. All right? [T] Okay. Oh by the way guys, I like how you labeled them, like that. [T] Excellent job. X minus nine, right? [T] So tell me how you would graph that? [T] Here we go. [T] Now that's negative nine for X."
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now that's negative nine for X. [T] Right? [T] That negative nine really is my Y intercept. [T] Ah ha. [T] Good. Now we only want to go nine. Here you go. Hey, you guys taught him pretty well then, huh? [T] And now my slope is one-fourth. [T] So that means?"
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good job. Excellent job. [T] All right. [T] Okay. [T] What's your question, Brandon? [T] What about your partner here? She's doing an excellent job here. [T] What, are you shy or something?"
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, let me go to this other group, guys. Brandon. Brandon. Do me a favor, all right? [T] I'll give you a choice, all right? You can pick either Ashley or Nick. Either way, I want- I want them to teach it to you. All right? [T] It's called teamwork here. Okay? All right. And if they can't do it, I'll be back in a few minutes to help you. All right?"
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Let's take a look here. [T] I mean, a lot of these tables look great, now let's get them plotted here. [T] And we can see what it comes out to be. [T] Right. [T] Right. And then you're going to label them. Now if you- [T] If you don't mind, since this is equation one, just put a little one at the end of it. And equation two put a two at it- at the end of it. Okay? [T] Brandon, you had a comment? Question?"
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, okay. [T] Well maybe you ought to go to Nick. Sounds like Nick knows what he's doing. [T] Okay, then maybe we ought to go to Ashley. [T] Okay. [T] Okay. What do we got going on here? [T] Sir? [T] Trying to embarrass me here or something? [T] Uh huh. [T] You're such a character, Nick."
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And everybody agr- here agrees, right? [T] Okay. So let me just check them real quick. I like how you numbered them one, and so on. [T] This one you didn't number. What number is that one? [T] That was five. That one's correct, so put a five there. Okay, I can safely assume that this one must be the four, right? [T] Or is this one the four? Which one's the four? [T] Which one's two?"
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Are you sure about that? [T] Because this one- [T] Ah. Right. [T] So let- do me a favor. Erase the two, right, and label them right near the ends of the lines. How's that? [T] 'Cause right there I can't tell which line you're talking about, right? [T] There I know. Hey two, that's that line. So this is the four line. Put the four right there. Okay? So both of those look excellent."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] There I know. Hey two, that's that line. So this is the four line. Put the four right there. Okay? So both of those look excellent. [T] Slope of three-fifths and number four, slope of one-fourth. That's good. [T] Number one, slope with two-thirds starting at eight and this one is seven, right? [T] Uh oh. I don't like equation three because look, it's going down. That's a positive three X. [T] It should be going-"
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It should be angling up. So correct number three, and then you guys- As soon as you get that corrected just move on. [T] I'll check that one later. Okay? [T] Here we go. Yeah? [T] Number five. All right, first of all, you know the Y intercept is what? [T] All right. So put a dot on negative five. [T] Good. We all agree on that? [T] Now, this is something so simple but very important."
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now, this is something so simple but very important. [T] See in Algebra we get lazy sometimes, right? Guess what number is in front of that X. [T] A one, right Robert? So therefore put a one there. If the slope is one, what am I going to do? [T] All right, you ready Sir? Make that one a- a fraction. How do I make one a fraction? [T] One over one. Write it- write like- let's just put it underneath there. One over one. Something to look at. All right, that's fine."
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] One over one. Write it- write like- let's just put it underneath there. One over one. Something to look at. All right, that's fine. [T] Now remember slope is rise over run, right? [T] So one over one means I rise one and I go across one. [T] That's it. That's the slope of one. All right? [T] Just let me check them real quick. [T] All right. Now do me a favor, guys. You labeled these really nice. As a matter of fact, this is a way- an ideal way of labeling it. [T] Write the whole equation, but like for example, equation one right here, put a one next to it also."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Write the whole equation, but like for example, equation one right here, put a one next to it also. [T] And this one's equation three, right? So put a three next to that. [T] So number them, in other words, okay? [T] Because what that's going to do, that's going to help you when I ask these questions about each of the equations. Okay? [T] Because that's how I label them. I label them by numbers. Does that make sense? All right. [T] So as soon as you get that done, which you're almost done, you get them numbered, just move on to the next set of five."
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So as soon as you get that done, which you're almost done, you get them numbered, just move on to the next set of five. [T] All right? [T] All right. [T] Okay. So wait a minute. You try- you're doing negative five, right? [T] Three times negative five is negative 15. [T] Divided by five. Negative three. Minus 10? [T] Negative three and a negative 10."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Negative 13. So let's change that. [T] Well negative five is going to be, not five, but negative? [T] Thirteen. All right? Ben, you look like you're not- you're just coasting here, man. What's going on? [T] Chris, make sure you help Ben out here, man. Ben- I just sense Ben's getting a little lost here. [T] All right, this is your chance to ask not only Chris, but also Raymond here. Get some help from them."
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right, this is your chance to ask not only Chris, but also Raymond here. Get some help from them. [T] You think you got it? Now zero of course is going to be what? If I put in zero here what am I going to get? [T] Wait a minute, what's three-fifths times zero? [T] Zero. Minus 10 would be? [T] Zero minus 10 would be? [T] Not positive 10."
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Negative 10. So you want to put a negative 10 there. Okay? [T] Now try at least one more of five. Okay? [T] Now it's a positive five, right? [T] So it's going to be- Well, what's three times a positive five? Fifteen. Divided by five is? [T] Three minus 10. [T] Negative seven. Don't forget the negative. [T] Okay?"
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right guys. Thanks for waiting so long. [T] All right, you want me to just check the answers? [T] Now the only favor I need you to do, is because for each of these numbered equations, just number them. For example, this is one, correct? [T] This one was equation three. [T] This one was equation five. So near the end of each of these arrows- [T] Just put- put the number. [T] And then this one, let me just make sure, because I don't have them all memorized. [T] Let's see, negative nine was one-fourth. You've got the slope perfect there and this one was three-fifths, right?"
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Let's see, negative nine was one-fourth. You've got the slope perfect there and this one was three-fifths, right? [T] So everything looks perfect. Just number them and move on to the next five. [T] Okay? [T] Look at that excellent work, man. Excellent work. [T] Excellent. [T] Okay. You know what? As a matter of fact I think it's time for me to address the whole class."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. You know what? As a matter of fact I think it's time for me to address the whole class. [T] Everybody. Ladies and gentlemen, listen up. Five, four, three, two, one, zero. [T] Now, about half of you are about ready to start the next set of five, right? Starting on number six? [T] Let me give you a hint. Just a little reminder, what you will notice- [T] Julie, you're doing a great job but please listen, okay? [T] You'll notice on equations six through 10 the slopes are negative. All right?"
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You'll notice on equations six through 10 the slopes are negative. All right? [T] So therefore, instead of rise over run meaning you'd go up and to the right, with the negative you're going to instead go, down and to the right. [T] Okay? Does that make sense to everybody? [T] So please keep going. Please make sure I check your first five and give you the okay to move on. Okay? [T] Yeah. [T] I'll check yours real quick. Okay. All right, good. You guys numbered them?"
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. There's one, slope. Equation three, two-thirds. Equation five looks good. [T] Okay. Then you've got four and two. It looks perfect so far. [T] Move on to equation six then. [T] Now you're saying you're being left behind here a little bit? On which one? [T] Okay. [T] Now Robert, here, I'm sure can help you. You've got the- one of the smartest kids in class right here."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now Robert, here, I'm sure can help you. You've got the- one of the smartest kids in class right here. [T] Okay. It looks like you made a nice table here, though. You understand what you did there? [T] Okay. So you- when you put in zero, one-fourth times zero is what? [T] Minus nine is? [T] Okay. Then you tried four, right? [T] All right. Why did you pick four and eight? Why didn't you pick like one and two and three? Numbers like that?"
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well said. Good job. So when I try four, see, what's one-fourth times four? Just one- [T] Minus nine is a negative eight. [T] And then you put an eight. One-fourth of eight is? [T] Minus nine is negative seven. So that's perfect. If you plot those three points you get exactly what is on your graph there. Okay? [T] All right. Guys- [T] Oh, so you want me to just check six real quick, right?"
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Right. Five now looks perfect. [T] Oh, three was the one we messed up on. So three is right here and the idea is that you want a positive three slope, which you did perfectly. [T] So three is good. Let's go back to six since we're here. [T] Here's six, so you started at positive eight. [T] The slope is negative five-thirds so you went down five and over three, didn't you? [T] Perfect."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? [T] Okay. Ashley, how is Brandon doing here? [T] Brandon? Good. That's what I want to see. [T] All right, you keep helping Brandon. Let me meet with Ashley over here. Nick, if you want to watch you can. [T] But I can tell you right now, five is good. [T] Okay? Let me start in order here. One looks good. Hold it. Wait a minute. Let me check one again."
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] One, the slope is two-thirds, isn't it? Right? So first of all our Y intercept is eight. [T] Ashley, let's look at yours since you're more comfortable with yours. [T] You agree that zero, eight should be my first point, right? [T] Two, four, six, eight. Okay. That's good. [T] Three- [T] Oh, here's your mistake. [T] All right? Now watch Ashley, you ready? When I put in three, two times the three would be six-"
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right? Now watch Ashley, you ready? When I put in three, two times the three would be six- [T] Divided by three would make? [T] Two. Six divided by three is two, right? [T] Okay, plus eight would make, 10. So three would be 10; well what's two plus eight? Ten. [T] So if that's a 10, this one I'm sure has got to be something bigger. Okay? [T] I believe it's 12. [T] Okay."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right, so it sounds like you guys didn't compare your answers here but I think that's your only mistake. [T] Because equation three looks very good. All right. [T] You know what? Equation two I don't necessarily like either. Is this supposed to be two? [T] Two says we're starting at what number? [T] Negative 10, right? You're not starting at negative 10 here. What's this number? [T] Two, four- somehow you're starting at negative six. So what happened on equation two, guys?"
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Two, four- somehow you're starting at negative six. So what happened on equation two, guys? [T] Hey, how come we didn't use your table? [T] Oh, I know- Look what you did wrong. You copied the equation down wrong. [T] Oh, I'm sorry. You're right. My mistake. [T] I can't even read your writing. Yeah, why is that a six? That should be a negative 10, right? [T] Okay. And five you got negative seven."
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I agree with that. [T] Okay, and then 10 you got negative four. [T] Okay, so why don't you try re-plotting those three points and move on to equation six through 10 and I'll check on number two later on. [T] Okay, the rest of them look pretty good, though. All right? [T] Okay, what are we doing here, guys? Hey, how come none of these lines are labeled? [T] Now what I suggest you do-"
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hold on. What I suggest you do before I come back is for each of these- just call it equation one, two, three, four, and five, right? [T] Put a number at the end of each of these lines. [T] Like for example, number one- Uh oh. Wait a minute. I don't like what I see here. [T] Okay. Let's see here. Number one, I believe this is supposed to be your number one here, right?"
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Let's see here. Number one, I believe this is supposed to be your number one here, right? [T] How come it's going down, guys? [T] Aren't all these slopes positive? So all of these should be going up. [T] Look at it. It's going down. [T] How do you read a book? How do you read a book, sir? [T] You read from left to right. So let's start on the left side of the line. [T] And as I move to the right I'm going in which direction? [T] Right. Now if you look at all the other lines, see they're all positive."
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Sir you have to read from left to right. Okay? All right. [T] So, guys, you need to make those corrections. Label the line. Correct this one, at least. [T] Okay? [T] Oh my gosh. Let me make sure I keep track of the time, too. All right. [T] Hey you guys did an awesome job here. Okay. Let's take a look here. So here's your number six right?"
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And you started at eight and the slope was negative five-thirds so you went down five and over three. [T] That line looks perfect. Let's look at your number seven. Here's negative one. You went down four and over one. [T] There's your line there. That looks perfect. Let's check number eight real quick. [T] Oh, that's the eight, right? Okay? So on number eight you started at 12 and negative one-third. Looks perfect."
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, that's the eight, right? Okay? So on number eight you started at 12 and negative one-third. Looks perfect. [T] Number nine is 14, which is where? [T] Way at the very top. And negative three-halves means you went down three and over two, so there's your line right there. [T] And finally number 10, we're at three, the slope is negative one. Perfect. [T] So now, all you guys have to do- [T] Is to answer these questions. Okay? The best you can."
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] On your piece of paper, okay? [T] On your own piece of paper. [T] All right, how we doing here, guys? [T] What's the ruler for? [T] Look at this. Just from now on make sure- straighten out these lines and keep going. [T] And are you labeling? That's number one- [T] Number two. [T] Okay, wait a minute. Number three is concerning me. You ready? [T] Let's try this again real quick. All right. It's three X plus seven, right?"
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Let's try this again real quick. All right. It's three X plus seven, right? [T] So when I put in- Let's- let's just start with zero. When I put in zero, what's three times zero? [T] Plus seven is? [T] Why did you put negative seven? What's zero plus seven? [T] Chris, let me take a look at your table for three. [T] How come you're not standing up to Raymond here and saying, hey man, look I got the right answers. [T] All right, your table is correct. You've got to believe in yourself. All right?"
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You guys gotta start working better together and comparing answers. All right? [T] Ben, I'm worried about you man. What are we doing here. [T] Put away the book. [T] And Chris, you need to work with your normal partner here a little bit better. And compare answers. [T] So I mean, if you would have compared answers, guys, you would have seen on this table here, right- [T] That, hey! Someone must be making a mistake because we're getting different answers here, right? [T] So, either correct yours, or if you want, you can trust Chris. I would trust Chris- Chris' to be honest."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, either correct yours, or if you want, you can trust Chris. I would trust Chris- Chris' to be honest. [T] Okay. [T] Right. Now did you have to go by twos? [T] Well wait a minute. Isn't this just a regular number three? [T] So on these kind, I always told you just use, like, zero, one and two, right? [T] You didn't have to go by multiples or anything because there's no fraction to divide by. You see? [T] All right guys, let's see what we can do here."
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right guys, let's see what we can do here. [T] Okay. Can I interrupt the whole class? Shh. [T] Okay. [T] Five, four, three, two, one, zero. Shh. Now please listen. Okay? [T] The thing is I- I have to be honest. [T] I'm getting a little- a little worried, maybe a little frustrated here, just because I could see that some of you have some serious weaknesses. [T] Yet, you have people either across from you or right next to you, your own partner that seems most of the time,"
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yet, you have people either across from you or right next to you, your own partner that seems most of the time, [T] have the right answers, yet you're not even asking them. [T] So, guys, I ask you, starting right now, is check your work with your partner's work. Work together. [T] All right, this is not an individual kind of assignment here. Does everything I say make sense so far? [T] Okay. Now let me just give you a heads up. We've got roughly what? Twelve minutes left in class?"
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Now let me just give you a heads up. We've got roughly what? Twelve minutes left in class? [T] Okay. I want you to keep doing what you're doing. If for whatever reason you actually get to the last page- [T] And you- you've answered these questions to the best of your ability- Now obviously today we have no time to discuss it, okay. [T] We're going to pick up- we're going to pick this up again on Monday, but if you happen to ask these questions- [T] Yeah, we're back on Monday, right? [T] When we- when we- after you answer these questions, if you get that far, please make sure you do this \"quickwrite\"."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] When we- when we- after you answer these questions, if you get that far, please make sure you do this \"quickwrite\". [T] All right. Which simply means all I want you to do is be honest with yourself and with me and just sit there for the remaining time. [T] Write a minimum of two paragraphs, okay, on what we've learned today. What you've actually learned today. Okay? [T] Those of you that aren't at this stage, don't worry about it yet. [T] At about, let's say, four or five minutes, I'm going to make all of you do it anyways."
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] At about, let's say, four or five minutes, I'm going to make all of you do it anyways. [T] So please keep working wherever you are. I'm still walking around. [T] Yeah? [T] Don't worry about that until Monday. We'll catch up on Monday. All right. Let's focus on this. [T] All right, Ashley? [T] All right. Does anyone in this group- [T] Understand what to do here?"
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. All right. Okay. Now you want to use slope and Y intercept or do you want to make tables? [T] Seems like tables are the way to go here, right? [T] So let's- let's go there, all right? First of all, Ashley, that's a negative five-thirds, isn't it? [T] Okay. So now, if I plug in zero, guys- Brandon, watch. If I plug in zero, what's negative five-thirds times zero? [T] Plus eight is?"
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right. That was easy. [T] You would use threes. Try three and six. Okay? [T] Sir, no. You have to stay here. All right? So- all right, let's try three. Nick, Jessie, you ready? [T] If I put in a three there, okay- [T] You're going to get negative five because the negative plus eight. What's negative five plus eight?"
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Positive three. [T] Well you wrote it upside down. That's okay. And then the next one is going to be what? [T] It's going to be negative two. You got it. [T] (inaudible) two. [T] Okay, you haven't done- You did that in your head, huh? [T] Impressive. [T] Okay. So don't let the negatives scare you. Just the same idea as the front. [T] Just know that when you times, you've got to have a negative, right, in your problem. That's all."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Just know that when you times, you've got to have a negative, right, in your problem. That's all. [T] Why do you keep getting out of your seat, Robert? [T] I'm coming to- [T] Okay, I just kind of noticed out of the corner of my eye. So what's going on here, how we doing? [T] Okay? So have I come by to check all 10 equations yet? [T] Okay. You are on number 10. You want me to wait until you get number 10 done? [T] Okay. All right."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ladies, you've been awful quiet over here. What's going on? [T] Okay, all right. [T] So where are you stuck? Or if you're not stuck, what would like me- Do you want me to just check your answers then? [T] Is that what you're saying? [T] Okay. So- So I've already checked the first five? Yes or no? [T] Oh, really? [T] Yeah, I know. I've been pretty busy. All right, let's start with six through 10."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So- Okay, so I'll do- I'll do the first eight, how's that? [T] All right. So I agree, that's plus 12. Wait a minute, which one are we doing? Number six. [T] That's plus eight, right? Two, four, six, eight. Good. [T] Now negative five-thirds would mean you come down five and you go over three, right? So that one's perfect. [T] Number seven. You would have started at negative one and because of the negative four slope you would have gone down four and over one. [T] So that one is perfect."
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. And number eight, I'm a little concerned. See how it's slanting up? See, eight's a negative one-third. [T] So are you ready? Well what does plus 12 mean? Up here. So erase number eight. Try number eight again. Okay? [T] Okay. All right, wait a minute Jessica- All right, let me slow down, then. Because trust me, I'm sick and I'm also tired but we- [T] We can do this, all right. You ready?"
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We can do this, all right. You ready? [T] Zero was 12. So why did you plot down here, when zero positive 12 is up there. [T] Okay, let's look at the rest of your table. [T] So three. All right, if I put a three here, DeCarlos, what's one-third of three? [T] One, right? So that negative makes it a negative one plus 12, which was a positive- So you had these points exactly right."
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So you put them down- you plotted wrong, basically, right? [T] All right. [T] Okay, all right. Yes? You're finally done, right? [T] Okay. If you don't mind I'll just take a quick glance. Spot-check a few of them because I'd like you to move on to the questions. [T] Start answering the questions. Okay? [T] And the ones I'm looking at right now, like for example, this one here this is number seven. That looks good. [T] Number six, five over three, that looks perfect. Okay. Oh, let me see. You just finished 10, right?"
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Number six, five over three, that looks perfect. Okay. Oh, let me see. You just finished 10, right? [T] And that one's also perfect. So I can safely say that you guys seem to know what you're doing. So now please answer these questions. All right? [T] For example- Well, just go one by one. You're going to have more time on Monday anyway. [T] But on number one, what- what did you notice about the first five equations? When you graphed them what did you honestly notice about them all? [T] They all went up and to the right."
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] They had a- [T] That's why we always said they had a positive slope because the positive number in front of X, all right? Okay. [T] All right, ladies and gentlemen. Shh. Listen up. [T] Wherever you are- wherever you are, honestly guys, it really doesn't matter. [T] I really appreciate the effort you put in for me today. That's the important thing. [T] What I'd like you to do- [T] What I'd like you to do now, whether you're done or not guys, I honestly hope that all of you have learned something today. Okay?"
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What I'd like you to do now, whether you're done or not guys, I honestly hope that all of you have learned something today. Okay? [T] So I want everyone now, on their own piece of paper- I repeat, on your own piece of paper- [T] Do this quickwrite for the remaining part of the class. [T] And a few hints would be like, hey did you learn- did you understand? [T] Did you understand something about slope maybe a little bit better? [T] Or Y intercepts. [T] Or maybe you got better at making tables. On the same piece of paper, yes sir. Any questions on that?"
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Or maybe you got better at making tables. On the same piece of paper, yes sir. Any questions on that? [T] All right, quickwrite time guys. Let's get that done. [T] What's this skull and bones stuff? [T] Jeremy? Oh, you're waiting for me because we're done over here? [T] Let me- let me see wh- Let me see the answers. [T] Okay. But where's your own work, Dell?"
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. But where's your own work, Dell? [T] And right now what are you supposed to be doing? [T] I understand, but right now what are you supposed to be doing? [T] All right. Now that I'm here, what else could you be doing right now? What did I talk about on the board there? [T] All right. See, I can see quickly you haven't even finished graphing these yet, so I want you to do the quickwrite right now. [T] And then I expect better results on Monday. I want you to finish this up on Monday. Fair enough? Okay Jeremy?"
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ah, see now it gets a little interesting. Show me your equation two. [T] Show me your equation six. Now, one thing that hopefully you understand is- See a line- [T] Those arrows mean they go on- lines go on forever in both directions, right. [T] So take your ruler... and let's ext- actually extend this line. Be very careful. Be precise. [T] Let's extend that line straight down. Okay. Go all the way down to there somewhere. There you go."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Let's extend that line straight down. Okay. Go all the way down to there somewhere. There you go. [T] Good. Good. Good. Good. Now, that's good enough because the idea is, I'm asking about what? The intersection. [T] An intersection is where two lines- [T] Meet or cross each other, right? Look where these two lines meet or cross. What do you notice about the angles there?"
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well said. Right? So now in mathematics, this is something I haven't mentioned yet, that's also called perpendicular. [T] Have you guys heard about that before? [T] So these two lines, therefore you would say are? Perpendicular. They make right angles. Right? [T] Okay."
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Have you started your quickwrite yet Brittany? [T] Right now I want you to stop what you're doing and let's just say one paragraph now. Just write as much as you can. [T] All right. [T] You didn't learn- you didn't know how- learn how to make tables or understand slope or Y intercept or anything like that? Okay?"
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You didn't learn- you didn't know how- learn how to make tables or understand slope or Y intercept or anything like that? Okay? [T] How come you crumpled it up? [T] Oh, so you got a new one? [T] So on Monday you're going to redo it. [T] Maybe even use a ruler to draw your coordinate system. Make it look professional."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] Okay. [T] Last time ladies and gentlemen. Five, four, three, two, one, zero. [T] Okay. Here's the deal. [T] Because we're running short on time and since I'm going to follow up anyways on Monday, okay- [T] And we're actually going to have a little discussion about not just graphing but also what I wanted you to discover about these lines, all right."
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And we're actually going to have a little discussion about not just graphing but also what I wanted you to discover about these lines, all right. [T] Please make sure you put away all your work. Do not lose any of it. [T] Do not turn in anything today because you're going to need it all Monday. [T] Can I trust you- can your group trust you to fold that up and put it away somewhere? [T] All right. [T] Keep it until Monday. Okay?"
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] Okay. [T] You're le- You're not even going to be here Monday, Tuesday or Wednesday? [T] Okay. [T] Leave your work with another group member then. [T] Leave that on the desk. That will be fine. Okay, hurry up and go guys. Have a good weekend."
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Leave that on the desk. That will be fine. Okay, hurry up and go guys. Have a good weekend. [T] Did you have fun? Good."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What I need for you to do right now is, every one of you get out a blank sheet of paper. Every one of you needs a blank sheet of paper. [T] Just put it right on the table back there, (inaudible). [T] Thank you Sarah. Don't leave without it, all right."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Thank you Sarah. Don't leave without it, all right. [T] Okay. Now- Here you go. [T] All right. [T] Okay, so... listen closely now. Everybody ready? [T] Okay, everybody within your group of four or three, you need to work together. I know normally we work in pairs. [T] Okay? But I figured today you have another pair of students-"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay? But I figured today you have another pair of students- [T] You know, a couple of extra brains there to help you get through this little lesson. Okay? We've done this plenty of times before. [T] Some of you honestly are still a little shaky. So, if you look at the packet which you are all sharing as a group- [T] Page one has five equations I want you to graph. Now you can graph it any way that you know how to do it, as long as you do it correctly."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The rest of you kind of work together to make sure it's accurate. Okay? You going to do it? Good job, Nick. [T] Yes? [T] All right, the grid paper- All right, you know what? Hey, listen up real quick. [T] Five, four, three, two, one, zero. I probably forgot 'cause I'm still a little nervous. Okay? [T] But the grid paper, you have one per group. Right? [T] So I'm relying on one of you in that group to be the designated grapher for the group. [T] But the rest of you please help out- you know, help each other. Get the graphs done correctly. Okay?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, let me go to this other group, guys. Brandon. Brandon. Do me a favor, all right? [T] I'll give you a choice, all right? You can pick either Ashley or Nick. Either way, I want- I want them to teach it to you. All right? [T] It's called teamwork here. Okay? All right. And if they can't do it, I'll be back in a few minutes to help you. All right?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Sir you have to read from left to right. Okay? All right. [T] So, guys, you need to make those corrections. Label the line. Correct this one, at least. [T] Okay? [T] Oh my gosh. Let me make sure I keep track of the time, too. All right. [T] Hey you guys did an awesome job here. Okay. Let's take a look here. So here's your number six right?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And you started at eight and the slope was negative five-thirds so you went down five and over three. [T] That line looks perfect. Let's look at your number seven. Here's negative one. You went down four and over one. [T] There's your line there. That looks perfect. Let's check number eight real quick. [T] Oh, that's the eight, right? Okay? So on number eight you started at 12 and negative one-third. Looks perfect."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So you put them down- you plotted wrong, basically, right? [T] All right. [T] Okay, all right. Yes? You're finally done, right? [T] Okay. If you don't mind I'll just take a quick glance. Spot-check a few of them because I'd like you to move on to the questions. [T] Start answering the questions. Okay? [T] And the ones I'm looking at right now, like for example, this one here this is number seven. That looks good. [T] Number six, five over three, that looks perfect. Okay. Oh, let me see. You just finished 10, right?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Have you started your quickwrite yet Brittany? [T] Right now I want you to stop what you're doing and let's just say one paragraph now. Just write as much as you can. [T] All right. [T] You didn't learn- you didn't know how- learn how to make tables or understand slope or Y intercept or anything like that? Okay?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Leave that on the desk. That will be fine. Okay, hurry up and go guys. Have a good weekend. [T] Did you have fun? Good."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/M-US1"
+}

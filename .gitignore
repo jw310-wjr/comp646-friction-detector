@@ -1,0 +1,47 @@
+# ── Large video/audio files ─────────────────────────────────
+data/math/videos/
+data/math/subtitles/
+data/science/videos/
+data/science/subtitles/
+data/timss/*.mp4
+data/timss/*.avi
+data/adni/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# ── Extracted frames and video pipeline output ───────────────
+runs/video_pipeline/
+runs/M-AU1-test/frames/
+runs/M-AU1-test/_session_head.mp4
+runs_from_home/full_pipeline/
+runs/logs/
+
+# ── Archives ─────────────────────────────────────────────────
+report_final.tar.gz
+report_upload.zip
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# ── LaTeX build artefacts ────────────────────────────────────
+docs/*.aux
+docs/*.bbl
+docs/*.blg
+docs/*.log
+docs/*.out
+docs/*.toc
+docs/*.synctex.gz
+
+# ── Misc ─────────────────────────────────────────────────────
+.DS_Store
+*.swp
+*.swo

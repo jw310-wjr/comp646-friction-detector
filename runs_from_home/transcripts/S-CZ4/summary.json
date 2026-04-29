@@ -1,0 +1,1132 @@
+{
+  "lesson_id": "S-CZ4",
+  "transcript": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science CZ4 transcript.txt",
+  "n_bins": 90,
+  "n_risky_bins": 9,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Please, sit down."
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Please, sit down. [T] Today, first we will review what we've learned about electrical circuits and the laws that apply to the electric circuit. [T] And then, the goal of the lesson will be to learn how to measure electrical current; namely, its symbols, unit or units."
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] And then, the goal of the lesson will be to learn how to measure electrical current; namely, its symbols, unit or units. [T] That is the goal for today's lesson. [T] We'll review a little at the beginning; and then you'll take a short test for five minutes, in which you display what you remember"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] How is an electrical current formed? Vladenko? [T] Yes. And the charge could be different. So, what kind of electrical charge is in metals. Vileme? [T] And what //particles are those? [T] Yes, those are free electrons. What particles are present in liquids and gases? [T] Free ions. Correct. What"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Free ions. Correct. What conditions have to be met for an electrical current to run through a body? Tamaro? [T] And how is the electric field secured? [T] Yes. The source of electrical voltage must be connected in there. Another condition- yes, tell us? [T] Yes. A body must contain specific part"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Yes. A body must contain specific particles, which are able to form a current. Of what does a simple circuit consist? We'll build the circuit here, later. [T] //Aloud. Battery, switch, conductors, and some consumption device. So, what would that be, for example? Lado? [T] A light bulb, Lado. Cor"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] A bell. What else did we say? Yes, Vincente? [T] A coil, for example, a resistor, and so on. [T] We have connected only a bulb or bell in the electrical circuit. And what was the reason for it? Why those two consumption devices? Valerie? [T] So, they are the ones most frequently used. And then, "
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. Whether- [T] You, please leave. This is unreal. [laughter] [T] So, we have recognized that the current runs through it immediately. How does the bulb react? Yes? [T] It lights up and the bell will? Tadeasi? [T] The bell will ring. Correct. So, we will still review what the direction of an e"
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The bell will ring. Correct. So, we will still review what the direction of an electrical current in a circuit is. Jakube? [T] Yes, from positive to negative. Correct. And how do free electrons move in a metal conductor? [T] Yes. Correct. That means, from the negative pole of a source, to the po"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Each of you will get a sheet of paper and write your name on it. There are two simple tasks on your worksheet. There are some schematic symbols for different parts of the circuit there. [T] And also a simple electrical circuit. Vileme, please, come here. [T] And hand out. Always one- you know ho"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] And hand out. Always one- you know how. Here you have test B. It is enough for everyone, so sign the paper; and if you can't read something, please ask me. [T] Or we could do this- who has it already- here the girls have the test A. Read the first problem to us."
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yes. And I think that the second problem is clear. Read test B. [T] Correct. So, write everything on that paper. This is only a short task."
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Correct. So, write everything on that paper. This is only a short task. [T] Valerie, you were not present last time, so write that down. You'll submit it anyway. [T] You may write with a ballpoint pen this time. Fill in what is needed."
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] You may write with a ballpoint pen this time. Fill in what is needed."
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] You may write with a ballpoint pen this time. Fill in what is needed. [T] Don't forget to mark with an arrow, what you are supposed to mark, while solving the first problem."
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Don't forget to mark with an arrow, what you are supposed to mark, while solving the first problem."
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Don't forget to mark with an arrow, what you are supposed to mark, while solving the first problem. [T] Please, continue to write; you'll have to finish soon."
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Please, continue to write; you'll have to finish soon."
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So, everybody, let's finish. It wasn't as difficult. Lubosi. [T] So, girls, let's finish. Tamara."
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So, girls, let's finish. Tamara. [T] Give it to me. Give it to me (inaudible). Let's finish, everybody."
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Give it to me. Give it to me (inaudible). Let's finish, everybody. [T] Is that all? [T] Is that all? Done. [T] And now, we will continue with the new material; with additional information in regard to electrical current. So, we'll review, again. [T] How is an electrical current formed, Vitku? Ex"
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] How is an electrical current formed, Vitku? Explain, once again. [T] With a negative charge, for example, yes. Ordered motion, rectified motion of free particles with an electrical charge. [T] We'll build a simple electrical circuit. Tadeas wants to come to the front. So, come. Build a simple el"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Tell us what you are connecting in this circuit. [T] In addition to that, we'll connect a light bulb so we are able to see what is happening inside of the circuit. Source of voltage, yes. And a switch. Please, try. Okay. [T] The bulb indicates that an electrical current runs through the circuit."
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] We mentioned earlier that we could replace the bulb with the bell. We have demonstrated that already. Just to review it. [T] Yes. So, we are immediately able to find out that an electrical current runs through the circuit. [T] But, if we connect a different component to it, some different consum"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] We don't see that the current runs through it. There is just- the current runs through it, but we are not able to see it or hear it. [T] Therefore we have measuring instruments which allow us to find out if some electrical current runs through a circuit. So, we have to connect some measuring ins"
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] You'll find out later about the principles governing those measuring instruments. So this is one little instrument that we could use and find out if current runs through the circuit. [T] Here we have different measuring instruments. This one will allow us to find out if a current runs through th"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Ahh, for this measurement, we'll use this instrument, [T] During your lab, in one of the next lessons, you will use this particular instrument to measure. Therefore you should become familiar with it. [T] What do we call this instrument? It is an ammeter. We recognize it due to a letter on its s"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] A. Which means that it is an ammeter. It'll measure electrical current in particular units. The basic unit is one ampere. [T] As you know, we mentioned that several times. Units of the physical quantities- variables- are named after famous scientists. [T] Not only after physicists, but after sci"
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So, the unit of electrical current, one ampere, was named after the French scientist Ampere. Therefore we called it ampere. [T] And the unit abbreviation is capital letter A, which you can find on any ammeter. [T] We already mentioned the schematic symbol of an ammeter. Who can remember? [T] Jak"
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Jakube, come and draw a picture on the blackboard. On that side. Get a piece of chalk. [T] So, ammeter. Even from the symbol we can assume what type of an instrument it is. Yes. The letter A is inside the circle, which enables us to recognize it immediately. [T] Some of the measuring instruments"
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] As you can see, it would be easy to confuse them. They look the same. In spite of that they differ by an A, which is a symbol for ammeter. [T] On this one, we have a different letter, but we'll talk about it in one of the next lessons. Yes. [T] So, a short review. We use an ammeter to measure an"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] How can we measure a current within a circuit? You should remember that we can interrupt the circuit at any place and measure the current. [T] Tadeas built this one. And we'll connect the ammeter somewhere in the circuit. So this ammeter- I'll disconnect the circuit, doesn't matter where, anywhe"
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And we'll build a simple circuit, including the ammeter, again. Now, I'll disconnect it so that you can see the indicator's motion. It's visible. [T] The light bulb lights up. If the light bulb were not there, then the measuring instrument would indicate that current runs through. Okay. In this "
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Its value is the same everywhere. We can try it. Look in here. The students in the back won't be able to see it. But Tadeas and Vilem should see the motion of the pointer- [T] Yes, it shows. So, I'll place the ammeter somewhere else. It doesn't matter where. Between the switch and the battery fr"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, it shows. So, I'll place the ammeter somewhere else. It doesn't matter where. Between the switch and the battery from the other side. The circuit is closed. //The same. [T] Therefore anywhere in that circuit. And what did we say about a parallel circuit? What is the case for a current then?"
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] As we mentioned already, each physical variable has its symbol and its unit. [T] The unit, as we said, is one ampere and the symbol is indicated by the capital letter I. Okay. [T] So, I repeat, once again. The symbol for an electric current is I, the unit is one ampere. [T] In addition to the am"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] For this electrical current smaller units are used. What is a smaller unit than an ampere? [T] What is a unit smaller than a meter? The really small one? [T] A millimeter. And a smaller unit than ampere is? [T] A milliampere. Correct. What increment of an ampere is it? One milliampere? What incr"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] A milliampere. Correct. What increment of an ampere is it? One milliampere? What increment of an ampere is it? Pavel? So, Vincente? [T] Yes. It is one thousandth. And besides this one, another smaller unit is used. What is it? We've already talked about a similar unit in regard to a charge. [T] "
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes, a microampere. And this microampere is designated by the Greek letter mu and capitol A. Where did we hear about the Greek letter mu? [T] Alongside what unit? Who remembers? Yes? [T] Yes. Coulomb. And what kind of unit is it? [T] Well, that is the symbol for an electrical charge. Okay. [T] Y"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Take your notebooks, please. Let's write: Measuring an electrical current and its units. Measuring an electrical current and its units."
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Take your notebooks, please. Let's write: Measuring an electrical current and its units. Measuring an electrical current and its units. [T] Write down that the symbol for an electrical current is I. Unit of an electrical current is A, which is an ampere."
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Write down that the symbol for an electrical current is I. Unit of an electrical current is A, which is an ampere. [T] As mentioned, smaller units are: milliamperes, designated by a small m and an A."
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] As mentioned, smaller units are: milliamperes, designated by a small m and an A. [T] What unit is designated by capital M? Instead of this one? What would it be? It is not used in practice anymore, but what is it? [T] A megaampere. So, you should write a small m. Milliampere and microampere. Thi"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] A megaampere. So, you should write a small m. Milliampere and microampere. This is the Greek mu and an A. [T] And the relationship. One milliampere is one thousandth of an ampere. One microampere is millionth. Write it down."
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] And the relationship. One milliampere is one thousandth of an ampere. One microampere is millionth. Write it down. [T] We won't write down that the unit is named after the French scientist. We'll remember it."
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] We won't write down that the unit is named after the French scientist. We'll remember it. [T] Also we'll write how to identify an electrical current. Not how to measure it, but how to specify it. [T] For that, we would have to know how big a charge runs through a conductor and for how long. [T] "
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Afterward, we would determine the current, by dividing the total charge which runs through by the total time. [T] We'll write down the formula- we won't solve any specific problems- only to let you know, how to calculate a current. [T] So, write it down. If the particles with total electrical ch"
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So, write it down. If the particles with total electrical charge Q pass through the cross-section of a conductor [T] We already talked about it today- Ema mentioned that's the symbol- [T] During time t, current I passes through a conductor, which is equal to Q divided by t. Okay. Write it down."
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] During time t, current I passes through a conductor, which is equal to Q divided by t. Okay. Write it down."
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] During time t, current I passes through a conductor, which is equal to Q divided by t. Okay. Write it down."
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] During time t, current I passes through a conductor, which is equal to Q divided by t. Okay. Write it down. [T] Somebody will come to the blackboard and draw a simple circuit for us. For now leaving out the measuring instrument that we connected on the table. [T] So, who'll come to draw, Valerie"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So, who'll come to draw, Valerie? Please, come. Then go. You can't get here. Vileme, come. [T] Do it here, on the right. Draw a bigger picture of a circuit, please. We'll add a measuring instrument, later. Don't draw it yet. Wait a minute. [T] Tell us what you are drawing. [T] A light bulb, yes."
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. An electric cell or any source of an electrical voltage. Correct. Sit down. [T] So, we can mark it there, for us to remember what a current's direction in a circuit is. What is a current's direction in a circuit, Emo? [T] Yes. From a positive pole source to a negative one. Come here- take s"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. From a positive pole source to a negative one. Come here- take some colored chalk and mark it there- one arrow is enough. Yes, from a positive pole to a negative one. [T] What is the motion of free electrons? Is it the same? Jakube? [T] In the opposite direction. Correct. [T] And now, how d"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And now, how do we draw an ammeter in there? I mentioned that a circuit can be interrupted anytime and anywhere. [T] Because the value of a current is the same, we'll just connect an ammeter. So, how will we draw it? Tadeasi, please, come. [T] So, it is easy to do it here. Let's erase a bit. Cor"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] The ammeter could be, for example, between a cell and a switch, between a light bulb and a switch. Just anywhere. Yes. [T] Therefore, you draw a circuit even with an ammeter. I'll put this aside, you can't see, probably. [T] So, draw the picture and let's write. [T] An electrical current is meas"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] An electrical current is measured by an ammeter. We won't write a schematic symbol. You already have it from a previous lesson. Write down at least this."
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] An electrical current is measured by an ammeter. We won't write a schematic symbol. You already have it from a previous lesson. Write down at least this."
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] An electrical current is measured by an ammeter. We won't write a schematic symbol. You already have it from a previous lesson. Write down at least this. [T] Are you done? I'll show you a small, simple instrument. There- [T] Hopefully, it will work."
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Hopefully, it will work. [T] Well, can you see? [T] If we turn it on, the bulb is not lighting up, due to coil's huge resistance. But the measuring instrument indicates a movement, therefore current is passing through the circuit. [T] We don't see how big it is, yes. Either amperes or milliamper"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] We don't see how big it is, yes. Either amperes or milliamperes, because there is only a scale which is not numbered. [T] We can see only that the current is passing through. What would happen if I were to exchange or turn the battery around, would I change the pole? Lado? [T] The indicator will"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So, now the current runs in the opposite direction. [T] However, if we use a cell, a battery or other similar types as our source- we'll talk about them later. [T] And if current passes through- it still passes in the same direction. We called this unidirectional or direct current. [T] Is the di"
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Is the direct current in the power supply? Boys should know it for sure. [T] Possibly not. What type of current do we use? Did anyone hear about it? [T] Yes, it is alternating current and we'll talk about it later. [T] Therefore, this source contains direct current. Write that down and then we'l"
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Therefore, this source contains direct current. Write that down and then we'll talk more about an ammeter. So, write it down. [T] An electrical current that moves in one direction is called direct current."
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] An electrical current that moves in one direction is called direct current. [T] Just write it this way. [T] A direct current."
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] A direct current. [T] These measuring devices, which you can see, are old types. We use them to conduct students' experiments. [T] Otherwise, for real life measurements more sophisticated equipment is used. [T] These are instruments which can be used not only to measure current but also to measu"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] These are instruments which can be used not only to measure current but also to measure other physical values, such as voltage or resistance of a conductor. [T] On the other hand, as teaching tools for conducting an experiment, these types are very tough and are more durable. [T] They can surviv"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Different types of instruments exist. For example, digital ones, which are very easy to operate. The value of the passing current is visible on its display. [T] These instruments are much more difficult to operate. They have a scale and we have to know at the start, how big a current we are look"
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] If you were to connect an extremely sensitive instrument to a circuit in which the current is larger than it should be, the instrument would be damaged. [T] Therefore we have to understand what instrument and what scale range to choose to connect them correctly. [T] So, on this instrument, for e"
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So, on this instrument, for example, there are three clamps. Therefore we can use two scales, which are on this instrument, okay. Above the symbol A. [T] On one scale we can measure up to sixth tenths of an ampere. There we would read, if we were to connect the circuit with the help of these two"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] If the passing current was bigger or if our estimate was bigger; we would connect these two clamps and be able to measure up to a three ampere value, okay. [T] These scales are not arranged so that one increment is one milliampere or one ampere. We have to choose the range for one increment. [T]"
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] And you'll subtract values on the measuring instrument and some of you will face a lot of difficulties, [T] Because some of the increments could be two tenths of an ampere. [T] Someone will realize that immediately- someone will face difficulties even to read the value of an electric current on "
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Now we'll review it quickly and try to do an exercise to practice the units of an electrical current. [T] You can see it on the blackboard in front of you, so you shouldn't have any problem. So, one more time, please, because you still don't understand it. [T] What is- how is an electrical curre"
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //Particles with an electrical charge. Correct. [T] How can we measure the value of an electrical current? Yes, Emo? [T] We measure it with an ammeter. How is an ammeter connected? We didn't describe it, you were able to see it here. We can't write everything down. You have it in your book."
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //In a circuit. So, we can interrupt a circuit anywhere and connect an ammeter to the circuit. What is the symbol for an electrical current? [T] Capital I. What is the fundamental unit? Vincente? [T] One ampere. What other units could be used? Valerie? [T] Yes. A milliampere, a microampere. So, "
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Take your book, part B. I'll write the page number on the board in a minute. It is page 37. [T] So, book B, page 37 and exercise number three."
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So, book B, page 37 and exercise number three. [T] Draw a table and fill in the values of the current. [T] When you are finished, please raise your hand."
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] When you are finished, please raise your hand. [T] The relations are written right here. By now, you should know the conversion of units, any units. Either it is a length, a volume, a mass."
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The relations are written right here. By now, you should know the conversion of units, any units. Either it is a length, a volume, a mass. [T] What kind of a notebook is that? [T] You'll buy a new one, okay. [T] Valerie, just draw a simple table. It should have rows and columns exclusively. It d"
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Valerie, just draw a simple table. It should have rows and columns exclusively. It doesn't have to be precise."
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Valerie, just draw a simple table. It should have rows and columns exclusively. It doesn't have to be precise."
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Valerie, just draw a simple table. It should have rows and columns exclusively. It doesn't have to be precise. [T] This one, okay. [T] In order to do the conversion correctly while you're filling it in, [T] You have to identify whether you are converting a small value to a larger one, or the opp"
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You have to identify whether you are converting a small value to a larger one, or the opposite. [T] Is Vilem finished?"
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Is Vilem finished? [T] You have it right- [T] Converted. [T] Who else is done? The best way is to convert to amperes first- then you'll convert the rest easily."
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Who else is done? The best way is to convert to amperes first- then you'll convert the rest easily. [T] Is Jakub done?"
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Is Jakub done? [T] You should convert to this, at first. That's the easiest way. [T] At first, convert to amperes in the first column and then it will be easy to follow the instructions on the blackboard."
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] At first, convert to amperes in the first column and then it will be easy to follow the instructions on the blackboard. [T] So, you are still able to get an A grade if you answered correctly."
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. So, Ema is the second. And who else? Tadeas and Lubos are done? [T] Give it to me, Lubosi."
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Give it to me, Lubosi. [T] You have mistakes here, Tadeasi. [T] Tadeas made a mistake here. Here. And Lubos. [T] Lubos has everything correct. He is the third one. Therefore, Ema, Lubos and Vilem get an A. [T] Study for the next lesson. We'll review."
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Study for the next lesson. We'll review. [T] Wait. This way."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. Whether- [T] You, please leave. This is unreal. [laughter] [T] So, we have recognized that the current runs through it immediately. How does the bulb react? Yes? [T] It lights up and the bell will? Tadeasi? [T] The bell will ring. Correct. So, we will still review what the direction of an electrical current in a circuit is. Jakube?"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Take your notebooks, please. Let's write: Measuring an electrical current and its units. Measuring an electrical current and its units. [T] Write down that the symbol for an electrical current is I. Unit of an electrical current is A, which is an ampere."
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Write down that the symbol for an electrical current is I. Unit of an electrical current is A, which is an ampere. [T] As mentioned, smaller units are: milliamperes, designated by a small m and an A."
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] And the relationship. One milliampere is one thousandth of an ampere. One microampere is millionth. Write it down. [T] We won't write down that the unit is named after the French scientist. We'll remember it."
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] We won't write down that the unit is named after the French scientist. We'll remember it. [T] Also we'll write how to identify an electrical current. Not how to measure it, but how to specify it. [T] For that, we would have to know how big a charge runs through a conductor and for how long. [T] Afterward, we would determine the current, by dividing the total charge which runs through by the total time."
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Afterward, we would determine the current, by dividing the total charge which runs through by the total time. [T] We'll write down the formula- we won't solve any specific problems- only to let you know, how to calculate a current. [T] So, write it down. If the particles with total electrical charge Q pass through the cross-section of a conductor"
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] An electrical current that moves in one direction is called direct current. [T] Just write it this way. [T] A direct current."
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So, book B, page 37 and exercise number three. [T] Draw a table and fill in the values of the current. [T] When you are finished, please raise your hand."
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Is Vilem finished? [T] You have it right- [T] Converted. [T] Who else is done? The best way is to convert to amperes first- then you'll convert the rest easily."
+    }
+  ]
+}

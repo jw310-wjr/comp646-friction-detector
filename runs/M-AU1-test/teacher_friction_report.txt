@@ -1,0 +1,8 @@
+Teacher Friction Report
+=======================
+Video: /scratch/jw310/comp646/runs/M-AU1-test/_session_head.mp4
+Work directory: /scratch/jw310/comp646/runs/M-AU1-test
+
+Alignment bins (30 s grid): 11
+Heuristic candidates: 0
+Multimodal fusion entries: 0

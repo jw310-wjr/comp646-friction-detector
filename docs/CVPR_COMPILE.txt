@@ -1,0 +1,20 @@
+CVPR-style progress report
+============================
+
+Files:
+  ProgressReport_cvprformat.tex   (main; matches course template preamble)
+  egbib.bib                       (references)
+
+You MUST copy from your COMP course / CVPR author kit into this docs/ folder:
+  cvpr.sty
+  ieee.bst                        (if not already pulled in by cvpr.sty)
+
+Optional: create docs/figures/ and add PDFs referenced in the .tex (or keep fbox placeholders).
+
+Compile (from this docs/ directory):
+  pdflatex ProgressReport_cvprformat
+  bibtex ProgressReport_cvprformat
+  pdflatex ProgressReport_cvprformat
+  pdflatex ProgressReport_cvprformat
+
+Overleaf: upload cvpr.sty, ieee.bst, egbib.bib, ProgressReport_cvprformat.tex, and figure PDFs.

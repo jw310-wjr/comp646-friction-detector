@@ -1,0 +1,142 @@
+[
+  {
+    "t_start": 0.0,
+    "t_end": 30.0,
+    "friction": false,
+    "rationale": "Pre-class setup with no instructional content; teacher is checking equipment, not teaching.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 30.0,
+    "t_end": 60.0,
+    "friction": false,
+    "rationale": "Continued pre-class setup; no student interaction or instructional move present.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 300.0,
+    "t_end": 330.0,
+    "friction": true,
+    "rationale": "Teacher directly states the mathematical fact ('it will be 180 degrees') that students are meant to discover through the Geometer's Sketchpad exploration, bypassing the inquiry process.",
+    "alternative_strategy": "Ask students to share what they found: 'You've been measuring the star angles — what sum did you get? Does anyone want to share their conjecture before we check?'"
+  },
+  {
+    "t_start": 630.0,
+    "t_end": 660.0,
+    "friction": false,
+    "rationale": "Teacher is building on student responses through Pressing for Reasoning ('would that be a polygon?'), actively eliciting and refining student definitions.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 960.0,
+    "t_end": 990.0,
+    "friction": false,
+    "rationale": "Teacher provides a vocabulary mnemonic ('caved in') for concave/convex — legitimate scaffolding for geometric terminology, not bypassing mathematical discovery.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 990.0,
+    "t_end": 1020.0,
+    "friction": false,
+    "rationale": "Teacher asks students to write down a prediction about exterior angles before exploring — this is strong inquiry pedagogy (hypothesis generation).",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 1020.0,
+    "t_end": 1050.0,
+    "friction": false,
+    "rationale": "Continuation of the prediction task; teacher is prompting students to formulate their own conjectures, which is high-quality discovery-based instruction.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 1110.0,
+    "t_end": 1140.0,
+    "friction": false,
+    "rationale": "Teacher reviews student predictions and encourages individual reflection before the class continues — appropriate facilitation of a conjecture-testing activity.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 1200.0,
+    "t_end": 1230.0,
+    "friction": false,
+    "rationale": "Empty bin with no transcript content; no instructional move to evaluate.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 1290.0,
+    "t_end": 1320.0,
+    "friction": false,
+    "rationale": "Procedural software guidance ('just make sure they join') for Geometer's Sketchpad construction; the pressure relates to software accuracy, not mathematical reasoning.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 1320.0,
+    "t_end": 1350.0,
+    "friction": false,
+    "rationale": "Teacher explicitly defers to the student's judgment ('You know what you're doing here. I don't.'), actively supporting student autonomy.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 1710.0,
+    "t_end": 1740.0,
+    "friction": false,
+    "rationale": "Teacher provides step-by-step software guidance and checks whether students remember how to measure angles — procedural scaffolding appropriate to the technology-based activity.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 2010.0,
+    "t_end": 2040.0,
+    "friction": false,
+    "rationale": "Teacher uses a question ('which polygons have you tried?') to gently push students to extend their investigation beyond the pentagon — good inquiry extension move.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 2040.0,
+    "t_end": 2070.0,
+    "friction": false,
+    "rationale": "Teacher clarifies that 'measure' means 'size' in response to student confusion over terminology — this is responsive vocabulary scaffolding, not giving away the mathematical result.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 2070.0,
+    "t_end": 2100.0,
+    "friction": false,
+    "rationale": "Teacher asks 'Does the total go up perhaps as you add to the number of sides?' — a well-formed guiding question that prompts students to extend their investigation without revealing the answer.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 2130.0,
+    "t_end": 2160.0,
+    "friction": false,
+    "rationale": "Teacher reads a student's written conclusion aloud and suggests adding 'exterior angles' to clarify it — this is targeted written feedback, not mathematical spoiling.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 2220.0,
+    "t_end": 2250.0,
+    "friction": false,
+    "rationale": "Teacher traces an angle and asks 'Is that one of the exterior angles?' eliciting student classification — classic Socratic questioning.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 2250.0,
+    "t_end": 2280.0,
+    "friction": false,
+    "rationale": "Teacher offers hands-on software help while preserving student ownership of the task; procedural rather than conceptual intervention.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 2340.0,
+    "t_end": 2370.0,
+    "friction": false,
+    "rationale": "Teacher models intellectual honesty by saying 'I'm not sure if you can do it easily' in response to a student's good question — this is a high-quality move that validates student inquiry.",
+    "alternative_strategy": ""
+  },
+  {
+    "t_start": 2520.0,
+    "t_end": 2550.0,
+    "friction": false,
+    "rationale": "Teacher explains floating-point rounding behaviour of the software to help students interpret their results accurately — relevant and helpful content-area explanation at lesson close.",
+    "alternative_strategy": ""
+  }
+]

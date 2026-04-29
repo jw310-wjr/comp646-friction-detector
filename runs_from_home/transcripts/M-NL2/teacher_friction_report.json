@@ -1,0 +1,2497 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math NL2 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Yes, yes, yes, yes. [T] Okay, ladies and gentlemen. Ravi, your punishment lines? [T] As first thing, before I forget again. [T] I have already shown that one. He already had that neatly signed off. The rest of you also grab your things."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I have already shown that one. He already had that neatly signed off. The rest of you also grab your things. [T] Where are you coming- oh, you already went. Okay. [T] Yup! Very good. Very good."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yup! Very good. Very good. [T] Okay. Um, like I said yesterday, today we will begin with Pythagoras. Which one of you ever heard of Pyth- Pythagoras? [T] Uncle Pete. [T] Tell us, what do you know about it? [T] You know the equation A squared plus B squared equals C squared. Who else can say more about it?"
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The, uh, this gentleman was Greek. [T] Or at least during that time period, somewhere in that region. [T] Okay. Does anyone know when you would use the Pythagoras' theorem and what you would use it for? [T] In a diagram. You obviously have a diagram. I am crazy about diagrams. [T] Something about triangles, indeed. Well, let's take another look. [T] What well-known triangles do we know? We have different types of triangles."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] We have a right-angled triangle. [T] What is a characteristic of a right-angled triangle? [T] Ruben? [T] In any case, it has a right angle. [T] You can see that by the little symbol. What other kinds of triangles do we have? [T] An isosceles triangle."
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] An isosceles triangle. [T] What is characteristic of an isosceles triangle? [T] Two equal sides. Like this, for instance. I will just name the sides that are equal, for example A, the other one B. Meaning: [T] if I fill in a number for A, then I have to use the same number for every A I come across. [T] What else do I know about an isosceles triangle? [T] If I look at angles, for example? Maarten."
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] A and B are equal in size. Very good. And I have another special triangle. Which one? [T] An equilateral triangle. [T] What is characteristic of an equilateral triangle? Julie. [T] All the sides are equal, all three sides. [T] So one could say: all the sides are A. Would there be anything else I can mention about an equilateral triangle?"
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So one could say: all the sides are A. Would there be anything else I can mention about an equilateral triangle? [T] All angles are equal. And can we tell how wide they are? [T] One hundred eighty divided by three and that is? [T] Sixty. [T] Okay. So as we noticed before, we use Pythagoras in a triangle. But I have three types of triangles. [T] And we only use Pythagoras in a right-angled triangle. So we are going to continue with a right-angled triangle."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And we only use Pythagoras in a right-angled triangle. So we are going to continue with a right-angled triangle. [T] And the other triangles you will come across at some point later in the chapter. [T] Because you will be making right-angled triangles from these- or in these. Which enables you to cal- calculate things. [T] Another thing we noticed yesterday- [T] No, let me first pick up something else. I'll go- I'll return to the right-angled triangle."
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Except I placed it on its side. [T] We know that the edges of a triangle- or any figure- are called \"sides\". [T] In a right-angled triangle, this side is attached to a right angle. So what should we call this side? A right-angled side. [T] Yes? Because this side is attached to a right angle so you call that a right-angled side."
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Do we have any other right-angled side in there? [T] Yes, all the way on the other side. That one is attached to the right angle as well, therefore you call that a right-angled side as well. [T] Then I still have one side left. It isn't so obvious because it is laying flat. But if you see this triangle, what can we call that side? [T] The long side. That is correct. Or in a different way?"
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The long side. That is correct. Or in a different way? [T] It is actually at an angle. If you see it in such an- like a diagonal- so you call this the sloped side or the hypotenuse, is what you call this one. [T] These are just names, you know, you may also keep calling this \"the long side\", no problem. [T] Okay, with Pythagoras, soon, once we have gotten to know Pythagoras, we will use Pythagoras to calculate the sides. [T] Because all we know now about a triangle and the size of its side, is when we measure it."
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Because all we know now about a triangle and the size of its side, is when we measure it. [T] However, those triangular protractors, how exact are they really? [T] We know from, uh, the drawing of your number line, from, for example, of the square root of five- [T] Well, you can't really measure that exactly. [T] Because the square root of five had such an odd number behind the point. And still we can calculate things in the end with Pythagoras. [T] Yesterday we saw, when I have a square, with a surface of, say, 37,"
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yesterday we saw, when I have a square, with a surface of, say, 37, [T] we could calculate, or at least determine how large the side was of such a square. [T] And we were actually able to do that quite precisely. Namely, Maarten? [T] The square root of 37. Okay, so that's \"when I know the surface area of a square, how do I determine the sides again?\" Okay, very well. [T] That is already kind of what's explained in assignment one."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That is already kind of what's explained in assignment one. [T] This has to do with assignment two. That diagram is shown at assignment two. [T] We have here- I am just going to skip several parts of exercise two because we will not do all that. [T] We have a large square here: O E F G. As well as a square that is tilted at a corner: square A B C D. [T] I would like to know what the size the lengths are of the square A B C D,"
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I would like to know what the size the lengths are of the square A B C D, [T] for example what's the length of A B. We can't measure it and yet we are able to calculate it right now. [T] Because we have seen that once I knew the surface area of a square, I was able to determine the sides. [T] So I would like to calculate what the surface area is of the square A B C D. How can we do that? By which method? Rene?"
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes, though. [T] Very good. You have to calculate the surface area of the large square: O E F G. [T] And then you take the surface areas of the triangles, you subtract that. Very well. [T] What is the surface area of the large square, of the O E F G? [T] How much?"
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Nine- well, what the unit is I don't know, I didn't specify that. But if it were shown in centimeters, then you're right. [T] Right now I don't have a unit. Therefore the total surface area is indeed nine. [T] Namely three by three, or you can just count the squares- that gives us nine. [T] So we're told that we have to remove the surface areas of the triangles. What is the surface area of one of those triangles? [T] How do we calculate that again? [T] Willem? [T] You can just see it. What is the outcome according to you if you are just able to see it?"
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You can just see it. What is the outcome according to you if you are just able to see it? [T] One of these triangles? [T] That is one. Okay. [T] Correct, but how are you able to calculate that again? Leni? [T] I- I am just going to pull it aside. So these are then the three surface areas of the triangle that we want to calculate. [T] We will make it into a rectangle. And then?"
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] We calculate the surface area. That was one by two, so the whole surface area together of the rectangle is then two. [T] And I just need to take half of that, which brings us to one, very good. [T] So the surface areas of the triangles- [T] So the surface areas of the triangles together here is four. So what is left is five."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So the surface areas of the triangles together here is four. So what is left is five. [T] So the surface of the square in the center, A B C D, is five. [T] And now we can finally, after all that calculating, determine one of those sides. Namely, that is? [T] The square root of five. Very good. [T] So we've got no problem figuring this out. We may not even need Pythagoras at all. [T] But it is kind of a hassle if you constantly have to draw on like this."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But it is kind of a hassle if you constantly have to draw on like this. [T] Because, suppose you wanted to know the length of this little line. [T] If you want to calculate that you first have to, you first have to draw a square again, like this one and another square around it. [T] And then calculating it again. So it's a real hassle. So we're going to do that differently. [T] The example given in the book is that assignment four and five. I will just do that one with the overhead projector."
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The example given in the book is that assignment four and five. I will just do that one with the overhead projector. [T] Okay, we see, we see at assignment four, they have given two plates. Well, I drew those too, I have two plates. [T] They should be equal in size. [T] Well, if I place them on top of one another, they are indeed- if I place them very neatly on top of each other, equal in size."
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Well, if I place them on top of one another, they are indeed- if I place them very neatly on top of each other, equal in size. [T] Well... [T] They are really equal in size but they stick a bit. [T] There. Yes? Convinced? [T] Very good. Yes, of course there are some who will never be convinced. [T] Yes, but I also heard a no. [T] Then we also see- here they made eight right-angled triangles. [T] Namely, four right-angled triangles in the one board and four right-angled triangles in the other board."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Namely, four right-angled triangles in the one board and four right-angled triangles in the other board. [T] I cut those as well. Those are also equal in size. When I stack them on top of each other they're all equal in size. [T] So it's truly a stack of eight and I will take them off from there. [T] We will lay it down just like it is shown in the diagram in the book. [T] Question four is what we are working on."
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Question four is what we are working on. [T] Very well, we are now able to, in the same way as exercise- what? Is one lying incorrectly? [T] Oh? Yes, it's crooked- I mean it is loose. [T] Now, should we know the size of everything, we could calculate what the area is of the square in the middle here. [T] Namely, in the same way that we did over there. [T] The surface of the whole board and then the surface area of those three- of those four triangles taken off. We won't do that."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The surface of the whole board and then the surface area of those three- of those four triangles taken off. We won't do that. [T] Now I will, with the other four triangles I have, I will make the other one. [T] It lies in this corner over here, and it lies in that corner over there. [T] Those triangles- those four triangles that are lying over here, are equal in size as the triangles that are lying over there. [T] I knew that the board is equal in size. What am I able to say about the surface of this square and that square?"
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I knew that the board is equal in size. What am I able to say about the surface of this square and that square? [T] Together they are- if I add these two surface areas together- are equal in size as that one. Yes? [T] Because the boards are equal in size. And the triangles are equal in size. Okay... [T] What they indicate in the book, then, is that they are going to put those boards on top of each other. Yes? [T] Well, you can't see through the board but you can through the overhead sheets. [T] So I will just remove that then because in the book it is shown underneath it. And I will try to place it on top of it."
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So I will just remove that then because in the book it is shown underneath it. And I will try to place it on top of it. [T] Approximately. I may not move anything. There. [T] We are still aware that the surface area of this square is equal in size as the surface of this square plus that square together. [T] Because they are still the same boards and they are still the same triangle. [T] What are we going to say now? What are we going to look at? Imagine that this side- that that is 12, [T] then what is the surface area of the square that is attached to it?"
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Twelve times 12. And that is? [T] One hundred forty-four. [T] The short side, that is five. [T] So it becomes 25 indeed. What do I know about the large square, then? [T] That 144 plus 25 and that is? [T] One hundred sixty-nine. [T] If I know that the surface area of the large square is 169, can I say something about how long this sloped side is?"
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If I know that the surface area of the large square is 169, can I say something about how long this sloped side is? [T] Of this- of this side of the square. It is also the side of the triangle. Namely? [T] The square root of 169. Why should you take half of 12? [T] On this side, I have this triangle lying over here. The one side is 12, the other side is five. I want to know the hypotenuse. [T] I knew that the surface areas of the squares that are lying here- that have exactly the same sides as the sides of the triangle-"
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I knew that the surface areas of the squares that are lying here- that have exactly the same sides as the sides of the triangle- [T] if it'd be so kind as to stay on it's spot- [T] is equal in size as the surface area of the large square. Yes? [T] We have seen that the surface area of the large square is 169. [T] Now I would like to know one side, that is the side of the square, which is at the same time also the side of this, of this triangle, [T] which is indeed the square root of 169, which is 13."
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] which is indeed the square root of 169, which is 13. [T] Yes? And that is actually sort of- of what Pythagoras was talking about. [T] Pythagoras says that if I place a square on the one right-angled side, [T] so the surface area of the square I will calculate. I will place another square on the other- the shorter side. [T] I will take the surface area of that too, of that square. If I add these two surface areas together, [T] apparently- he discovered all this- they are exactly the same as the surface area..."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] apparently- he discovered all this- they are exactly the same as the surface area... [T] of the square that is placed on the hypotenuse. Yes? [T] I'll show that one to you in a second. As I will write the general rule on the board."
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'll show that one to you in a second. As I will write the general rule on the board. [T] We have seen- ladies and gentlemen, we are going to continue. Ravi. Rick!"
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] We have seen- ladies and gentlemen, we are going to continue. Ravi. Rick! [T] Okay. This is the same as what was just on the screen. Suppose that this is the triangle of which this side is 12. [T] Then we would know that the surface area of this square was 144. [T] If this surface area is five, then this one is 25. [T] This one was 144 plus 25, is then 169."
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So this one is 13. That was also what we just had on the screen. But now we are going to construct very generally- [T] It is also actually in the book, except I am writing it down a bit more detailed. [T] So perhaps it would be smart if you copied it. Then you can always retrieve it."
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So perhaps it would be smart if you copied it. Then you can always retrieve it. [T] Ladies! [T] The Pythagorean theorem. What have we done? We had a right-angled triangle. It only applies to right-angled triangles. [T] One of those right-angled sides, let's take 12 as the first right-angled side. What did we do with this right-angled side? [T] We took the square of this right-angled side. In fact we glued a square over it and calculated its surface."
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] We took the square of this right-angled side. In fact we glued a square over it and calculated its surface. [T] So you took one right-angled side, squared. So we will write that down: one right-angled side, squared. [T] Yup. [T] What I am writing down you have to copy. [T] So we had: one right-angled side squared, that is, in other words, the surface area of the square. What did we do with that?"
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So we had: one right-angled side squared, that is, in other words, the surface area of the square. What did we do with that? [T] We added the surface area of the square that was on the other right-angled side to it. [T] How did we determine the surface area of the other square again? [T] So that is plus- taking the other right-angled side squared."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So that is plus- taking the other right-angled side squared. [T] So we had the one right-angled side squared, which is in fact the surface area of the square that you attached to it. [T] Plus the other right-angled side squared: the surface area of the other square that you attached to it. [T] What is it equal to? To the surface area of the large square that is on the hypotenuse. [T] So actually, surface area is the same as that side squared."
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So actually, surface area is the same as that side squared. [T] This is: the hypotenuse. [T] So that is the hypotenuse squared. Does that thing bother you? Sorry. Since I won't be needing this one anymore."
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So that is the hypotenuse squared. Does that thing bother you? Sorry. Since I won't be needing this one anymore. [T] There. [T] So this is the general theorem. Let's see if it will work if we apply it."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So this is the general theorem. Let's see if it will work if we apply it. [T] Gentlemen! Come on. [T] By now you guys must know that I am crazy about diagrams and tables and things like that. [T] There we go. There we go. Good thing the book utilizes that too. Otherwise I would have to explain it all by myself once again. [T] But the book utilizes it too. So we are going to- to calculate those sides, we will also use the diagram. [T] Well, if you copy this, Ravi, it'll speed up your homework for you will have done this assignment already."
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Well, if you copy this, Ravi, it'll speed up your homework for you will have done this assignment already. [T] Okay. Here I have a right-angled triangle of which I already know two of the right-angled sides. The hypotenuse I don't know yet."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Here I have a right-angled triangle of which I already know two of the right-angled sides. The hypotenuse I don't know yet. [T] That's what I want to calculate. We will make a small table. I named it \"side\" on one side. [T] As in: how long is the side going to be that I am about to fill in- Rick? [T] You know you can also proceed in the hallway if you're so sure you understand it. [T] And the squared value actually represents the surface area of the square that you placed on the sides. [T] So here I have- what were we supposed to do? The one right-angled side. \"The right-angled side\" I will abbreviate."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So here I have- what were we supposed to do? The one right-angled side. \"The right-angled side\" I will abbreviate. [T] Because otherwise you will keep writing. I need the one right-angled side; I need the other right-angled side. [T] Ladies, would you please just be a little more quiet as well? [T] That doesn't matter. I just want it quiet for myself. [T] And we have a hypotenuse. Yes?"
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And we have a hypotenuse. Yes? [T] So what did we see? We were going to take the one side and square it because that was in fact the one with the square attached to it. [T] And you were going to determine the surface area of that. That one side is in this case, for example, three. [T] What is- is that squared? Or in other words, what is the surface area of the square that you attach to it, Julie? [T] That is nine. [T] Julie? Am I- [T] Oh, she is sick, yes, well then people shouldn't move around like that. Sorry, Myrte. [T] The other right-angled side is four, so that is squared."
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The other right-angled side is four, so that is squared. [T] Now you should listen very carefully because this is a mistake that is often made. [T] We had said, the one right-angled side squared plus the other right-angled side squared. Those are the only ones you may add together. [T] So only the squared sides. So not your regular sides. [T] So you are allowed to only add this side. And that gives you? [T] And then I would indeed want to know: how long is the hypotenuse."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And then I would indeed want to know: how long is the hypotenuse. [T] You know that the 25 represents the surface area of this square up here. [T] Or, in other words, you are going to take the square root, this way. And that leaves me with five. [T] Any questions about this? [T] No, no questions? Regardless that you say: \"yes, but\". [T] Yes, do you? Myrte?"
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. The general equation therefore is- uh, Rick, could you please go into the hallway now? [T] What it says here is \"one right-angled side squared plus the other right-angled side squared equals the hypotenuse squared\"."
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] What it says here is \"one right-angled side squared plus the other right-angled side squared equals the hypotenuse squared\". [T] Therefore, if you want to know what the hypotenuse is, then you have to take the root of the number representing the hypotenuse squared. [T] This whole table over here shows these numbers squared. [T] Yes? Very well. [T] Well, in this way you can also reconstruct... [T] In this way you can also reconstruct how the A squared plus B squared equals C squared is found- gentlemen,"
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I wasn't quite finished yet. You can start shortly. [T] If I have a right-angled side of which I call the one side A, the other side I call B and the hypotenuse I call C, [T] and you apply the equation, then indeed you will get my first right-angled side squared. [T] For example my first right-angled side is A, and you take that one squared. Plus my other right-angled side, take that one squared as well. [T] Equals your hypotenuse squared. And that is how most of your parents learned this."
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Equals your hypotenuse squared. And that is how most of your parents learned this. [T] They never had it explained to them with squares. They just learned it kind of like \"this is how it is so you better get to work with it\". [T] Okay. [T] Because that notion squared is the surface area that you want to calculate. The surface area of the square."
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Because that notion squared is the surface area that you want to calculate. The surface area of the square. [T] Okay, ladies and gentlemen. As far as the homework is concerned. Suzanne? [T] Jeffrey, Maarten? [T] So far, by way of what I showed you on the board- and I am hoping that you guys did copy it- [T] we have already completed quite a lot of the exercises. [T] We did exercise one and we did exercise two. We haven't done exercise three yet. That's homework..."
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] We did exercise one and we did exercise two. We haven't done exercise three yet. That's homework..."
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You guys still have 20 minutes left. [T] That means that you have to- of these exercises, be able to get as far as exercise 11. Presumably even further. [T] These we haven't all done yet, those are new. The only advice I'll give you on exercise 11, a lot is written down about triangles there- [T] Sorry, Willem- [T] Yes? So with exercise 11 you will only get data on what angles are 90 degrees and what the lengths are of certain sides."
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes? So with exercise 11 you will only get data on what angles are 90 degrees and what the lengths are of certain sides. [T] Half of you are now missing this instruction. [T] Annelies and Myselle? You girls are missing the instruction. [T] Exercise 11 only states what angle is 90 degrees and what the sizes are of particular sides. [T] If you want to know exactly how things are put together, make a diagram, which explains the comment at the bottom;"
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If you want to know exactly how things are put together, make a diagram, which explains the comment at the bottom; [T] make diagrams of those triangles at exercise 11 so that you know what data you've got. [T] Either both of the right-angled sides will be given, or perhaps only the right-angled side and the hypotenuse will be given. [T] So that you can complete your calculation. Yes? [T] For those of you who want to check, I have answer booklets over here. You can grab those and get started now."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] For those of you who want to check, I have answer booklets over here. You can grab those and get started now. [T] From now on I really want it to be quiet when I am instructing. [T] Yes? [T] You are one of the few- or one of the few, together with a few more- but there are several who want nothing but to pay attention. [T] If you keep on disrupting, then you are disrupting everyone. [T] And certainly me. [T] Just quietly get to work, the homework is on the blackboard."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Just quietly get to work, the homework is on the blackboard. [T] Just put it on, uh... [T] Yes, no, don't close it completely, just put it on- I do want some oxygen to come in. [T] Well, I can't turn it off, it is central heating. Otherwise I would be the first one to turn it off."
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh, ladies, ladies and gentlemen, when you are working I would like it to be more quiet. Discussions are fine but please do it in a whispering voice."
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] What does it look like, the example, the diagram? How does the whole diagram look, the whole garden? [T] It's an exact square. [T] Yes? And what is the shape of that tiled part? [T] A triangle. How could we calculate again the surface area of such a triangle?"
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] A triangle. How could we calculate again the surface area of such a triangle? [T] We just did that on the board on the other side. [T] Ladies and gentlemen, the fact that I have my back turned towards you doesn't mean you are allowed to turn things upside down. [T] How did we do that? What can you make of this, of that one triangle? [T] A rectangle. Yes? You can make a rectangle of this. What is the surface area then of that rectangle?"
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] A rectangle. Yes? You can make a rectangle of this. What is the surface area then of that rectangle? [T] Forty-eight. And what part of the triangle is it? [T] Considering you know that the whole rectangle- because you said it's six times eight- [T] Correct, is half of it. Yes? [T] Okay. [T] Shh! Whisper, Maarten. Maarten, whisper! [T] Ladies should be whispering as well."
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No, right. Okay, oh. Come over here for a second. [T] G eight. [T] What does G eight say? We have a tiler, who uses white as well as blue tiles. [T] Yes? The surface area of every tile is one square decimeter. The white ones as well as the blue ones."
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Yes? The surface area of every tile is one square decimeter. The white ones as well as the blue ones. [T] Okay. Five tiles together make the square A B C D. A, B, C, D. What is the surface area of that square? [T] Sorry? [T] Why 25? We are only looking at this one."
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You know that every tile, the white one as well as the blue one, is one square decimeter. [T] Yes? [T] So it's five, because there are five tiles in there. Yes? The surface area of this is five. [T] What is the length then of A B, given the surface area of that square is five? [T] The square root of five. Yes? Maybe later you should add for yourself an ex- a written explanation on how you got that square root of five, okay? [T] Because if later on you- you read it again you won't know how you get that square root of five."
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes? Now we have to fill in the length of A E, A E goes from here to there. [T] Yes, is two times A B. Because that section is just as long as this. And that is, then, twice? [T] Yes, very good, two times the square root of five. [T] Very good. No, no, no, no sorry, no. We've seen that yesterday. How can we write the two differently? [T] But you don't have to do that here yet, that will come later on."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] How can I write the two into a square root? What is two equal to again? [T] Yesterday we had that whole list on the board. [T] You knew that the square root of 16 was equal to four? [T] Yes? [T] Correct, equal to the square root of four, very good. So you have the square root of four times the square root of five here. [T] Look, the two was correct, but- [T] It says the same. What is the outcome of this then? [T] Yes! Yes, perfect. Very good. Try to do the rest of them now, too."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes! Yes, perfect. Very good. Try to do the rest of them now, too. [T] Yes? [T] Oh, yes. [T] Yes? [T] No. [T] Correct, because the surface area becomes four times smaller- [T] But your magnifying factor will be the square root of that."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But your magnifying factor will be the square root of that. [T] Yes? [T] Yes, correct. You were first. [T] Yes? [T] Yup. Well, not only that, you need two sides at least, otherwise you cannot calculate anything. Yes?"
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. Very good. [T] Great. [T] Here. Only yours doesn't have an X below. And this is your root. [T] Yes. This is your root."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Was it clear for you guys? [T] Yes? Very good. [T] You keep track of this a little too, I hope? [T] No, okay. Oh, okay. [T] Is this one clear to you guys?"
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Really? [T] Yes, very good. So it is very important that it is written down properly here. Yes? [T] I mean you copied it here very nicely but try to retain some of that for yourself too. [T] Technically this doesn't get explained until here. So if afterwards you try to calculate the numbers, make sure you use it. [T] So don't try to be stubborn or anything like that. So really try to stick to the rules, those steps. Yes? [T] Yes?"
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Three you can still do, in principle, in the old method. Because this one, the one I explained won't be explained until the next paragraph. [T] But it is allowed, you'll still work through it. [T] Yes, very good. [T] Yes? But if you want to calculate that one, what do you need then? [T] Yes, you can that way, very good. Yes, of course, only it hasn't been explained over here yet."
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But since I have already explained it and as you understand it, then, as far as I am concerned, you can go ahead and use it. [T] Yes? [T] Yes? [T] Yes. [T] Yes. [T] Yes. [T] Yes, indeed, that square- [T] Yes, very good. [T] Yes, perfect. Are you writing down what you are doing, though? Not only, uh, writing down the answers?"
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes, perfect. Are you writing down what you are doing, though? Not only, uh, writing down the answers? [T] Yes, I can see it. [T] What is this? What exercise are you working on? [T] Yes? And what is this 196? [T] Okay, the whole garden. Yes? [T] Yes."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Yes, because- the whole garden is in square meters- [T] Very small sections of square meters. [T] So you can easily subtract square meters from square meters. [T] Here I have the table, yes? There are square, well- let's just say meters. If I chop a piece off here, then this piece is also in square meters. [T] Then this piece will remain, in square meters. That is the same thing you will do with the garden."
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Then this piece will remain, in square meters. That is the same thing you will do with the garden. [T] Yes? [T] Everything is clear for you guys? [T] Okay. [T] Yes, perfect. Perfect, very nice."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Well, if the wind is gone, if the rain is gone then it can be opened again. I mean, uh... [T] Are you cold? [T] Yes. You aren't going to infect your sister, are you? [T] Yes? She is at home, though?"
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And have you changed her yet, or are you going to leave that to... [T] Yes? [T] Oh, how neat. Oh, you don't like that? [T] Yes. [T] Yes."
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Sixty. [T] No, she was sitting on Shirley's seat and that's confusing me again. I thought I finally knew all the names. Okay, thank you. [T] And who normally sits next to? [T] Oh, yes. [T] De Boer? Thank you. Easy? They were, weren't they?"
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] De Boer? Thank you. Easy? They were, weren't they? [T] One, two, three, four, five, six, seven... eight, nine, 10- 20. One, two, three, four, 25, 26, 27- [T] No? Yes though, it's 28, 29, it is correct. [T] Are you going to proceed with the work? [T] Can it be a little more quiet, uh, Jeffrey? And Maarten?"
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Will you indicate how you got the numbers? [T] Yes? Because once again with the test I had a lot of- actually, I haven't seen yours yet, but from the other classes- [T] I had to mark a lot incorrect because they only had put answers down."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I had to mark a lot incorrect because they only had put answers down. [T] Very well. My handkerchief will go into the laundry tonight. I'll need it again in a minute. [T] No. [T] No, they have been here on Tuesday and now. [T] On Tuesday it was A 2 C. [T] Yes."
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Yes? [T] Of course. [T] Then you understand it, you mean. [T] Yes. Except you have already used the new method which is explained to you in the next paragraph. [T] But if you understand it, then it doesn't matter at all. [T] Yes, that one won't be explained until the next paragraph. [T] Yes, but that doesn't matter because the answer should be the same. All right?"
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes, that is correct. Because the surface area of the square is five. [T] So the side, that is just one side- [T] Is the root of this. [T] Yes? That is what we saw several times yesterday. [T] Sorry? [T] You may draw it- [T] No, you're not obliged to, no, you're not obliged. But if it clarifies things for yourself, then you may, of course. [T] But you don't have to."
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But you don't have to. [T] Yes, very good. [T] You can check it this way. [T] It should, I believe. But what, why? [T] Surface area is square A E F G. How does A E F G go? [T] Okay, well, what is the surface area of that? [T] How much is, what, what is the surface area again of one of these angles?"
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No, the surface area. [T] Five. And how many of those little squares do I have in here? [T] Yes, so? [T] Twenty. [T] Yes, that is correct. Because they are determining how you can write things in a different way. [T] What I explained yesterday on how you can write out those roots in different ways. Yes? [T] Yes, fine. [T] Yup. [T] Yes?"
+      }
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Yes? [T] Well, then why don't you go instead? That makes a lot more sense, doesn't it?"
+      }
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2730.0,
+        "t_end": 2760.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Well, then why don't you go instead? That makes a lot more sense, doesn't it? [T] Ladies? Ladies? [T] Well, go ahead then. [T] Just to the restroom."
+      }
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2760.0,
+        "t_end": 2790.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Well, that is explained with the surfaces- [T] How that works. [T] So you can go right ahead- and now you just have to calculate this again. Yes. [T] Yes, because as far as the (inaudible) diagram is concerned that doesn't get explained till over here in exercise seven. [T] That's why you don't have to do that one. [T] And then over here it is explained again and then you can continue on working."
+      }
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2790.0,
+        "t_end": 2820.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Myrte? It was, uh, chapter one, wasn't it? [T] Is it that bad?"
+      }
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2820.0,
+        "t_end": 2850.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Is it that bad?"
+      }
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2850.0,
+        "t_end": 2880.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Yes? [T] Excuse me? [T] What is done wrong here? [T] What does that triangle look like? What kind of triangle is this? Why don't you make a diagram of that triangle."
+      }
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2880.0,
+        "t_end": 2910.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other",
+          "Pressing for Accuracy"
+        ],
+        "transcript_excerpt": "[T] What does that triangle look like? What kind of triangle is this? Why don't you make a diagram of that triangle. [T] Yes, but with the sides and all, so do it with the correct- oh, you have it already. Oh, no, that is not it. [T] Although? Yes that's the one though. What does it say? Angle K is 90 degrees. Correct. K L is 15. [T] That is also correct. And then it says: L M is 25. And where did you put it? Yes? [T] You see? And that is what has gone wrong here too. Do you see that? [T] Because first you had to take a right-angled side and then another right-angled side."
+      }
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2910.0,
+        "t_end": 2940.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Because first you had to take a right-angled side and then another right-angled side. [T] That is why it is so important that you really make the right diagram with the letters in the correct place. So that you know exactly what belongs with what. [T] Yes? [T] Ladies and gentlemen, it is almost time, so you can start to pack. [T] Yes?"
+      }
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2940.0,
+        "t_end": 2970.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes? [T] The calculation is correct but you still have to answer it. [T] Because now we have to search, no, you don't have to explain anything. [T] Because now I have to search for your answer. Like do I need 41 or do I need 40, or do I need nine? [T] I need to know what you calculated. Then you can just say the other side is- well, what did you calculate? Forty. [T] Yes? So you still have to give an answer because otherwise I will have to search in such a diagram. [T] And you know that I will always find the wrong one."
+      }
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2970.0,
+        "t_end": 3000.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And you know that I will always find the wrong one."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Yes, yes, yes, yes. [T] Okay, ladies and gentlemen. Ravi, your punishment lines? [T] As first thing, before I forget again. [T] I have already shown that one. He already had that neatly signed off. The rest of you also grab your things."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yup! Very good. Very good. [T] Okay. Um, like I said yesterday, today we will begin with Pythagoras. Which one of you ever heard of Pyth- Pythagoras? [T] Uncle Pete. [T] Tell us, what do you know about it? [T] You know the equation A squared plus B squared equals C squared. Who else can say more about it?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The, uh, this gentleman was Greek. [T] Or at least during that time period, somewhere in that region. [T] Okay. Does anyone know when you would use the Pythagoras' theorem and what you would use it for? [T] In a diagram. You obviously have a diagram. I am crazy about diagrams. [T] Something about triangles, indeed. Well, let's take another look. [T] What well-known triangles do we know? We have different types of triangles."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So one could say: all the sides are A. Would there be anything else I can mention about an equilateral triangle? [T] All angles are equal. And can we tell how wide they are? [T] One hundred eighty divided by three and that is? [T] Sixty. [T] Okay. So as we noticed before, we use Pythagoras in a triangle. But I have three types of triangles. [T] And we only use Pythagoras in a right-angled triangle. So we are going to continue with a right-angled triangle."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes, though. [T] Very good. You have to calculate the surface area of the large square: O E F G. [T] And then you take the surface areas of the triangles, you subtract that. Very well. [T] What is the surface area of the large square, of the O E F G? [T] How much?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Well, if I place them on top of one another, they are indeed- if I place them very neatly on top of each other, equal in size. [T] Well... [T] They are really equal in size but they stick a bit. [T] There. Yes? Convinced? [T] Very good. Yes, of course there are some who will never be convinced. [T] Yes, but I also heard a no. [T] Then we also see- here they made eight right-angled triangles. [T] Namely, four right-angled triangles in the one board and four right-angled triangles in the other board."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So perhaps it would be smart if you copied it. Then you can always retrieve it. [T] Ladies! [T] The Pythagorean theorem. What have we done? We had a right-angled triangle. It only applies to right-angled triangles. [T] One of those right-angled sides, let's take 12 as the first right-angled side. What did we do with this right-angled side? [T] We took the square of this right-angled side. In fact we glued a square over it and calculated its surface."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] We took the square of this right-angled side. In fact we glued a square over it and calculated its surface. [T] So you took one right-angled side, squared. So we will write that down: one right-angled side, squared. [T] Yup. [T] What I am writing down you have to copy. [T] So we had: one right-angled side squared, that is, in other words, the surface area of the square. What did we do with that?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So that is the hypotenuse squared. Does that thing bother you? Sorry. Since I won't be needing this one anymore. [T] There. [T] So this is the general theorem. Let's see if it will work if we apply it."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So this is the general theorem. Let's see if it will work if we apply it. [T] Gentlemen! Come on. [T] By now you guys must know that I am crazy about diagrams and tables and things like that. [T] There we go. There we go. Good thing the book utilizes that too. Otherwise I would have to explain it all by myself once again. [T] But the book utilizes it too. So we are going to- to calculate those sides, we will also use the diagram. [T] Well, if you copy this, Ravi, it'll speed up your homework for you will have done this assignment already."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Equals your hypotenuse squared. And that is how most of your parents learned this. [T] They never had it explained to them with squares. They just learned it kind of like \"this is how it is so you better get to work with it\". [T] Okay. [T] Because that notion squared is the surface area that you want to calculate. The surface area of the square."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You guys still have 20 minutes left. [T] That means that you have to- of these exercises, be able to get as far as exercise 11. Presumably even further. [T] These we haven't all done yet, those are new. The only advice I'll give you on exercise 11, a lot is written down about triangles there- [T] Sorry, Willem- [T] Yes? So with exercise 11 you will only get data on what angles are 90 degrees and what the lengths are of certain sides."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] For those of you who want to check, I have answer booklets over here. You can grab those and get started now. [T] From now on I really want it to be quiet when I am instructing. [T] Yes? [T] You are one of the few- or one of the few, together with a few more- but there are several who want nothing but to pay attention. [T] If you keep on disrupting, then you are disrupting everyone. [T] And certainly me. [T] Just quietly get to work, the homework is on the blackboard."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Just quietly get to work, the homework is on the blackboard. [T] Just put it on, uh... [T] Yes, no, don't close it completely, just put it on- I do want some oxygen to come in. [T] Well, I can't turn it off, it is central heating. Otherwise I would be the first one to turn it off."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] A rectangle. Yes? You can make a rectangle of this. What is the surface area then of that rectangle? [T] Forty-eight. And what part of the triangle is it? [T] Considering you know that the whole rectangle- because you said it's six times eight- [T] Correct, is half of it. Yes? [T] Okay. [T] Shh! Whisper, Maarten. Maarten, whisper! [T] Ladies should be whispering as well."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No, right. Okay, oh. Come over here for a second. [T] G eight. [T] What does G eight say? We have a tiler, who uses white as well as blue tiles. [T] Yes? The surface area of every tile is one square decimeter. The white ones as well as the blue ones."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes? Now we have to fill in the length of A E, A E goes from here to there. [T] Yes, is two times A B. Because that section is just as long as this. And that is, then, twice? [T] Yes, very good, two times the square root of five. [T] Very good. No, no, no, no sorry, no. We've seen that yesterday. How can we write the two differently? [T] But you don't have to do that here yet, that will come later on."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes! Yes, perfect. Very good. Try to do the rest of them now, too. [T] Yes? [T] Oh, yes. [T] Yes? [T] No. [T] Correct, because the surface area becomes four times smaller- [T] But your magnifying factor will be the square root of that."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. Very good. [T] Great. [T] Here. Only yours doesn't have an X below. And this is your root. [T] Yes. This is your root."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But since I have already explained it and as you understand it, then, as far as I am concerned, you can go ahead and use it. [T] Yes? [T] Yes? [T] Yes. [T] Yes. [T] Yes. [T] Yes, indeed, that square- [T] Yes, very good. [T] Yes, perfect. Are you writing down what you are doing, though? Not only, uh, writing down the answers?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes, perfect. Are you writing down what you are doing, though? Not only, uh, writing down the answers? [T] Yes, I can see it. [T] What is this? What exercise are you working on? [T] Yes? And what is this 196? [T] Okay, the whole garden. Yes? [T] Yes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Yes, because- the whole garden is in square meters- [T] Very small sections of square meters. [T] So you can easily subtract square meters from square meters. [T] Here I have the table, yes? There are square, well- let's just say meters. If I chop a piece off here, then this piece is also in square meters. [T] Then this piece will remain, in square meters. That is the same thing you will do with the garden."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Then this piece will remain, in square meters. That is the same thing you will do with the garden. [T] Yes? [T] Everything is clear for you guys? [T] Okay. [T] Yes, perfect. Perfect, very nice."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And have you changed her yet, or are you going to leave that to... [T] Yes? [T] Oh, how neat. Oh, you don't like that? [T] Yes. [T] Yes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Sixty. [T] No, she was sitting on Shirley's seat and that's confusing me again. I thought I finally knew all the names. Okay, thank you. [T] And who normally sits next to? [T] Oh, yes. [T] De Boer? Thank you. Easy? They were, weren't they?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] De Boer? Thank you. Easy? They were, weren't they? [T] One, two, three, four, five, six, seven... eight, nine, 10- 20. One, two, three, four, 25, 26, 27- [T] No? Yes though, it's 28, 29, it is correct. [T] Are you going to proceed with the work? [T] Can it be a little more quiet, uh, Jeffrey? And Maarten?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I had to mark a lot incorrect because they only had put answers down. [T] Very well. My handkerchief will go into the laundry tonight. I'll need it again in a minute. [T] No. [T] No, they have been here on Tuesday and now. [T] On Tuesday it was A 2 C. [T] Yes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Yes? [T] Of course. [T] Then you understand it, you mean. [T] Yes. Except you have already used the new method which is explained to you in the next paragraph. [T] But if you understand it, then it doesn't matter at all. [T] Yes, that one won't be explained until the next paragraph. [T] Yes, but that doesn't matter because the answer should be the same. All right?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No, the surface area. [T] Five. And how many of those little squares do I have in here? [T] Yes, so? [T] Twenty. [T] Yes, that is correct. Because they are determining how you can write things in a different way. [T] What I explained yesterday on how you can write out those roots in different ways. Yes? [T] Yes, fine. [T] Yup. [T] Yes?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2880.0,
+        "t_end": 2910.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other",
+          "Pressing for Accuracy"
+        ],
+        "transcript_excerpt": "[T] What does that triangle look like? What kind of triangle is this? Why don't you make a diagram of that triangle. [T] Yes, but with the sides and all, so do it with the correct- oh, you have it already. Oh, no, that is not it. [T] Although? Yes that's the one though. What does it say? Angle K is 90 degrees. Correct. K L is 15. [T] That is also correct. And then it says: L M is 25. And where did you put it? Yes? [T] You see? And that is what has gone wrong here too. Do you see that? [T] Because first you had to take a right-angled side and then another right-angled side."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts/M-NL2"
+}

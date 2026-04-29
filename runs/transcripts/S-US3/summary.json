@@ -1,0 +1,1663 @@
+{
+  "lesson_id": "S-US3",
+  "transcript": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science US3 transcript.txt",
+  "n_bins": 103,
+  "n_risky_bins": 39,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, do I have any others of these pages? [T] Going once. [T] Yeah. That's it. That's really great. [T] Thank you. Can I have any others? [T] Miguel, sit down. [T] Audrey. Audrey, put them away. [T] Audrey."
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Thank you. [T] Cool. [T] It's fine. I put your name on it. [T] Guys, get out your binder reminders. [T] Write down tonight's homework assignment. [T] Yeah. That's the plan. Audrey, sit down. [T] Get what? [T] Why? What did you leave it up there for?"
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Where is it? I'll send Justin for it. [T] Where? [T] Okay. There you go. Justin will get it for you. You need to sit down. [T] Her binder reminder."
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Her binder reminder."
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Her binder reminder. [T] You need to write down tonight's homework assignment. It says read pages 145 to 149. [T] On page 149, I'd like you to do questions one through four, please. [T] Questions one through four. Number 18. And as always write out the questions and the answers. What do you need"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Cool. [T] Cindy, could you go sit in your actual seat? Thank you. Yes, Audrey? [T] Yes, Audrey. [T] Oh. I hate when you guys do that. [T] As soon as you've got that written down, we need our little sunspot data sheets, [T] but I can't remember whether we had some for today or whether we need to "
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] but I can't remember whether we had some for today or whether we need to make some. [T] Okay. Then I'm gonna pass out a piece of paper to you. [T] Tear it in half like we've done before, take about an inch off the bottom, [T] and I'll pass out compasses so that we can get the sun's shape drawn b"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I think I left enough for Matt so- [T] Cindy, can you wash that off your hand, please. There's a sink right behind you. [T] Did you go find Audrey's stuff yet? After you take roll. [T] Okay, that's cool. [T] Okay. I thought I gave you one, but- [T] There's one. Pass that one back to Matt, would "
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] There's one. Pass that one back to Matt, would you? [T] Nope. [T] I'll have no idea. Why? Are you planning on doing some rude symbol while my back is turned? [T] Is that it? [T] I see. [T] No. I will never see it."
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Take two, pass it back. And there's one extra for Matt. [T] Cindy, once it's washed off, you can sit down. [T] I see. There's some next to the sink over there. [T] Take two, and pass the rest back. [T] Set the compass at four and a half centimeters, please. [T] Audrey, put that away or I'm gonna"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Thank you. [T] Then we can catch her reaction on tape, too. That'd be really great. [T] Separate them in two halves, take about an inch off the bottom, please. [T] Draw your sun circle about in the center. [T] Fold it in half, turn."
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yeah. That's it. That's it. [T] He went to the nurse's office. [T] He wasn't feeling well."
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yeah. [T] Uh, you can actually draw a line through Jack's name on there and, uh- was that it for this class that transferred to the high school? [T] Was it just Jack? I think it was just Jack actually so that would be fine."
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Was it just Jack? I think it was just Jack actually so that would be fine. [T] Which one is number one, Justin? Which one of those is number one? [T] Okay, thanks. [T] //Four and a half centimeters."
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //Four and a half centimeters. [T] Uh, yes. Please do both circles because I don't want to have to do this again tomorrow. I'd just like to go out and get the sunspots real quick. [T] You know what? Every single day I would like you to act like perfect kids. If-"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You know what? Every single day I would like you to act like perfect kids. If- [T] If today is the best you can do for being perfect, //I'll take it. [T] That would be great. Yes, thank you. [T] Camera one and camera two. Yes. [T] Fade to Audrey. There we go. [T] Okay. Let's get them separated, "
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And it'll probably be about 1:30 or 12:30 when we have them set up out there. [T] Okay, put circles on both data pieces, today and tomorrow. [T] Put sunspots at the top, name, date, and the period, and the time of 12:30, which is about when we will be out there. [T] Yes?"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Well, we're all- we're all heading out there. [T] Okay. Tops off. Let's get the stands from the telescopes and head on out. [T] //Okay. Gather your stuff. [T] Okay. Seriously? That's probably why you don't feel well, Randy. [T] He's got a temperature of 102. So that's probably why he doesn't fee"
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Let's go, folks. Bring them outside. Find a spot in the sun."
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] Mark your sunspots and track one moving west, please. [T] Come on, you guys. Everybody else is out. Let's go."
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] Please be careful with them. Come on, Miguel. [T] Okay. Any of these areas in the full sun is fine as long as you're not behind tree shadows. [T] That would be fine. That- that's fine."
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] It needs- Monica, //it needs a little adjustment just so it'll get it more centered. [T] You're getting it."
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Did you make the shadow disappear on the (inaudible) first? [T] There should be no shadow up there. So can you tilt it left and right //so that the shadow goes away? [T] Okay, now you got shadow on this side, okay? [T] You're almost there. Now you just need to tilt it a little bit to make- there"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Now, you should be able to see spots here. If you line those up in the center of the target, you should have your sun. [T] There it is right there. [T] (inaudible) need small adjustments. [T] And you're all set. [T] Please mark your sunspots and track one of them moving west. Yeah? [T] Sure. The"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Sure. There's a sink right over there- I mean a faucet right over there. [T] //I don't think so. [T] Are you talking about this thing right there? [T] I think that's just, uh- stuff on your mirror or your lens. [T] It's the small black specks you're //looking for."
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Did we get them tracked west? [T] Did //we? Okay. So you guys haven't done yours yet? [T] Okay. Well, you're really close. See these white spots here? [T] Okay. All I need is in the center of the target, see."
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's it. So there you go. [T] Now you need to mark them. [T] Where's yours? [T] Okay. Are we gonna mark our sunspots and track them west? [T] You need to track one of them moving west. [T] Like we learned how to do on Monday. [T] Just wait. We'll all go back in in about a minute or so."
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Audrey? [T] Audrey, what are you doing going into other people's classrooms? [T] You're standing there with the door wide open. What are you doing? [T] Stay away. [T] Ladies? Come here."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's great. Did you find- you didn't get one moving west. [T] No, you didn't. [T] The direction that the sunspots move. [T] When you put it on there- [T] When you put it on there, you're supposed to let the sun move and make a mark for one of your sunspots as it moves. [T] Then how come there'"
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Hey, folks. You got to mark not only your sunspots. [T] You also have to track them moving west so you know which way your image is oriented so please track one of your sunspots moving west. [T] Well, that's what you got to figure out on the- [T] Where the sunspots are moving is west. [T] Okay. "
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Well, then that would be west. That would be fine. [T] Are you guys about finished or are you just goofing off? [T] Okay. [T] All right. They just copied it all off of you instead of actually doing it? Oh, that's so helpful. Okay, folks. [T] Let's get your telescopes and bring them back in"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Let's get your telescopes and bring them back in. [T] Put them together, get the covers on, bring them back up to my desk."
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] Matt, Rupert. Come on, you guys. [T] Esther, who's sitting out there still? [T] Come on, Ian."
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's enough, Miguel. [T] Let's get them back together, cases on. Bring them up front. [T] Justin, would you collect all the compasses? [T] Please send the compasses to the front of the room so Justin can pick those up."
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Please send the compasses to the front of the room so Justin can pick those up. [T] I'll take it. Thanks."
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Uh, last year, yep. [T] Yep. She was in my algebra class. [T] We gave stuff away in there, huh, Muriel? [T] Last year's algebra class. [T] Just like gave you stuff, remember? [T] Yeah. She's looking at you in the picture. [T] Like candy bars and sodas, remember?"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Like candy bars and sodas, remember? [T] Yep. [T] I need you guys to take out the lab sheet that we went over yesterday, please. [T] I remember somebody paid like three thousand dollars for a cup of soup or something like that, remember, in the secret bags."
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] I remember somebody paid like three thousand dollars for a cup of soup or something like that, remember, in the secret bags. [T] Remember the ones we rolled up and stapled shut. That was funny. [T] They're on the counter up here. Folks, get your labs. Find your spots, please. [T] Carly, watch yo"
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] They go in the bag on my desk. Can you do that for me, please. Shh. [T] Okay, folks. I need your attention up here, please."
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Everyone should have the \"Pulley Potpourri\" sheet out in front of you; the lab sheet. [T] I did. It's my lab."
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] I did. It's my lab. [T] Shh. We're gonna get started on the lab today. [T] Shh. Folks, I need your attention up here, please. [T] I'm glad you guys are having so much fun coloring inside the letters, but (if) I could get your attention up here, I would really appreciate it."
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] I'm glad you guys are having so much fun coloring inside the letters, but (if) I could get your attention up here, I would really appreciate it. [T] We went over this yesterday. I'm just gonna recap it today because it's been 24 hours, and I know you forgot. [T] You're just gathering three piece"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] As I went over yesterday, you measure the resistance force just by picking the weight up with the scale, [T] and you measure the effort distance by using the ruler in centimeters to measure how far you pull the string [T] when you lift the weight by 10 centimeters. [T] The resistance distance in"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] just quickly go over this for the first setup again. [T] There are two rulers back at the station. [T] You'll be using both of them at the same time. [T] One person is gonna be measuring resistance distance; one person is gonna be measuring effort distance. [T] So you'll have one person using th"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Don't use the inches; use the centimeters. They're gonna be measuring how high the bottom of the weight goes up. [T] When it's at 10 centimeters, that's as far as you're going. [T] While they're doing that, the person applying the effort to the simple machine, the person pulling on the string, ["
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] They would just- be holding them here and go, \"Oh, that's 55.\" [T] That's not how it works. It's how far it moves. [T] So when the person is reading the resistance and they say, \"Oh, that's 10 centimeters,\" on this thing, then you'll stop. [T] Where did you start? Where did you end? [T] If you s"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It would be five centimeters. Say, you started at 55, and it went to 45. How far would that be? [T] It would be 10 centimeters. So it's how far you exert the force. [T] Audrey. It's the distance over which you apply the effort. [T] That's what effort distance is. [T] So if you start here and ext"
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] A couple things to be aware of when you're doing your measurements. [T] If you pull it at an angle, your measurements won't be very accurate [T] so you want to make sure that you're pulling straight down in the direction that you are measuring. [T] Secondly, you want to make sure that, uh, when "
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What is it for every experiment that we're doing? [T] That's force, as in Newtons. But what's the resistance distance? Look on your lab. It's already filled out. [T] It's 10 centimeters. So 10 centimeters is how far we're lifting the weight up. [T] How far we pull this to lift the weight 10 cent"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The resistance force is just how much the resistance weighs, and as you guys just said a second ago, we are measuring it in what? [T] We are measuring it in Newtons. Estimate to the closest quarter Newton. [T] For effort distance- again, I showed you that yesterday- you need to tie a loop in the"
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] If you do it off to the side, it just, uh- it's not gonna be as accurate, and again estimate to the closest quarter. [T] Those are the only three things you're doing for each pulley setup. There's four pulley setups. [T] You're not gonna get them all done today. You might not even get the first "
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] All right. At this time I'm gonna divide you up into 10 groups and send you to a station. [T] Get started on- well, you can do any of the pulley setups you want. [T] It doesn't matter whether you start with the first one or not, but let me sort of divide you guys up here. [T] That'll actually wo"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Don't kill each other. Um, Diane, you guys are gonna be here on the other side of this first station. [T] Cassandra, you guys will be on this side of the first station. [T] Carly, you guys will be across from Matt's group. Audrey, you guys will be at this third station over here. Rupert? [T] Yes"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And- let's see- Andrew and Zeb, you guys will be at this station back here, and you guys will be at the very last station on the end. [T] Okay. Let's head to our stations. Take your data table. Let's get them set up and get to work. [T] I think those were worth 50, but- [T] is there anything ove"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Go ahead and put 50 on there. [T] There are knots in your string other than the one at the end. [T] You're gonna want to get those out. They don't go over the pulley well. [T] Yep."
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You guys are sort of working at different ends here, okay? [T] You probably want to put the loop through. It doesn't- it doesn't really matter. [T] But the loop hooks onto the weight. It's just you have to pull a lot more string through if you put the- better bring the string through first. [T] "
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yeah. This hooks through. [T] Yes? [T] I have no idea what you are talking about. [T] You tie a loop in the string and pull down when you're lifting the weight up."
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And see what reading you get. [T] How did you get effort distance on there, Zeb? [T] You just- yeah. You need the difference. [T] So what's the difference between 57 and 41?"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] She has to measure how far hers went while you're measuring that. [T] Sheila, you're measuring how far your hand moved while she lifted that. [T] You want to- you want to start with it on the ground and start at something even, and when she says:"
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You want to- you want to start with it on the ground and start at something even, and when she says: [T] \"Oh, that's 10 centimeters,\" then you look at how far you went. [T] Okay? [T] So you start- it's how far the effort string goes. Yeah, that's effort distance. [T] Yes? [T] Well, the little on"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You are trying to measure accurately, yeah. To the tenth would be fine. [T] Which one? [T] Yeah. That's it. [T] You're supposed to actually measure some stuff along the way, and what would that be?"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What's that? [T] And how far are you supposed to //lift it? [T] Okay. So when that's being lifted 10 centimeters, you want to know how far //you had to pull this down. [T] Which means you need to- [T] you need to measure. You can start from anywhere you want because it matters where you go to. ["
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] But it has to be straight down, and you have to know where you started. Audrey. Audrey, it's gonna fall. [T] But you got to hold it somewhere so that you can pull. [T] //You got to measure- measure it while you do it, Audrey. [T] Yes. [T] Don't worry about that yet. We're gonna do that together "
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Audrey, let's say you started there, and by the time that thing was 10 centimeters off the ground you were here. How far did it move? [T] //How far did it move? [T] I started at 50, I went down to 44. How far did it move? Or you can do it this way if you like that better. [T] Started at 50, and "
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Fifty to 64 is ten? [T] Okay. So it would have been 14 centimeters, right? That's all you're doing. But you're- [T] Under \"effort distance.\" [T] But guys, I wasn't doing it for you. It was just an example of how to read it. [T] Okay-? [T] You can't write down 14. [T] When this is 10 centimeters "
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Ian, go back to your spot. [T] You can't show on the other side //measuring (inaudible)? [T] Tie a knot in the string. [T] Pull it with the scale. Read the reading in Newtons. [T] So- thanks. [T] Uh, yeah. Pass everything back. That's cool. Thanks. [T] What's that?"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Uh, I- it's been- it's been in there for a while. I've already seen it so yeah. [T] Yes, ma'am. [T] No. [T] You need three pieces of data. Weigh this thing. That's resistance force. [T] Tie a loop here, pull it down with the scale. That's effort force. Lastly, lift this 10 centimeters off the gr"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Tie a loop here, pull it down with the scale. That's effort force. Lastly, lift this 10 centimeters off the ground by pulling here. [T] And measure how far you pull this to lift this 10 centimeters off the ground. [T] This is the effort into my string so how far I pull it is gonna be what? [T] W"
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Which part are you guys stuck on here? [T] Okay. That's where you just //pick up- pick up the weight. [T] It's not pounds. What is it measured in? [T] Newtons. [T] It's not four and a half. [T] It's halfway between four and six. That's not four and a half. [T] You're measuring three things"
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I'd ask the same question to Vincent, too. [T] When it- when it's not hooked up, is it at zero? No, it's not. [T] //So you want to adjust it so that it is in fact on zero when you start. [T] So that's resistance force. Effort force, when the weight is on here- [T] Tie a loop. [T] Pull it down. R"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. This thing goes up and down. [T] Put it so it's on zero. Yeah? [T] Okay. [T] You need to tie it up here. [T] You need a pulley here. [T] A weight here. There's a loop of string up here. [T] That connects your pulley to your weight. [T] The string from the bar goes through the pulley and up"
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Uh, no, but I have paper towels over by Diane there so- I think the tissue box is all empty. [T] That's how- what you measure the forces with. [T] It's- you're gonna use it to measure //resistance force and effort force. [T] //Okay. So it would be how many centimeters? [T] Ten centimeters, yeah."
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Four Newtons. [T] Now, did you have it zeroed before you weighed it? [T] Okay. It should be at zero, and you'll see that it's way above the zero. [T] You actually just slide this up and down to get it on zero. [T] You're gonna want to get the knots out of that when you're done, too."
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yeah? [T] You want to take this off, but don't worry about that 'till later. We're gonna do- do it all together. [T] You want to take this off of here because- yeah. You need the knot out of that, too. [T] You- you need this off the weight. You- instead of being looped around here, you need it l"
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You- you need this off the weight. You- instead of being looped around here, you need it looped around up here. [T] Because it's supported from the top. [T] When your weight is on there, you need a loop here. [T] With the weight off the ground, hook the scale up, so that you can read on the scal"
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Audrey, what you working on? [T] Audrey, what you working on? [T] Did you help Ian out with //the lab setup? [T] Yes? [T] Okay. Effort //force- [T] Effort force. Don't worry about mechanical advantage yet. [T] For effort force-"
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] For effort force- [T] you need to tie a loop here in your string. You need to lift it off the ground- [T] No, I didn't. I said, \"Make sure the knots are gone when you're done.\" [T] I specifically told you to tie a knot here because you're gonna hook this up to it and lift it off the ground and r"
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So you are gonna have one person measuring that it's 10 centimeters, the other person measuring how far their fingers moved //when they did that. [T] Thanks. [T] Miss who? [T] Oh. It's from Miss Isaac. Okay. [T] Do I got two of them? [T] Just Andrew? [T] You got stuff to work on, dude? [T] Okay."
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Thanks. You can work right there. That'd be fine. [T] Yes, except when subs are here. [T] What's that? [T] I have no idea why that's on there. What is that on there? [T] //Is that the day you couldn't find a blank piece of paper and I stamped that on there for you?"
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //I don't remember stamping it either. I have no idea what that is. [T] Yeah? [T] Andrew, you need to sit down. You need to sit down. [T] //You guys are seriously gonna want to //get that knot out of there. [T] It really messes up the pulleys. [T] //No. No. I said you need to tie a loop to measu"
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What's that? [T] I don't understand what you're saying. [T] The only time you need a loop in there is when you're measuring the effort force. Other than that, the knot should be out of the string. [T] Yes? [T] That's fine. It has to be enough that you can- well, it should be on the pulley for on"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] And then you have to pull down to make the weight go up. No, no, no. [T] You want to pull down with the scale so you're actually measuring the force on the- [T] No. [T] There. There. That's it. Now pull down on the scale. [T] On the scale. Let go of the other string. There you go. That's it. [T]"
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yes. But you want to do it straight down, because if you do it at an angle, it gives you a slightly different reading. [T] You need to tie your string at the top, attach your weight directly to the pulley with this little loop of string that I put up here."
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You need to tie your string at the top, attach your weight directly to the pulley with this little loop of string that I put up here. [T] And then you need to run your string through the pulley and up, and you'll be lifting in an upward direction for that one. [T] Yes, ma'am. [T] I said, \"Yes, m"
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No. No, no, no. It's not- it's how far you moved it. [T] No. It's how far you moved it in raising it 10 centimeters. So start somewhere even like 50. [T] Marcello? Measure the weight. Measure the weight and tell me when it's 10 centimeters off the ground. [T] Right there? [T] Okay. I'm at 60 now"
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The distance that you moved //the effort string. [T] The effort distance, yeah. [T] Yes? [T] You're gonna tie- tie your string to the top. Actually, you can just loop it through, around. [T] It's gonna go down, through the pulley. The pulley will be attached with this little loop directly to you"
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You finished all four of them? [T] or you finished the first and second? [T] Can I see your data? [T] Is it the last one, Zeb? [T] You guys were able to get the first and second ones done? [T] Oh, it's you guys. [T] The effort force was 16 Newtons?"
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The effort force was 16 Newtons? [T] Okay. That would be effort distance. [T] Okay. The resistance force, how did the weight get- your weight was three Newtons both times? [T] Which weight do you guys have? Oh. You guys have the brown one, right? [T] Okay. So that one's different. [T] Okay, the "
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, the one thing you didn't do then on- on, uh, either of these setups is correctly figure out the effort force. [T] That's the one where you tie a knot in the string, [T] //hook the scale up to it and pull. [T] No, you didn't. [T] And does that say 16 also? Okay. That one's not right either."
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] When you lift it off the ground by 10 centimeters, how far did this string move? That's what you need to measure. [T] Okay? I don't think you did it right either place. [T] When you get it set up again, call me over. I'll //show you. [T] Yeah? [T] Okay. Whatcha stuck on? [T] Okay. Well, look at "
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Well, look at it. Your string should be tied to the top bar. Do you see that in the picture? [T] Well, you- you can loop it through just like you- [T] Here, I'll give you one hint. Hand me the other end. [T] Oh, (it will) slide through."
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Then you hook the pulley directly up to the weight like it shows, run the string through the pulley. [T] That little loop of string- yeah. That's how you do that part. Ian, you gonna do anything today? [T] //Oh, thank you. [T] Can I actually look at it where I can see it. [T] We're gonna do that"
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] On 23 or whatever that says. What is that? [T] So where did that come from? Did //you just make that up? [T] Why? [T] Why? [T] Why? [T] It doesn't make any sense."
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] That's your effort force. You just pull that one down. [T] Yep. [T] Don, that's it. Perfect. Excellent job. [T] Okay, folks. It's time to clean up. [T] You get out of here when your stations look exactly like they did when you came //to the station, [T] So everything hung back neatly where it be"
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You're scaring me, Rosalie. [T] You did? Seriously? I have no way of getting it out. [T] It goes down- it goes down about six inches before- [T] How about I read the whole thing between now and sixth- [T] Just to remember. You come after school and you can have it. [T] Yes?"
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] //That looks perfect. [T] //Yes. [T] Tie a knot in the string. Hook the scale through it and pull. Read what you get on the scale. [T] That's what- that's the force the gravity is pulling downward with. [T] That's correct. That's the resistance force. [T] No. Don't worry about that yet. We're go"
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Exactly. It's just a different pulley setup, but the calculations are the same. [T] I thought I told you guys that yesterday. [T] Right. Tomorrow's Friday. That's cool. [T] Folks, seriously, your stations need disassembled, cleaned up, put back the way they were. [T] I don't see a single station"
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] You guys don't get to go until the station looks like it did when you got there. [T] Serious. [T] That looks good. [T] Everything neatly hung up on those corners like it was when you got there. [T] Rulers lined up neatly on the table. No knots in the string. Please get them cleaned up."
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] No. You won't probably be able to. I'm sure there's probably many, many things down the drain. [T] You probably wouldn't want your pencil back after it'd been down the drain anyways. It's kind of nasty. [T] There's a- there's a drain trap so it can't go past."
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Well, we could. You just need a screwdriver and, uh, you need some pipe tape so when you put it back so that it seals again, [T] and you could rescal- rescue her mangy old pencil. [T] You need it desperately? [T] Yes? [T] //Hey, folks. Let's stand up and get your chairs pushed under, please."
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //Hey, folks. Let's stand up and get your chairs pushed under, please. [T] Just push it under, but you don't get to go until anybody else goes. Okay, Andrew? [T] Punch and munch tomorrow, not punch and munch and movie. Just punch and munch. You do have a quiz tomorrow."
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Punch and munch tomorrow, not punch and munch and movie. Just punch and munch. You do have a quiz tomorrow. [T] You might want to look over some of the stuff we've talked about this week like work and machines- [T] Anything except for gum, corn nuts, sunflower seeds and chips. Anything else is f"
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, do I have any others of these pages? [T] Going once. [T] Yeah. That's it. That's really great. [T] Thank you. Can I have any others? [T] Miguel, sit down. [T] Audrey. Audrey, put them away. [T] Audrey."
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Thank you. [T] Cool. [T] It's fine. I put your name on it. [T] Guys, get out your binder reminders. [T] Write down tonight's homework assignment. [T] Yeah. That's the plan. Audrey, sit down. [T] Get what? [T] Why? What did you leave it up there for?"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Cool. [T] Cindy, could you go sit in your actual seat? Thank you. Yes, Audrey? [T] Yes, Audrey. [T] Oh. I hate when you guys do that. [T] As soon as you've got that written down, we need our little sunspot data sheets, [T] but I can't remember whether we had some for today or whether we need to make some."
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] There's one. Pass that one back to Matt, would you? [T] Nope. [T] I'll have no idea. Why? Are you planning on doing some rude symbol while my back is turned? [T] Is that it? [T] I see. [T] No. I will never see it."
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Take two, pass it back. And there's one extra for Matt. [T] Cindy, once it's washed off, you can sit down. [T] I see. There's some next to the sink over there. [T] Take two, and pass the rest back. [T] Set the compass at four and a half centimeters, please. [T] Audrey, put that away or I'm gonna read it out loud to everybody. [T] On tape."
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Thank you. [T] Then we can catch her reaction on tape, too. That'd be really great. [T] Separate them in two halves, take about an inch off the bottom, please. [T] Draw your sun circle about in the center. [T] Fold it in half, turn."
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yeah. [T] Uh, you can actually draw a line through Jack's name on there and, uh- was that it for this class that transferred to the high school? [T] Was it just Jack? I think it was just Jack actually so that would be fine."
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Was it just Jack? I think it was just Jack actually so that would be fine. [T] Which one is number one, Justin? Which one of those is number one? [T] Okay, thanks. [T] //Four and a half centimeters."
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You know what? Every single day I would like you to act like perfect kids. If- [T] If today is the best you can do for being perfect, //I'll take it. [T] That would be great. Yes, thank you. [T] Camera one and camera two. Yes. [T] Fade to Audrey. There we go. [T] Okay. Let's get them separated, get the covers off, and find a space in the sun. Audrey? [T] Stop. Stop. [T] And it'll probably be about 1:30 or 12:30 when we have them set up out there."
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Accuracy",
+        "Other"
+      ],
+      "excerpt": "[T] Mark your sunspots and track one moving west, please. [T] Come on, you guys. Everybody else is out. Let's go."
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Other",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] Please be careful with them. Come on, Miguel. [T] Okay. Any of these areas in the full sun is fine as long as you're not behind tree shadows. [T] That would be fine. That- that's fine."
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Sure. There's a sink right over there- I mean a faucet right over there. [T] //I don't think so. [T] Are you talking about this thing right there? [T] I think that's just, uh- stuff on your mirror or your lens. [T] It's the small black specks you're //looking for."
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Audrey? [T] Audrey, what are you doing going into other people's classrooms? [T] You're standing there with the door wide open. What are you doing? [T] Stay away. [T] Ladies? Come here."
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Well, then that would be west. That would be fine. [T] Are you guys about finished or are you just goofing off? [T] Okay. [T] All right. They just copied it all off of you instead of actually doing it? Oh, that's so helpful. Okay, folks. [T] Let's get your telescopes and bring them back in."
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": true,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Pressing for Accuracy"
+      ],
+      "excerpt": "[T] Matt, Rupert. Come on, you guys. [T] Esther, who's sitting out there still? [T] Come on, Ian."
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Like candy bars and sodas, remember? [T] Yep. [T] I need you guys to take out the lab sheet that we went over yesterday, please. [T] I remember somebody paid like three thousand dollars for a cup of soup or something like that, remember, in the secret bags."
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What is it for every experiment that we're doing? [T] That's force, as in Newtons. But what's the resistance distance? Look on your lab. It's already filled out. [T] It's 10 centimeters. So 10 centimeters is how far we're lifting the weight up. [T] How far we pull this to lift the weight 10 centimeters is our effort distance. [T] The forces- I went over those yesterday. Got to zero these things. [T] The resistance force is just how much the resistance weighs, and as you guys just said a seco"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Don't kill each other. Um, Diane, you guys are gonna be here on the other side of this first station. [T] Cassandra, you guys will be on this side of the first station. [T] Carly, you guys will be across from Matt's group. Audrey, you guys will be at this third station over here. Rupert? [T] Yes. [T] You guys will be just across from that. [T] Sheila and Eleanor, you guys will be where Cindy is, working at that station. [T] And, Josh and Muriel, you'll be just across from that."
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Go ahead and put 50 on there. [T] There are knots in your string other than the one at the end. [T] You're gonna want to get those out. They don't go over the pulley well. [T] Yep."
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You guys are sort of working at different ends here, okay? [T] You probably want to put the loop through. It doesn't- it doesn't really matter. [T] But the loop hooks onto the weight. It's just you have to pull a lot more string through if you put the- better bring the string through first. [T] Sure. You can. That's fine."
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What's that? [T] And how far are you supposed to //lift it? [T] Okay. So when that's being lifted 10 centimeters, you want to know how far //you had to pull this down. [T] Which means you need to- [T] you need to measure. You can start from anywhere you want because it matters where you go to. [T] So I'd start at something even. [T] But it has to be straight down, and you have to know where you started. Audrey. Audrey, it's gonna fall."
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] But it has to be straight down, and you have to know where you started. Audrey. Audrey, it's gonna fall. [T] But you got to hold it somewhere so that you can pull. [T] //You got to measure- measure it while you do it, Audrey. [T] Yes. [T] Don't worry about that yet. We're gonna do that together once we got our data. [T] Audrey, just measure while you pull down. [T] Come here."
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Ian, go back to your spot. [T] You can't show on the other side //measuring (inaudible)? [T] Tie a knot in the string. [T] Pull it with the scale. Read the reading in Newtons. [T] So- thanks. [T] Uh, yeah. Pass everything back. That's cool. Thanks. [T] What's that?"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Uh, I- it's been- it's been in there for a while. I've already seen it so yeah. [T] Yes, ma'am. [T] No. [T] You need three pieces of data. Weigh this thing. That's resistance force. [T] Tie a loop here, pull it down with the scale. That's effort force. Lastly, lift this 10 centimeters off the ground by pulling here."
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Tie a loop here, pull it down with the scale. That's effort force. Lastly, lift this 10 centimeters off the ground by pulling here. [T] And measure how far you pull this to lift this 10 centimeters off the ground. [T] This is the effort into my string so how far I pull it is gonna be what? [T] Well, that's what you are gonna find out. [T] But you're gonna find that for most of the (pull) setups it's not the same, okay? [T] No- yeah, for the force, yeah. [T] Yeah."
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. Which part are you guys stuck on here? [T] Okay. That's where you just //pick up- pick up the weight. [T] It's not pounds. What is it measured in? [T] Newtons. [T] It's not four and a half. [T] It's halfway between four and six. That's not four and a half. [T] You're measuring three things. Vincent just did one of them. [T] Okay. You- you- you're //sure you have it zeroed before you start it?"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay. This thing goes up and down. [T] Put it so it's on zero. Yeah? [T] Okay. [T] You need to tie it up here. [T] You need a pulley here. [T] A weight here. There's a loop of string up here. [T] That connects your pulley to your weight. [T] The string from the bar goes through the pulley and up. [T] Just like it looks in the picture. [T] Uh, no, but I have paper towels over by Diane there so- I think the tissue box is all empty."
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Uh, no, but I have paper towels over by Diane there so- I think the tissue box is all empty. [T] That's how- what you measure the forces with. [T] It's- you're gonna use it to measure //resistance force and effort force. [T] //Okay. So it would be how many centimeters? [T] Ten centimeters, yeah. [T] Effort distance, yes. [T] Four Newtons."
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Four Newtons. [T] Now, did you have it zeroed before you weighed it? [T] Okay. It should be at zero, and you'll see that it's way above the zero. [T] You actually just slide this up and down to get it on zero. [T] You're gonna want to get the knots out of that when you're done, too."
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] For effort force- [T] you need to tie a loop here in your string. You need to lift it off the ground- [T] No, I didn't. I said, \"Make sure the knots are gone when you're done.\" [T] I specifically told you to tie a knot here because you're gonna hook this up to it and lift it off the ground and read the effort force. [T] That's effort force. The effort distance is how far this moved in lifting this 10 //centimeters off the ground. [T] So you are gonna have one person measuring that it's 10 ce"
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So you are gonna have one person measuring that it's 10 centimeters, the other person measuring how far their fingers moved //when they did that. [T] Thanks. [T] Miss who? [T] Oh. It's from Miss Isaac. Okay. [T] Do I got two of them? [T] Just Andrew? [T] You got stuff to work on, dude? [T] Okay. Come here."
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] And then you have to pull down to make the weight go up. No, no, no. [T] You want to pull down with the scale so you're actually measuring the force on the- [T] No. [T] There. There. That's it. Now pull down on the scale. [T] On the scale. Let go of the other string. There you go. That's it. [T] Yes. You're gonna be looking at it upside down. [T] There you go. Yeah. Now, untie it when you're done."
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You need to tie your string at the top, attach your weight directly to the pulley with this little loop of string that I put up here. [T] And then you need to run your string through the pulley and up, and you'll be lifting in an upward direction for that one. [T] Yes, ma'am. [T] I said, \"Yes, ma'am.\" [T] Yes, ma'am? [T] What's 38 centimeters? [T] No. No, no, no. It's not- it's how far you moved it."
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No. No, no, no. It's not- it's how far you moved it. [T] No. It's how far you moved it in raising it 10 centimeters. So start somewhere even like 50. [T] Marcello? Measure the weight. Measure the weight and tell me when it's 10 centimeters off the ground. [T] Right there? [T] Okay. I'm at 60 now. Where did I start? [T] I started at 50 so how far did I pull up? [T] There you go. That's what goes in this first spot. [T] The distance that you moved //the effort string."
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] That's your effort force. You just pull that one down. [T] Yep. [T] Don, that's it. Perfect. Excellent job. [T] Okay, folks. It's time to clean up. [T] You get out of here when your stations look exactly like they did when you came //to the station, [T] So everything hung back neatly where it belongs. [T] //After school."
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] //That looks perfect. [T] //Yes. [T] Tie a knot in the string. Hook the scale through it and pull. Read what you get on the scale. [T] That's what- that's the force the gravity is pulling downward with. [T] That's correct. That's the resistance force. [T] No. Don't worry about that yet. We're gonna do that together. [T] Exactly. It's just a different pulley setup, but the calculations are the same."
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "dominant_quality": "low",
+      "low_quality": true,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Exactly. It's just a different pulley setup, but the calculations are the same. [T] I thought I told you guys that yesterday. [T] Right. Tomorrow's Friday. That's cool. [T] Folks, seriously, your stations need disassembled, cleaned up, put back the way they were. [T] I don't see a single station that's acceptable right now. [T] You guys don't get to go until the station looks like it did when you got there."
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] You guys don't get to go until the station looks like it did when you got there. [T] Serious. [T] That looks good. [T] Everything neatly hung up on those corners like it was when you got there. [T] Rulers lined up neatly on the table. No knots in the string. Please get them cleaned up."
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    }
+  ]
+}

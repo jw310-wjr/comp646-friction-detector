@@ -1,0 +1,2383 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math CZ1 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Dan, Dan stop it. So, Stephanie came back, and Hanka is still absent. Any other changes? [T] Good, then today we will start with Pythagorean theorem. Get ready, take your notebook and write today's date, number of the class."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Good, then today we will start with Pythagorean theorem. Get ready, take your notebook and write today's date, number of the class. [T] So, the number of the class is 30, today's date. So, I'm going to invite up here Marcela Draslerova, come on Marcela. [T] So, Marcela write the problem statement on the board. I would like you to calculate. We have a given rhombus, which has two diagonals."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, Marcela write the problem statement on the board. I would like you to calculate. We have a given rhombus, which has two diagonals. [T] One is 12 centimeters long, the second one seven centimeters. So please Marcela, find out the perimeter of the rhombus. What is the perimeter of this rhombus?"
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] One is 12 centimeters long, the second one seven centimeters. So please Marcela, find out the perimeter of the rhombus. What is the perimeter of this rhombus? [T] Do you need me to turn the light on? Is it better? So Marcela, talk."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Do you need me to turn the light on? Is it better? So Marcela, talk. [T] So, Marcela, explain. [T] Sides. Marcela, what kind of shape is it? The rhombus. The attribute of the diagonals you've explained, one point is discovered, is there any other?"
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Sides. Marcela, what kind of shape is it? The rhombus. The attribute of the diagonals you've explained, one point is discovered, is there any other? [T] Yes, that too, we would certainly need it. [T] Psst, Dan! [T] So, I'm not going to count that, because it was heard before here. So, all the sides are the same length, in that case, we can make the picture easier. [T] There, yes."
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] There, yes. [T] So, Marcela, I'm going to ask you. You've said, you are going to work with it in a right triangle. How do you know, that triangle is right-angled? [T] Specify there, in which one you'd like to work with the problem. One of them, whichever you choose. [T] So, how do you explain or how do you convince us, that this triangle-"
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, you didn't say that before, yes that's correct. [T] So, Marcela, speak out loud so everybody knows what you're writing on the board. [T] Yes."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, when you substitute. [T] Uh huh."
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] So, here is the calculator, Marcela."
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, here is the calculator, Marcela. [T] What is it? [T] Twelve point twenty-five."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Is it rounded to something? So, did you enter it in the calculator correctly, Marcela? What did the calculator show you? [T] Okay, okay, so it's six point, you said eight? [T] Good, of what? [T] Centimeters. Yes, yes. Move a little to the side, Marcela. So, look at the first procedure. [T] Do you have the same results? Any problems so far? [T] So, Marcela, what else?"
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh huh. [T] Yes. [T] Marcela, six point nine by, yes, four. [T] So, we'll try it without a calculator, what would it be."
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, we'll try it without a calculator, what would it be. [T] Yes, it's twenty-seven point six. [T] Okay, Marcela, it was correct, go sit down. So, do you all have the same answer? [T] Did anyone have a problem? So, Marcela, it's going to be B for you today, because of the basic figure, because the rhombus was not exactly pictured out."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And, unfortunately, we cannot count it, because of Dan's suggestion, so Marcela is going to get B. [T] So, let's try the second time, and it would be for Dan. Let's go Dan. [T] So, Dan, I'd like you to calculate. Do you have a chalk? Calculate the length of the diagonal of the parallelepiped. [T] So, write over there, that it's a parallelepiped."
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, write over there, that it's a parallelepiped. [T] So, calculate the length of the body diagonal, when the measurements of the parallelepiped are: three point two decimeters. [T] The second measurement is 46 centimeters, and the third measurement is going to be five point three decimeters. [T] So, what kind of adjustment did you make? Already, yourself?"
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Transferred to centimeters. So, Dan. I'd like to calculate the length of diagonal of this parallelepiped. [T] So, let's start with a sketch."
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And you have to speak out loud so they can hear you all the way here in the back. [T] And Dan, in this parallelepiped they are not sides, but- [T] The edges, yes. [T] A G. [T] Is it going to be the length of the diagonal? Yes. Mark it into the sketch."
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Is it going to be the length of the diagonal? Yes. Mark it into the sketch. [T] Okay. [T] And now it's up to you how we're going to calculate it. [T] So, you meant a wall not a side, a wall yes, so walls A, B, C and D we can use."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh, huh, yes, mark the right angle there, so it's clear. [T] And loud, Dan, you have to speak out loud so we can understand what you're saying. [T] Yes. [T] Yes. [T] Yes."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Uh huh. [T] So, Dan, take your calculator or over there on the table you can borrow one."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh huh. [T] Yes. [T] Uh huh, centimeters, good. So, by doing this we calculated what?"
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh huh, centimeters, good. So, by doing this we calculated what? [T] The length of the wall diagonal. Okay, what is next? [T] Yes. [T] Yes, so draw the triangle again. [T] Yes."
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] So you said that the triangle is, Dan, right-angled. So, this is clear."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Uh huh. [T] So, you borrow this calculator again."
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh huh."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes, Dan, that was correct. So, now the rest of you take a look at it, Dan was just mumbling over here by the blackboard. [T] So you look at it if you have the same answer. [T] So, Dan, before I let you go tell me how many decimeters it would be. [T] That's correct, thank you. So, what about the rest of you. Do you have it or anyone found a problem? Is it good? [T] So, Dan is going to get A today."
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, Dan is going to get A today. [T] It was without any mistakes. Now it's an assignment for all of you. I'd like you to do this third part each by yourself. [T] Are you finished? May I start? [T] So, write in your notebook: an easel has sides two point five meters long, an easel has two sides two point five meters long."
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, write in your notebook: an easel has sides two point five meters long, an easel has two sides two point five meters long. [T] Everybody knows what an easel looks like? Everybody has seen an easel? [T] So, an easel has sides two point five meters long. Calculate, calculate, how far, calculate how far they reach, calculate how far they reach. [T] If the ends of the sides touching the ground, if the ends of the sides touching the ground are one point five meters apart from each other."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If the ends of the sides touching the ground, if the ends of the sides touching the ground are one point five meters apart from each other. [T] If the ends of the sides touching the ground are one point five meters apart from each other. [T] So, one more time and slowly. We have an easel, they have sides two point five meters long."
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'd like to calculate how far they reach, when you know, that the sides are reaching the ground and the two points are one point five meters apart. [T] Everybody knows what an easel looks like? Can you imagine a picture? Katka? [T] It depends how you mark it for yourself. It's up to you. Make a sketch, mark sides by your choice. [T] Calculate, how far we can climb, when we're going to stand on the top of the easel?"
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Calculate, how far we can climb, when we're going to stand on the top of the easel?"
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Calculate, how far we can climb, when we're going to stand on the top of the easel? [T] And always in your sketch, don't forget to mark what triangle you are using for calculating. [T] And, also realize what each side of the triangle means."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And, also realize what each side of the triangle means. [T] So, who's ready? How are we doing?"
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, who's ready? How are we doing? [T] So, it's just George, nobody else? Somebody has the answer? Tomas with George. [T] So, Tomas. Come up here and write it down. [T] Take your notebook with you and get it ready in the back of the blackboard, so we can check it faster."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Hide yourself back there, so you don't give a hint to others. Okay, let's hide you over there, and I'll close it behind you. [T] So, who has any answer raise your hand. I'd like to see it before Tomas finishes it up and we'll look at it together. Yes, that's correct. [T] You need to clarify the measurement. Yes, Marcela rounded the total. Yes. Yes."
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You need to clarify the measurement. Yes, Marcela rounded the total. Yes. Yes. [T] Kamila, what is it? Uh huh, yes. George? Yes. Martina? Yes. [T] You jumped a little too much. Check it out again, Marcela and correct it. You have some kind of numeric mistake there. Look at it. [T] So, where didn't I go so far? Yes. Dan. Yes, Jonas. Do you have anything written? Good."
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] So, where didn't I go so far? Yes. Dan. Yes, Jonas. Do you have anything written? Good. [T] So, who's work haven't I seen? Yes. Yes. Who else? So, Tom, what does it look like back there? Are you done? Can we look at it? [T] So, round it up, Teresa, but yes, it's correct. Yes, that's right. So, where didn't I go? Dado, show me your work. Yes. Yes. Good. [T] So, Tomas, can we take a look? So, I checked out most of your work."
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, Tomas, can we take a look? So, I checked out most of your work. [T] So, good Tom, you can sit down. So we have one option how to calculate this assignment. Look at it. Pss. Quiet. [T] And, check it out if you have the same result, or you came up with any other procedure. [T] Does anyone else have another procedure? And what about the result? Is it the same?"
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Does anyone else have another procedure? And what about the result? Is it the same? [T] So, when I walked around, I found more or less correct answers. [T] We agreed, we're going to have the measurements with one decimal space, so we'll round the answer on two decimal spaces. [T] Somewhere I saw it rounded up to two point four, someone else had it more specific. It really doesn't matter. [T] Most of the time, we'll leave it rounded to two decimal points. So, there was no problem and we all got it. [T] Good, so now I want you to take your homework and we'll go through numeric terms in your homework."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Good, so now I want you to take your homework and we'll go through numeric terms in your homework. [T] So, get ready. [T] So, can we start? Did you find it in your notebooks? So each of you will do one example and we'll go through it really fast and make it right. [T] So, Marcela, you start. [T] That is 16. If there is any problem, tell me right away. Zuzko!"
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes, that is 40, Dan. [T] And that equals 28. Excellent. Petra. [T] Is 100. Petra did it very fast. Katka."
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And that is minus eight. Katka. Take another one. [T] Minus 32. Jonas. [T] Is equal to four. Martina. [T] And that is four. So, is everything okay? Did you have any problems? Good."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And that is four. So, is everything okay? Did you have any problems? Good. [T] So these are numeric terms and I would like to review a few more complicated ones, when there is something more complicated, if not, we'll come up with something. [T] So, we'll start on page 100 in your textbook and I'd like you to figure out the shown assignment two, and we'll also do the example E. [T] And, who's going to be finished before we'll finish on the blackboard. [T] So the next one you can think about is on page 104, problem number four."
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So the next one you can think about is on page 104, problem number four. [T] And that one we'll do from the beginning to the end. [T] So, first we'll start with the E example. Everybody will calculate one example on the blackboard. [T] This week's service person will in the meantime clean what we've already written on the blackboard. [T] And let's go. Each of you, let's do one piece. And Jana's going to start. Come on Jana. [T] So, Jana, five plus three in the parenthesis divided by four squared, yes the end of parenthesis and divided by four squared."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, Jana, five plus three in the parenthesis divided by four squared, yes the end of parenthesis and divided by four squared. [T] So, Jana, talk and explain what you're doing there."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Pressing for Accuracy"
+        ],
+        "transcript_excerpt": "[T] Are you sure Jana? Eight divided by 16. We're dividing eight by 16. [T] What is it? What is it? Jonas? [T] Zero point five, Jana. Be careful, it's the other way around. So, why do you think it should be minus? Where would you get the minus? [T] So, there is no minus. Or, anyone has the answer in a different form?"
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, there is no minus. Or, anyone has the answer in a different form? [T] One half, of course. So, Jonas, let's do another one. So, you don't have to take your textbook, you just do it. [T] Five minus three divided by the second root of four. [T] So. [T] Uh huh. [T] So, don't forget it's equal, at the beginning make another one, at the beginning, at the beginning, so."
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, don't forget it's equal, at the beginning make another one, at the beginning, at the beginning, so. [T] Yes. [T] Three point five, uh huh. What about you? Do you agree with that? Nobody has a problem. So, let's do another one. [T] So, Jirka Kral is going to take the next one. Come on Jirka. [T] So, Jirka, for you we have five plus, and in the parenthesis three divided by four, the parenthesis squared."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, Jirka, for you we have five plus, and in the parenthesis three divided by four, the parenthesis squared. [T] Yes, that is coming, let him be, let him be. [T] It looks a little weird. [T] So. Now you tell me, what you're going to do next with the formula when you should raise by two."
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] How? [T] So, Jirka, now calculators are prohibited, I need you to think about it without calculators. How are you going to do it without a calculator? [T] Shh, shh stop that. [T] No, no, we'll just calculate today not draw. [T] That's because the zero point 75 is not the best form, Jirka. [T] Go back, go back to the three fractioned by four, three divided by four, okay so now I've said that."
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, yes. So without a calculator we'll try it now. [T] Yes, so. And now we'll know what to do. [T] So, I want you to write it in the form of a single fraction, Jirka. What is this form called?"
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, I want you to write it in the form of a single fraction, Jirka. What is this form called? [T] This isn't a complex fraction. How is it called? [T] Mixed number, and now I'd like a simple fraction. [T] So, in this form for example, good Jirka. So, do you all have it? Can we do another one? So, Teresa, come to do another one. [T] Yes, we could have. Yes. So, Teresa, we have for you five minus three in parenthesis, divided by the square root of four and all raised to the second power."
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes, we could have. Yes. So, Teresa, we have for you five minus three in parenthesis, divided by the square root of four and all raised to the second power. [T] Entirely the whole thing, squared. [T] Yes."
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Which is equal? [T] One, that's correct. So, do we all have it? Any problems? [T] So, now I want you to, everyone on your own solve the problem in example number four. [T] What do we have to do there, Martina? Read it. [T] Bigger, smaller. So, calculate and fill out the correct answer bigger than, smaller than, equal. [T] So, without calculators, without calculators, Petra, your brain needs to work."
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, without calculators, without calculators, Petra, your brain needs to work. [T] Martina, Martina, don't sleep. Do you have it? Awesome. [T] So, write down also the answers between, so we can check it out and we can explain why it is that way, not just having the answer written down."
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, write down also the answers between, so we can check it out and we can explain why it is that way, not just having the answer written down."
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, write down also the answers between, so we can check it out and we can explain why it is that way, not just having the answer written down. [T] So, finish writing and calculating. [T] Dan, look into your notebook, not elsewhere. [T] So, shall we. Raise your hand how we're doing, who's already done? So, one more second and finish writing."
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, shall we. Raise your hand how we're doing, who's already done? So, one more second and finish writing. [T] So, let's check it out. So, always read the problem statement, tell me the between answers so we're sure that it's correct and check, if your answers are the same. [T] So, Dada, do the first one. [T] Eight."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. So in the A example the answer was equal. Petra. [T] It doesn't matter [T] So. [T] So, how much is the cube of two, Petra? [T] Eight, so on the left side the answer is 16 and on the right side? [T] Twelve, so."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The left side is bigger than the right one, Jitka. [T] So, what did you get on the left side? [T] Yes. [T] So, in example C we have, say it one more time an equal symbol, good, Karin, take another one. [T] Jirka, stop doing that."
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Which is? [T] Sixteen, so, we all have it, we all know it. So, now I have something more difficult for you. [T] Open your textbook on page 103. [T] Until now you've had the expressions given, so now we're going to try it the other way around. [T] On page 103 it's shown at the beginning how you can translate this numeric expression into words. [T] Let's try it if it's more difficult and we'll express it in words. So, the beginning is very simple."
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Let's try it if it's more difficult and we'll express it in words. So, the beginning is very simple. [T] The sum of numbers three and five we'll convert into words how? [T] Three plus five. The difference between numbers four and minus eight? [T] Four minus minus eight. The product means what, Misa? [T] Multiplying, or by. And quotient? [T] Dividing, so these are the basic functions and of course, that's not enough and unfortunately we'll have more difficult ones. [T] So, now we have the more difficult ones here. So, now approximately in the middle of the page look and we have some expressions."
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, now we have the more difficult ones here. So, now approximately in the middle of the page look and we have some expressions. [T] And there are also powers and roots. So, now we're going to try to read this example and later on we're going to think about it on our own. [T] So, Andrea, try the first one. [T] Now, look next to it how they wrote it down. [T] So, how do we do it that we have the same process as always? So if we're going to calculate it what do we have to do first? [T] First, we have to do the calculation in parenthesis and after that raise it to a certain power."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] First, we have to do the calculation in parenthesis and after that raise it to a certain power. [T] So it's called the fourth power and after that we talk about the difference. [T] So, what kind of calculating am I starting with in this word expression? [T] With the power, which means, with the process which we're going to be using for calculating as the last one. [T] First we have to subtract and when we have the answer, we'll raise it to a certain power, okay? [T] So, let's try the second one. Be careful so you don't have chaos in it. Teresa."
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, let's try the second one. Be careful so you don't have chaos in it. Teresa. [T] So, what are we going to start with? First we should calculate what? [T] First we're going to calculate the fourth powers and later the answers we'll subtract. [T] So, look at the word expressions and it starts with \"the difference of fourth power\". Do you understand that? [T] Okay, so let's try another one. Lucko, read the next one."
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, so let's try another one. Lucko, read the next one. [T] So, if we want to calculate it, first we start with what? [T] Twelve plus three and the answer, we multiply it by five. [T] Look at it how it starts. It's five multiplied by a certain sum. [T] So let's try the last two ones. They are going to be the most difficult ones, because we haven't practiced them yet. [T] Let's try them, Kamco. The one before the last one."
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And now we'll read the last one so you have something to compare it to, Pepo, what is going to be the last one? [T] So, now look at it how it's written. When I start saying: second root of the total, so the main part is the big root mark. [T] And in the last one you have the sum of the square roots. [T] So, be very careful, because it's a play with words how you formulate it and it's up to that how you write it down. [T] So, did you understand that? So, I have prepared an easier version for the beginning and I hope it's going to be fast."
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, did you understand that? So, I have prepared an easier version for the beginning and I hope it's going to be fast. [T] Now pass it around to each desk, you'll get one example. [T] You'll be able to do it on your own. [T] So it's not just I want you to write it, I also want you to calculate it. So, let's do the example number three as a first one."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So it's not just I want you to write it, I also want you to calculate it. So, let's do the example number three as a first one. [T] So, write it down and at the same time calculate it. So far just the example number three. [T] Go through it, go through it, write it down and calculate it. [T] So, I hope there are not going to be any problems with powers and roots, we'll start with the easier ones."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, I hope there are not going to be any problems with powers and roots, we'll start with the easier ones."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, I hope there are not going to be any problems with powers and roots, we'll start with the easier ones. [T] So get the number three ready at this point, we'll check it out and after that we'll go further."
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Read it very carefully so you don't make a mistake. It's better to read it two times before you write it down. [T] So, how is it going? Who has everything? So, a little longer."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] So, how is it going? Who has everything? So, a little longer."
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, how is it going? Who has everything? So, a little longer. [T] So, let's do it. So, always read what you've written down and after that, what the answer is. Katko? [T] And the answer is? [T] It's equal to six. Marketa! [T] One hundred and thirty... [T] You don't have to read it because you all have it there. So, Dan, read the next one. [T] Sixty-four divided by eight is eight. Karin!"
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Twenty-nine. Alino. [T] So, what comes first? Don't forget about it, let's remember it. [T] The multiplication. So, let's do the next one. Jitko! [T] Times four. [T] It's 96. Dado! [T] So what is the answer?"
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Are the parenthesis necessary there, or we can get by without them? [T] Yes, we have to have the parenthesis here, so let's move on, Katka. [T] Yes. [T] So, Katko, show me what we have here. [T] So tell me what you have there. [T] So, it's this way or what kind of different version did you want?"
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So. [T] Yes. [T] How do we explain that the answer has to be the same no matter what way we write it down? [T] Multiplying is commutative. [T] Sure, so, where are we? So we have also the last one. Zuzko! [T] So, Zuzko, are the parenthesis necessary there? We can do it without and the answer is 48. [T] So this first example was hopefully easy. Without a problem."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So now I'd like you to try something with decimal numbers possibly something with fractions, so let's try problem number 10. [T] So, now we can start. You try it by yourselves first and on the blackboard you'll have it for comparison. [T] So, we're going to write it on the blackboard. We'll choose always a couple if we have enough space. [T] First we start with two people and it's going to be Marcela and Micha. Come on girls. [T] I'll try to dictate it for you first. So you should just hear it not see it, and try to write it down."
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'll try to dictate it for you first. So you should just hear it not see it, and try to write it down. [T] So, it's the product of numbers four and 11 made bigger by the difference of numbers 100 and 37. [T] Made bigger by the difference of numbers 100 and 37. [T] So, I'll read it one more time girls. Listen to it and check it. [T] The product of numbers four and 11 made bigger by the difference of numbers 100 and 37."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The product of numbers four and 11 made bigger by the difference of numbers 100 and 37. [T] Marcelo, I started with the product of numbers four and 11. Yes. So, finish calculating. [T] So, girls, you can sit down now. Did you get the same answer? [T] So now we'll try a couple of boys. Jirka with Pepa for example, come on boys."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Other",
+          "Pressing for Accuracy"
+        ],
+        "transcript_excerpt": "[T] So now we'll try a couple of boys. Jirka with Pepa for example, come on boys. [T] So boys, we made this up for you. [T] From the sum of numbers two point four and five point six, from the sum of numbers two point four and five point six we'll subtract, subtract. [T] The quotient of numbers 42 and six. We'll subtract the quotient of numbers 42 and six."
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The quotient of numbers 42 and six. We'll subtract the quotient of numbers 42 and six. [T] Yes, so you started the right way. Finish calculating it. [T] You can go and sit down now guys. So check it. I'm also going to ask. [T] Look at the blackboard. Pepa used the calculation without the parenthesis at all, Jirka added parenthesis. Are they necessary or not?"
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No, they are not necessary. That's correct. So let's try example C the third one. [T] So we'll try Petra and Stepanka. Come on girls. [T] So, for you I have: with the difference of numbers three and seven. [T] To the difference of numbers three and seven we add the quotient of numbers five and eight."
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] To the difference of numbers three and seven we add the quotient of numbers five and eight. [T] So, with the difference of numbers three and seven add the quotient of numbers five and eight. [T] Petro there is the quotient of five and eight, do you have it there? [T] Now she does. [T] You could write it in a fraction form for me. If it's possible do it that way."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Into a fraction. Make it possible to have it in fraction form. [T] Stepanko, look at the signs. [T] So, Petro, are you checking signs?"
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, Petro, are you checking signs? [T] Minus four plus five eighths. [T] So, Stepanko, minus four point zero is what? [T] How many eighths? [T] So, how many eighths? [T] Four point zero?"
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Four point zero? [T] Four point zero. How many eighths is it? [T] Four whole numbers! One whole number has how many eighths? Shh. Let's be patient a little longer. [T] One whole number has how many eighths? [T] And four of them? [T] So it's minus thirty-two eighths plus five eighths is."
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Thirty-two without five? [T] Twenty-seven eighths, so I have an assignment for you. [T] The rest you finish by yourselves and the last example number six you'll do too. You'll write it down and calculate it. [T] The last one? We'll go over the last one next time together. So, thank you and that's it."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Good, then today we will start with Pythagorean theorem. Get ready, take your notebook and write today's date, number of the class. [T] So, the number of the class is 30, today's date. So, I'm going to invite up here Marcela Draslerova, come on Marcela. [T] So, Marcela write the problem statement on the board. I would like you to calculate. We have a given rhombus, which has two diagonals."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Sides. Marcela, what kind of shape is it? The rhombus. The attribute of the diagonals you've explained, one point is discovered, is there any other? [T] Yes, that too, we would certainly need it. [T] Psst, Dan! [T] So, I'm not going to count that, because it was heard before here. So, all the sides are the same length, in that case, we can make the picture easier. [T] There, yes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] There, yes. [T] So, Marcela, I'm going to ask you. You've said, you are going to work with it in a right triangle. How do you know, that triangle is right-angled? [T] Specify there, in which one you'd like to work with the problem. One of them, whichever you choose. [T] So, how do you explain or how do you convince us, that this triangle-"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, you didn't say that before, yes that's correct. [T] So, Marcela, speak out loud so everybody knows what you're writing on the board. [T] Yes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, when you substitute. [T] Uh huh."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] So, here is the calculator, Marcela."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh huh. [T] Yes. [T] Marcela, six point nine by, yes, four. [T] So, we'll try it without a calculator, what would it be."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And you have to speak out loud so they can hear you all the way here in the back. [T] And Dan, in this parallelepiped they are not sides, but- [T] The edges, yes. [T] A G. [T] Is it going to be the length of the diagonal? Yes. Mark it into the sketch."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Is it going to be the length of the diagonal? Yes. Mark it into the sketch. [T] Okay. [T] And now it's up to you how we're going to calculate it. [T] So, you meant a wall not a side, a wall yes, so walls A, B, C and D we can use."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh, huh, yes, mark the right angle there, so it's clear. [T] And loud, Dan, you have to speak out loud so we can understand what you're saying. [T] Yes. [T] Yes. [T] Yes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Uh huh. [T] So, Dan, take your calculator or over there on the table you can borrow one."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh huh. [T] Yes. [T] Uh huh, centimeters, good. So, by doing this we calculated what?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh huh, centimeters, good. So, by doing this we calculated what? [T] The length of the wall diagonal. Okay, what is next? [T] Yes. [T] Yes, so draw the triangle again. [T] Yes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] So you said that the triangle is, Dan, right-angled. So, this is clear."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Uh huh. [T] So, you borrow this calculator again."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh huh."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, who's ready? How are we doing? [T] So, it's just George, nobody else? Somebody has the answer? Tomas with George. [T] So, Tomas. Come up here and write it down. [T] Take your notebook with you and get it ready in the back of the blackboard, so we can check it faster."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So the next one you can think about is on page 104, problem number four. [T] And that one we'll do from the beginning to the end. [T] So, first we'll start with the E example. Everybody will calculate one example on the blackboard. [T] This week's service person will in the meantime clean what we've already written on the blackboard. [T] And let's go. Each of you, let's do one piece. And Jana's going to start. Come on Jana. [T] So, Jana, five plus three in the parenthesis divided by four squared, yes the end of parenthesis and divided by four squared."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Pressing for Accuracy"
+        ],
+        "transcript_excerpt": "[T] Are you sure Jana? Eight divided by 16. We're dividing eight by 16. [T] What is it? What is it? Jonas? [T] Zero point five, Jana. Be careful, it's the other way around. So, why do you think it should be minus? Where would you get the minus? [T] So, there is no minus. Or, anyone has the answer in a different form?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, there is no minus. Or, anyone has the answer in a different form? [T] One half, of course. So, Jonas, let's do another one. So, you don't have to take your textbook, you just do it. [T] Five minus three divided by the second root of four. [T] So. [T] Uh huh. [T] So, don't forget it's equal, at the beginning make another one, at the beginning, at the beginning, so."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, don't forget it's equal, at the beginning make another one, at the beginning, at the beginning, so. [T] Yes. [T] Three point five, uh huh. What about you? Do you agree with that? Nobody has a problem. So, let's do another one. [T] So, Jirka Kral is going to take the next one. Come on Jirka. [T] So, Jirka, for you we have five plus, and in the parenthesis three divided by four, the parenthesis squared."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes, we could have. Yes. So, Teresa, we have for you five minus three in parenthesis, divided by the square root of four and all raised to the second power. [T] Entirely the whole thing, squared. [T] Yes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, shall we. Raise your hand how we're doing, who's already done? So, one more second and finish writing. [T] So, let's check it out. So, always read the problem statement, tell me the between answers so we're sure that it's correct and check, if your answers are the same. [T] So, Dada, do the first one. [T] Eight."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. So in the A example the answer was equal. Petra. [T] It doesn't matter [T] So. [T] So, how much is the cube of two, Petra? [T] Eight, so on the left side the answer is 16 and on the right side? [T] Twelve, so."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The left side is bigger than the right one, Jitka. [T] So, what did you get on the left side? [T] Yes. [T] So, in example C we have, say it one more time an equal symbol, good, Karin, take another one. [T] Jirka, stop doing that."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So, how is it going? Who has everything? So, a little longer. [T] So, let's do it. So, always read what you've written down and after that, what the answer is. Katko? [T] And the answer is? [T] It's equal to six. Marketa! [T] One hundred and thirty... [T] You don't have to read it because you all have it there. So, Dan, read the next one. [T] Sixty-four divided by eight is eight. Karin!"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Twenty-nine. Alino. [T] So, what comes first? Don't forget about it, let's remember it. [T] The multiplication. So, let's do the next one. Jitko! [T] Times four. [T] It's 96. Dado! [T] So what is the answer?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Are the parenthesis necessary there, or we can get by without them? [T] Yes, we have to have the parenthesis here, so let's move on, Katka. [T] Yes. [T] So, Katko, show me what we have here. [T] So tell me what you have there. [T] So, it's this way or what kind of different version did you want?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So. [T] Yes. [T] How do we explain that the answer has to be the same no matter what way we write it down? [T] Multiplying is commutative. [T] Sure, so, where are we? So we have also the last one. Zuzko! [T] So, Zuzko, are the parenthesis necessary there? We can do it without and the answer is 48. [T] So this first example was hopefully easy. Without a problem."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So now I'd like you to try something with decimal numbers possibly something with fractions, so let's try problem number 10. [T] So, now we can start. You try it by yourselves first and on the blackboard you'll have it for comparison. [T] So, we're going to write it on the blackboard. We'll choose always a couple if we have enough space. [T] First we start with two people and it's going to be Marcela and Micha. Come on girls. [T] I'll try to dictate it for you first. So you should just hear it not see it, and try to write it down."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The product of numbers four and 11 made bigger by the difference of numbers 100 and 37. [T] Marcelo, I started with the product of numbers four and 11. Yes. So, finish calculating. [T] So, girls, you can sit down now. Did you get the same answer? [T] So now we'll try a couple of boys. Jirka with Pepa for example, come on boys."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Other",
+          "Pressing for Accuracy"
+        ],
+        "transcript_excerpt": "[T] So now we'll try a couple of boys. Jirka with Pepa for example, come on boys. [T] So boys, we made this up for you. [T] From the sum of numbers two point four and five point six, from the sum of numbers two point four and five point six we'll subtract, subtract. [T] The quotient of numbers 42 and six. We'll subtract the quotient of numbers 42 and six."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No, they are not necessary. That's correct. So let's try example C the third one. [T] So we'll try Petra and Stepanka. Come on girls. [T] So, for you I have: with the difference of numbers three and seven. [T] To the difference of numbers three and seven we add the quotient of numbers five and eight."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts/M-CZ1"
+}

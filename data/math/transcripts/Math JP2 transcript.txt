@@ -1,0 +1,1270 @@
+00:00:01	SN	Stand.
+00:00:02	SN	He says he's not filming yet. Around here (inaudible).
+00:00:13	S	Stand straight.
+00:00:14	S	Stand straight.
+00:00:17	S	Bow.
+00:00:18	SN	Onegaishimasu.
+00:00:18	E	Onegaishimasu.
+00:00:19	T	Okay.
+00:00:27	T	Um, do you remember what we did last period?
+00:00:29	SN	We did mathematics.
+00:00:31	T	Sakurai, what kind of things did we do?
+00:00:33	S	Huh?
+00:00:34	SN	We did mathematics.
+00:00:35	SN	I don't know.
+00:00:38	SN	Huh? Hm. The last period?
+00:00:41	T	Um. This topic, okay?
+00:00:45	S	Is it that?
+00:00:46	T	Yes.
+00:00:47	S	Obtain the area of triangles which are in the places in the parallel lines.
+00:00:51	T	That's right, huh? Um, we studied the idea that parallel, parallel lines,
+00:00:57	T	the triangles between them, uhm, with the same base are all the same... like this. For example, here.
+00:01:09	T	This.
+00:01:17	T	We studied this, okay? It says since all of... uhm, these become the same height the areas become equal, okay?
+00:01:27	T	Uhm, we have this as the foundation for what we will be going to study today.
+00:01:31	T	Then, prepare just your notebooks. We won't need your textbooks. Close your textbooks.
+00:01:36	T	Just take out your notebooks. Uhm. The date. Oh. It's er- erased. The date is November.
+00:01:42	T	What day is it?
+00:01:45	SN	The twenty-ninth.
+00:01:46	T	It's the twenty-ninth, right?
+00:01:48	T	It's the twenty-ninth.
+00:01:50	T	Uhm.
+00:02:12	T	Uhm. Right now over here, okay? There is Bando's land.
+00:02:20	T	It's okay, huh? Okay. There is Bando's land.
+00:02:23	T	Okay? Over here is Chiba's land, okay?
+00:02:24	SN	[Laughter]
+00:02:27	SN	The teachers. It's the teachers.
+00:02:30	T	Is it okay? Let's say that there is a land like this.
+00:02:35	T	And. Is it okay? Chiba.
+00:02:36	SN	Yes.
+00:02:37	T	And these two people's, uhm, border line is bent like this but we want to make it straight, okay?
+00:02:44	T	Bando.
+00:02:45	SN	Yes.
+00:02:46	T	Is it okay with it around here?
+00:02:48	S	Yes.
+00:02:49	T	Is that okay?
+00:02:50	SS	[Laughter]
+00:02:51	T	Then, we'll end today's class, okay?
+00:02:52	SS	[Laughter]
+00:02:53	T	[Laughter]
+00:02:55	T	Chiba, is it okay with it around here?
+00:02:56	S	Ahhh.
+00:02:57	T	No?
+00:02:58	S	No.
+00:02:59	T	Around where would you like it?
+00:03:02	S	It would be better if mine was wider.
+00:03:03	SN	A lot more to the bottom?
+00:03:04	T	Huh? A little more over here?
+00:03:05	SN	More.
+00:03:06	T	Around where would you like?
+00:03:07	S	Continue over more. More. More.
+00:03:08	T	More over here?
+00:03:09	S	More. More. More that way.
+00:03:10	SS	[Laughter]
+00:03:11	T	Oh. [Laughter]
+00:03:12	T	Bando. Is it okay with it around here?
+00:03:13	SN	No.
+00:03:14	T	It's not okay, right?
+00:03:14	SS	[Laughter]
+00:03:15	T	Then, around where would it be good?
+00:03:18	SN	Huh?
+00:03:19	T	Date. Around where do you think would it be good? Approximately.
+00:03:21	S	(inaudible)
+00:03:22	S	That line... well.
+00:03:24	T	Well, try doing it.
+00:03:25	S	Huh?
+00:03:26	T	Approximately. Estimate.
+00:03:28	S	Uhm.
+00:03:29	T	Yes.
+00:03:30	S	Uhm. Take it between th- this line and this line.
+00:03:32	T	Yes.
+00:03:33	T	We got an estimate that says it may be okay if it's in the middle. I see. How about other people?
+00:03:40	T	Okay? Then, well in your notebook, okay? Draw a figure like this and-
+00:03:45	T	Please try thinking about it a little, methods of changing this shape without changing the area.
+00:03:53	T	Okay?
+00:03:55	T	Okay, then everybody... let's try thinking about it. The work time is... would you think about it for three minutes?
+00:04:03	T	First of all, please think about it individually for three minutes. Okay begin.
+00:04:07		
+00:05:37	T	Are you done?
+00:05:44	T	(inaudible) You made it straight here? Is it the same? Definitely? Is it the same?
+00:05:49	SN	It's appro- approximate.
+00:05:49	T	If it's approximate. Wouldn't they fight over it if it was approximate?
+00:05:52	S	Huh? Around. It's the parallel line of this and this.
+00:05:55	T	The middle of it?
+00:05:56	S	Yes.
+00:05:57	T	I think it's good if you draw it exactly in the middle. I see.
+00:06:05	T	That's sharp.
+00:06:08	T	What was the thing we studied last time?
+00:06:12	T	If it's like this, for all we know they will fight.
+00:06:14	T	A method that uses the same method as last time.
+00:06:17	SN	I can't solve it.
+00:06:19	T	First of all, draw a figure and-
+00:06:20	SN	Draw the figure and-
+00:06:22	T	The idea from last time. Is there a method that uses the area of the triangles?
+00:06:34	T	That's sharp.
+00:06:36	T	You were able to make this a triangle, right? Okay? Then if you do what...
+00:06:43	T	Okay? Would you get triangles with the same area. Would you make this the base?
+00:06:48	T	The question is that somewhere there are parallel lines, okay?
+00:06:51	T	Hm. We did it like this and in the last class we did it like this... we get a triangle.
+00:07:03	T	Okay. Then since the three minutes are up, so... uhm...
+00:07:09	T	People who have come up with an idea for now go to Teacher Ebina and do it with him,
+00:07:15	T	and people who want to discuss it with his or her friends, discuss it with your friends.
+00:07:18	T	And for now I have placed some hint cards up here so people who want to refer to this can refer to it.
+00:07:24	T	Now then, uhm, in three minutes...
+00:07:26	T	Uhm, well, think about it and please try doing it with your friend or by yourself. Okay, begin.
+00:07:38	SN	You can't bring it with you.
+00:07:49	O	You missed class the other day, huh?
+00:07:51	O	Hm, well. It's good if you make a triangle somewhere. Can't you make a triangle somewhere?
+00:07:57	SN	Huh? It's wrong.
+00:07:58	SN	I don't understand.
+00:08:04	O	Somewhere a triangle- if you draw one line somewhere you get a triangle.
+00:08:15	O	Make a triangle somewhere.
+00:08:16	SN	Huh?
+00:08:17	O	Draw a line somewhere and make a triangle.
+00:08:18	S	Oh.
+00:08:20	SN	Wait. Wait.
+00:08:21	S	Oh. I got it.
+00:08:23	SN	Take a parallel line (inaudible).
+00:08:27	SN	If we (inaudible), then the area of the triangle.
+00:08:31	SN	I don't know.
+00:08:37	SN	They're not parallel lines.
+00:08:49	T	Now.
+00:08:50	SN	Oh. I got it.
+00:08:51	T	Draw it.
+00:08:52	SN	Teacher. It's wrong. A B-
+00:08:53	T	Hum?
+00:08:54	S	It's different from mine.
+00:08:55	T	Hm. You see it is. You see Fujita's is. If these are parallel then you can say something like this.
+00:09:00	SN	Oh. That's right.
+00:09:01	T	Do you understand? Since it's like this if you l- compare the area over here and over here,
+00:09:06	T	well it seems the one over here is smaller, right?
+00:09:08	T	Oh. It's the same, huh? If they are parallel then, okay? Well, I also have a feeling they will be the same. Yes.
+00:09:12	S	Oh. That's right, huh? I got it. I got it.
+00:09:13	T	Yes.
+00:09:15	T	But the way of thinking was good. It was quite a sharp thought, okay? The assumption was good.
+00:09:18	SN	Can I borrow the (inaudible).
+00:09:19	SN	Oh. I got it. I got it. I got it somewhat.
+00:09:20	SN	Teacher, teacher, teacher.
+00:09:21	T	Yes.
+00:09:22	S	This okay? Went to here and here, okay?
+00:09:23	SN	I got it somewhat.
+00:09:25	T	(inaudible)
+00:09:26	SS	[Laughter]
+00:09:28	SN	(inaudible)
+00:09:29	O	If it's approximate, of course it will become a fight, right?
+00:09:30	T	Oh. Did you get it?
+00:09:31	SN	How do you do (inaudible)?
+00:09:32	T	Oh. Take this. You make a triangle somewhere.
+00:09:35	SN	Well, here, draw one like this. This.
+00:09:36	T	You make a triangle like this. And, then you make this like that TV.
+00:09:42	T	To make the triangle you move your neck like this. Okay?
+00:09:43	SN	Yes.
+00:09:44	T	If you do that you get a triangle, right?
+00:09:45	S	Yes.
+00:09:46	T	And here, here all you have to do is draw a parallel line somewhere.
+00:09:50	T	Then where would you draw a parallel line?
+00:09:51	SN	A parallel is you understand? It's sideways like this.
+00:09:52	SN	Oh. Like this?
+00:09:53	T	Over there isn't (inaudible).
+00:09:55	SN	You don't get a triangle.
+00:09:57	T	You draw it here, huh? Hm, well where is it the same area with this triangle?
+00:09:58	SN	Yes.
+00:10:01	S	Which is it?
+00:10:01	T	Hm.
+00:10:02	S	It's three (inaudible).
+00:10:02	T	Yes. And then. Yes. The area that is the same with this triangle becomes like this and it also becomes like this, okay?
+00:10:03	S	(inaudible)
+00:10:09	SN	Oh. This then this is straight up like this. Here also.
+00:10:11	T	That's right, huh? Well.
+00:10:12	SN	Oh. From here to here?
+00:10:14	T	That's right. That's right. That's- that's right. It's good if you do it like that.
+00:10:16	SN	Oh.
+00:10:17	T	There aren't any complaints for that, right? If you do that.
+00:10:18	S	Oh. Well, let me try (inaudible). Teacher.
+00:10:20	T	[Laughter]
+00:10:21	S	It's here and here right?
+00:10:22	T	Yes. And is it just here and here?
+00:10:25	SN	The more opposite side too.
+00:10:27	T	(inaudible) right? That's right, huh? Okay.
+00:10:28	SN	What?
+00:10:30	SN	Don't erase it.
+00:10:30	T	[Laughter] What are you doing putti- marks?
+00:10:31	SN	Is it (inaudible)?
+00:10:33	SS	[Laughter]
+00:10:34	T	[Laughter] It's okay now. Did you get it? You don't get it?
+00:10:40	T	Did you get it?
+00:10:42	SN	Teacher. Would you point to me later, okay? Teacher.
+00:10:45	SN	You talk too much, you stupid.
+00:10:45	T	If you were to make a triangle somewhere if you draw a line where would you get a triangle?
+00:10:49	T	Where?
+00:10:50	SN	There.
+00:10:51	SN	There.
+00:10:51	T	Here, right? You get one triangle, right?
+00:10:53	T	Then where is the same area as this triangle?
+00:10:57	T	Oh. If you were to draw a line parallel to th- this triangle where would you draw it?
+00:11:00	SN	(inaudible)
+00:11:02	T	You would draw it here, right?
+00:11:04	T	Right? Then where would you get a triangle that is the same area as this triangle?
+00:11:09	SN	Those two.
+00:11:11	T	Hm?
+00:11:11	S	Ha. The two.
+00:11:12	T	You can also make one like this, you can also make one like this. You can make a lot, right? You can make multiple numbers of it, right?
+00:11:15	SN	Th- That's what you mean.
+00:11:16	SN	Oh. I have no clue what he is saying.
+00:11:18	T	Then to make this nicely into one line somewhere where should we move this?
+00:11:26	SN	Ah.
+00:11:27	SN	I got it.
+00:11:28	SN	Ah.
+00:11:28	T	What should we do?
+00:11:29	S	Like this- like this.
+00:11:29	S	Like this.
+00:11:30	T	Okay. That's right. Okay?
+00:11:34	SN	Huh?
+00:11:34	SS	(inaudible)
+00:11:38	T	That's right. That's right. That's, that's right.
+00:11:39	SN	Goto isn't good.
+00:11:42	SN	Hey. I got it.
+00:11:55	T	In the end.
+00:12:02	T	Is it just this one line?
+00:12:04	T	Hm. That's right, huh? You also need the side over there, right?
+00:12:06	SN	Ah.
+00:12:07	T	That's right, huh?
+00:12:08	SN	Teacher, Teacher, Teacher.
+00:12:08	T	Yes. What is it?
+00:12:10	S	(inaudible)
+00:12:11	S	I don't really understand it but.
+00:12:12	T	Yes. Now then, okay? You got a triangle here, right? And they're parallel, right?
+00:12:17	T	All you have to do is look at it like this, like last period.
+00:12:19	T	Then since here it is parallel so... where is the area that is the same as this triangle?
+00:12:23	T	Like this.
+00:12:24	S	This and this and this.
+00:12:25	T	Yes. You can get one like this. You can get one like this. You can get a lot of (inaudible), huh?
+00:12:31	T	Then for this to neatly become straight where does the triangle form?
+00:12:33	SN	Neatly?
+00:12:36	T	This becomes a straight line- we want to make it straight.
+00:12:38	SN	Oh.
+00:12:39	SN	From here to here?
+00:12:39	T	Yes. Or...
+00:12:40	S	From here to here?
+00:12:40	T	That's right. That's right. That's right. That's- that's right.
+00:12:43	SN	Teacher?
+00:12:43	T	Yes.
+00:12:45	S	Uhm, this and this are-
+00:12:46	T	Hm.
+00:12:47	S	parallel, so-
+00:12:48	T	Hm.
+00:12:49	S	even if we move this-
+00:12:49	T	Hm. Hm. Hm.
+00:12:51	S	they are parallel bu- Since the area is the same so-
+00:12:54	T	Hm.
+00:12:55	S	aren't here- the obliq- oblique lines here and-
+00:12:57	T	Hm.
+00:12:58	S	this white part-
+00:12:59	T	Hm.
+00:12:59	S	the same?
+00:13:00	T	You're sharp.
+00:13:02	S	Hm.
+00:13:02	T	Okay.
+00:13:04	T	Uhm. Hamada.
+00:13:07	SN	Here. Teacher. Here.
+00:13:09	T	Hm?
+00:13:09	S	(inaudible)?
+00:13:11	T	How did you do it?
+00:13:12	T	Try explaining it.
+00:13:13	S	Since this and this are parallel so-
+00:13:14	T	Hm.
+00:13:17	S	if you connect them like this-
+00:13:18	T	Yes.
+00:13:21	S	they become equal.
+00:13:21	T	Oh, okay.
+00:13:22	SN	I'm going to the teacher's one.
+00:13:23	T	Wait a second.
+00:13:24	S	Teacher.
+00:13:24	SN	Why?
+00:13:25	T	Ikeda. Ikeda.
+00:13:26	SN	Teacher.
+00:13:28	T	Wait- wait a second, okay?
+00:13:29	T	Excuse me. Wai-
+00:13:31	T	Mos- have you finished most of it?
+00:13:33	T	How about the height?
+00:13:36	T	Uhm. Jimbo.
+00:13:37	SN	Yes.
+00:13:38	T	Would you do the one you were showing just now up at the front?
+00:13:40	S	The one just now?
+00:13:40	T	Yes.
+00:13:41	S	Am I supposed to explain it?
+00:13:42	T	Yes. An explanation.
+00:13:43	S	Huh?
+00:13:44	T	Please go ahead.
+00:13:44	SN	What is it?
+00:13:45	SN	Huh? You got to be kidding me.
+00:13:45	SN	If you draw the parallel lines and why it becomes like this why-
+00:13:47	T	Well you see.
+00:13:48	S	Yes.
+00:13:48	T	This is okay? You look at it like this and then you think about it. You look at it like this.
+00:13:51	SN	For now please explain it one more time.
+00:13:52	T	If you do that, this will become the same, like last time.
+00:13:54	S	Oh. That's right, huh?
+00:13:55	T	Do you get it?
+00:13:55	S	Yes.
+00:13:56	T	If you look at it this way... you have to change the way you're thinking. And if you look at it like this, and if it's a triangle with parallel lines drawn then...
+00:14:01	S	Yes.
+00:14:02	T	Which one is the same area as this triangle?
+00:14:04	S	With which one? Tri-
+00:14:05	T	The area that's the same as this triangle?
+00:14:08	T	You won't get any numbers, right?
+00:14:09	S	Yes.
+00:14:09	T	And, for example, in what kind- what situations does this become a straight line?
+00:14:13	S	A straight line?
+00:14:13	T	Yes. We want to make it a straight line. We want to make the border line a straight line.
+00:14:16	S	A straight line?
+00:14:17	S	Should I do it like this?
+00:14:18	T	Hm. Hm?
+00:14:18	SS	[Laughter]
+00:14:19	S	I don't understand what you are saying.
+00:14:20	T	The triangle is the one that moves, okay?
+00:14:22	S	The triangle?
+00:14:22	T	So a triangle like this becomes a triangle like this? Then when it goes to here does it become a straight line?
+00:14:24	S	Oh.
+00:14:27	S	What do you mean by a straight line? Oh.
+00:14:29	T	It's at the end of the (inaudible), right?
+00:14:31	SN	I got it.
+00:14:31	SN	So.
+00:14:31	SN	I got it. I got it. Already. Already. I got it.
+00:14:32	T	It's okay with this.
+00:14:33	SN	Is it correct with that- with that?
+00:14:33	SN	But you can't (inaudible).
+00:14:33	T	With this. This- this original side. The triangle and the area over here are the same.
+00:14:37	T	Do you understand what I am saying?
+00:14:39	T	This triangle.
+00:14:39	SN	Then doesn't it become the same as this figure?
+00:14:41	T	Yes. Over here is the same from the beginning, okay? It's not involved, right?
+00:14:43	S	It's the same?
+00:14:43	T	Because here. Right now only here is involved, right?
+00:14:45	S	Oh. This is a straight line- oh. That's right. That's right.
+00:14:46	T	Make it into a straight line. Did you get it?
+00:14:48	SN	So.
+00:14:48	T	Jimbo hurry up.
+00:14:48	SN	Anything.
+00:14:49	T	Please go ahead.
+00:14:50	SN	Now I can't explain it since I'm not Japanese.
+00:14:51	T	Don't worry. We'll cheer for you.
+00:14:52	S	Since I'm not Japanese.
+00:14:53	T	Do it with confidence.
+00:14:54	S	[Laughter]
+00:14:57	T	Well, it's time, huh? Fifteen minutes.
+00:15:03	SN	I'm not Japanese.
+00:15:04	SN	What are you saying?
+00:15:11	T	Then Ikeda will you do it?
+00:15:12	SN	Huh?
+00:15:14	T	Please go ahead.
+00:15:14	S	I don't know (inaudible).
+00:15:16	T	Will you do it in the two ways for us? Then, Ikeda, this side. Please draw this side.
+00:15:20	SN	Yes.
+00:15:20	T	Jimbo, this side.
+00:15:21	S	I draw it from bottom to top? No. From bottom to top is (inaudible).
+00:15:22	T	Bottom?
+00:15:24	SN	[Laughter]
+00:15:25	T	From right to left?
+00:15:26	T	Oh. I'm sorry left to right.
+00:15:27	SN	Le- le- ft.
+00:15:28	SN	(inaudible)
+00:15:28	T	From left to right.
+00:15:29	SN	Yes. Yes. Yes. Yes. Yes.
+00:15:30	T	From right to left.
+00:15:30	SN	I want the one from the left.
+00:15:31	SN	Huh? Is that from right to left?
+00:15:34	SN	From the top?
+00:15:34	T	Hurry. Hurry. Hurry.
+00:15:36	SN	Teacher. Please have Jimbo go first.
+00:15:40	T	Yes.
+00:15:41	SN	Is it not okay with from the top?
+00:15:41	T	Of course, it can be said, right?
+00:15:42	S	It is okay from the top?
+00:15:43	T	It's the same even from the top, right? The area, okay? You're sharp.
+00:15:46	SN	It's okay even if it's particularly from the top.
+00:15:47	SN	Oh, well.
+00:15:48	T	What? You thought very hard?
+00:15:50	T	Okay, go ahead.
+00:15:52	SN	Huh?
+00:15:52	T	Can you explain it?
+00:15:52	SN	I want to explain it.
+00:15:52	SN	I'm to explain it?
+00:15:54	SN	The body is (inaudible).
+00:15:54	T	Yes.
+00:15:55	SN	I see.
+00:15:57	SN	But-
+00:15:58	T	Yes.
+00:15:58	SN	I got it. I got it. I can't go back.
+00:15:59	SN	What is it?
+00:16:00	SN	It's one minute, right?
+00:16:01	SN	Shut up.
+00:16:03	T	Hm. Wait a second. I'm sorry.
+00:16:05	T	Then I'll draw it for you so, okay? Mostly the same as the original.
+00:16:09	T	Just the base.
+00:16:15	T	Okay.
+00:16:15	SN	(inaudible) Is either one okay?
+00:16:17	T	Whichever is fine.
+00:16:18	T	Do you want to use a ruler?
+00:16:19	S	I'll use it.
+00:16:21	T	(inaudible) but I have only two.
+00:16:23	O	It's the same as (inaudible), right?
+00:16:25	SN	Teacher. Pick me. Pick me.
+00:16:26	T	Hm? Assistance, okay? Next, okay? Chiba.
+00:16:28	SN	I don't understand that.
+00:16:29	T	Next, next.
+00:16:31	SN	That?
+00:16:31	T	Yes. In the meantime today since Chiba, you are the main character, right? You're cool, okay? Huh?
+00:16:34	SN	Well. Do the ones that are wrong because-
+00:16:36	T	Do the ones that are wrong?
+00:16:38	S	I don't mean that. (inaudible)
+00:16:40	T	Huh?
+00:16:41	SN	[Laughter]
+00:16:42	T	No... well, okay? That is okay? The mistake is what's important.
+00:16:45	SN	Why?
+00:16:46	T	Huh?
+00:16:48	T	Because okay? If people can do it from the beginning then they don't have to come to school.
+00:16:52	S	(inaudible)
+00:16:53	T	Huh?
+00:16:53	S	Just the left (inaudible).
+00:16:54	T	It's not okay. What? Don't worry about me. It's you who is learning.
+00:16:57	T	Hm.
+00:17:01	T	Do it as fast as you can.
+00:17:02	SN	Fas- (inaudible).
+00:17:03	T	Anyway do it fast.
+00:17:04	T	Either one is fine.
+00:17:06	T	Do it like as you did it. Your own method.
+00:17:12	O	You shifted th- this to this side like this, huh? (inaudible) Up to this side, right? Yes. That.
+00:17:17	O	(inaudible)
+00:17:17	T	Yes.
+00:17:21	SN	And make the triangle and parallel.
+00:17:24	SN	Oh. Oh.
+00:17:29	SN	Peace to that.
+00:17:30	SN	I won't do it.
+00:17:36	T	What's up? Kada. What's up? Were you able to do it? Oh. You're sharp.
+00:17:41	T	That's right. Lai, right? You got it right? Good.
+00:17:44	T	Okay. Is this just this side?
+00:17:47	SN	It's also over here.
+00:17:47	T	Yes. Right?
+00:17:50	T	Oh?
+00:17:50	SN	I can't do it even with this.
+00:17:52	T	This is okay? Is it okay?
+00:17:53	T	This isn't parallel, right? It's bent, right?
+00:17:58	T	It's bent, right? That means that for example when you have drawn it like this, okay?
+00:18:04	T	When you have drawn it like this, of the area over here and the area over here, which seems to be bi- bigger?
+00:18:07	T	Since it's bent like this, okay?
+00:18:11	T	The area over here and over here.
+00:18:12	SN	Over here.
+00:18:12	T	It seems to be sma- smaller, huh?
+00:18:14	T	If it's between over here and over here which seems to be smaller?
+00:18:18	T	Doesn't it seem somewhat that they are the same, huh? Seems somewhat?
+00:18:20	SN	I'll give up A B.
+00:18:22	SN	Yes.
+00:18:22	T	It doesn't seem like it? If this is parallel then don't you think it's okay with this? I think it's okay- okay but.
+00:18:28	SN	Oh.
+00:18:28	T	They aren't parallel, right? They are bent like this, right?
+00:18:31	T	All you have to do is draw it more exaggerated. In a figure like this, okay?
+00:18:34	T	Um. For example, if there is one like this and okay? When we cut it like this and did it...
+00:18:37	SN	Now. It's okay.
+00:18:39	SN	The base is the same.
+00:18:41	T	How is that?
+00:18:42	T	Are the areas of the triangles the same?
+00:18:44	SN	Over here and over here are the same. Over here and over here are also the same.
+00:18:47	SN	I think it's better if we don't let him/her do it.
+00:18:47	SN	What? [Laughter]
+00:18:49	SN	The end and the end are the same and-
+00:18:51	T	It's okay if this and this are the same, right? This and this are the same and... this and this are the same- ahh, which is it?
+00:18:56	T	Oh. It's this. It's okay if these are the same but. The same- oh, it's wrong.
+00:18:59	T	It's over here. I'm sorry. It's okay if this and this are the same, right?
+00:19:01	SN	It's not the same.
+00:19:02	T	Well, I don't understand something, but- Hm.
+00:19:06	T	Oh. I'm sorry.
+00:19:08	T	Then- oh, it took a little bit of time, huh? Okay.
+00:19:09	SN	I'm saying you can't draw it.
+00:19:11	T	Okay. Good.
+00:19:11	SN	Stop it.
+00:19:12	SN	Stop it, okay?
+00:19:12	SN	Stop it, okay?
+00:19:13	T	Okay, then. Please return to your seats.
+00:19:14	SN	Teacher, he's drawing extra things.
+00:19:16	T	Don't write it.
+00:19:16	SN	Teacher. This.
+00:19:17	T	Okay, then the explanation. It'll take too much time. Okay then. Everyone please return once to your seats.
+00:19:23	T	Okay.
+00:19:23	SN	Since they are equal, so-
+00:19:25	T	It's okay. Good luck.
+00:19:28	T	Okay, then.
+00:19:29	SN	Am I doing it?
+00:19:30	T	Yes. Good luck.
+00:19:31	S	I don't understand it very well. Teacher, please listen to me.
+00:19:35	T	Now it's time to listen.
+00:19:37	T	Pay attention, okay? Okay.
+00:19:37	SN	He's not listening.
+00:19:39	SN	Jimbo.
+00:19:40	T	Go ahead.
+00:19:41	SN	Is Chiba going to do it?
+00:19:42	SN	It's not me, right?
+00:19:43	T	Okay. Hurry. Please do it.
+00:19:45	SN	This is okay?
+00:19:47	S	Hm. First of all we make a triangle, okay?
+00:19:51	SS	[Laughter]
+00:19:51	SN	What are you saying?
+00:19:53	SN	You talk too much.
+00:19:53	SS	[Laughter]
+00:19:54	SN	You make a triangle, right? And then here...
+00:19:57	SN	His face is completely in the camera.
+00:19:58	SN	(inaudible)'s...
+00:19:59	SN	(inaudible)
+00:20:00	SN	(inaudible)
+00:20:01	SN	Draw a line para- para- parallel over here also and... we make over here as the base.
+00:20:08	S	As the base. Here.
+00:20:10	SN	Yes.
+00:20:11	S	And then we make it the height and this triangle and...
+00:20:15	SN	That's the height? (inaudible)
+00:20:16	SN	Okay?
+00:20:18	S	Which is it?
+00:20:19	SN	I think it's not that.
+00:20:20	S	This triangle and a tri- somewhere.
+00:20:24	SN	[Laughter]
+00:20:25	T	Uhm. The red triangle.
+00:20:26	SN	Oh. It's this, right?
+00:20:27	T	Yes.
+00:20:28	SN	The red triangle is-
+00:20:30	S	The area is...
+00:20:31	T	Over here. Over here. Over here.
+00:20:32	S	What is it?
+00:20:33	S	Ya-
+00:20:34	S	Well, they are the same, okay?
+00:20:34	SS	[Laughter]
+00:20:35	T	The tri- over here.
+00:20:36	SN	Actually and the triangle over here-
+00:20:38	T	Yes.
+00:20:41	S	The fact is that the areas are the same, okay?
+00:20:42	T	Hm.
+00:20:43	S	Since the base and the height are the same so. So... first of all... the fact is, we can draw a line here.
+00:20:51	S	Yes, yes. Well, I don't know what I am saying, but-
+00:20:51	SN	(inaudible)
+00:20:54	SS	[Laughter]
+00:20:55	T	No. We can understand enough, right?
+00:20:56	SN	Oh. You understand?
+00:20:57	T	Is there anybody who does not understand?
+00:20:59	SS	[Laughter]
+00:20:59	T	Oh. You don't understand?
+00:21:01	SN	I also don't understand.
+00:21:02	T	You don't understand? Then one more time then. With this side.
+00:21:05	T	This time please explain it, Ikeda. You're saying that it was a good explanation.
+00:21:07	T	Okay, then applause. Wonderful.
+00:21:07	T	Okay.
+00:21:10	SS	[Laughter]
+00:21:11	T	People who didn't understand it please listen to it closely, okay?
+00:21:14	SN	First of all...
+00:21:14	T	[Laughter]
+00:21:14	S	After this. The place that has a weird place like this.
+00:21:15	SN	I got it.
+00:21:20	SN	In the place that is below this, like this draw a line and, uhm, we make it into a triangle, okay? Ha- then this-
+00:21:29	S	This. Something that has this side as a base?
+00:21:33	S	That has it as a base?
+00:21:36	S	Draw a line that is parallel to this base by fitting it with this apex. And then the parallel line... hm?
+00:21:51	S	Since the length of base doesn't change so... and in between the parallel lines always-
+00:21:57	T	The height is e-
+00:21:58	S	The height doesn't change so... like this. Up to wherever you draw it, anywhere you draw it,
+00:21:59	T	Yes.
+00:22:05	S	the area doesn't change with this, this triangle that we got first.
+00:22:11	S	So, uhm, it's just that even if we draw up to this best place's- end,
+00:22:17	S	for this triangle and this yellow, this triangle, the areas don't change.
+00:22:24	T	Okay. Thank you. Wonderful.
+00:22:27	T	Okay.
+00:22:30	T	Okay. Uhm, for now, okay? Since it's hard to see we will make it clearer.
+00:22:34	T	The areas of this triangle and the red triangle over here, and this triangle and the yellow triangle over here are the same areas.
+00:22:40	T	So we want to do it so this here becomes straight like this, okay?
+00:22:43	T	So that the corner here is gone. The angle, okay? Then we were able to draw a straight line here.
+00:22:47	T	That's what we can say. People who were able to d- who did it like this?
+00:22:50	T	People who can say I drew it like this over here? People who say I was able to draw it.
+00:22:53	T	People who say I was able to do it like this way? People who say they were able to do both?
+00:22:55	T	Okay. That's good. Uhm, then, okay? Next, uhm, using this as a foundation, okay?
+00:23:03	T	Oh. I don't know if it's using it as a foundation or not but- A quadrilateral.
+00:23:05	T	Oh. Of course it can be crooked like this. Well for now, um, (inaudible) quadrilateral.
+00:23:12	T	Taking this quadrilateral... without changing the area... make it into a triangle.
+00:23:24	T	This shape of the quadrilateral, without changing the area, please try making it into a triangle.
+00:23:32	T	Okay, then... please think for three minutes and try doing it in your own way. Okay begin.
+00:23:38	SN	We can't open our textbooks?
+00:23:40	T	Right?
+00:23:41	SN	This (inaudible).
+00:23:43	SN	Teacher, can we open our textbooks, yet?
+00:23:45	T	Hm? The textbooks? First try thinking about it by yourselves.
+00:23:48	T	Okay?
+00:23:49	T	You know that it was in the textbook, huh?
+00:24:05	T	You're sharp, huh?
+00:24:32	T	You're sharp.
+00:24:40	T	We- well Maehata.
+00:24:47	T	You can't do it with it just as it is, right?
+00:24:49	SN	I don't change this?
+00:24:49	T	Uh huh. It's a quadrilateral, right? If it becomes wha- what sided shape can you do the problem?
+00:24:53	S	Triangle.
+00:24:53	T	Yes.
+00:24:56	T	If it becomes- what sided shape can you do the problem?
+00:25:00	T	If it's just as it is it's a quadrilateral, right?
+00:25:02	S	So we're to make a quadrilateral into a triangle?
+00:25:03	T	Yes.
+00:25:04	T	Right? If everybody had a triangle and parallel lines then they can do it, huh?
+00:25:08	S	Huh?
+00:25:10	T	That's right. You're sharp.
+00:25:16	T	That's good.
+00:25:18	T	Hm. That's right, that's right, that's right. You noticed a good point. That's right. That's right. That's right. That's right.
+00:25:23	SN	Teacher, the one we call the triangle isn't just one?
+00:25:25	T	Huh?
+00:25:26	S	One?
+00:25:26	T	No.
+00:25:27	S	In addition?
+00:25:27	T	It may be that you can get many types, huh?
+00:25:29	S	Is it okay with two?
+00:25:30	T	It's okay even if it's two types or even it's three types.
+00:25:32	T	Okay?
+00:25:34	T	Bando. You're sharp.
+00:25:35	SN	Huh?
+00:25:36	T	You're quite sharp.
+00:25:37	T	What do we need to do to change this into that? How can we do it?
+00:25:41	SN	Triangle.
+00:25:41	T	Triangle and yes. That's right, huh?
+00:25:45	T	Since you can't do it just as it is so.
+00:25:48	SN	What are you saying.
+00:25:51	T	Hm.
+00:25:52	T	Oh. That's sharp, huh? You noticed a good point. A triangle has been made, right? Then, okay?
+00:25:58	T	When you look at it like this then there is a triangle and how can we change it, may I ask?
+00:26:04	T	Hm?
+00:26:07	SN	Huh?
+00:26:08	T	For example, do you want to think about it with the triangle over he- over here?
+00:26:10	T	What did we have to do to make a triangle that has the same area as this triangle, may I ask?
+00:26:15	T	Can't you use what you saw on the TV screen.
+00:26:19	T	That's right, huh? That's right, huh? Yes. (inaudible) nicely at the bottom.
+00:26:27	T	Are there anymore other than this one?
+00:26:28	T	The fact that you can get one on this side means that... then if we extend it a little like this then... huh?
+00:26:34	T	The fact that you got one like this means that... can't you make one on this side?
+00:26:39	T	Okay?
+00:26:43	SN	Teacher. Teacher.
+00:26:44	T	Are you done? You're sharp. Then people who are done please go to Instructor Ebina again.
+00:26:50	T	And, uhm, then people who want hints I will leave hint cards here so please look at them and try doing it.
+00:26:55	T	It's also fine to do it with your friends. Okay begin.
+00:27:02	T	Uhm. It's also fine for people who don't understand to ask me.
+00:27:08	SN	Oh. But I don't think it's limited to one (inaudible).
+00:27:10	SN	There is one more.
+00:27:16	SN	Teacher.
+00:27:18	T	Yes.
+00:27:18	S	This is okay?
+00:27:19	T	Yes.
+00:27:20	S	How many? How many do I make?
+00:27:21	T	I wonder how many can you make?
+00:27:23	S	Is it okay with one?
+00:27:24	T	Hm?
+00:27:25	S	(inaudible)
+00:27:26	T	Yes. It's okay if first of all you get one, but-
+00:27:29	S	With one zero.
+00:27:30	T	Is one all you made?
+00:27:30	S	(inaudible)
+00:27:32	T	In all? There's three.
+00:27:37	S	How many can we make? This?
+00:27:38	T	Hm. I wonder how many all of you can mak- make.
+00:27:40	S	Oh, I see. That's what you mean.
+00:27:41	T	Yes. The answer is not just one.
+00:27:53	SN	Oh. That's right, huh? Oh. That's right, huh? Oh.
+00:27:59	SN	I got it.
+00:28:00	SN	(inaudible)
+00:28:02	SN	It's fine with this, right?
+00:28:14	SN	Huh? It's wrong.
+00:28:15	SN	Huh?
+00:28:17	SN	Now. The ones I haven't got yet teacher (inaudible).
+00:28:25	SN	Wonderful.
+00:28:34	SN	Teacher. That's unfair.
+00:28:36	T	There is no possibility.
+00:28:45	SN	Excuse me. It's okay with this, right?
+00:28:46	T	Yes. If you got one on this side then-
+00:28:49	S	(inaudible) I can get it over here and over here from this-
+00:28:50	T	Hum?
+00:28:51	T	You can do that too. And can't you make a triangle over here that is the same as this?
+00:28:56	S	Well that's right, huh?
+00:28:57	T	Right? The same as before. You can get it on the opposite side, right?
+00:28:59	S	Would I know all of them doing it like that?
+00:29:00	T	Hm. You'll notice them- If you notice them then that will be great.
+00:29:02	S	Am I supposed to draw all of them?
+00:29:04	T	I wonder how many ways it can be made?
+00:29:05	S	Eight.
+00:29:05	T	You're sharp.
+00:29:25	SN	I think it's the same area as this quadrangle of the hint card and the notebook.
+00:29:33	T	You're advanced to a good place in the problem.
+00:29:36	SN	Yes.
+00:29:37	SN	I got it. I got it. I got it.
+00:29:38	O	Are you going to make it into an upright state?
+00:29:41	O	Are you going to fold it like this?
+00:29:47	O	If you have folded this then, okay? What kind of shape will it become?
+00:29:50	T	Yes.
+00:29:51	O	It won't at least overlap, right?
+00:29:52	T	Yes.
+00:29:52	SN	I got it.
+00:29:52	SN	Well.
+00:29:52	O	Because (inaudible).
+00:29:53	T	Yes. You've gotten up to a good place in the problem.
+00:29:54	SN	But after th- that I'm having problems.
+00:29:56	T	Yes. Then okay?
+00:29:57	S	Yes.
+00:29:58	T	If this corner- for example it's good if the corner here was gone, right?
+00:30:03	T	I'll draw a line longer here, okay? Ones that are same as the area of this.
+00:30:08	T	Things like these dr- are also the same, right? Things like these are also the same, right? There's a lot, right?
+00:30:12	T	For example, if the corner here becomes straight with this here and here then this is...
+00:30:16	SN	Teacher.
+00:30:17	SN	Parallel. (inaudible)
+00:30:17	SN	Does it have to be teacher Ebina who looks over my work?
+00:30:19	T	Wai- It's okay to come to me to have your work looked at.
+00:30:20	SN	Triangle.
+00:30:21	T	The fact is we're making a triangle- a quadrangle into a triangle you do what to one angle?
+00:30:23	SN	Nagai. It's because there's a lot of people waiting in line for teacher Ebina.
+00:30:26	SN	Reduce.
+00:30:26	T	All you have to do is decrease it, right? That means that to reduce angles you take one-
+00:30:32	SN	Parallel.
+00:30:33	T	Yes. We have to make it straight, right? Then you get a triangle like this. A triangle like this. And also?
+00:30:37	SN	(inaudible) It's okay with this line segment.
+00:30:40	T	If you get one over here then this time also on this side...
+00:30:42	T	Yes. We get the same thing. Okay? Are there any others? You can also do this side, right?
+00:30:42	SN	The same thing.
+00:30:47	SN	Teacher.
+00:30:48	T	Please think about it in many ways.
+00:30:49	S	It's not just one, right? Is it okay with this?
+00:30:51	T	If you notice this one then, okay?
+00:30:52	S	You'll also notice the one over here, huh?
+00:30:53	T	You'll notice it, right?
+00:30:55	S	[Laughter]
+00:30:55	T	Why can't you d- it when you know it?
+00:30:58	T	Hm. Ohba, how are you doing?
+00:31:00	T	Hm. You've gotten to a good place in the problem, huh?
+00:31:03	T	The fact that we're making a quadrilateral into a triangle means what happens to the number of angles?
+00:31:10	S	I don't understand.
+00:31:10	T	Hm. The number of angles goes from four to...
+00:31:13	S	Three.
+00:31:13	T	It becomes three, right? It's reduced by one, right? That means that here,
+00:31:20	T	it's good if the angle in this quadrilateral is gone. For example, if here were to become straight.
+00:31:24	S	Draw a parallel line and.
+00:31:26	T	You get a triangle like this? Do you understand? Here and here are the same, right?
+00:31:31	T	This okay? How about this side? Can't we make somewhere? Straight like this?
+00:31:37	S	(inaudible)
+00:31:43	T	How will it be I wonder?
+00:31:48	T	Are you done?
+00:31:48	SN	I have gotten only one yet.
+00:31:49	T	Then would you draw four.
+00:31:50	T	Ahh. Can I borrow four. Ah. We don't have time. Ti-
+00:31:50	S	Where do I draw it?
+00:31:57	SN	Teacher, I don't understand it very well, but-
+00:31:59	T	Hm, okay?
+00:32:00	SN	There's eight.
+00:32:01	T	Do you have your notebook?
+00:32:01	SN	I do.
+00:32:02	T	Hm.
+00:32:02	S	Then look at it. Teacher.
+00:32:07	T	What is it? Snobbishly. (inaudible)
+00:32:13	T	If it has become this, then can we do it?
+00:32:16	T	You can't do it as it is a quadrilateral?
+00:32:19	S	It's this.
+00:32:19	T	Yes.
+00:32:21	S	It's okay?
+00:32:23	T	And also?
+00:32:25	S	Here?
+00:32:26	T	Don't you have to draw a parallel line to the triangle?
+00:32:29	S	It's here.
+00:32:29	T	Triangle and- hm.
+00:32:31	S	Here?
+00:32:31	T	Yes.
+00:32:33	SN	Teacher.
+00:32:34	SN	That's funny you know?
+00:32:36	T	Then- wait a moment. I'm sorry, okay? Then where is the tri- quadrilateral, oh, triangle that's equal to the area here? Hm.
+00:32:42	SN	Here.
+00:32:44	T	No, it's not. Since it's parallel like this so in the parallel lines where is the qua-... that's equal to here?
+00:32:51	S	This is a little off. Teacher.
+00:32:51	T	Hm. That's right. It becomes more off.
+00:32:54	SN	Hm. (inaudible) here and here and (inaudible) to here.
+00:32:57	T	Hm. Hm. You drew this and this?
+00:33:00	T	Then okay? If you have drawn it on this side, okay? Isn't there one more parallel line- a triangle?
+00:33:04	SN	Huh?
+00:33:05	T	You cut it doing like this- doing it like this- into two- doing it like this, right? The triangle is over here, right?
+00:33:08	S	Then also over here.
+00:33:10	T	If you cut it like this, then here with this one diagonal line, would you get a triangle just over here?
+00:33:14	S	I can do this.
+00:33:15	S	And it comes over here and-
+00:33:16	T	Yes.
+00:33:16	S	Over here is also (inaudible).
+00:33:18	T	Is it just over here? Won't it extend to this side?
+00:33:22	T	Look.
+00:33:24	T	You noticed things like this on this side, right?
+00:33:25	S	Uh huh.
+00:33:26	T	Then. This area and over here are the same, right? Isn't there anything like this over here, okay?
+00:33:30	S	Oh. Oh, oh, oh.
+00:33:32	T	Hm? Oh. It's over here, huh? Over here. Over here. Things like this. (inaudible) On this side.
+00:33:32	S	Oh.
+00:33:36	S	Oh. That's right, huh?
+00:33:36	T	Right? If there is a right side then there is a left side also, right?
+00:33:39	SN	(inaudible) How about this?
+00:33:40	T	Yes. Then triangles that are the same with this area are, hm... there are a lot of these, right? Ones like this.
+00:33:47	T	Many different kinds.
+00:33:49	T	And the fact that we're making a quadrilateral into a triangle means that we do what to one angle?
+00:33:52	SN	Get rid of it.
+00:33:52	T	All you have to do is get rid of it, right? Please get rid of one somewhere. When it moves to where would it disappear?
+00:33:54	O	It's an interesting thought, huh? That's good, huh? I like ones like that. Well please think with this. In total there's a lot more. Good.
+00:33:57	T	Yes. Here if you make this straight like this then this angle disappears, right?
+00:34:02	T	This is one answer, right? The one before this one. Triangles like this. Also?
+00:34:07	T	If there is one on this side then how about this side?
+00:34:09	SN	Yes.
+00:34:10	SN	Oh.
+00:34:10	T	Hm. Where is it?
+00:34:12	SN	Here if there is one then-
+00:34:15	T	Yes.
+00:34:16	SN	It's somewhere here, huh?
+00:34:17	T	That's right. That's right. That's right. That's right.
+00:34:20	T	That's right (inaudible) keeps on bending and the angle disappears.
+00:34:22	SN	Here?
+00:34:23	T	Hm. Since we want to lose this angle so this... hm, isn't it a little bent?
+00:34:29	T	Did you get it?
+00:34:31	T	Yes. That's right. That's right. That's right. You're at a good point,
+00:34:34	T	and then we want to get rid of this angle, right? From four to three. If it becomes like this then this angle?
+00:34:38	SN	It disappears.
+00:34:38	T	It disappears, right?
+00:34:39	SN	Yes.
+00:34:40	T	And if you get one on this side, then this time can't you also get it on this side?
+00:34:42	S	Yes.
+00:34:44	SN	Am I to draw all of these?
+00:34:46	SN	This. This.
+00:34:47	T	Phuse. For this there are t- two more, more.
+00:34:50	SN	Is it okay to change some?
+00:34:51	T	Hm?
+00:34:52	S	One that is a new (inaudible).
+00:34:53	S	Why?
+00:34:53	T	You're kidding.
+00:34:54	T	You found a new one? That's good. Then would you draw it then like this? If you have another one.
+00:34:57	S	Well, it's okay with it here.
+00:34:58	T	Hm. Please draw it. It's okay, it's correct.
+00:35:00	SN	(inaudible)
+00:35:02	T	Can you shrink it?
+00:35:03	SN	Uh, well...
+00:35:04	T	Well you don't understand it well?
+00:35:06	T	But you were able to do it? You made this triangle and this the same, right?
+00:35:11	T	This. Then can't you get one on this side?
+00:35:13	SN	Still. Still how do I get it?
+00:35:15	T	You don't understand it well? Is it okay?
+00:35:18	T	There is something like this here, right? A triangle, huh?
+00:35:21	T	Then how many triangles are there that are the same as this triangle?
+00:35:25	T	The ones we call triangle's ar- triangles that are the same as this triangle's area.
+00:35:30	T	There are ones like this and there are ones like this and the fact is there are a lot of them.
+00:35:34	T	Also a lot of them over here. Oh. This is. This.
+00:35:37	T	If you look at it like this then it's a triangle and parallel lines, right?
+00:35:39	T	And to fix triangles into quadrilaterals- Oh, I'm sorry. The fact that we're making a quadrilateral into a triangle means...
+00:35:44	T	all we have to do is reduce the angles by one, right?
+00:35:47	T	That means that if this becomes straight, then the angle here disappears, so you get
+00:35:52	T	a triangle like this.
+00:35:54	T	Then on the other side. Then is this the only triangle that we can get?
+00:35:58	SN	Oh.
+00:36:00	SN	Teacher. Will methods like these also work- Oh, I'm sorry.
+00:36:04	T	Yes. That's right, huh? You can also do that, right?
+00:36:06	S	Can I also do that?
+00:36:08	T	Hm?
+00:36:11	SN	But, this is triang-
+00:36:12	T	It hasn't become a diagonal line.
+00:36:14	SN	Quadrilateral. Quadrilateral.
+00:36:15	SN	It's no good if it's a quadrilateral. It hasn't changed at all. Teacher. I'll also do one for you.
+00:36:17	T	First of all this diagonal line like this.
+00:36:19	SN	Triangle like these are (inaudible) okay?
+00:36:19	T	Please do a different one.
+00:36:21	SN	It's like this.
+00:36:21	T	Uhm.
+00:36:23	T	The diagonal line isn't done, okay?
+00:36:23	S	In the end this is-
+00:36:24	S	Just now I made a little mistake.
+00:36:25	T	You made a mistake?
+00:36:26	S	Which diagonal line?
+00:36:28	T	Hey, you. This isn't good if it's the middle point.
+00:36:30	S	Huh?
+00:36:31	T	It's not good if it's the middle point. It's not a triangle. This.
+00:36:33	S	[Laughter]
+00:36:34	S	Like this, like this.
+00:36:35	T	Huh?
+00:36:35	SN	I don't understand this.
+00:36:36	T	You drew it like this?
+00:36:36	S	It's not a triangle.
+00:36:37	T	This becomes straight and-
+00:36:37	T	Oh.
+00:36:37	SN	That's wrong. That's wrong. That's wrong.
+00:36:39	SN	Oh. Over here? Huh?
+00:36:40	T	This is where it's supposed to be straight, okay?
+00:36:41	S	That's right. Straight.
+00:36:42	T	It doesn't look straight, okay?
+00:36:43	S	This. Straight.
+00:36:45	T	Oh. That's right. That's right. That's right. Hey, it's crooked.
+00:36:47	S	Like this.
+00:36:47	T	If it's that, it's okay. Okay, okay, okay. Please have it drawn neatly.
+00:36:51	SN	Two.
+00:36:53	T	How many methods have you found?
+00:36:55	SN	I don't know yet up to where I did.
+00:36:57	T	You don't know anymore? The reasons? Yes. Quoi.
+00:36:59	T	You've gotten to a good point in the problem. Then okay?
+00:37:02	T	Since we're making a triangle into a quadri- oh, I'm sorry a quadrilateral into a triangle-
+00:37:04	T	So all you have to do is get rid of one angle okay?
+00:37:06	T	For example, if you do it like this how is it?
+00:37:08	T	Is better over here?
+00:37:10	T	For example, when this becomes straight how about it?
+00:37:14	T	If it becomes like this?
+00:37:17	SN	Also what do I do?
+00:37:19	T	How about a triangle like this?
+00:37:20	T	The area of the triangle over here is the same, right? This triangle and
+00:37:25	T	this triangle are the same, right? This has become straight, right?
+00:37:28	T	Then this becomes a triangle, right?
+00:37:30	T	Do you understand? The problem?
+00:37:31	T	Are you okay? Is there another one?
+00:37:34	T	Yes. Then if you make this straight over here then what kind of triangle will it be?
+00:37:37	SN	[Laughter]
+00:37:39	T	Yes. Oh, you're making two triangles, huh?
+00:37:43	T	Hm? It's good if you make it into- a triangle. Just like before draw a line somewhere and try making a triangle.
+00:37:48	T	If you draw a line wh- where then would you get a triangle?
+00:37:54	T	It's like this, right? It's like this or like this, huh? Area. Okay? What's up?
+00:38:00	T	How many methods did you get?
+00:38:01	SN	Still only two.
+00:38:01	T	First of all this is correct, huh?
+00:38:02	S	No. Something. I thought something might be wrong.
+00:38:04	T	Hm. Hm. Hm? You said it might be wrong. Why did you think it might be wrong?
+00:38:06	S	Something. The base (inaudible). The question is where to put the base, right?
+00:38:11	T	That's right. That's right. That's right. That's right. You're sharp.
+00:38:13	SN	Huh? Huh?
+00:38:14	SN	(inaudible) just us.
+00:38:15	SN	You're so noisy. Why don't you shut up?
+00:38:18	SN	She is so scary.
+00:38:20	SN	I'm not scary.
+00:38:26	T	Chiba. How many methods did you get?
+00:38:28	SN	Two.
+00:38:29	T	You got two, right?
+00:38:30	T	Yes. You're done, right?
+00:38:33	T	Yes. That's right. That's right. That's right. It's good, okay? Then is it over with these with two?
+00:38:38	T	Then how about this side? This side? Isn't there one that's the same as this triangle?
+00:38:48	T	How many did you get Ryu?
+00:38:50	T	Are you worried thinking about it?
+00:38:51	SN	One.
+00:38:52	T	You were able to get one? This okay?
+00:38:55	T	You got it, right? Something like this.
+00:38:57	T	You got something like this, right?
+00:38:58	S	Yes.
+00:38:59	T	One that is the same as this, is this, right?
+00:39:00	S	Yes.
+00:39:00	T	Is the area that is the same as this triangle just this?
+00:39:02	O	Sada. It's better to slide it to the other side.
+00:39:05	O	Is it this?
+00:39:06	O	Hmm. That's good, huh?
+00:39:07	S	Hm.
+00:39:07	T	Hm? Can't you make one on th- this side?
+00:39:10	SN	This side (inaudible) a lot.
+00:39:10	SN	Yes. I can.
+00:39:11	T	You can, right? With that for now it will be two methods, right?
+00:39:13	SN	It doesn't look like it. It doesn't look like it. It doesn't look like it.
+00:39:15	T	Did you understand the meaning?
+00:39:17	T	Then is it just this side where we can draw parallel lines?
+00:39:20	SN	Over here?
+00:39:21	T	You can draw it, right?
+00:39:21	SN	It's easy to see, huh?
+00:39:22	T	Hm.
+00:39:24	T	How about it? Are you done?
+00:39:25	SN	Yes.
+00:39:26	T	Oh.
+00:39:27	T	How many methods did you get?
+00:39:28	SN	Only two yet.
+00:39:29	T	Two?
+00:39:32	T	You found ones like these? Hm? This. Hm? Which is it?
+00:39:36	S	One like this and-
+00:39:37	S	And this. This.
+00:39:37	T	Yes.
+00:39:41	T	Oh. Over here, huh?
+00:39:42	S	Hm.
+00:39:43	T	Then, okay? There are parallel lines like this, right?
+00:39:46	T	If the one that is the same as this triangle is this, then also at this side,
+00:39:51	T	you got it huh?
+00:39:52	SN	(inaudible) [Laughter]
+00:39:54	T	You want to do it?
+00:39:56	T	Then would you do one of a different type? After you look for it.
+00:39:58	SN	I found eight.
+00:39:59	T	Hm?
+00:40:00	S	Eight. Eight.
+00:40:00	T	Eight? You noticed the fact that there are eight? Splendid.
+00:40:08	T	Oh. That's good, huh? Uh, you're doing well.
+00:40:12	T	Are there others, Taniguchi?
+00:40:15	T	Hm?
+00:40:16	T	Then okay? Which ones did you get? This and... one like this and one like this, huh?
+00:40:22	T	Now then, is it just this side where we can draw parallel lines?
+00:40:25	SN	This side.
+00:40:26	T	You can also draw them over here, right? Then can't you transform this triangle?
+00:40:30	S	Over here.
+00:40:31	T	Yes. If you draw it over here, then the area that is the same as this triangle is...
+00:40:35	T	this original figure has become somewhat harder to understand but-
+00:40:38	S	This (inaudible).
+00:40:38	T	Yes. Then it's okay to draw one more- one more or.
+00:40:46	T	Hm.
+00:40:48	T	That's good. This, okay?
+00:40:52	T	You did it so it says this triangle and the triangle over here are the same, right?
+00:40:54	T	Is it just this side where you can get it?
+00:40:56	SN	Over here also.
+00:40:57	T	Hm?
+00:40:59	S	Over here.
+00:41:00	T	On this side?
+00:41:01	S	We can do it.
+00:41:01	T	We can do it, right? Then we can do it over here, right?
+00:41:04	T	Then how about this? Is it just this side where we can do it?
+00:41:05	S	This side.
+00:41:05	T	We can do this side also, right? How about this?
+00:41:08	T	Oh. You were able to do this. Over here. Hm?
+00:41:10	S	No.
+00:41:15	T	This is- you drew it like this and oh, you drew it like this? Yes. Yes. Yes. This is good, huh? Oh.
+00:41:20	T	This- it's the same as this, huh? Draw over here and you can do this, right? If you do that.
+00:41:25	T	You've gotten to a good point in the problem.
+00:41:37	T	You found eight?
+00:41:38	SN	Yes.
+00:41:39	T	That's amazing.
+00:41:40	SN	Eight?
+00:41:42	T	How many did you get?
+00:41:43	SN	Huh?
+00:41:43	T	How many did you get?
+00:41:44	S	Huh?
+00:41:45	T	How many? One. Did you get one? It's okay if you get one.
+00:41:46	S	I could only get one.
+00:41:49	T	Okay? You were close in getting the other, huh? How did you get one?
+00:41:52	SN	Can I borrow this of yours, Usui?
+00:41:53	SN	No way.
+00:41:54	T	Hm. Oh. It's okay, right? You got one, right?
+00:41:56	SN	Yes.
+00:41:57	T	Then these are parallel, right?
+00:41:59	S	Which?
+00:41:59	T	This. This is parallel, right? This and this.
+00:41:59	S	Huh? This?
+00:42:00	S	Yes.
+00:42:01	T	Then the triangle and this orange-colored object is the same, right?
+00:42:03	S	Yes.
+00:42:04	T	Then do you get it only on this side?
+00:42:06	S	No.
+00:42:07	T	Which side?
+00:42:07	S	This side also.
+00:42:08	T	Hm? We can get it over here also, right? Already you found two.
+00:42:11	S	Yeah. Oh. Is it that?
+00:42:12	T	Yes.
+00:42:14	SN	Oh. With here (inaudible), huh?
+00:42:18	SN	(inaudible) Oh. That's terrible of you. (inaudible)
+00:42:22	T	Is it okay? This?
+00:42:24	SN	I can see this.
+00:42:24	SN	That's terrible.
+00:42:24	T	[Laughter] (inaudible)
+00:42:25	SN	That's terrible.
+00:42:27	SN	[Laughter]
+00:42:28	SN	(inaudible)
+00:42:29	SN	That's terrible.
+00:42:30	SN	(inaudible)
+00:42:31	T	Huh?
+00:42:32	SN	The fact about selecting our class is a mistake.
+00:42:33	SN	[Laughter]
+00:42:33	T	It's an excellent class right?
+00:42:37	T	One more. Lastly... would you do it for us, okay?
+00:42:39	SN	I'll do it.
+00:42:41	T	Well, please draw one that is not already there. After you look for it yourself. Okay?
+00:42:45	SN	You're still going to it?
+00:42:48	T	Try looking for it.
+00:42:49	SN	(inaudible)?
+00:42:49	SN	I always do it, right?
+00:42:51	T	Hm. Look for it. One that's not there.
+00:42:53	SN	Teacher. Please tell me.
+00:42:53	SN	May I wash my hands?
+00:42:55	T	(inaudible)
+00:42:56	SN	Teacher. How many are there left?
+00:42:57	SN	I don't get it.
+00:42:58	T	Hm?
+00:42:59	SN	Then this also? This also?
+00:43:01	SN	There are eight, right? If I remember.
+00:43:03	SN	There are one, two, three...
+00:43:03	SN	I don't understand it.
+00:43:05	SN	It's very hard to write on it.
+00:43:05	SN	Five, six, seven, eight, nine, ten types.
+00:43:07	T	Hm?
+00:43:08	SN	I don't understand it from here.
+00:43:09	T	Hm. You don't understand?
+00:43:11	T	You got one here, right? It's good with this as one. (inaudible) With this you got one.
+00:43:13	SN	What is it?
+00:43:15	T	These are parallel, right? This triangle and the triangle over here are the same, right?
+00:43:19	T	And so you got a triangle here. See?
+00:43:19	SN	Ten types?
+00:43:20	SN	Oh. Oh. Is that true?
+00:43:22	T	Right? Then if you get one on this side then?
+00:43:25	SN	Over here.
+00:43:26	T	Yes. We can get it there, right? You've already got it.
+00:43:38	T	Now then. Wait a minute. I don't know anymore which ones are which.
+00:43:42	SN	Teacher.
+00:43:42	T	Yes.
+00:43:43	S	This is (inaudible).
+00:43:44	T	Oh. You noticed a lot, huh? How many types did you f- notice?
+00:43:49	T	Hm. First of all, this is one, right? Two, right? Over here is three. Four.
+00:43:54	T	Okay. Now, then this time is drawing diagonal lines just on this side?
+00:43:56	S	Huh?
+00:43:59	T	Hm? Other than this side can't you get a triangle? A way to partition it?
+00:44:03	S	Huh?
+00:44:03	T	That's right. That's right. That's right. Even on this side it's good if you think about it in the same way, okay?
+00:44:07	SN	This. I'm not sure, but did both of them come off? The other one was still stuck here but.
+00:44:10	SN	I was able to make a hexagon into a triangle.
+00:44:13	T	What? You want to make a hexagon into a triangle?
+00:44:14	SN	Yes.
+00:44:14	T	All right. Then.
+00:44:15	SN	Actually I don't want to.
+00:44:16	T	Since you, Phuse, are asking for it let's do it, okay?
+00:44:18	SN	You're going to make a hexagon into triangle?
+00:44:23	T	Hm.
+00:44:31	O	Okay. Were all of them found?
+00:44:33	SN	Yes.
+00:44:33	O	You found them? These then are quadrilaterals, right? The ones we're doing right now.
+00:44:39	T	Do you want to do them all at once?
+00:44:40	O	Do you want to do them all at once?
+00:44:40	SN	[Laughter]
+00:44:41	SN	Thank you.
+00:44:41	T	I don't mind. [Laughter]
+00:44:42	SN	Penta- pentagon. Pentagon. Pentagon.
+00:44:43	SN	Six. Six. Six.
+00:44:45	SN	Take six. Si-.
+00:44:45	SN	If it's a pentagon isn't it (inaudible)?
+00:44:46	T	(inaudible)
+00:44:47	SN	So what. (inaudible)
+00:44:49	T	Who was that who said he or she found eight?
+00:44:50	SN	(inaudible)
+00:44:52	SN	It's these three.
+00:44:52	T	Did you (inaudible)?
+00:44:53	SN	[Laughter]
+00:44:54	T	Next, okay? Challenge to change a pentagon, okay? Make a pentagon into a triangle.
+00:44:54	SN	I don't know. At once change to a triangle from a circle.
+00:44:56	SN	Huh?
+00:44:56	SN	Cir- circle.
+00:44:57	S	Make a circle into a triangle.
+00:44:58	SN	Huh?
+00:44:59	O	It becomes more and more difficult.
+00:45:00	T	Okay?
+00:45:04	T	You found it... did you? Okay, then... one two... one two... three... four, okay. One, huh?
+00:45:18	T	One. Of this side. One.
+00:45:23	T	Also isn't there one like this?
+00:45:26	SN	Didn't we do this?
+00:45:28	T	One two. There isn't one on this side, right?
+00:45:30	T	Is there one like this? Oh. Is it this?
+00:45:32	T	Is it this?
+00:45:33	SN	That's right huh?
+00:45:34	T	Normal.
+00:45:35	S	Lately I've worked really hard for my life.
+00:45:36	T	Also what else?
+00:45:37	SN	The line have- the lines have become messy.
+00:45:37	T	Is it over with this?
+00:45:39	SN	There should be eigh- eight.
+00:45:40	T	One, two.
+00:45:42	T	What is this? This?
+00:45:43	SN	We haven't done that yet.
+00:45:43	T	One two.
+00:45:46	T	Hm?
+00:45:46	SN	There are eight of them see? There are even ten quadrangles.
+00:45:47	T	Are all of them there? One, two, three, four, five, six. There are only seven, see?
+00:45:50	S	Why?
+00:45:51	T	What is that over there?
+00:45:52	SN	I don't know anymore which is which.
+00:45:54	SN	One more.
+00:45:55	SN	The top of this one is this, right?
+00:45:57	T	Is it this? Then it's this. Since it's the top of this.
+00:45:59	SN	I don't know anymore which is which.
+00:46:01	SN	What?
+00:46:01	SN	I don't understand.
+00:46:01	T	It's this, right? This one's
+00:46:03	SN	No. No. There is the bottom one see? Here.
+00:46:04	T	I think we don't have the top one see?
+00:46:05	SN	It's two more.
+00:46:06	S	Oh. The opposite side.
+00:46:07	SN	Oh.
+00:46:08	T	Okay. Thank you.
+00:46:09	S	Okay.
+00:46:10	T	Okay then everyone please return to your seats at once.
+00:46:12	SN	Yasuda. Hasn't drawn it, okay?
+00:46:14	T	Okay. I'm sorry.
+00:46:15	T	Everyone, let's get to our seats.
+00:46:17	T	Okay?
+00:46:18	T	Okay, then... everybody, okay? Did it for us, okay?
+00:46:21	SN	Did you find eight? Good.
+00:46:23	SN	Uhm. I don't understand.
+00:46:26	SN	Teacher, there is no time left.
+00:46:27	T	Huh?
+00:46:28	S	Time.
+00:46:28	T	There isn't time? That's true, huh? Now then... well, okay?
+00:46:36	T	For the convenience of explanation we will put in symbols.
+00:46:40	T	There were some who were doing it already labeled them, but okay? We will make them A, B, C, D, okay?
+00:46:45	T	And right now in the beginning we draw a diagonal line through A to C and
+00:46:50	T	draw a diagonal line from A to C and we will make a triangl- we were able to make two, right?
+00:46:55	T	And, uhm, if you ask which ones are the triangles we found that go through this D are... this and
+00:47:02	T	this, right? This one is made like this on the bottom side like this. This one is on the top side.
+00:47:10	T	Since this triangle and the original triangle are the same,
+00:47:13	T	so it becomes a fact that we changed this, um, quadrilateral into a shape like this, right?
+00:47:19	T	Uhm, next we drew in the same way through A C but this time we drew the parallel line on the B side.
+00:47:30	T	Okay? Those are this and... this, okay?
+00:47:30	T	It's this and this, okay. Is everything okay? Then I will ask.
+00:47:34	T	Uhm. About how many people are there who says he or she found this i- were able to find it?
+00:47:40	T	Okay. People who say they were able to find this one.
+00:47:43	T	There are about the same number of people, huh? Um how about this one?
+00:47:46	T	The D one. The sharp tri-. How about this one?
+00:47:49	T	Okay. That's good. Thank you. Okay. What is it? You don't understand?
+00:47:50	SN	I don't understand all of them.
+00:47:52	T	On this side this time we will draw it on the B D side. Then in the same way, um, which one is it?
+00:48:00	T	Ones that we drew through B D and drew a parallel line through vertex A are this and... this, okay?
+00:48:06	T	Those are the triangle that we make on this side and the triangle we make on the top, right?
+00:48:11	T	And also the ones where we drew a line through B D and we drew a parallel line on the C side are this and... which one is it?
+00:48:21	T	Which one is it?
+00:48:23	T	Is there none?
+00:48:24	T	Is this it?
+00:48:26	T	Huh?
+00:48:27	T	It's wrong? Is this it?
+00:48:29	T	This? Huh? Is it? Okay then... for the time being, okay?
+00:48:33	T	We don't have much time but with the computer... I will explain it a little, okay?
+00:48:40	T	It's something. We have done it, but-
+00:48:42	T	Well, the screen is not showing up.
+00:48:44	SN	It's showing.
+00:48:44	T	It's showing. Uhm, right now, well, the symbols are different from over there, but on B D... for now... we'll draw a line. And we will connect A.
+00:48:45	SN	It came out.
+00:48:55	T	The parallel line is done. It's two parallel lines.
+00:48:58	T	Then there are a lot of them like this which are the same area as this triangle, okay?
+00:49:04	T	There are many of them, but... within these... since, the fact is, we're making the quadrilateral into a triangle-
+00:49:11	T	Meaning all we have to do is lose one of the angles. The angle here, okay?
+00:49:13	T	When it becomes a straight line then that will become a triangle. Similarly,
+00:49:19	T	if it's this side when this becomes straight... we get a triangle.
+00:49:24	T	Then we have done quadrangles. Next what do you want to do? (inaudible)
+00:49:29	SN	Five pentagon.
+00:49:29	SN	Six hexagon.
+00:49:30	T	[Laughter]
+00:49:31	SN	Twelve-sided.
+00:49:32	T	Phuse. You [Bell] want to do six by all means. Then five. Transform pentagons into triangles.
+00:49:39	T	This. A pentagon's- try drawing a pentagon of your liking. Then penta-
+00:49:39	SN	I don't have a clue.
+00:49:43	SN	That's impossible.
+00:49:44	T	It's impossible?
+00:49:45	S	It's impossible.
+00:49:46	SN	You don't know if it is impossible until you try it.
+00:49:47	T	Okay? Then let's try making the pentagon-
+00:49:48	SN	[Laughter]
+00:49:49	T	into a triangle.
+00:49:52	SN	Right now?
+00:49:53	T	No. I'll make that homework.
+00:49:55	T	Okay? People who are interested you can do ten-angled or twenty-angled or one hundred-angled or anything.
+00:49:59	SN	We- well, they were talking about doing a circle.
+00:50:00	T	A circle?
+00:50:01	SS	A circle.
+00:50:02	T	You'll make a circle into a triangle? It's not impossible.
+00:50:04	SN	Yes.
+00:50:06	SN	Label it A B C D E and quadr- Cut the pentagon into a quadrilateral, quadrilateral and-
+00:50:11	T	Yes.
+00:50:12	S	(inaudible) the quadrilateral.
+00:50:12	T	Oh. Yuki has just now told us the method of doing it.
+00:50:15	T	The fact is... won't it be okay if, first of all, you make the pentagon into a quadrilateral, and then make the quadrilateral into a triangle-
+00:50:19	T	is all. Okay then you worked very hard... amazingly hard. Okay?
+00:50:25	SN	Then today let's get something to drink at the (inaudible).
+00:50:26	T	It's wonderful, huh?
+00:50:27	T	What? [Laughter] Okay, then we will end class.
+00:50:27	SN	(inaudible)
+00:50:31	SN	Stand.
+00:50:31	SN	Stop doing (inaudible).
+00:50:33	SN	Reward. Reward.
+00:50:40	T	Okay. Then let's say the farewell properly.
+00:50:41	SN	Attention.
+00:50:44	S	Bow.
+00:50:45	Ss	Thank you very much.
+Ê

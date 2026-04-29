@@ -1,0 +1,2345 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math US2 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This goes under your desk, Jared. [T] Okay everybody, please put your books away. Quietly take out paper to start the warm-up."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay everybody, please put your books away. Quietly take out paper to start the warm-up. [T] Quietly have your homework out on your desk. I'm going to come around and check it please. [T] Tim, there's something under your chair. [T] Let's go, start the warm-up please."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes? [T] Yes, quickly please. [T] Yes? [T] Yes, quickly. [T] Let's go. Come on. Quickly."
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Let's go. Come on. Quickly. [T] Brandon please do the warm-up. [T] Jared? [T] Okay. Next time do it in pencil. [T] Okay. Looks good. Keep doing your work, okay."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Looks good. Keep doing your work, okay. [T] John, Adrian, please do the warm-up, okay? Let's go to the warm-up. Ryan, homework? [T] Okay. Very good. Thanks. [T] Yes Bren?"
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Quickly please. [T] You didn't do this part? [T] Okay. [T] Okay, that's good."
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, that's good. [T] Keep doing your work, okay? [T] John, (inaudible). [T] Okay, good job. [T] Okay, take that one out, put it on my desk. Or hand it to me right now please. [T] It's right here, Rosalia. Good work."
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's right here, Rosalia. Good work. [T] Thank you. [T] Okay, you got a misplaced L there. Okay. Make that correction. [T] Oh, and here, you had to do the ones that were left, not the ones you crossed out. [T] Okay."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, good. Let me stamp it please. Good work Irabely. [T] Shaila, homework? [T] Okay. What about this? [T] Okay, when we go over it, make sure if you don't get it, you ask me questions. Okay. Good. [T] John, homework?"
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] John, homework? [T] What about the L? Let's see, I don't- [T] Okay, make that correction. [T] Okay, John, good. [T] Andrea? [T] Okay, good. Good work."
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, good. Good work. [T] Michelle? [T] Okay Michelle, good. Good work. [T] Kristy? What about the answer here? Okay, you have to write it out, okay?"
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Good. [T] Ashley did you pick up what you missed yesterday? [T] No. There were no notes yesterday. [T] Okay. [T] Tim, homework? [T] Okay, missing an E. Forgot the E. [T] Okay. That's very good Tim. Keep doing your homework. This is very good, keep it up."
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. That's very good Tim. Keep doing your homework. This is very good, keep it up. [T] Alex? [T] Very good. Good work Alex. [T] Steve, homework?"
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Steve, homework? [T] Okay, very good. Good Steve. [T] Jen? Oops, excuse me. [T] That's all right. [T] Very good Jen. Good work. [T] Kendra? Okay. Very good. Good work. Thank you."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Kendra? Okay. Very good. Good work. Thank you. [T] Okay, Alex, good. Good work Alex. [T] Brandon, homework please?"
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What, this part here? [T] All right. [T] Yeah, there's some letters here that shouldn't be. So when we go over it, make sure you make the corrections. [T] All right. [T] Diana? [T] A couple of extra letters in here. Okay. So, when we go over it, see if you can make the corrections, okay? Good."
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] A couple of extra letters in here. Okay. So, when we go over it, see if you can make the corrections, okay? Good. [T] Okay, good work Diana. [T] Josh, homework please. [T] That's good Josh. Good work."
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's good Josh. Good work. [T] Dave? [T] Okay, good David. Keep it up. Good work. [T] Marcus- yes it is, very good. [T] Okay Marcus, good. Good work."
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Oh, that's right, you were absent yesterday. Can you take that (inaudible) and make sure I get it in my book. [T] Did you pick up yesterday's homework? [T] Okay, thank you. Patrick, homework? [T] Okay, next page please. [T] Okay Patrick, good. Good work."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay Patrick, good. Good work. [T] Very good, Carly. Good work. [T] Okay. Okay, Aubrey, good work."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, let's begin our warm-up today. Number one, is that a right triangle? John? [T] Yes John, why? [T] Okay, where'd you get the 25 and the 144? [T] Good. Number two, Alex?"
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That is correct. Ten point five nine one three. Number three, Ryan? [T] That is correct. One and eight-fifteenths. Marcus, how about four? [T] That's correct. Four point zero zero five. Number five, Steve? [T] What'd you have Aubrey?"
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Reduce it Jen. [T] That's correct. Aubrey you were correct, you just needed to reduce it. Okay? Questions one through five? John? [T] What did you get for your first set of parentheses? [T] Did you copy it correctly? [T] Okay. Make sure you do that John. Brandon? [T] Ten point five nine one three. [T] Nine point six eight eight three. Make sure you line up your decimals and then-"
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Nine point six eight eight three. Make sure you line up your decimals and then- [T] Okay. Ashley? [T] Correct. [T] Okay, do you have five squared plus 12 squared? Does it equal 13 squared? [T] That's correct, one- [T] Oh, that's why. Okay? [T] Okay, number six, Patrick."
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good. Tim? [T] Good. Josh? [T] Good. John? [T] Very good. Marcus? [T] Okay, good. Another one Patrick?"
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, good. Another one Patrick? [T] Very good. Very good. All right, how about the last one? Ryan? [T] Good. Alex? [T] Good. Ashley?"
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What's nine minus four? [T] That's okay. [T] Marcus? [T] Good, Patrick? [T] Okay. Good. Any questions on your warm up? [T] All right, please take out your homework."
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right, please take out your homework. [T] Okay, on your homework the first page at the very top, graphing the numbers- [T] Should look like this. You simply had to fill in the numbers there."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Should look like this. You simply had to fill in the numbers there. [T] Take a minute, look it over. [T] The second part, we had to list what was in between what they gave us. [T] Again, take a minute, look, see if you have any questions. Brandon? [T] Brandon?"
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, that's okay. [T] Any other questions? [T] All right, then the next section you had to graph them which they simply put a- meant to put a dot on the number line. [T] Some of you drew lines which is okay. Yes, Marcus?"
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] One through four? [T] No, I think- [T] Here? [T] Yeah, so I just drew a dot here and here. It's okay if you put it above it. That's okay. Is that- was that your question? [T] Oh, that's fine too. Just so we know that it's one and four. It's pretty close to those numbers. Any other questions? [T] Okay, how about the bottom. What did it spell out? Michelle?"
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, how about the bottom. What did it spell out? Michelle? [T] Seattle. When we make a deposit into a bank account, does that mean we put money in or take it out? Jen? [T] Put money in. Good. What happens to the balance then when we put money in? Alex? [T] So is that positive or negative Alex? [T] Good. Questions on your first page?"
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'm going to call on people, Brandon. [T] All right, the first row, numbers one two and three, Patrick. [T] Say it again, please? [T] No. One, two, and three. [T] Good. Greater than, less than and less than. How about the next row? John?"
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. Greater than, greater than, less than. The next row, Michelle? [T] That's correct. Row beginning with 10, Ryan? [T] Good. Next row, Brandon? [T] Number 13. [T] Good. They are all greater than there. Andrea, how about the next row?"
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Very good. All right, we're batting a thousand. Tim, next row. [T] Very good. Marcus. [T] Good. And Jen, how about the last row? [T] Very good. How many had all those right? [T] Good job class. Good job. Any questions on the second page? John? [T] Number three?"
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, negative one and positive one? [T] Look up on the- [T] Okay. That's a good- we're not doing absolute value though. Are we? [T] We're just simply like- look at our number line up here John. Negative one or positive one. Which one is greater? [T] Right. That's what they were asking for. Not how far each one was apart from zero. [T] Okay? Any other questions? [T] Okay, third page. What does a Boa Constrictor order at the ice cream shop? Alex?"
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, third page. What does a Boa Constrictor order at the ice cream shop? Alex? [T] A snake shake. [T] Take a minute look at the one. Some of you didn't have the correct ones circled. See if you have any questions. [T] You had to cross out the box and what was left was your answer."
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You had to cross out the box and what was left was your answer. [T] Any questions, people? [T] How many had the entire assignment correct? That's good. Great. No questions? [T] Okay, take out your notes then please."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, take out your notes then please. [T] Okay. [T] What's today's date? Raise your hand? [T] Ryan? [T] The twenty-eighth. Please date your notes. November twenty-eighth. Yes? [T] That's fine. That's the only thing you can do in pen in here."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Volunteer to read our quote of the week? Michelle? [T] Very good. What does that mean, anybody? Patrick?"
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Very good. Anybody else? Brandon? [T] That's correct. And it means don't just learn it as a- because you have to. [T] Learn it because you want to and have it as a part of your daily life because math is? [T] All right. Good. Okay. [T] Today's lesson is titled, Writing Variable Expressions. So please title your notes."
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Today's lesson is titled, Writing Variable Expressions. So please title your notes. [T] Okay, I want you to think for a minute. I know- I know you can do this. [T] There are times throughout the day, I'm sure, where you hear words but in actuality you're talking about numbers."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] There are times throughout the day, I'm sure, where you hear words but in actuality you're talking about numbers. [T] For example, Suzie is six inches shorter than Mary. Anybody else think of an example that you hear? Ashley? [T] Okay. Brandon? [T] Okay. Anybody else? Patrick?"
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Kendra? [T] Good. Good Kendra. Alex? [T] Okay. Is that how much they cost here? [T] Tim? [T] Compared to maybe somebody else's? [T] Okay, good. Now, I want you to think of another example here. [T] Say you have an after school job. You make seven dollars an hour. But this week, you're busy, you can only work two hours."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Say you have an after school job. You make seven dollars an hour. But this week, you're busy, you can only work two hours. [T] But, next week you can work 10. So I'm going to put up here, seven dollars H. [T] What is H? Does anyone know? Alex? [T] It's the hours. Good. [T] What is H called? Does anyone know that? Patrick? Patrick?"
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What is H called? Does anyone know that? Patrick? Patrick? [T] Yes. [T] Patrick. [T] Good. A variable. So writing expressions today, variable is number one. [T] It's a letter that represents a value that can change. [T] The example I gave you, that H can change. Two hours this week. Ten hours next week. Variable."
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The example I gave you, that H can change. Two hours this week. Ten hours next week. Variable. [T] Yes Brandon? [T] Well what goes in for the letter changes? [T] Correct. Yes? [T] Sure. Yes. You can use any letter. Any letter in the alphabet will work."
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, that's a variable. What I wrote on the board, seven H, is called a variable expression because it contains a variable. [T] You'll see it up there as one of the examples and the other two are also examples of variable expressions."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You'll see it up there as one of the examples and the other two are also examples of variable expressions. [T] Can you see? [T] So we have variable and variable expression. [T] Say that job that I have represented up here. You get a raise. You now make seven-fifty an hour. How will that change? Jen?"
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Say that job that I have represented up here. You get a raise. You now make seven-fifty an hour. How will that change? Jen? [T] Okay, so seven point five H, right? [T] Okay. Brandon? [T] Which part? [T] That's just an example. That's just another example of a variable expression. Okay?"
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's just an example. That's just another example of a variable expression. Okay? [T] Okay. Another example. You're going to an Eagles game. [T] Tim? I used Phillies in my other classes but for you Tim, I used Eagles. [T] Okay? You're going to an Eagles game. They're selling hot dogs. They're very good by the way in Philadelphia. [T] So are the cheese steaks, you're right. [T] Okay. But, the hot dogs at Vet stadium where the Eagles play sell for three dollars."
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. But, the hot dogs at Vet stadium where the Eagles play sell for three dollars. [T] I want you to give me a variable expression for N hotdogs. Marcus? [T] Not over because that means divided. [T] Three N. Three N means however many I buy I have to pay three dollars for, right? [T] That's- I just said, that's the N number of hotdogs. That's what I'm using as my variable. Jen?"
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's- I just said, that's the N number of hotdogs. That's what I'm using as my variable. Jen? [T] Yes. That's right. So if I got two hotdogs how much money am I spending? [T] Three times two. Good, Jen. Yes? [T] It can be any letter. Yes, Michelle it can be. Good question. [T] It can be any letter, Brandon. Whatever you choose. Okay, part B today. Evaluating Expressions. [T] What I just did with the two dollars for a hotdog was evaluating an expression."
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What I just did with the two dollars for a hotdog was evaluating an expression. [T] So if I come back to my original example on the board here, seven H, and I said you worked two hours this week, [T] How much money are you going to make this week, Ryan? [T] Fourteen. How much would you make if you worked ten hours next week? Josh? [T] Good. What we just did was we took the number of hours and did what? Michelle?"
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good. What we just did was we took the number of hours and did what? Michelle? [T] Good. But what- we actually put it in for there? Didn't we? Put it in for the H? [T] Well, that's what evaluating means. Substituting a number for a variable. Yes? [T] Yes. We substituted two for the N. [T] We evaluated that example."
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah. Do you have to write what- what? This? [T] Well normally you'll be given that, yes. [T] You won't be given- like if we're just talking, of course, I'm not going to say write down, but- [T] You'll be given expressions and asked to evaluate for a certain amount of money or numbers."
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] You'll be given expressions and asked to evaluate for a certain amount of money or numbers. [T] So I'm going to give you an example- Here's what you were asking me Jen. Evaluate the expression, four H plus three. [T] Now the part four H plus three is the expression and then it says for H equals two. What are we going to do with that? [T] What are we going to do with H equals two? Marcus?"
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good. [T] Okay. What we- Marcus did here was, wherever he saw an H in our expression he substituted a two. So that was the first step. [T] And remember, if there is nothing in between a number and parenthesis what operation do we do? [T] Patrick? [T] Good. And as Marcus said then, the answer is eight because four- I mean 11- four times two is eight, we add three, and we get 11."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good. And as Marcus said then, the answer is eight because four- I mean 11- four times two is eight, we add three, and we get 11. [T] Any questions so far?"
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Any questions so far? [T] Okay. Now, I'm sure you often hear, probably on radio ads or- or maybe even here at school, [T] Phrases such as twice as much, three times as long, half as heavy. Yes?"
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Phrases such as twice as much, three times as long, half as heavy. Yes? [T] Is 11. [T] Okay? So you hear phrases like that. Twice as much. You hear that at the store, right? Or, things like that. [T] Three times as long. Social Studies class is three times as long as math."
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Because math class is fun, Tim. [T] No, it's not really three times as long. They're all the same, but- that was just an- [T] Okay. Well we have an extra 10 minutes because we read, but that's all. [T] Okay. What we're doing there, is we're taking words and translating them into variable expressions. [T] Now, there's two parts to that. Taking words and putting them into numbers or the opposite."
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now, there's two parts to that. Taking words and putting them into numbers or the opposite. [T] So people, if you're sitting at your desk taking notes, write the opposite. You don't have to write both of those things up there. [T] As long as you understand. Remember, you don't have to write everything I write. [T] Take words, change them into numbers. Take numbers and change them into words. [T] Yeah, and then just write either opposite or vice versa."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah, and then just write either opposite or vice versa. [T] I'm gonna give you an- some examples."
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Say I give you the words, a number plus negative three. How would I take those words from a word phrase- [T] Now this example is on page one-o-six, people, so you have your choice here. [T] How do I take the words, a number plus negative three and make it a variable expression? Patrick?"
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] How do I take the words, a number plus negative three and make it a variable expression? Patrick? [T] Okay. A plus negative three. You chose A. I chose N. Again, the letter doesn't matter. [T] So we took a word phrase and changed it from words to a variable expression. I'm going to give you another- Yes? [T] Good question. Why'd I put these here? Only because you don't get mixed up with the signs. If I put-"
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good question. Why'd I put these here? Only because you don't get mixed up with the signs. If I put- [T] Okay? I don't- That's why I do it that way. Andrea? [T] You don't have to but I think it's- it makes it clearer to see. Okay? Tim? [T] Well, in this case, we have two operation signs technically, so that's why we- I did it here. Marcus?"
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Before N? [T] That would work okay. But it's- but- It's backwards here from what the words are. [T] Technically in math that's not incorrect. Yes? [T] Yes. That's the variable part of it. Any letter. [T] Okay, what if I say six less than a number. Six less than a number. Michelle?"
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Okay, what if I say six less than a number. Six less than a number. Michelle? [T] Six minus N. What do you think Aubrey? [T] Why do you think that? [T] You're right. Tell me why. [T] Right. Do you see the difference? Six less than a number. [T] Yours was a number less than six. What you gave me. This will- that's the tricky saying right there. Questions so far?"
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yours was a number less than six. What you gave me. This will- that's the tricky saying right there. Questions so far? [T] Alex? [T] I hate when I say \"always\", Alex. Uh, nine times out of 10, yes, but there may be like something else here. [T] Like may- it may say two plus a number then less than. So you've got to be careful. It's not always. Okay. Yes?"
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Like may- it may say two plus a number then less than. So you've got to be careful. It's not always. Okay. Yes? [T] Well in here there's not another sign so it doesn't matter here. [T] Well, we're going to learn next week that it's- negative- this also does mean minus. [T] But we don't need to put parenthesis here because there's not another sign, okay? [T] All right. Now, we're going to do it the other way. We're going to start with a variable expression and go to words."
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right. Now, we're going to do it the other way. We're going to start with a variable expression and go to words. [T] Start with the variable and go to words. So I'm going to give you this time- Yes? [T] Yeah. This is still all page one-o-six. [T] K divided by eight. Try to write that in words without using the word divided. Can anybody do that? Jen? [T] Okay. That's- Steve? [T] Okay. Well no. That would be eight into K."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Christy? [T] No. What does \"of\" mean in that? [T] Times. Okay? It's okay, you're thinking. [T] All of those- what Jen and Steve were correct, I chose the big math word, quotient. [T] K divided by eight, the quotient of the number and eight. [T] What if I gave you 15 minus B? Fifteen minus B. Patrick?"
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] B less than 15 would work. I chose an easier route. Fifteen minus a number. [T] Either one is correct. Questions so far on this, people? [T] Any questions? [T] Andrea?"
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Quotient means divided. See my- my sign up there in the corner has all the math words. Okay. [T] Okay. The last thing then, variable expressions with more than one operation. Use the order of operations. [T] What does that mean? Order of operations. Alex?"
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well kind of, but I mean here. Do you remember back what order of operations means Jen? [T] What's that mean? [T] Very good. And what's the saying that goes along with that? [T] Jen? [T] Aubrey what's please mean? [T] No, not actually please, but I mean- parenthesis. Class. Excuse. What's that mean?"
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, not actually please, but I mean- parenthesis. Class. Excuse. What's that mean? [T] My? [T] Dear? [T] Aunt. [T] Sally. [T] Okay. Good. So that's what we do here. An example, evaluate one point five plus two N for N equals 12. [T] How do I do that? Patrick?"
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good. Alex? [T] Parenthesis. [T] Good. Jen? [T] Right. So you would- you would have to take it out of there."
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Right. So you would- you would have to take it out of there. [T] So, next week- we haven't gotten to this yet, but plus a negative, depending on what this is. That's a good point. Yes. Marcus? [T] Yes. One point five plus two N. [T] So Patrick said put 12 N for N. Class what's two times 12? [T] Plus one point five gives us twenty-five point five. [T] Yes, Brandon. [T] Once you've finished writing I'd like you to take out your textbooks quietly."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Once you've finished writing I'd like you to take out your textbooks quietly. [T] Remember, if you don't have a book please share. And open to page one-o-seven please. Page one-o-seven."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Remember, if you don't have a book please share. And open to page one-o-seven please. Page one-o-seven. [T] Okay. Above number seven, somebody raise their hand and read the directions for me please. Above number seven. Michelle."
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Good. Page one-o-seven. So we're going to write a variable and then explain what it is. Look at number seven. [T] Kim's height if she's six inches shorter than her mother. What would a variable expression be? Steve? [T] No, just N minus six."
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good. What does N represent? [T] Good. How about number eight. The number of calories in three slices of bread? Patrick? [T] Or how else could you say that? [T] Andrea? [T] Three C. Okay. Look at- look at number nine. Mike's age if Mike is three years older than Jill. Ryan?"
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Three C. Okay. Look at- look at number nine. Mike's age if Mike is three years older than Jill. Ryan? [T] No. That would be multiply. Wouldn't it? Think- think about that one again. [T] So what would it be? [T] Okay, good. What's X represent? [T] Jill. Jill's age. Good. Go down to number 11. Twice a number. What would that be? Twice a number. Alex? [T] Or how could we say that? [T] Two N. Alex, always put the number first. Okay? Look at number 14."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Two N. Alex, always put the number first. Okay? Look at number 14. [T] The quotient of three divided by W. There's that word Andrea. Quotient of three divided by W. Marcus. [T] Three over W. Okay. And one more, 16. Seventeen less than N. Michelle? [T] Good. N minus 17 is correct. Okay. Quietly put your books away. I'm going to pass out your homework."
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good. N minus 17 is correct. Okay. Quietly put your books away. I'm going to pass out your homework. [T] Shh. [T] Brandon let me explain it. I'll tell you. Okay class, quiet please. [T] Where do you think we use variable expressions in real life? Patrick?"
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Marcus? [T] How many of you have science this semester? Where do you use variable expressions in science? Formulas. Steve? [T] Okay. You have to substitute something in. Okay. [T] How about- Yes, Patrick?"
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Very good. Jen? [T] Very good. That's another way. Yes. [T] Okay. The density formula. Good. [T] Okay, somebody raise your hand and read the homework board to me please. Andrea? [T] Okay, good. There are two extra. Please give to Vince and John."
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, good. There are two extra. Please give to Vince and John. [T] Okay. Take a minute and look over your homework. Please do a couple and then I'll have you pack up. Yes? [T] I'm not sure what you mean. Write a variable expression- Oh. It doesn't say evaluate."
+      }
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'm not sure what you mean. Write a variable expression- Oh. It doesn't say evaluate. [T] Yeah, just write the expression. [T] Could you pass it forward, John? Pass that forward please. Thank you John. Brandon? [T] No. That one has to be accurate. So like- [T] Thank you. [T] Yes. Any letter. Yes. Yes?"
+      }
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2730.0,
+        "t_end": 2760.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What do you think? [T] Yes. [T] Yeah. You put it around N. Good question Michelle. [T] Yes?"
+      }
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2760.0,
+        "t_end": 2790.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. Yes. No, into one expression but use- so three more than the product. [T] What would the product of eight and a number be? [T] Well, use a times because that looks like a variable. Okay? [T] Shh. Please John, please work. [T] Eight- No, plus- [T] Plus three, right? Because that's three more than. [T] Okay. Marcus?"
+      }
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2790.0,
+        "t_end": 2820.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Marcus? [T] Okay, I'll be right there. Josh what's your question? [T] What's the product of the number and negative eight? What does product mean? [T] Okay, so how would you do that? [T] What are you multiplying here? [T] And? [T] Okay, so how would we do that? [T] Good. [T] Very good."
+      }
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2820.0,
+        "t_end": 2850.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, hang on. Let me get Marcus. Yes? [T] All right. What does product mean? [T] What kind of operation are we using for product? [T] Good. So what are we multiplying here? [T] And? [T] Well- [T] Times? [T] Yeah, negative eight P would be good. Alex do you have a question?"
+      }
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2850.0,
+        "t_end": 2880.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah, negative eight P would be good. Alex do you have a question? [T] Okay. [T] How much is a quarter? [T] So how do we represent that in numbers? [T] Okay. [T] Point two five N. [T] Yeah. Okay. Brandon?"
+      }
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2880.0,
+        "t_end": 2910.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No. Because this is the number. X is the number so it has to be the other way. [T] Just make sure you put it in absolute value of the box. [T] Yeah- no, the number does. [T] Any va- any variable that you use. [T] Yes. Yes."
+      }
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2910.0,
+        "t_end": 2940.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Wait a minute. Hang on. Okay, people you may pack up. We will go over this tomorrow. [T] Yes? [T] Quickly. [T] Okay, please listen. [T] Tim. [T] We have about three minutes."
+      }
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2940.0,
+        "t_end": 2970.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Marcus. Jen. [T] Yes. Marcus, you start? [T] Class we're going to finish by playing 24. [T] Please finish your homework assignment and have it tomorrow."
+      }
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2970.0,
+        "t_end": 3000.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That was on last week's quiz. Carly? [T] Very good. [T] Shh. John. [T] Marcus."
+      }
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3000.0,
+        "t_end": 3030.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Andrea."
+      }
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3030.0,
+        "t_end": 3060.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Josh. [T] Twenty-five. It's okay Josh. You're trying. Let's go. Who else can get this? Tim?"
+      }
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3060.0,
+        "t_end": 3090.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Twenty-five. It's okay Josh. You're trying. Let's go. Who else can get this? Tim? [T] All right Brandon, you are next if Tim doesn't get it. [T] He had his hand up."
+      }
+    },
+    {
+      "t_start": 3090.0,
+      "t_end": 3120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3090.0,
+        "t_end": 3120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Nine, three, two, seven. [T] Josh. [T] Oh Josh. [T] That's okay. Keep trying."
+      }
+    },
+    {
+      "t_start": 3120.0,
+      "t_end": 3150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3120.0,
+        "t_end": 3150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's okay. Keep trying. [T] Oh, come on people. Patrick. [T] Malia."
+      }
+    },
+    {
+      "t_start": 3150.0,
+      "t_end": 3180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3150.0,
+        "t_end": 3180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Quickly. Quickly. [T] Brandon."
+      }
+    },
+    {
+      "t_start": 3180.0,
+      "t_end": 3210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3180.0,
+        "t_end": 3210.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Have a great day people. I'll see you tomorrow."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This goes under your desk, Jared. [T] Okay everybody, please put your books away. Quietly take out paper to start the warm-up."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay everybody, please put your books away. Quietly take out paper to start the warm-up. [T] Quietly have your homework out on your desk. I'm going to come around and check it please. [T] Tim, there's something under your chair. [T] Let's go, start the warm-up please."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Let's go. Come on. Quickly. [T] Brandon please do the warm-up. [T] Jared? [T] Okay. Next time do it in pencil. [T] Okay. Looks good. Keep doing your work, okay."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Looks good. Keep doing your work, okay. [T] John, Adrian, please do the warm-up, okay? Let's go to the warm-up. Ryan, homework? [T] Okay. Very good. Thanks. [T] Yes Bren?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. That's very good Tim. Keep doing your homework. This is very good, keep it up. [T] Alex? [T] Very good. Good work Alex. [T] Steve, homework?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Steve, homework? [T] Okay, very good. Good Steve. [T] Jen? Oops, excuse me. [T] That's all right. [T] Very good Jen. Good work. [T] Kendra? Okay. Very good. Good work. Thank you."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Kendra? Okay. Very good. Good work. Thank you. [T] Okay, Alex, good. Good work Alex. [T] Brandon, homework please?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] A couple of extra letters in here. Okay. So, when we go over it, see if you can make the corrections, okay? Good. [T] Okay, good work Diana. [T] Josh, homework please. [T] That's good Josh. Good work."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's good Josh. Good work. [T] Dave? [T] Okay, good David. Keep it up. Good work. [T] Marcus- yes it is, very good. [T] Okay Marcus, good. Good work."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay Patrick, good. Good work. [T] Very good, Carly. Good work. [T] Okay. Okay, Aubrey, good work."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right, please take out your homework. [T] Okay, on your homework the first page at the very top, graphing the numbers- [T] Should look like this. You simply had to fill in the numbers there."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, that's okay. [T] Any other questions? [T] All right, then the next section you had to graph them which they simply put a- meant to put a dot on the number line. [T] Some of you drew lines which is okay. Yes, Marcus?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Very good. Anybody else? Brandon? [T] That's correct. And it means don't just learn it as a- because you have to. [T] Learn it because you want to and have it as a part of your daily life because math is? [T] All right. Good. Okay. [T] Today's lesson is titled, Writing Variable Expressions. So please title your notes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Today's lesson is titled, Writing Variable Expressions. So please title your notes. [T] Okay, I want you to think for a minute. I know- I know you can do this. [T] There are times throughout the day, I'm sure, where you hear words but in actuality you're talking about numbers."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good. And as Marcus said then, the answer is eight because four- I mean 11- four times two is eight, we add three, and we get 11. [T] Any questions so far?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Like may- it may say two plus a number then less than. So you've got to be careful. It's not always. Okay. Yes? [T] Well in here there's not another sign so it doesn't matter here. [T] Well, we're going to learn next week that it's- negative- this also does mean minus. [T] But we don't need to put parenthesis here because there's not another sign, okay? [T] All right. Now, we're going to do it the other way. We're going to start with a variable expression and go to words."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Once you've finished writing I'd like you to take out your textbooks quietly. [T] Remember, if you don't have a book please share. And open to page one-o-seven please. Page one-o-seven."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Remember, if you don't have a book please share. And open to page one-o-seven please. Page one-o-seven. [T] Okay. Above number seven, somebody raise their hand and read the directions for me please. Above number seven. Michelle."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, good. There are two extra. Please give to Vince and John. [T] Okay. Take a minute and look over your homework. Please do a couple and then I'll have you pack up. Yes? [T] I'm not sure what you mean. Write a variable expression- Oh. It doesn't say evaluate."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I'm not sure what you mean. Write a variable expression- Oh. It doesn't say evaluate. [T] Yeah, just write the expression. [T] Could you pass it forward, John? Pass that forward please. Thank you John. Brandon? [T] No. That one has to be accurate. So like- [T] Thank you. [T] Yes. Any letter. Yes. Yes?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3180.0,
+      "t_end": 3210.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3180.0,
+        "t_end": 3210.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Have a great day people. I'll see you tomorrow."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3180.0,
+      "t_end": 3210.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/M-US2"
+}

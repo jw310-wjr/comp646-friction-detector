@@ -1,0 +1,902 @@
+{
+  "lesson_id": "M-HK3",
+  "transcript": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math HK3 transcript.txt",
+  "n_bins": 69,
+  "n_risky_bins": 7,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Good morning, class. [T] Okay. [T] Hello, hello, hello. [In Chinese] [T] Okay uh, boys and girls uh, for today, we are going to discuss a topic, okay? Uh... polygon. [T] Polygon. Okay? Uh, for last Friday, I have asked you to prepare for this topic, have you read over this chapter?"
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Polygon. Okay? Uh, for last Friday, I have asked you to prepare for this topic, have you read over this chapter? [T] Yes, okay. Uh, I try to ask some- someone to tell me what- what you have, uh, read over for the, uh- last weekend. [T] Okay, close all your textbook. [T] Okay, uh, first of all, y"
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, try to draw some diagram, what you have read from, uh, one point, uh, four. Okay? Thirty-three. Yeah. [T] Okay, very good. [T] Uh, this kind of the, uh, polygon we call a con- a convex polygon, okay? [T] It is, we have one, two, three, four, five, six, we call it a convex hexagon."
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It is, we have one, two, three, four, five, six, we call it a convex hexagon. [T] I use the number to present that it is six-sided. The polygon is six-sided. Okay. [T] And I want another boy or girl to come up to draw another type of... polygon. Okay, another type. [T] Seventeen. Seventeen? Okay"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Seventeen. Seventeen? Okay. [T] You draw the diagrams only. Yes. Ha ha. [T] You- you- you- you draw it here, okay. I- I- I- I- I want you to draw an- another type of polygon. [T] Uh, okay, thank you. For- uh, how many sides? [T] Five sides, it is, we call...?"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Five sides, it is, we call...? [T] Do- do you know the name of this, uh, polygon? You forget it? Okay, it is a pentagon. It is a pentagon. [T] I- I want you to draw another type of polygon- another property. Okay? [T] Uh, for- for these two types, they are the same. We- we call them convex. Okay"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Uh, another one. Thirty-five. Who's 35? Yeah. [T] You try. [T] An- an- anyone you like. [T] Okay, okay, thank you. Uh, do you find that such kind of a polygon is different from these two?"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, okay, thank you. Uh, do you find that such kind of a polygon is different from these two? [T] Okay? We call this one... a concave polygon. Concave. [T] And at the same time, how many sides for this polygon? One, two, three, four, five. Do you still remember what to call this kind of polygo"
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, we read it together. Pentagon. [T] Okay. I- do you find that... uh, for this one we call that convex- convex polygon, this type we call concave polygon. [T] Do you find that- what is the characteristic between them? What is the difference between them? [T] Okay? I'll give you, uh- uh- one "
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Can you tell me the difference between these two kind of polygons? [T] Can you tell me the difference between them? [T] Okay."
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Anybody try to tell me the difference between them? [T] Anybody? Anybody try? [T] Okay. Twenty-six. Who is 26? [T] Yes. Uh, you can come out and draw anything you like to- to tell me your- your- your result. Yes. [T] What is the difference between the convex polygon and concave polygon? Yes. Com"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What is the difference between the convex polygon and concave polygon? Yes. Come up here- yes. [T] Huh? What does it mean? [T] Yes, okay. [T] Uh, your neighbor. You- you should help him because you discussed it together. Can you come out?"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What- what- what? Yes, yes. [T] What- what does it mean? What does it mean? [T] More- more than 180 degrees? [T] Okay, that means- uh, this angle is more than 180 degrees? [T] How- how about this polygon? [T] Can we find any angles more than 180 degrees?"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Can we find any angles more than 180 degrees? [T] No. Okay, can- can you get the meaning of- of- of your- thank you, thank you, your- your classmate say? [T] Okay, what are the differences between convex polygon and concave polygon? [T] We look at the concave polygon. At least- at least one or m"
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] But in this chapter, we don't discuss the concave polygon, we just only discuss the convex polygon. Okay? [T] Another thing, you have learned in Form One. You have learned in Form One, these two words. [T] Sorry. It is uh, uh, you have learned it in Form One. It is the... equilateral polygon and"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Sorry. It is uh, uh, you have learned it in Form One. It is the... equilateral polygon and also... equiangular polygon. [T] What are they? What is meant by equiangular polygon? And what is meant by equilateral polygon? [T] Okay, first of all, do you still remember equiangular polygon? What is me"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Do you still remember it? [T] Yes. What does it mean? For- for- for the first type. I'll give you some hints. All the sides...? [T] All the sides are equal. Okay? All the sides of the polygons are equal. [T] How about equiangular polygon? [T] All the sizes of the angle? [T] Equal. Get it? [T] Ok"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, I want you to try to help me to try to draw two types of polygon. They are four-sided and five-sided polygons. [T] That is, equilateral but it is not equiangular. [T] And it is equiangular and it is not equilateral. [T] Okay, you try- take out, uh- clas- your classwork exercise book... to "
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And then I will ask you to come out and help me to draw the four-sided polygon. It is equilateral but it is not equiangular. [T] Another four-sided polygon, it is equiangular but it is not equilateral. Okay? [T] You try- you try to draw... in your classwork exercise book first."
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You try- you try to draw... in your classwork exercise book first. [T] Okay, please be quick. Please be quick."
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, please be quick. Please be quick. [T] Okay, can you get the meaning of the uh, questions? Can- can you get it? [T] Yes, good. You- you try to draw... the uh, four-sided polygon, it is equilateral and it is not equiangular. [T] Another four-sided polygon, it is equiangular and it is not equ"
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Another four-sided polygon, it is equiangular and it is not equilateral. And also, for the five-sided polygon. [T] That means, you have to draw four- four different diagrams. Four different diagrams."
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That means, you have to draw four- four different diagrams. Four different diagrams."
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That means, you have to draw four- four different diagrams. Four different diagrams. [T] Okay, I give you one more minute. And then would somebody come out to try to draw your answers on the board."
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, I give you one more minute. And then would somebody come out to try to draw your answers on the board. [T] Four- four different types of the diagram. The four-sided and also the five-sided."
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Four- four different types of the diagram. The four-sided and also the five-sided."
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Four- four different types of the diagram. The four-sided and also the five-sided. [T] Okay? Have you finished? [T] Okay, try to look at the board. I want you to draw a four-sided polygon, it is equilateral but it is not equiangular. [T] Understand? It is not. And also, another four-sided polygo"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Understand? It is not. And also, another four-sided polygon, it is equiangular but it is not equilateral. Got the point? [T] Okay. Would someone come out and- and to draw. [T] Okay, for this type. You try- try to come out and draw. Number six. Number six, yes. [T] And then, uh, anoth- another on"
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And then, uh, anoth- another one, this part. Twenty. Where's 20? Yes. Be careful of the wire. [T] Okay, 32. Thirty-two. [T] Hey, I want you to- to draw this one. [T] Thirty-two. [T] And then for equiangular, 19? Where's 19? Yeah, you."
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And then for equiangular, 19? Where's 19? Yeah, you. [T] O- okay, we look at the four-sided polygon. Okay? We called it quadrilateral. Uh, I can use some mark to present it is equilateral."
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] O- okay, we look at the four-sided polygon. Okay? We called it quadrilateral. Uh, I can use some mark to present it is equilateral. [T] These four sides are equal. Okay, get it? Do you find that this angle is greater than 180 degrees? [T] No, not- not- not 180. It's greater than 90 degrees. It i"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, how about this one? Uh, this boy... used the mark to show that they are right angles. [T] Can you find that the, uh- length between these two sides are different? [T] Can you get the point? Okay, look- look- look at the five-sided polygon, we call it pentagon. [T] What- what are the differ"
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] To show some differences between them. I want this pentagon equilateral but it is not equiangular. [T] I want you to draw this five-sided polygon, it is equiangular but it is not equilateral. Okay, you try it again. [T] Another two. Number 10. Try, yeah yeah. Come on. [T] Number seven. Yeah, oka"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Number seven. Yeah, okay, you- you... okay, you draw it at the side. Yes. You draw it here. [T] Ha ha ha. Yeah, thank you. [T] Uh! Can you find the difference between them? [T] Huh? Uh, a little bit. Okay, I- I- I- I try to draw another one for you. Okay, equiangular."
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Huh? Uh, a little bit. Okay, I- I- I- I try to draw another one for you. Okay, equiangular. [T] Also the same, but this two sides... I draw it very short. Can you get it? [T] And then I tell you- all the size- all the size of these five angles are equal. Can you get it? [T] Okay, how about this "
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, how about this one? I- I- I- I- I try- I try to draw it. [T] Okay, this angle- two angles are 90 degrees. Okay? Can you get it? [T] Do you find that uh- uh, the shape of this two five-sided polygons are different? Can you get it? [T] Okay, I as- I ask you another question. [T] If... can yo"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] If... can you- can you draw- can you draw a four-sided polygon, it is equilateral and it is equiangular? Okay? It is equilateral and it is equiangular. [T] Can you?"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Can you? [T] Okay, I want you to draw in this column. Can you help- help- help me to draw a four-sided polygon. It is equilateral and it is equiangular? [T] A five-sided polygon, it is equiangular and also it is equilateral. Okay. [T] Another two boys and girls to come out. Forty-two. No 42. Sor"
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Another two boys and girls to come out. Forty-two. No 42. Sorry. Your class have no- 25. [T] Twenty-five. The first one. Yeah. [T] Uh, 35, 25 and 35. [T] Okay, 25, you draw on this box."
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, 25, you draw on this box. [T] Okay, thank you. Uh, the two boy show it to me that, uh, when you draw this four-sided polygon, the size of these four angles are- are equal. [T] And the length of these four sides are equal. Okay, for this five-sided polygon, we called it a pentagon."
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And the length of these four sides are equal. Okay, for this five-sided polygon, we called it a pentagon. [T] This five sides are equal, this five angles are equal. Can you get it? [T] Okay. How do we call such type of polygon? [T] When it is equilateral and it is equiangular? You have learned t"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, anybody? Still remember? How many of you remember? Put up your hand. Let me know. Still remem- onl- only one? [T] You have learned in Form One, okay. How- yes, how- how do we call such type of polygon? [T] Regular polygon. Okay, do you still remember the spelling? [T] Try- try- try- try. [T"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Oh, your- your monitor try. [T] Okay, thank you. Do you still remember this word? [T] Okay, we read it together. Regular polygon. Regular polygon. [T] Once again, regular polygon. [T] Okay, what is meant by a regular polygon? That means the polygon is both equilateral and equiangular. [T] We cal"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Do you still remember it? Yeah, okay. Uh, who's on duty today? Come out and help me to clean the board. [T] We come to an- an- another- we try to discuss another properties of the uh- polygon. [T] Uh, now, we come to discuss the sum of interior angles. The sum of interior angles of a polygon. [T"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Okay? Sum of interior angles of a polygon. [T] Okay, sum of interior angles of polygon."
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Last week, last week. We have discussed the sum of interior angles... of a triangle. For the triangle, it is a three-sided polygon. [T] Do you still remember the sum of the interior angles of a triangle? It is equal to...? [T] One hundred and eighty degrees. [T] Do you still remember the abbrevi"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Do you still remember the abbreviation? The- the abbreviation to describe such properties? [T] Angle sum of triangle. [T] Okay, angle sum of triangle. Okay. [T] How about, uh- uh- for example, we have... [T] We have a four-sided polygon. [T] Okay? We have a four-sided polygon. We called quadrila"
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay? We have a four-sided polygon. We called quadrilateral, okay, for quadrilateral... what is the sum? [T] What is the sum of interior angles of it? [T] Okay, take out your classwork exercise book. Help me to find out the sum of interior angles of a four-sided polygon. [T] I'll give you some h"
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I'll give you some hints. And you help me to work out the sum. First of all, I draw a dia- a diagonal A C inside the four-sided polygon. [T] Okay? I call this angle, A two. This angle, A one. This B. It is uh, C two. It is C one. And it is angle D. [T] Okay, help me to find out... I give you suc"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Help me to find out- to work out, the sum of angle A, angle B, angle C and angle D. It is the interior angle."
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Help me to find out- to work out, the sum of angle A, angle B, angle C and angle D. It is the interior angle."
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Help me to find out- to work out, the sum of angle A, angle B, angle C and angle D. It is the interior angle. [T] Okay. Have you found out the sum of angle A, angle B, angle C and angle D?"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. Have you found out the sum of angle A, angle B, angle C and angle D? [T] It means, what is the sum of interior angles of a four-sided polygon? [T] I give you some hints. Help me to work out the sum of this polygon. [T] For last week, you have learned the sum of interior angles of a triangl"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] For last week, you have learned the sum of interior angles of a triangle. [T] Okay? Can somebody help me... to fill in the blanks? Anybody like? [T] Number 13, you try- you try to fill in for- for the first line. Number 13? Where's number 13? Yeah. [T] Okay, and then number 21. The second line. "
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, and then number 21. The second line. Okay, and then we come to the conclusion. How to present the conclusion? [T] Okay, first of all, you say, A two plus B plus C two is equal to 180 degrees. [T] You're using the properties- angles sum of triangle. Okay, also the second one. [T] How about "
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] How about we come to the conclusion? How to work out angle A plus angle B plus angle C plus angle D? [T] Okay, don't just only write down the answers. Show it to us, how to find out the answer. Seventeen. [T] Have you- have you worked out the answer? [T] Yes, okay, try- try- try to show it to us"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, okay, try- try- try to show it to us. [T] Okay, thank you. Thank you. Yes. [T] Okay, can you work out the sum- it is equal to 360 degrees? [T] Yes, okay, how- how you got such answers? [T] Why do you write down 180 degrees plus 180 degrees? [T] Okay, angle A plus angle B plus angle C plus a"
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Do you find that it is equal to uh, A one plus A two plus angle B- plus B, angle C is equal to C one plus C two, can you get it? [T] And then plus D. [T] Can you get it? And do you find that A one plus C one plus D is equal to 180 degrees? [T] A two plus B and then plus C two is equal to 180 deg"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Cut it into two triangles, so we got- that the sum of interior angles is equal to the sum of the angles of two triangles. Can you get it? [T] Okay, take out your textbook. We'll try to find out how to find the sum of interior angles of a pentagon, a five-sided polygon. [T] Turn to page 31. Page "
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You can discuss with your classmate. How to find the pentagon? [T] Okay, number one, it says, the dif- given figure shows a pentagon A B C D E. [T] And then turn to page 32. It asks you to do something. [T] Okay? Try to follow the question and work out the sum of interior angles of a pentagon. ["
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Uh, help me to- to- to clean the board. Please. [T] Number one. [T] Uh... is it done by you? [T] No, okay, you- you clean it. You- you- you- you have to uh, uh- do it by yourself. [T] Uh, is it done by you? It is not done by you?"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Uh, is it done by you? It is not done by you? [T] Yeah, yes."
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, we- uh, I- I say you- you- you try to finish this- number one first. We don't do number two. [T] You try to finish number one to find out the sum of interior angles of a pentagon. [T] Okay. [T] Okay, uh, because it is time- time's up. So we have a quick look at number one."
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, uh, because it is time- time's up. So we have a quick look at number one. [T] Okay, uh, first of all. First of all, we have a... pentagon. It is A B C D E, is it? [T] Okay, and then turn to page 32. What does it say for question A? [T] If two diagonals are drawn from vertex A to the nonadj"
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If two diagonals are drawn from vertex A to the nonadjacent vertices C and D, how many triangles are formed? [T] It asks you to draw from vertex A to vertices C and D, how many triangles are formed? [T] Three. Okay, number B. What is the sum of the angles in each triangle? [T] One hundred and..."
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, number C. What is the total sum of the angles in all the triangles formed? [T] What is the total sum of the angles of these three triangles? These three triangles. [T] One hundred and eighty degrees. One hundred and eighty degrees. One hundred and eighty degrees. [T] Altogether, it is? Fiv"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Five hundred and forty degrees. Okay, I stop here. [T] You go home, try to- try to work out- find out the relationship, okay, between the sides- [T] The number of sides of a pentagon and the sum of interior angle of that pentagon, okay? [T] Mark down the homework for maths. You go home... try to"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Okay? You work out in your textbook. [T] Got it? [T] Okay, class dismiss."
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Goodbye class."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You try- you try to draw... in your classwork exercise book first. [T] Okay, please be quick. Please be quick."
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That means, you have to draw four- four different diagrams. Four different diagrams."
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That means, you have to draw four- four different diagrams. Four different diagrams. [T] Okay, I give you one more minute. And then would somebody come out to try to draw your answers on the board."
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] O- okay, we look at the four-sided polygon. Okay? We called it quadrilateral. Uh, I can use some mark to present it is equilateral. [T] These four sides are equal. Okay, get it? Do you find that this angle is greater than 180 degrees? [T] No, not- not- not 180. It's greater than 90 degrees. It is less than 90 degrees, so it's good. [T] Okay, how about this one? Uh, this boy... used the mark to show that they are right angles."
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] If... can you- can you draw- can you draw a four-sided polygon, it is equilateral and it is equiangular? Okay? It is equilateral and it is equiangular. [T] Can you?"
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Okay? You work out in your textbook. [T] Got it? [T] Okay, class dismiss."
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Goodbye class."
+    }
+  ]
+}

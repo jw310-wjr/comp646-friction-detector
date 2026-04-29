@@ -1,0 +1,1536 @@
+{
+  "lesson_id": "S-JP2",
+  "transcript": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science JP2 transcript.txt",
+  "n_bins": 101,
+  "n_risky_bins": 34,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Uh, today let's summarize the results of the experiment we did yesterday, such as what happened to iodine and what happened to the Benedict's solution. [T] And then, things we understand from these results. On the right side of the report sheet there are two items writte, (1), (2) [T] (1) is wha"
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] (1) is what is learned from the iodine reaction. [T] (2) is what is learned from the Benedict's solution reaction. [T] I want you to summarize these two. I want you to discuss it in a group, but, don't form groups yet. [T] Uh, based on your results, we will eventually have a class summary. [T] S"
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Now you are going to form groups and discuss, but there is one thing I want to confirm before that. [T] That is Benedict's solution. Benedict's solution."
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] If we say Benedict's solution, I think you all have it written down in your notebook but, what is it? [T] Benedict's solution. Which one is it? [T] What is it used for? Makoto. How about you? [T] Benedict's solution. What do you think? [T] It's not written in your notebook. I see. How about you,"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Right. Yes. It is used to detect sugar. What do we do with it, Tsuyoshi? [T] Yes. Heat it. And then? What happens when we can tell that there is sugar? [T] It turns red. [T] When it turns red. That's all right. It is red anyway. [T] The material we used this time was a substance called starch, a"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] I would like to touch on these two items just to explain something. [T] The substance called starch- in the second year, science division one, which we studied in the first semester. [T] All substances are made up of molecules. We talked about things like this, or like this, that are all made up"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] But starch is- well, starch is also made up of molecules, but the molecules of starch are like this, long molecules, like this. Longer and longer. Long molecules. [T] At a glance, starch is a huge thing. The molecules are long. That's how it looks. [T] But on the other hand, sugar's molecule is "
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] When we include these issues in our consideration, the discussion will be easier. [T] So, today, you will form groups. [T] Uh, this... this needs to be focused... uh... yes. [T] This is same as your report sheet. [T] Summarize the result of your group, how the iodine reacted from A to D and how "
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Four of you will summarize the results of groups one, two, three, four, etc. After that, summarize the results. [T] (1) What we can study from the iodine reaction; (2) what we can study from the Benedict's solution. [T] Four of you, or maybe if you have five people, the five of you think togethe"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Unless you move it in this way... this one is... oh, like this. That's good. Very good. [T] What were the results in this group? [T] I see."
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I see. [T] That's good, right? This group is almost all at a good position. [T] What can we say from this? [T] A and C are... what is this? Black? Iodine does not become black in a reaction."
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] A and C are... what is this? Black? Iodine does not become black in a reaction. [T] //Well, blackish- [T] Yes. This is a stage in which the bluish purple is very dark. [T] Yes. [T] Yes. Think about the things to consider. Think about the things to consider. [T] And this part... these are suppose"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Why did they become like that? [T] That's what you should consider. [T] Tsk. If iodine reaction- it reacts to iodine, does it mean it has starch or not? [T] It means it has starch, right? That means, in A and C, there is only starch to begin with, so it is natural that they are bluish purple. [T"
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Saliva is in there. Because saliva did something to the starch, they became like this, right? [T] Became like this, right? [T] That's what I want you to think about. [T] And what are the conditional difference in the experiment between B and D? [T] What was the conditional difference between B a"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //ice water. This one is warm. This one is cold. From these differences summarize your results. [T] The bluish purple is no longer bluish purple. That means the starch is? [T] That means the starch is gone. How? [T] By hot water? [T] How about this group? [T] This group also had a good result. ["
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Well, pale reddish brown is sort of okay... they became a somewhat similar color, right? [T] Let me see... look, does the fact that they became bluish purple- they are bluish purple- mean they have starch or not? [T] They have, right?"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] A and C only have starch. Since they have nothing but starch, it is natural that they become bluish purple. [T] But in B and D, especially B, the bluish purple became pale. The fact that the bluish purple became pale means what happened to the starch? [T] It dissolved or, in other words, the sta"
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] What did we add? [T] What did we add to B? [T] What? [T] We put spit in B. Spit, right? Slimy saliva. [T] That's what we added, right? [T] Then saliva is doing something to the starch. [T] It's all right to say dissolved or some kind of expression like that. From that, saliva (does what) to the "
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Right? [T] Oh, one more thing. B and D are the same. They both contain saliva and starch. What is the conditional difference in the experiment? [T] That's right. Hot water and cold water. From that//- [T] Huh? Does this have a hole here? [T] Work hard. If you include that, I think you will have "
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This group's results... This group's results are super. [T] If you cannot write a summary of the study from this good result, you are- [T] [mimetic expression] [T] Did I say a thing like that? [T] Well, so... should we look at it from here? [T] Well, A and C became all bluish purple, right?"
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] Well, A and C became all bluish purple, right? [T] Does that mean that there is starch or not? [T] There is, right? From the beginning to the end, there is always starch in these. [T] But in B and D, a difference appeared. In B and D, although both have starch, we added something special. What w"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. The starch disappeared. The starch disappeared. [T] Saliva blah blah blah. [T] Yes, that's it. [T] Well noticed. The conditional difference between B and D in this experiment is this one is warm, this one is cold. [T] If you compare the speed in which the starch disappears, which is faster,"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] B is faster. That means... (inaudible). You must be able to figure it out. [T] Almost. [T] If you can summarize this result, you are in perfect shape. [T] Very good. Very good. [T] Okay, this group. [T] Looks good, looks good, looks good. Good. Good."
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Looks good, looks good, looks good. Good. Good. [T] When we looked at it... everyone look, all right? [T] A and C got all bluish purple, right? Does that mean that there is starch or not? [T] There is, right? Because they turned to bluish purple. A and C have starch only, so it is natural to hav"
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] But B and D... especially in B, a change has occurred. [T] B has starch plus, like it is written here, saliva. [T] B's test tube which contains saliva changed from bluish purple to not changed to bluish purple... that's an odd way to say [T] It no longer turned to bluish purple, that means starc"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] It will be good if you can write things like that in the summary of the study. [T] In addition to that, this group noticed that in comparing B and D, D did not turn pale around here, did it? [T] It may have? [T] It became pale? The conditional difference between B and D is the temperature, right"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's a good point. That's good. In addition to that... which one had Benedict's solution... Oh, they became the same color? [T] In that case, it will be difficult to write the summary of the study, huh? [T] Well, well, well, well, well. [T] Look. Look. [T] These are (the results of) one group."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] These are (the results of) one group. [T] Both of yours got this color? [T] Well, if (your results) are like that, you cannot write the summary of the study. Since they turned to the same color, you cannot compare. [T] This other group got these results. Why don't you think about it from these? "
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Only B is reacting. We cannot say from this that A has reacted. From these (results), think about parenthesis two of the study. Only B has reacted. [T] How about this group? Oh, nothing. What happened? [T] You don't understand. Well then should we do it together? [T] You have nice results, you k"
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] A and C all turned to bluish purple, right? [T] Does that mean they have starch or not? [T] They have, right? From the beginning to the end, they all have starch. [T] However, B and D, especially B here, lost its bluish purple color. [T] B has starch in it just as A and C, but it has something p"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yes, saliva. In the one which contains saliva, the bluish purple is no longer bluish purple. That means, the starch... due to the saliva- [T] Yes, yes. Something like that. [T] It got eliminated. Starch has disappeared. You can conclude like that. [T] Right, right. Expressing it like that is fin"
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's fine. [T] The guys have written nothing. [T] Oh, I'm sorry. [T] Next, how about the Benedict's solution? It didn't turn reddish brown... Oh, I see. [T] You put Benedict's solution in A and B, you put Benedict's solution in A and B, and when you heat it, only B has reacted. [T] That means,"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Sugar is in it. That means... as I said before... the starch in B has disappeared because of the saliva, and what is made? [T] Wonderful. [T] You are welcome. [T] How about this group? [T] Whose answer is right?"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So, shall we check? [T] Ah! These are wonderful results as well. If you cannot summarize these results, you are... Kenji- [T] Nothing. [T] Well, when we look at this, A and C are all purple, that means that the starch has reacted. That means that there is starch in A and C till the end, right? ["
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This means that in B and D, we put starch and saliva, but due to the function of saliva, starch has blah blah blahed, has blah blah blahed. What is it? [T] Yeah, dissolved. In normal language, it has disappeared. We can understand that starch has disappeared due to the function of saliva. [T] Th"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Which has a faster rate of change in which starch becomes no longer starch, B or D? [T] B is faster. That means that saliva's rate of effect on starch is... the temperature? [T] Ahh, wonderful. That's perfect. [T] In addition to that, which one becomes red brown? [T] B. That means that while sal"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] B. That means that while saliva changed the starch, what other than starch was made? [T] Ah. Kenji. [T] You have good friends. [T] //How about this group? [T] Are you writing now? [T] Let me check it. Let me see. Let me take a look at Takashi's. [T] This one, too. [T] Oh, you didn't do the first"
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This one, too. [T] Ohh, it became reverse... Umm, what I want to check with you is that when they are bluish purple, when they are bluish purple. Does this mean they have starch or not? [T] They have, right? When they are not bluish purple, the starch is? [T] Not there. Consider that. In the cas"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Not there. Consider that. In the case of B, eventually, and in the case of D, from the beginning [T] When we compare B and D, in both cases the starch disappears. [T] Because of what? In B and D, there is starch plus what? [T] There is saliva. You have to figure out what the saliva did. In addit"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That means that... saliva works differently depending on the temperature. What was that? [T] You see that saliva works differently, right, depending on the temperature. [T] And then, reddish brown... orange... oh, both changed...then it is hard to write the summary. [T] So-"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So- [T] Because you cannot proceed to the conclusion when you have the same reaction- this is from a different group by the way- only B has reacted. Only B became reddish brown. [T] A did not react. I hope that you can come to a conclusion from this result. Right? [T] What is it, Nishi-kun? [T] "
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] In the beginning of the class- look at that- the result of breaking up the long chain of starch is sugar. [T] Sugar is the result of what was originally big becoming small. Sugar. It is part of starch.//"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Well, you may say it in that way. [T] Well, we will summarize that at the end. [T] Then, this group last. How is it? [T] Sorry, sorry. Which one? [T] Okay, Okay, you got the results. In this group, A and C are all bluish purple. That means, do these have starch or not?"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Okay, Okay, you got the results. In this group, A and C are all bluish purple. That means, do these have starch or not? [T] They all have starch, right? Because they have only starch in them. [T] But B and D are no longer just bluish purple. So when we look at it, as time passes, does the bluish"
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Saliva. Hideki's saliva was real gooey. [T] That means, do B and D have or not have starch at one point? [T] They do not. Starch is... because of what effect? [T] That's right. Due to Hideki's saliva, starch has... disappeared. That's what you should write. Let me see."
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's right. Due to Hideki's saliva, starch has... disappeared. That's what you should write. Let me see. [T] In addition to that, what is the conditional difference between B and D? [T] Right. //Ice and [T] Yes, hot water. Which one is hot water? [T] B. What about D? [T] Yes. Are these the sam"
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Lastly, Benedict's solution. It's good. [T] Only in B, only in B, has Benedict's solution reacted. This means that in B the starch has disappeared and what was made instead? [T] It will be good if you can summarize that part. Okay? [T] All right, since it has taken a long time, I would like to l"
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] All right, since it has taken a long time, I would like to listen to each group's result now. So, be ready to listen to everyone. [T] Now, everyone's- Ayamoto-san, okay? I will ask the results of each group. First, how the iodine reacted? For example, A was like this, B was like that. [T] Or A a"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And number two. Benedict's solution. We added Benedict's solution to A and B and heated them. [T] Please describe what happened. Up to this point are the results. [T] The conclusion is next. First, I will ask you about the results. I think I first want to ask you about the results. [T] Where sho"
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Group four, shall we? Okay. I see. Let's start with group four. It doesn't matter where we start. All right, please tell us your results. [T] Please listen. Hey, Ayamoto, this is the second time. [T] Please go ahead. [T] //Yes. All the wa- [T] From which point did it start getting pale?"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //Yes. Yes. A, C and D are all bluish purple, but... Oh, please don't sit down yet. B started getting paler from about the third one. That was the report. [T] And how about the Benedict's solution? [T] Yes."
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] That was a wonderful way to say that. It turned from blue to green, and when it kept being heating, it turned to reddish brown. [T] So, in other words, B reacted. I see. [T] Well then, group five. Please report your results. [T] Go ahead. [T] You only have to say it."
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] You only have to say it. [T] Did not change, does that mean that it was bluish purple? [T] Then? [T] The fifth one? Did you just jump to the fifth? Huh?"
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] The fifth one? Did you just jump to the fifth? Huh? [T] A got weaker and weaker? Huh? Is it reversed? [T] Wait a minute. In which ones did you put saliva and starch? [T] B and D. You put saliva in B and D, but A's color changed from purple to a weak purple, is that right? I see. And then?"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This one, too, started losing its color? [T] I see. Then? [T] All bluish purple. And? [T] //After 5 minutes- [T] The rest of the part were bluish purple. I see. Then what about the Benedict's solution?"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The rest of the part were bluish purple. I see. Then what about the Benedict's solution? [T] //Yes. [T] Ah, so only B reacted. I see. Group five has reported that A seemed to become pale, too. I see. Then, group six, please."
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I see. Okay. [T] I see. Then, what about the Benedict's solution? [T] I see, I see. Both of them became reddish brown. I see. Okay, group seven, please."
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I see, I see. Both of them became reddish brown. I see. Okay, group seven, please. [T] From what point did it start getting lighter? [T] Oh, I see, it got lighter from the beginning. I see. Then what about the Benedict's solution?"
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. Pale-// [T] I see. Well... which one is the closest? This one I believe. Please take a look at this. [T] This one is the same test results of students like you- I wonder which class it was? Class four, class five, or class three?"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The results of students like you in those classes. [T] Although we heard slightly different test results in this class, basically A and C are all bluish purple. The reason is that we put only starch in A and C, right? [T] So there is only starch and although the temperature is different, the sta"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] So there is only starch and although the temperature is different, the starch remains starch from beginning to end. [T] So, many of you have reported that the bluish purple continued all the way, although some have reported that it got pale around here. [T] The question is B and D. The question "
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] There is saliva in the starch in B and D. We see a reaction in both B and D; that is, their color eventually gets lighter. [T] Does that mean there is starch or not? [T] It's disappearing, right? It doesn't, right? It is disappearing. The reason why is probably because we put saliva in them... t"
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] B is faster, right? B is faster. What was the conditional difference between B and D? [T] Temperature. B is... warm. As warm as body temperature. D is cold. [T] When we compare these, this one works the best, and I think that it will be good if you can include things like that in the conclusion."
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] And then there was such group... not this one, this one. [T] This one also has similar results, right? A and C have only starch, so they are bluish purple all the way through. [T] They put saliva in B and D, but in B, after about two minutes there was already no reaction for starch. [T] There wa"
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] In D, the reaction to starch got weaker and weaker, and there was no starch at this point, then it revived. I don't get this. I wish this one weren't here. [T] But we see the color got weaker and weaker. [T] Then there is this one. This one is amazing. We discovered a new type of human. [T] Do y"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] All right. Anyway, all you need to understand is in B and D, the starch has changed to something else. [T] In addition to that, we added Benedict's solution. We put Benedict's solution in A and B. [T] Look at this. I think it should react and become something like this. [T] A has only starch in "
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] From this color, we cannot say it has reacted, when we put this against a florescent light and look at it through the light. [T] This one did. It got thicker and became reddish brown. It is the color of carrot juice. [T] When it reacts like this, we can judge that there is sugar in it. Actually,"
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] First, the conclusions from the results of the iodine reaction. Second, the conclusions from the results of the Benedict's solution. These two. Can you present them? [T] We had eye contact. Group eight? Please."
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Mm, mm, mm. [T] Mm. [T] Mm, that's it? I see. That's good. That's good. That's good. [T] Next, group one. Can you do it?"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Next, group one. Can you do it? [T] Ryuutaro? or //Takashi? [T] Huh? [T] Only the first point. That's fine. Since the conclusion is difficult. Okay, go ahead. [T] The starch in B was dissolved by the saliva little by little. Yes. Yes. That's fine. When we compare A and B, we can see that in B, i"
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The starch in B was dissolved by the saliva little by little. Yes. Yes. That's fine. When we compare A and B, we can see that in B, in which saliva was added, the starch has dissolved little by little. Okay. That's fine. [T] Okay, group two. [T] What do you mean by, \"uh\"?"
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Haa. I am amazed. Wonderful. [T] I see. That was a nice presentation. It was very logical, good conclusion. Then, how about the group three? [T] Yes."
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Yes. I think it's very good. This was also a nice presentation, don't you think? I think it's good. [T] Well then, I will summarize each group's presentation into sentences, so please write them down in your notebook. I think we can summarize like this."
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Well then, I will summarize each group's presentation into sentences, so please write them down in your notebook. I think we can summarize like this."
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Oh, maybe it is hard to see. Should I lower this? [T] What are you talking about? I pointed to them like this. [T] No, you don't understand it. Because of this everyone understood well. Well, don't say that."
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] No, you don't understand it. Because of this everyone understood well. Well, don't say that. [T] Ok, did everyone finish writing? [T] Um, from this experiment, we can see these two things, as you all noticed. [T] The first one is that saliva seems to have the function of changing starch into som"
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Saliva may have a function which changes starch into something else. [T] Moreover, from the iodine reaction and Benedict's solution's reaction, starch into something else- so, what is it? Sugar. We wonder if there is a function of changing starch into sugar. [T] As I said in the beginning of the"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] But sugar is a small molecule. A short chain. From this, we understand that saliva has the function of breaking a big chain of starch into a small chain of sugar. [T] Next, the second point. Um, from the conditional differences between B and D, the difference in the temperature, [T] I think we u"
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] I think we understand that saliva works best when the temperature is close to body temperature. [T] All right, please open your textbooks to page 94. There will be a part you should underline. So be prepared and listen. [T] All right, we will start. Page 94. [T] After \"from experiment two,\" plea"
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] \"Starch is dissolved by saliva and changes into sugar.\" Please underline up to this point. \"Starch is dissolved by saliva and changes into sugar.\" [T] Next you don't have to underline. \"Also, because this sugar's molecule is smaller than starch, it can go through cellophane membrane.\" Okay, unde"
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] \"Other than saliva, such fluids as gastric juice and pancreatic juice, which have the function of digesting food, are called digestive fluid.\" Underline up to here. [T] Next. This will be a long one too. [T] \"In digestive fluid...\" Underline here, \"In digestive fluid, there are different kinds o"
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] \"Each digestive enzyme dissolves particular food components such as: digestive enzymes in saliva (amylase) work on starch, [T] \"digestive enzymes in gastric juice work on protein, and so on.\" Underline up to here. [T] It was a long explanation, but I will summarize for you to write in your noteb"
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] //Can you see it?"
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning"
+      ],
+      "excerpt": "[T] //Can you see it? [T] I wonder whether people can see at the bottom. Chiho, can you see this? [T] Can you see this? [T] Can you see? Sorry."
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Can you see? Sorry. [T] Can you see this part, gastric juice? [T] You can. Sorry. This is very low. [T] Are you all right? Oh, I should underline here."
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Are you all right? Oh, I should underline here. [T] Today's topic, saliva. Which has the function of dissolving starch into sugar. Saliva. [T] Saliva is called digestive fluid. Digestive fluid. Fluid to dissolve starch into sugar. Saliva is digestive fluid. [T] Fluid which digests food is called"
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Fluid which digests food is called digestive fluid. Digestive fluid is not only saliva. There is gastric juice which is in the stomach. [T] When you throw up, you have a sour taste in your mouth. That's gastric juice. Go deeper down and we have pancreatic juice in the pancreas, or bile in the ga"
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] We call these fluids, which digest food, \"digestive fluids.\" In addition, in the digestive fluids, there are digestive enzymes. [T] We read this as \"enzymes.\" You didn't write \"oxygen\" in your notebook, did you? [T] Are you okay? It's not oxygen. It's enzymes. Okay? Chinese characters? [T] In di"
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] For example, saliva works only on starch, which we experimented with this time. You must have learned in home science. [T] Five major nutrient categories. Protein, fat. There are many nutrient categories, but saliva only works on starch. [T] And gastric juice in the stomach, which I mentioned be"
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] This is a little bit difficult, so we will look at this in detail in the next lesson. [T] All right, we will finish today's lesson, but please turn in your report. All right, that's it."
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Please turn in your reports."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Unless you move it in this way... this one is... oh, like this. That's good. Very good. [T] What were the results in this group? [T] I see."
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] I see. [T] That's good, right? This group is almost all at a good position. [T] What can we say from this? [T] A and C are... what is this? Black? Iodine does not become black in a reaction."
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] A and C are... what is this? Black? Iodine does not become black in a reaction. [T] //Well, blackish- [T] Yes. This is a stage in which the bluish purple is very dark. [T] Yes. [T] Yes. Think about the things to consider. Think about the things to consider. [T] And this part... these are supposed to have starch but... they are pale purple or white. Not white, rather transparent, I think. [T] Why did they become like that?"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Right? [T] Oh, one more thing. B and D are the same. They both contain saliva and starch. What is the conditional difference in the experiment? [T] That's right. Hot water and cold water. From that//- [T] Huh? Does this have a hole here? [T] Work hard. If you include that, I think you will have a good summary of the study. [T] Well, well."
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This group's results... This group's results are super. [T] If you cannot write a summary of the study from this good result, you are- [T] [mimetic expression] [T] Did I say a thing like that? [T] Well, so... should we look at it from here? [T] Well, A and C became all bluish purple, right?"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] B is faster. That means... (inaudible). You must be able to figure it out. [T] Almost. [T] If you can summarize this result, you are in perfect shape. [T] Very good. Very good. [T] Okay, this group. [T] Looks good, looks good, looks good. Good. Good."
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's a good point. That's good. In addition to that... which one had Benedict's solution... Oh, they became the same color? [T] In that case, it will be difficult to write the summary of the study, huh? [T] Well, well, well, well, well. [T] Look. Look. [T] These are (the results of) one group."
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That's fine. [T] The guys have written nothing. [T] Oh, I'm sorry. [T] Next, how about the Benedict's solution? It didn't turn reddish brown... Oh, I see. [T] You put Benedict's solution in A and B, you put Benedict's solution in A and B, and when you heat it, only B has reacted. [T] That means, what's in B? [T] Sugar is in it. That means... as I said before... the starch in B has disappeared because of the saliva, and what is made?"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Sugar is in it. That means... as I said before... the starch in B has disappeared because of the saliva, and what is made? [T] Wonderful. [T] You are welcome. [T] How about this group? [T] Whose answer is right?"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So, shall we check? [T] Ah! These are wonderful results as well. If you cannot summarize these results, you are... Kenji- [T] Nothing. [T] Well, when we look at this, A and C are all purple, that means that the starch has reacted. That means that there is starch in A and C till the end, right? [T] But in B and D, (the circles) are colored red, which means that the starch has not reacted, iodine has not reacted, right? [T] This means that in B and D, we put starch and saliva, but due to the f"
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] This means that in B and D, we put starch and saliva, but due to the function of saliva, starch has blah blah blahed, has blah blah blahed. What is it? [T] Yeah, dissolved. In normal language, it has disappeared. We can understand that starch has disappeared due to the function of saliva. [T] Then, what is the difference in the experimental conditions of B and D? [T] Temperature. B is? [T] //Yes body temperature, and D is? [T] It's cold."
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] B. That means that while saliva changed the starch, what other than starch was made? [T] Ah. Kenji. [T] You have good friends. [T] //How about this group? [T] Are you writing now? [T] Let me check it. Let me see. Let me take a look at Takashi's. [T] This one, too. [T] Oh, you didn't do the first one."
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Not there. Consider that. In the case of B, eventually, and in the case of D, from the beginning [T] When we compare B and D, in both cases the starch disappears. [T] Because of what? In B and D, there is starch plus what? [T] There is saliva. You have to figure out what the saliva did. In addition to that, what was the conditional difference between B and D? [T] Temperature. B is? [T] Forty degrees. D? [T] Cold. [T] That means that... saliva works differently depending on the temperature. W"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] That means that... saliva works differently depending on the temperature. What was that? [T] You see that saliva works differently, right, depending on the temperature. [T] And then, reddish brown... orange... oh, both changed...then it is hard to write the summary. [T] So-"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] So- [T] Because you cannot proceed to the conclusion when you have the same reaction- this is from a different group by the way- only B has reacted. Only B became reddish brown. [T] A did not react. I hope that you can come to a conclusion from this result. Right? [T] What is it, Nishi-kun? [T] Okay. [T] This group is left. [T] Yes."
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] In the beginning of the class- look at that- the result of breaking up the long chain of starch is sugar. [T] Sugar is the result of what was originally big becoming small. Sugar. It is part of starch.//"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] //Yes. Yes. A, C and D are all bluish purple, but... Oh, please don't sit down yet. B started getting paler from about the third one. That was the report. [T] And how about the Benedict's solution? [T] Yes."
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] That was a wonderful way to say that. It turned from blue to green, and when it kept being heating, it turned to reddish brown. [T] So, in other words, B reacted. I see. [T] Well then, group five. Please report your results. [T] Go ahead. [T] You only have to say it."
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] The rest of the part were bluish purple. I see. Then what about the Benedict's solution? [T] //Yes. [T] Ah, so only B reacted. I see. Group five has reported that A seemed to become pale, too. I see. Then, group six, please."
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. Pale-// [T] I see. Well... which one is the closest? This one I believe. Please take a look at this. [T] This one is the same test results of students like you- I wonder which class it was? Class four, class five, or class three?"
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Mm, mm, mm. [T] Mm. [T] Mm, that's it? I see. That's good. That's good. That's good. [T] Next, group one. Can you do it?"
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Haa. I am amazed. Wonderful. [T] I see. That was a nice presentation. It was very logical, good conclusion. Then, how about the group three? [T] Yes."
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Pressing for Reasoning",
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Yes. I think it's very good. This was also a nice presentation, don't you think? I think it's good. [T] Well then, I will summarize each group's presentation into sentences, so please write them down in your notebook. I think we can summarize like this."
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Other"
+      ],
+      "excerpt": "[T] Yes. [T] Please turn in your reports."
+    }
+  ]
+}

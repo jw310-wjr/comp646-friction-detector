@@ -1,0 +1,1849 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math US3 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. You guys, sit in the same proximity where you were sitting before. The only thing that's changed is- [T] Brian. [T] Would be this section right here. Ian, grab the second seat right there. Okay."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That- yeah, that can work the same for you. [T] Okay. We're starting a new chapter today, so Chris is gonna pass out your chapter assignments."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. We're starting a new chapter today, so Chris is gonna pass out your chapter assignments. [T] Go ahead and put that away. [T] So we're missing- Britney's here. [T] Okay. Everyone's here. [T] Okay attendance is (inaudible). I guess I better put the lights back on."
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay attendance is (inaudible). I guess I better put the lights back on. [T] What? [T] Okay. Okay, get your assignment and go ahead and put it away for now."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I don't know if you want their assignment sheet, but this is what we're gonna work on in class for a little bit today. Okay. [T] Yes. Go ahead and keep it for later. [T] Yes? [T] Well, we- we'll worry about that later. Okay. [T] Yes, Austin. [T] I just want you to put your assignment in your folder and put your folder away. [T] I will give you a sheet that we're gonna work on today that you can take notes on."
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I will give you a sheet that we're gonna work on today that you can take notes on. [T] Okay. The only thing you need on your desk is this piece of paper I'm gonna give you and a pencil. [T] You don't need your calculator right now. No. [T] You don't need your book right now either. [T] Send that five to that other group back there. [T] Yes, Tim? [T] Please excuse, tardy. Okay."
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Please excuse, tardy. Okay. [T] Okay. I have you broken into groups today because I want you working- [T] We're gonna work on this individually and we're gonna work on this as a group."
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I do not want you to begin anything on the assignment, so turn the paper over please. [T] You didn't get one? [T] He has one? [T] Okay. So turn it over, and most of chapter eight that we're gonna deal with, is dealing with exponents. [T] And for exponents we have to remember back from what I first introduced to you in fifth grade. [T] You learned about two squared and two cubed. Okay."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You learned about two squared and two cubed. Okay. [T] Remember on the- the- the composition of your exponent it always has a base number. [T] And then the power or the exponent is the number that it is risen to. Okay. [T] The exponent stands for the number of times that the base is going to be multiplied. [T] So if we have two cubed, this tells me that the base is gonna be multiplied three times. [T] Two, times two, times two. [T] And the thing we're gonna learn about in this unit is exponential growth. [T] If we look over here, we have two cubes. This would be like two to the first power."
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If we look over here, we have two cubes. This would be like two to the first power. [T] So if we made it two squared, which would be two times two, we would see that it grows to two squared. That's two times two, right? [T] Two cubed is two, times two, times two. Two to the third power. You see it's starting to double in size. [T] Then if we go two to the fourth, you're looking at... [T] And you see how quickly it starts to grow. Okay."
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And you see how quickly it starts to grow. Okay. [T] Now two to the fourth is how much? [T] Sixteen. [T] See if I can get this to stand here. I don't know if I will. [T] Okay. So two to the fifth would be how much? [T] Well, we know that- [T] Two to the fourth is 16. [T] And we take that and multiply it by two and we get? [T] Thirty-two. Okay."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Thirty-two. Okay. [T] So you see it is continually doubling. Look at the growth. [T] It's very, very big. [T] Okay. So whenever we're dealing with powers... [T] Kamikaze. Whenever we're dealing with powers, we're gonna see that the growth goes quickly. Okay. [T] So think about that in terms of a graph. We've looked at slope. Right? And we've always had a constant slope. [T] What do you think if we were gonna graph two to the X power?"
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What do you think if we were gonna graph two to the X power? [T] Think about that in turns. We found that two to the one was two. [T] Two to the two was four. [T] Two to the three was? [T] And two to the fourth was? [T] What do you think that graph's gonna look like? [T] Yeah. It's gonna be a curve. Think about that. [T] Two to the first power, we get just two. Right?"
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then we go up to four. We go up to eight. We go up to sixteen. We get some significant growth. Okay. [T] Yes? [T] That's a good question. We're gonna explore that in this unit. Okay. [T] We're gonna start dealing with the negative exponents. [T] But first we're just gonna play around and there's certain rules that you have to learn when you deal with exponents. Okay. [T] And that's what you're gonna work on as a group and individually. [T] First of all, there's gonna be three different rules that we're gonna find out about when we multiply exponents."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] First of all, there's gonna be three different rules that we're gonna find out about when we multiply exponents. [T] And what I want you to do on your worksheet in front of you, we're gonna work on just section one right now. [T] But before we get there, I'm gonna go through the three different rules of multiplying exponents. Okay. [T] If we think about this, what does two squared mean? [T] That's two times two. Right? And what does two cubed mean? [T] Okay. Now if I want you to write this out as a solution, we could go two times two is four times two."
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Now if I want you to write this out as a solution, we could go two times two is four times two. [T] But I want you to write it out as a solution of a power. What would this equal? [T] Two to the fifth power. Okay. [T] Then let's look at this. What is this telling me now that I have parentheses? [T] Well- [T] Two to the third power times two to the-"
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Third power. Right? [T] We have because it's squared- [T] We're taking the inside and we're multiplying it twice. Right? [T] Yes, Lucia? [T] Right now I'm not- in terms of finding out what the actual value is. I'm trying to find out what the power would be. Okay. [T] So I'm saying here I have two to the third power and it's squared."
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So I have to take two to the third power and multiply it by itself twice. Right? [T] Well, we can even break this down further and what is this? Two- [T] Two times two. And this is? [T] Two times two times two. [T] And what do we get here if I write it as a final power? [T] Two to the sixth power. Okay. [T] Now for the last example, what's being squared here?"
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Two and X or just- [T] Both of them. This is- [T] Two times X times two times- [T] X. Or because we have the associative property in math, we go two times two, and X times X. Right? [T] Is that any different? [T] Okay. And this is two squared times- [T] X squared. Right? [T] Okay. Turn your paper over."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Look at section one. For the next minute I want you to do the first three problems. [T] And in your head think if you can come up with the rule, after you've done these problems, for multiplying these exponents. [T] See if you see a pattern developing on your own. [T] Don't talk to your neighbor. Just do those three problems. [T] And if you need to expand it out to get the answer like I did, that's what I'd like you to do."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] And if you need to expand it out to get the answer like I did, that's what I'd like you to do. [T] Expand the problem out, the multiplication out, and then combine it with an answer to a power. Okay. [T] Okay. Expand that out."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Expand it out on your paper. [T] Okay. Expand that out."
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Expand that out. [T] Show me what that is. I want you to expand those out. All of those out before you come up with your answer. Okay. [T] Expand those out like I did on the board please. [T] Yes. I want you expanding them out. Good. [T] Mm-hm. And then give us the final answer. [T] Yeah. [T] Yes, Brett?"
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Okay. Now that most of you have the problems worked out, I want you in your group to discuss if you see something- [T] A pattern developing when you're multiplying the exponents. [T] If you see something that you can do with the exponents. [T] Discuss it with your group. [T] Yes."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] Did you come up with a rule? [T] Okay. So then what- what- that doesn't show me a rule, though. [T] What does A to the M, times A to the N. [T] If you say you're gonna add exponents, how would you write that? [T] Okay. What's your base? Remember your exponent has to be written to a base. What's your base in this problem?"
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. What's your base? Remember your exponent has to be written to a base. What's your base in this problem? [T] Okay. [T] And so you're saying then that you just add the exponents. Okay. Very good. [T] Okay. So you're just saying that you're gonna- yeah."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Add the exponents is sufficient. [T] Mm-hm. Mm-hm. [T] So then show me that. [T] Okay. Robert, what did you find out? [T] Okay. Ask the question. [T] No. You can- you can do it in symbols, Robert. [T] If I A to the M times A to the N, what did we find out when we multiplied?"
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] Did anybody get something different? [T] Okay. What did you get, Chad? [T] A to the M in parentheses and to the outside N. Okay. [T] So then you found- so how would I do it if I had A to the two to the four? [T] Okay. So you're saying that if you have it this way, it's being added. Okay."
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So you're saying that if you have it this way, it's being added. Okay. [T] What does parentheses stand for in math? [T] Okay. So would someone seeing this say, oh, multiplication or addition, do you think? [T] Multiplication. Okay. So then how are you gonna show me since you tell me that if I add these two that's gonna be the answer. [T] How can I show it such that it's being added? [T] Okay. Okay. [T] So are- yes, Austin?"
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] On which problem? [T] Okay. And what did you plug in for M and N, then? [T] Okay. So you took all- you took all the- you took all the A's out of the problem. Right? [T] Okay. Those were just examples to look at to find a pattern. [T] 'Cause if you look at the first problem, we had A square times A to the fourth and we got A to the- [T] Sixth. And two plus four is-"
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Sixth. And two plus four is- [T] Okay. Then we had A squared times A. And what's the exponent on A? [T] So two plus one is- [T] And we got A cubed. Right? For number two. [T] And then on number three we had A cubed times A times A to the fourth. So three plus one plus four is- [T] A to the eighth. [T] Okay. So you found that when we are multiplying the same base, did you notice that the base had to be the same?"
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. When you multiply the same base with exponents we just add the exponents to get the new answer. Right? [T] Okay. Let's look at section two. Do problems four through six. Multiply that out and see if you can find the rule for that. [T] And I want you to expand it. It's very important that you expand it. [T] 'Cause when you expand it, you'll be able to see the pattern much more quickly."
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Okay. That's cubed. Right? [T] So how many times would you multiply the inside part? What's in the inside part? [T] Okay. So write A squared. [T] And how many times would you have A squared? [T] Okay. So write that out. [T] Okay. So now you have that. Can you break that down even further now? [T] What's A squared look like? [T] Okay. And then you have to have how many sets of those?"
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Three. So then you write that out and you've expanded it. [T] So how many A's would you have? [T] A to the- [T] Sixth power. Good. Okay. So make sure you expand it out. [T] Yes. Lucia, did you have a question? [T] What's that? [T] What's in the parentheses is being cubed. So it's three times. Right?"
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Then how do you break out for your A squared? [T] You go two A's. Right? [T] A times A, and you do that three times. Right? So how many A's do you end up with? [T] A to the sixth. [T] Did you do- okay. [T] Okay. Show him. [T] Well now show him, Lucia. Show him how yours is broken out. Explain to Chad how that works."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So you're gonna multiply your exponents, right? [T] Okay. Did you guys have it? [T] You have your rule? [T] What's your rule? Don't forget your rule. [T] Don't forget to do your rule if you have determined it with your group. [T] Yes. [T] Okay. That's- that's exactly- yes."
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. That's- that's exactly- yes. [T] Yes. (inaudible) [T] Okay. So you have A squared. Right? [T] And how many times do you need A squared? [T] Three times. So you have it once here. Where's the other two times? [T] Don't you need three A squares? [T] No. No. No. Don't look at that bottom part. [T] I want you to write that out in expanded form."
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What's A squared cubed? What does that look like? [T] No. No. No. [T] What- what's being cubed here? [T] No. What's being cubed here? [T] What's in the parentheses? [T] Okay. So write three A twos for me. [T] 'Cause isn't that- don't you have A squared three times? [T] No. Write three A twos out."
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Isn't this A two A squared times A squared times A squared? [T] Okay. Now can you break those down further? [T] Okay. And redo these. You guys, okay- with the same logic and see if you see a pattern. [T] Yes."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So break those down. What's A cubed look like? [T] What's A cubed look like? How do you write A cubed in expanded form? How many A's is it? [T] So write A times A times A. [T] And then what do you have here? Another A cubed. So what do you write? [T] There's A cubed times A cubed. I was just reading your paper. [T] That's right. [T] So write out another A cubed. Another A cubed. Break it out."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So write out another A cubed. Another A cubed. Break it out. [T] So how many A's do you have? [T] Look it. What's being squared? A to the three. [T] So A three times A three, is that- [T] Yeah. Now you're breaking these down, A times A times A. So how many A's do you have? [T] There you go. Okay. [T] Mm-hm. 'Cause if you can pick it up, yes. [T] Okay. Let's look at number four."
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Okay. Let's look at number four. [T] Okay. Are we all focused? Let's go. [T] Number four. What did you get, Lucia, in your group? [T] No. I just want to know what the answer to number four is. [T] A to the sixth. Okay. Now what did you get over here, Phoebe, for number five? [T] And Robert's group, what did you get for number six? [T] A to the eighth. Okay. Did someone find a rule? [T] Chris, what did you find out?"
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Chris, what did you find out? [T] Okay. When we have an exponent within parentheses raised to an exponent, we get A to the what? [T] A to the M times N. [T] So he's saying, his rule is that you're going to multiply the exponents. Does that work? [T] A squared cubed, two times three is six. Right? [T] And if we look at number six, two times four is eight. Okay."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And if we look at number six, two times four is eight. Okay. [T] So now you've got two rules already down. You've discovered them all by yourself. I didn't have to tell you them. Right? [T] You found that when you multiply exponents that have the same base, we're gonna add them. [T] Then when we take an exponent and raise it to a power, we're gonna multiply those exponents. Okay. [T] Let's look at the third section. Okay. [T] Now we have two terms within the parentheses being raised to a power. Okay. Expand that out just like I did down here."
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now we have two terms within the parentheses being raised to a power. Okay. Expand that out just like I did down here. [T] Two X, we went two X times two X, and then we grouped our like terms, two times two, we got two squared times X squared. Okay. [T] Do that with seven, eight, and nine and see if you can come up with the rule."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then we'll let them know 'cause I've- I already got- [T] Okay."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] I don't know. Write that down, what you said you think it is. [T] Okay. That's A cubed times B cubed. Right? [T] Okay. So you asked me is it the same as what?"
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] Yeah they're the same. How many A's do I have? [T] Okay. So I'm okay. [T] But you- I though you asked me is it the same as this. A B cubed. [T] Is it? It is? [T] That says to me A times B times B times B. [T] That's- that's what you have to make sure. Okay. [T] 'Cause this is when you asked me-"
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's what it sounded like you had asked. And that's not the same as that. And you understand why. Right? [T] Okay. Yes? [T] Uh-huh. Okay. Try to develop your rule if you can, too, with your group? [T] Okay. Well, think about this. This is- you have A B cubed. [T] If I were to expand this- okay, if I was going to expand that, that would be A times B times B times B. Is that the problem I gave you?"
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So find out where you went wrong with this logic. I don't see you writing this out in expanded form. [T] Okay? [T] Yes? [T] Yes. [T] Yes. [T] Okay. [T] Three times. Yeah. [T] Okay. So how many A's do you have?"
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So what does this say? That says one A and three B's. [T] Doesn't that what that says? [T] Right here. Doesn't that say one A? A to the one times B to the three? [T] So I don't know. How many A's do you have? [T] So what's- what's- [T] Yeah."
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's- that's fine. [T] Uh-huh. [T] And- and then if you can get rid of the multiplication it can just be A cubed, B cubed. Can't it? [T] Okay. [T] Yes, Phoebe?"
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Okay. And what- that would equal what? Write it as powers. How many A's do you have? [T] Okay. Times what? [T] Okay. Write A B cubed for me. [T] Okay. How many A's is that? [T] Is it? Where's the three on the A?"
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Are we- did I tell you to plus? [T] What are we doing? [T] Okay. And how do we designate multiplying in algebra? [T] And what other way? [T] And what other way? [T] And what other way? [T] Well, if I write A B, what does that mean? [T] So you can just have them next to each other, right?"
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And that still means multiplication. [T] Yep. [T] Uh-huh. [T] Uh-huh. [T] I hope so. Keep working. See the other ones. [T] Yes, you could also do it in parentheses. But we want you to get it expanded so that the powers are on each one of the variables."
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, you could also do it in parentheses. But we want you to get it expanded so that the powers are on each one of the variables. [T] Okay. Let's look at number seven. The quantity A B cubed. [T] What did we find out when we had the quantity of A B cubed? Robert, how would we rewrite that? [T] Okay. A cubed times B cubed. Right? [T] And on eight, Courtney, the quantity A B to the fifth power?"
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. And what about number nine? Ryan, you have that? A B- [T] Okay. Did someone find the rule? [T] Blake? [T] Okay. So when we have our base in here being raised to a power, each individual term is raised to that power. So we get-"
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So when we have our base in here being raised to a power, each individual term is raised to that power. So we get- [T] A to the M, B to the M. Okay. [T] And remember when we have two variables next to each other, they're being multiplied. [T] Okay. So there's the third rule of exponents for multiplication that you need to know. Okay. [T] When we have the same base being raised to a power, we just add the powers. [T] When we have a base raised to a power, raised to a power, we multiply the exponents."
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] When we have a base raised to a power, raised to a power, we multiply the exponents. [T] When we have two terms raised to a power within parentheses, we raise each term to that power. Okay. [T] So now, let's work on some division. Let's think about this. [T] We're going to expand this, so this is two, times two, times two, times two. And two squared is two times two. Okay. [T] What is two over two equal to?"
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What is two over two equal to? [T] One. And what is two over two equal to? [T] One. So what are we left with? [T] We're left with one square, which is what? [T] One, right? [T] Okay. And two squared. Right? [T] Okay. Shh. [T] Okay. We take our two to the fourth power, we expand it out two times two, times two, times two."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. We take our two to the fourth power, we expand it out two times two, times two, times two. [T] Our denominator is two squared, so it's two times two. And we know that a number divided by itself is always one. [T] So this becomes one and this becomes one, and one times one is one. Right? And one times two is two. [T] So the ones there, we just don't have to write it. [T] So what are we left with? Two times two, or two squared. Right? [T] Okay. [T] Now, what is this saying? This is saying I have four over two how many times?"
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Now, what is this saying? This is saying I have four over two how many times? [T] Three times. [T] So how many fours do I have? [T] And how many twos do I have? [T] Okay. [T] So do section four and come up with a rule for me. Section four, problems 10 through 12."
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] A to the sixth for A squared. That's wrong. [T] How many A's. Look it. If these are ones. Right? [T] How many A's do you have left? [T] And he wrote three. [T] Okay. And look at these. A to the fourth over A to the one. A over A is one. Right? So how many A's would be left? [T] Yeah."
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Help each other out. See if you come up with a rule on that one. [T] Yes, Tiffany? [T] Okay. So how many A's do I need to write out here? [T] So write out A- six A's."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. And what's it being divided by? [T] Okay. So put your division line. And then how many A's are you gonna write? [T] Okay. [T] Now A over A becomes what? [T] And A over A becomes what? [T] So- [T] Okay. And how many A's do you have left? [T] Okay."
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Why is it two A? What's one times one? [T] And what's one times A to the fourth? [T] 'Cause isn't that your multiplication? One times one is one. One times A is A. And A times A is A squared. And A times- [T] Yes? [T] Okay. If you have A to the fourth up top, why do we have A to the fourth on the bottom?"
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Okay. If you have A to the fourth up top, why do we have A to the fourth on the bottom? [T] What's the denominator? [T] How many A's are supposed to be down there? [T] Okay. [T] Okay. [T] Uh-huh. What's left here? [T] Okay. What's this? A over A? [T] Okay. And what's this? [T] Okay. And what's this? [T] Okay. A to the fourth. Right? What's one times one? [T] And what's one times A to the fourth?"
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And what's one times A to the fourth? [T] You get- Does that make sense to you? [T] Squared on the bottom. Yep. [T] Yep. [T] Okay. And see if you can find the rule now. See if you can find the rule. [T] Okay. Let's look at problem- [T] Problem number 10. [T] Dominic, what did you get for the answer to problem number 10?"
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Dominic, what did you get for the answer to problem number 10? [T] A to the fourth. Okay. Sam, on number 11, what answer did you get? [T] A cubed. Okay. And on number 12. Chelsea, what did you get? [T] A. Okay. Do we have a rule? We have a rule? [T] Lucia? [T] A to the M minus N. [T] So you're saying that when I have a base to an exponent and it's the same base, we take the exponents-"
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So you're saying that when I have a base to an exponent and it's the same base, we take the exponents- [T] We take the numerator and we subtract the denominator from it. Okay? [T] Does that make sense? [T] Okay. Very good. [T] So now you've got the fourth rule. We've only got one more rule to learn. Okay. [T] Now on this one, on this rule we need to take these and expand them out this way so that you can see the rule develop. Okay. [T] So go ahead and do 13 through 15 quickly."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So go ahead and do 13 through 15 quickly. [T] Yes? [T] Okay. [T] Well, how many A's do you have? [T] So how do you write that? [T] Okay. Looks good to me. Try the next one and see if you see a pattern develop."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. Looks good to me. Try the next one and see if you see a pattern develop. [T] Yes. [T] Okay. Well, what- what is- You have A divided by B, right? [T] And what power is it being raised to? Okay. [T] So it's A over-"
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] They do. [T] How do you know that? [T] Okay. But what's to the third power? [T] A? [T] Okay. Are they like terms? [T] So can we combine unlike terms? [T] No. So then they're in simplest form, then. Right? [T] Okay."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, I'm listening, Lucia. [T] Okay. So- So how many A's do you have? [T] A cubed and B cubed. Right. [T] Okay. Now, let's say I had A on the bottom- to go to your point. 'Cause you were saying the threes cancel out. [T] Okay. What if I had A cubed over A cubed? What would I have?"
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Okay. What if I had A cubed over A cubed? What would I have? [T] What's A- What- What's- What's A over A? [T] What's A over A equal? [T] If I had three of those, what would I have? [T] Well what's one times one times one? [T] Okay. So if- if the denominator was the same variable as the numerator, yes, we could simplify it."
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] But you can't simplify it because it's a different term. Right? [T] Okay. Quickly now, let's go. Number 13. [T] What is our answer, Robert? [T] Good. Number 14, Austin. [T] Okay. And number 15, Rachelle."
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, and a rule. Cristie? [T] Okay. When we have the variable term in here, A divided by B, each term is raised to that power. [T] Okay. We cannot simplify because A and B are not the same terms. Okay. [T] Now, why I have you in groups, and this is what you're gonna do for today. And you're gonna present your answer tomorrow."
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Knowing those rules of exponents... knowing those rules of exponents- [T] Knowing different properties, like distibu- distributive property, associative property, commutative property, [T] I want you to prove two things to me. [T] I want you to prove that A to the zero is equal to one. And I want you to prove that A to the negative N is equal to one over A to the N."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This is what you're gonna work on in your group right now. [T] See if, knowing what you know about exponents, if you can come up with proof of this. Could you show me proof. Okay. [T] That's what you're gonna work on for the next 13 minutes. You'll present it to me tomorrow, in class. [T] Yes. That's why you're in groups. So start working on that. [T] Do you need me Robert?"
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Yes."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] Okay. Well, just think about your rules of division and multiplication that you just did. [T] Work out some sample problems and see if you can come out and prove to me why A to the zero is one."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Work out some sample problems and see if you can come out and prove to me why A to the zero is one. [T] No. A can be 10. And 10 to the zero power is one. A million to the zero power is one. Why is that? [T] Think about using those rules. [T] Yes?"
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] That's A to the zero equals one. A to the zero power equals one. [T] Okay."
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You guys, you're trying to think of terms in- things in terms of numbers. [T] Think about putting your rules over here that we learned about, the adding and the- and the subtracting rules into- [T] If you took variables- don't do numbers- [T] How could you prove something is equal to one? What do we know about the rule of one?"
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] How could you prove something is equal to one? What do we know about the rule of one? [T] Think about that. [T] Yes. You have a question? [T] Oh, I know, but if you take the rules that you learned over here and think about that, you can make some examples. [T] Using either your multiplication or your division rules up there that you developed. [T] Let's see if you can come up with an example where that would be true."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Let's see if you can come up with an example where that would be true. [T] Yes. [T] Really? What if A was a million? [T] Yeah. Let's say our A was equal to a million. [T] And they- So six to the zero power is one. [T] Well, that's what I want you to show me. How?"
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. But we're dealing- we're dealing with powers now. [T] You're getting- you're on the right track. [T] Start thinking about it in terms of multiplication and division now. [T] She's on the track. Yes?"
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But is that what you're saying? That it's being multiplied? [T] Does A to the zero mean A times zero? [T] No it doesn't. What does it mean? [T] No. 'Cause I can tell you that a million to the zero power is one. [T] Ten thousand to the zero power is one. [T] Start thinking about it. You're getting there, Brandon. Start thinking about it."
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Start thinking about it. You're getting there, Brandon. Start thinking about it. [T] Okay. [T] A to the zero power equals one. [T] So any number I plug in for A if I have it raised to the zero power, my answer's gonna be one. That's what I'm saying. [T] Now, think about what you can use over there between your multiplication and your division rules and prove to me that A to the zero is one."
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now, think about what you can use over there between your multiplication and your division rules and prove to me that A to the zero is one. [T] Well what did- what did you do? Let's see. [T] Okay. And I'm telling you that if A is equal to 100, it's true. [T] How can I get something to the zero power? What types of things can we do? Using your rules up there?"
+      }
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] How can I get something to the zero power? What types of things can we do? Using your rules up there? [T] Start thinking about that. How am I gonna get that zero power, and it'll start making sense to you. [T] No. 'Cause what's two to the one power? [T] Okay. What's two to the second power? [T] Okay. And how did you do that? [T] You multiplied it twice. Okay."
+      }
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2730.0,
+        "t_end": 2760.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You multiplied it twice. Okay. [T] So here, this is not saying A times zero, this is say A to the zero power. [T] A to the zero power. [T] Well, not necessarily. What if A was equal to 1,000? [T] No 'cause a thousand to the zero power is... [T] Is one. Now you have to prove that. [T] And think about it in terms of your multiplication and your division rules of exponents."
+      }
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2760.0,
+        "t_end": 2790.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And think about it in terms of your multiplication and your division rules of exponents. [T] How am I gonna get A to the zero power as a solution. What can I do mathematically to get A to zero power? [T] Mh-hm. [T] Yeah, you could use a calculator. [T] You could use a calculator. [T] Put in 100 to the zero power. See what they give."
+      }
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2790.0,
+        "t_end": 2820.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Put in 100 to the zero power. See what they give. [T] Put in 1,000 to the zero power. [T] So no matter what number you're gonna put in to the zero power, you're gonna get one. [T] But using those laws right there, if you start thinking about it... [T] Work out a problem so that the solution is A to the zero and the light will go off. It will."
+      }
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2820.0,
+        "t_end": 2850.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Work out a problem so that the solution is A to the zero and the light will go off. It will. [T] Start thinking, can I do a multiplication problem, can I do a division problem? Start working with exponents. Okay. [T] Okay. Well- [T] Well, how would you get a negative N up there looking at your rules of exponents? [T] Look at your rules of exponents up there, and where do you think you can get a negative N?"
+      }
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2850.0,
+        "t_end": 2880.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So therefore M would have to be larger than N. Right? [T] So you can prove that to me using that law. Think about it. [T] Okay. Now, Ryan, I figured you'd have this solved in no time."
+      }
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2880.0,
+        "t_end": 2910.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. So let's look at of our laws of exponents. We can add, we can multiply, and we subtract, and we can divide. Right? [T] So think if I want you to set up a problem so that the solution would be A to the zero power. [T] What kind of problem could you give me? [T] With exponents. [T] Okay. A to the one and then what would I have to do to A to the one so that it becomes A to the zero."
+      }
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2910.0,
+        "t_end": 2940.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. A to the one and then what would I have to do to A to the one so that it becomes A to the zero. [T] (inaudible) divided by what? [T] By one or by- [T] Let's see. Write that down. A to the one. Divided by- Okay. [T] Now since we're doing division, what does the rules of exponents say? [T] So it says that what you're going to do to get this, and we want this, put this equal A to the zero."
+      }
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2940.0,
+        "t_end": 2970.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] A to the zero. Okay. [T] What do we do about division rules? [T] What do we know about division rules? What- what's- what's one of the rules? [T] You subtract the top exponent from the bottom. [T] So how am I going to- what am I gonna put down here such that this would be zero when I'm done? [T] Okay. [T] Now is A to the one over A to the one equal to A to the zero?"
+      }
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2970.0,
+        "t_end": 3000.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Now is A to the one over A to the one equal to A to the zero? [T] Okay. Is it? By your rules, what do you do? [T] You go one minus one is zero. [T] Okay. Now, what do you know about math when a number is over itself? [T] And what does it equal? [T] No. Come on. What does A divided by A equal? [T] Okay. So, now if we do this division, what answer do we have here?"
+      }
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3000.0,
+        "t_end": 3030.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And what's that equal to? [T] No. What does that say? [T] And what is that equal to? [T] Now didn't you just prove it? [T] Now, see you guys figured this out. So now with the next problem, we use the same type of logic to solve the second set. Okay. [T] Now was it as hard as you thought?"
+      }
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3030.0,
+        "t_end": 3060.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. You guys, we need to wrap it up. [T] We need to wrap it up. I will give you time in class tomorrow to finish up. [T] I know most of you will probably take this home and go, Mom and Dad help! Don't worry about it. [T] If you don't come up with a solution, we will work through and prove this for you. Okay? [T] Yes, you have your assignments. You have homework tonight."
+      }
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3060.0,
+        "t_end": 3090.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] See ya."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That- yeah, that can work the same for you. [T] Okay. We're starting a new chapter today, so Chris is gonna pass out your chapter assignments."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If we look over here, we have two cubes. This would be like two to the first power. [T] So if we made it two squared, which would be two times two, we would see that it grows to two squared. That's two times two, right? [T] Two cubed is two, times two, times two. Two to the third power. You see it's starting to double in size. [T] Then if we go two to the fourth, you're looking at... [T] And you see how quickly it starts to grow. Okay."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay. But we're dealing- we're dealing with powers now. [T] You're getting- you're on the right track. [T] Start thinking about it in terms of multiplication and division now. [T] She's on the track. Yes?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3060.0,
+        "t_end": 3090.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] See ya."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/M-US3"
+}

@@ -1,0 +1,9 @@
+# CPU pipeline through heuristics + report (--skip-fusion). Python 3.9+.
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+tensorflow>=2.15.0
+tf-keras>=2.20.0
+deepface>=0.0.90
+faster-whisper>=1.0.0
+tqdm>=4.66.0
+imageio-ffmpeg>=0.4.9

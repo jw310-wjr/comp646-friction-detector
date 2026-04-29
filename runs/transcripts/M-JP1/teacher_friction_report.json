@@ -1,0 +1,2545 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math JP1 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] How about today? [T] Good morning. [T] Okay. It's supposed to be as usual so let's go on without being concerned about it."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. It's supposed to be as usual so let's go on without being concerned about it. [T] Anyway your face might not be taped. [T] In reality, there might be dark lines in your faces. [T] Don't worry. [T] Okay. [T] Ahh. [T] Okay, yesterday was about the relationship between parallel lines. We ended quickly yesterday by doing some problems."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Do you remember what they were? [T] The first written problem on the handout we hurried through it yesterday, so we were not able to summarize it well at the end..."
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The first written problem on the handout we hurried through it yesterday, so we were not able to summarize it well at the end... [T] So today in between the parallel lines there is one angle in the bend. [T] So first we will obtain that angle. [T] When I had you do the problems yesterday we had three problem solving methods that were presented... [T] It's okay to use the method you think is the easiest. Please try to do the problem."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's okay to use the method you think is the easiest. Please try to do the problem."
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's okay to use the method you think is the easiest. Please try to do the problem. [T] After you have finished writing, please add an explanation. [T] My- my method is this and this way. If you can also give an explanation that would be amazing."
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] My- my method is this and this way. If you can also give an explanation that would be amazing."
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] My- my method is this and this way. If you can also give an explanation that would be amazing. [T] This, right. [T] You're fast. [T] If you forgot how to solve it, it is okay to look at the previous handout."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If you forgot how to solve it, it is okay to look at the previous handout. [T] (inaudible) let me borrow this for me. Let me borrow this because he needs a pencil. It's a little different... line... (inaudible). [T] Umm. Okay. [T] Are you done? Can I ask? How is it?"
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Are you done? Can I ask? How is it? [T] People who solved it? [T] Okay then... Arai. [T] Okay, what did you do? [T] Okay. Did you extend it like this?"
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This? Okay. [T] A triangle. Yes. [T] Okay. Not a straight line? [T] Yes."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Is this okay? Here we go. Okay. We can see he was a little tense. [T] Um, that was a clear method. People who did it using this method? [T] Oh... okay. [T] About five people? Okay, other methods. [T] Okay, Bunya. [T] Okay, please go ahead."
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Oops? Okay. [T] Yes. [T] Yes, well- Well, okay."
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. That's good. The method was to use the alternate interior angles of the parallel lines. [T] Good. People who did it with this same method? [T] Okay. [T] Right. About 10 people. Okay. [T] Are there any other methods? [T] Oh. One person... Chika. [T] Okay. [T] From point B. Okay."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] From the top line it would be an L, huh. [T] Draw a perpendicular line from point B. [T] Yes. [T] Yes."
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Right."
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Yes. Here we go. Okay. People with the same method as this? [T] Oh. Just Doi. Okay. Good. Are there any more? [T] Think a little more. [T] Okay? I am sure there are people who also extended this one. [T] Here are methods like that. Basically these three are the ones you have thought of. [T] Now I will summarize these into main points."
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Now I will summarize these into main points. [T] With just this diagram... with just this diagram we can't solve the problem. [T] So Sano and others extended the line to make a triangle. Bunya and others drew in a parallel line in the middle. [T] Chika and others drew in a perpendicular line. That means we can't solve it without auxiliary lines."
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Chika and others drew in a perpendicular line. That means we can't solve it without auxiliary lines. [T] The auxiliary lines become important. [T] Then by the way we draw the auxiliary lines in all we got three types. Sano's, Bunya's, Chika's. [T] They were different based on the way the auxiliary lines were drawn. [T] That means, one way is to draw a parallel line and use the alternate interior angles."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That means, one way is to draw a parallel line and use the alternate interior angles. [T] Another is to extend the line and make... a triangle, [T] and use the fact that the sum of the angles of a triangle is 180 degrees. [T] And Chika used the method that if we add the four angles of... [T] a quadrilateral we get 360 degrees. These are the three we got."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Now then, any method was okay, but the task was to do it using the easiest method. [T] And each person seemed to have selected one out of the three we summarized yesterday. [T] Today's problems are ones that can't be solved without auxiliary lines. We want to do problems of this kind. [T] Today. The way this problem is made is that [T] it is a problem of an angle bent once between parallel lines. The angle is bent once between parallel lines."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] it is a problem of an angle bent once between parallel lines. The angle is bent once between parallel lines. [T] Today by changing this condition, by changing this condition- [T] I will have you make your own problems. And today we won't change the parallel lines. [T] We won't change the parallel lines, but rather the middle. Change the middle means- [T] Oh. It's okay with the outside. The outside can be good. Now it has one bend."
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Oh. It's okay with the outside. The outside can be good. Now it has one bend. [T] It is even okay to bend it twice. I don't want you to bend it ten times. [T] There are always at least two or three of you thinking about it? [T] I know there will be some. But twice or three times. That's the limit. [T] After that nobody will understand it. You may be creative in between and change the number of bends, or, [T] it is also okay to use the outside with one bend, or it is also okay to be outside with two bends."
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] it is also okay to use the outside with one bend, or it is also okay to be outside with two bends. [T] Please think by yourselves. You can't just go and bend it 10 times. Don't draw random squiggly lines. That is not good. [T] Okay, umm, I have prepared two on your handout, but one is okay. [T] If it's easy please do two. It is okay to bend twice or be outside. [T] Then put in angles by yourselves and write in which angle is X, the one we need to obtain."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Then put in angles by yourselves and write in which angle is X, the one we need to obtain. [T] Oh, if 30 students do it, if they made only one problem each we will have 30 problems. [T] It's actually pretty hard to put in the degrees. You can't just put in any degrees."
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's actually pretty hard to put in the degrees. You can't just put in any degrees. [T] When you turn it in you must be able to solve it. [T] If somebody says he or she doesn't understand it you must be able to say what and why the problem is. [T] Please think about how the problem can be understood."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Please think about how the problem can be understood."
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Which one? [T] Um- by yourself. It isn't okay if you try to solve it yourself and find it can be solved, right?"
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Um- by yourself. It isn't okay if you try to solve it yourself and find it can be solved, right? [T] These are the same, since there is only one bend between the parallel lines, it's the same as this."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] These are the same, since there is only one bend between the parallel lines, it's the same as this. [T] Try to change it. [T] Oh, it looks difficult. [T] It looks pretty tough. [T] This also looks difficult."
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This also looks difficult. [T] You can put the bends in, but does the number fit in, is the problem. [T] It has to be a problem you can solve."
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It has to be a problem you can solve. [T] It can be the second one or the outside. [T] Bam, bam, and it can be bent on the outside. Or you can bend it once, twice."
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If you make it too hard, well it'll be... stressful. [T] How many times is this bent? One, two, three, four times it has been bent. It's been bent too many times. [T] What? [T] You can't solve this. [T] Without another angle I don't think it can't be solved."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If you try to solve it and you can solve it yourself then it is okay. [T] Where do you solve for this?"
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Where do you solve for this problem? [T] Here? [T] Then what is this? [T] There's a reason for this. [T] It starts at point A and goes through point B and- [T] Ahh, it looks hard. [T] Ahh, it is hard. [T] This looks hard."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Oh, I made a mistake. This is going to be hard."
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Are you done writing? Are you finished?"
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Are you done writing? Are you finished? [T] It seems hard. [T] Let's try hard to do one problem. Try hard to make one problem."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Let's try hard to do one problem. Try hard to make one problem. [T] Um, if you put it on the inside maybe it'll be easier to solve."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Um, if you put it on the inside maybe it'll be easier to solve. [T] Wow. This is how you take off from A and bend and reach B. What does that mean for A? [T] This is fine. [T] Is it solvable? [T] It is solvable. [T] It won't be solvable without these angles here. [T] Where?"
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Where? [T] That doesn't work if this and this are not parallel. [T] If this and this are not parallel then this angle is not 60 degrees. [T] No. If they're parallel lines then just put in the symbol for parallel lines here. (inaudible)"
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No. If they're parallel lines then just put in the symbol for parallel lines here. (inaudible) [T] It looks a little tough. This is too difficult. [T] And right... I made it too difficult. I made it too difficult."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And right... I made it too difficult. I made it too difficult."
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If there isn't an angle here it can't be understood. Just put something in. [T] You guys seemed to have learned that any number just doesn't fit in. [T] You guys seemed to have learned that any number just doesn't fit in."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You guys seemed to have learned that any number just doesn't fit in. [T] How many bends are there? One, two, three, four, five bends. [T] If you don't make it at most three then it will be impossible."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Let's see. What time? [T] Well it seems it was a little hard. I made a mistake. There are many of you that are in trouble. [T] Well there are not that many people with one, two done, but there seems to be a lot of people with one done,so, [T] get in your groups and... from the problems you have made..."
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] get in your groups and... from the problems you have made... [T] pick a problem you and others think is challenging, and group leaders please bring them up here."
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] pick a problem you and others think is challenging, and group leaders please bring them up here. [T] Please check if the problem can be really solved and then bring it up. [T] One problem is enough. [T] There are problems that can't be solved."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] There are problems that can't be solved. [T] (inaudible) It seems hard."
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] (inaudible) It seems hard. [T] Can't it be solved? [T] You don't have to make a new problem at this point. [T] Just from the currents ones you have. [T] This is a good problem. [T] Yes, because it's two bends, and the bends are different. [T] And this is also a good problem, whether you can do it or not, change that part. Not too much."
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And this is also a good problem, whether you can do it or not, change that part. Not too much."
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Who made this? [T] Umm. [T] Mmm. Can they do it or not?"
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Mmm. Can they do it or not? [T] Yes. [T] Hey, let's bring up one."
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Hey, let's bring up one. [T] Ha, it looks like a hard one. [T] Whose is it? [T] From which group? [T] This one? [T] Group five. [T] Ah."
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Ah. [T] Oh, the diagram was too small. [T] Here. [T] This- which group? [T] This can't be used."
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh huh. Because this is bent many times. [T] Yes. [T] Just a little more- this is too hard. [T] Oh, it looks like a good problem. What group? [T] Group one? [T] Group one? [T] The diagram is a little..."
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The diagram is a little... [T] Here. [T] Which number? [T] Number four- can you really solve it?"
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Number four- can you really solve it? [T] Is this all?"
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, that's good. Yes. [T] Next, who's next? [T] Don't say anything yet. Don't say anything. Groups that have not yet brought up one, please hurry up. [T] I wonder."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Can this be solved? [T] I think it is impossible. [T] Which one? [T] Mm. It's probably right? [T] Which one is that, group three?"
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Now number four is left."
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Now number four is left. [T] Which number? [T] Number four? [T] I'll do number four just a little. Sorry, okay?"
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'll do number four just a little. Sorry, okay? [T] Can it be solved? [T] You're able to solve it? Hum [T] Hum oh. [T] Oh. [T] What number? [T] Hum. Okay. [T] They are problems that we don't know if we can solve or not until we try. [T] I'm sorry for taking so much time, but there are six problems on the right side."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'm sorry for taking so much time, but there are six problems on the right side. [T] (inaudible) if we can solve it or not. [T] I wonder. [T] It seems impossible to do all of them in this time so. So we'll think about them a little next time, too."
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It seems impossible to do all of them in this time so. So we'll think about them a little next time, too. [T] Please hurry up and copy the six problems. [T] Imai is X here? [T] Hum. (inaudible)"
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] They really seem challenging, huh? [T] There seems to be one that is too challenging. [T] They are really challenging, like eating a dried squid. [T] Umm, this one is not that bad."
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Umm, this one is not that bad. [T] Umm... I'll say it's like a piece of gum. [T] Umm. Group four."
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Umm. Group four. [T] This is a rock."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Umm. Um um um."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Then I'm sorry there isn't much time, but there are six problems. [T] There may be ones from your own group. There may be ones that are yours. Please copy them. [T] It can be from number one. It can also be from the hardest one."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That means since today's problems can't be solved without auxiliary lines... [T] what kind of auxiliary lines. It can't be solved without auxiliary lines. [T] If you need the auxiliary lines the problem is what kind of auxiliary lines should you use."
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If you need the auxiliary lines the problem is what kind of auxiliary lines should you use. [T] There were three, but which one is the easiest way to do it. [T] For now please finish copying the problems by 35 after the hour."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] For now please finish copying the problems by 35 after the hour. [T] I think... the answers will be given next period. [T] What shall I do? [T] Can you solve this?"
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Genji's symbol is good. It's there nicely working."
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Genji's symbol is good. It's there nicely working."
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Genji's symbol is good. It's there nicely working."
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Genji's symbol is good. It's there nicely working. [T] Are there any groups that were able to solve them? [T] Not so (inaudible). [T] Oh- the rice cracker hard problem seems to be solved."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Later. We'll check it later. [T] We'll check it later."
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] We'll check it later."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I didn't write the group names."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Since all of them are challenging we can't solve it just like that. Let's do it step by step. [T] People who are done solving the problem from group one? [T] Okay good. Group two's? [T] A little more. Straight. Raise your hands straight. Ahh, about the same. Group three's? [T] Oh. Group four's?"
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Group five's? [T] Okay. Group six's? [T] Really. Group six's. Okay good."
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Is it group one or group two? [T] Umm. [T] Umm."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This is easier. Umm. This one symbol. If you miss that one symbol... [T] you can't solve the problem. This is parallel. This and this are parallel. Without that you can't solve it. [T] That's right. That's right. That's right. If you do that. It's about done."
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That's right. That's right. That's right. If you do that. It's about done. [T] Group one's is hard. I think group one's is really hard."
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Group one's is hard. I think group one's is really hard. [T] How you draw the auxiliary lines makes the difference. Something..."
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, do you want to try it again? [T] I'll give you a hint. Try extending this further. Try extending the auxiliary line further."
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'll give you a hint. Try extending this further. Try extending the auxiliary line further. [T] Try this one. This one is easier. There is a symbol included here. This parallel symbol."
+      }
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Try this one. This one is easier. There is a symbol included here. This parallel symbol. [T] Extend the auxiliary line all the way to here. Try extending it. [T] Yes, yes. [T] This and this are parallel. If you use (inaudible) angles this angle becomes the (inaudible). [T] This is a straight line so you know it. So you somehow get this angle."
+      }
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2730.0,
+        "t_end": 2760.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This is a straight line so you know it. So you somehow get this angle. [T] You know this angle and this angle (inaudible). If you write in as much as you know...it'll work."
+      }
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2760.0,
+        "t_end": 2790.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You know this angle and this angle (inaudible). If you write in as much as you know...it'll work. [T] Oh that's good. They're the right auxiliary lines. Umm. Ahh, this is (inaudible). This is hard. You can't solve it without auxiliary lines."
+      }
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2790.0,
+        "t_end": 2820.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That's good. [T] Umm, 120 degrees and then the straight line. [T] Like this line and like this, use auxiliary lines and try drawing it. It's good to draw auxiliary lines. [T] Umm, I see."
+      }
+    },
+    {
+      "t_start": 2820.0,
+      "t_end": 2850.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2820.0,
+        "t_end": 2850.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Umm, I see. [T] Umm um. That it. That's it. That's it."
+      }
+    },
+    {
+      "t_start": 2850.0,
+      "t_end": 2880.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2850.0,
+        "t_end": 2880.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Umm um. That it. That's it. That's it."
+      }
+    },
+    {
+      "t_start": 2880.0,
+      "t_end": 2910.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2880.0,
+        "t_end": 2910.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Umm um. That it. That's it. That's it. [T] (inaudible)? (inaudible) [T] Umm, that one. [T] Umm, um, um. Divide it around here. It's the auxiliary lines. Auxilary lines. It's a lot different with another auxiliary line. [T] But even if you didn't get the last one, you got this one, right? This and this are parallel,"
+      }
+    },
+    {
+      "t_start": 2910.0,
+      "t_end": 2940.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2910.0,
+        "t_end": 2940.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But even if you didn't get the last one, you got this one, right? This and this are parallel, [T] and here and here are corresponding angles, and you get here. You got there and with that..."
+      }
+    },
+    {
+      "t_start": 2940.0,
+      "t_end": 2970.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2940.0,
+        "t_end": 2970.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] and here and here are corresponding angles, and you get here. You got there and with that... [T] This is going to be a little bothersome but, well, I want to know the present situation. People who are done with group one's? [T] You solved it? [T] Umm. Group two's? [T] Oh, okay. Group three's?"
+      }
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2970.0,
+        "t_end": 3000.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Oh, okay. Group three's? [T] Um, okay. Group four's? [T] Up to where did you get to? Um. Group five's? [T] Hum. Two people. This was a hard one. Umm. So that's it. Group six's? [T] Okay. [T] (inaudible) Okay then there are a lot of people who are using triangles."
+      }
+    },
+    {
+      "t_start": 3000.0,
+      "t_end": 3030.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3000.0,
+        "t_end": 3030.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That's okay, but- There were three types of auxiliary lines. There are other easier methods of solving... [T] using other types of auxiliary lines. We will check these in the next period. [T] Return to your desks."
+      }
+    },
+    {
+      "t_start": 3030.0,
+      "t_end": 3060.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3030.0,
+        "t_end": 3060.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Return to your desks. [T] Who got group four's? Who said he or she got group four's? [T] Fujita Today. Okay. [T] Please end the class. There's no math class tomorrow so let's check them the day after tomorrow. Okay. [T] We have math class the day after tomorrow right?"
+      }
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 3060.0,
+        "t_end": 3090.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Thursday? [T] The day after tomorrow is Friday. [T] Today is what day of the week? [T] Tuesday? [T] Tomorrow? [T] Day after tomorrow? [T] That's right. I got it. Okay. [T] Go ahead."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] How about today? [T] Good morning. [T] Okay. It's supposed to be as usual so let's go on without being concerned about it."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. It's supposed to be as usual so let's go on without being concerned about it. [T] Anyway your face might not be taped. [T] In reality, there might be dark lines in your faces. [T] Don't worry. [T] Okay. [T] Ahh. [T] Okay, yesterday was about the relationship between parallel lines. We ended quickly yesterday by doing some problems."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] My- my method is this and this way. If you can also give an explanation that would be amazing. [T] This, right. [T] You're fast. [T] If you forgot how to solve it, it is okay to look at the previous handout."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If you forgot how to solve it, it is okay to look at the previous handout. [T] (inaudible) let me borrow this for me. Let me borrow this because he needs a pencil. It's a little different... line... (inaudible). [T] Umm. Okay. [T] Are you done? Can I ask? How is it?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] This? Okay. [T] A triangle. Yes. [T] Okay. Not a straight line? [T] Yes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Is this okay? Here we go. Okay. We can see he was a little tense. [T] Um, that was a clear method. People who did it using this method? [T] Oh... okay. [T] About five people? Okay, other methods. [T] Okay, Bunya. [T] Okay, please go ahead."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Oops? Okay. [T] Yes. [T] Yes, well- Well, okay."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. That's good. The method was to use the alternate interior angles of the parallel lines. [T] Good. People who did it with this same method? [T] Okay. [T] Right. About 10 people. Okay. [T] Are there any other methods? [T] Oh. One person... Chika. [T] Okay. [T] From point B. Okay."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. [T] From the top line it would be an L, huh. [T] Draw a perpendicular line from point B. [T] Yes. [T] Yes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Right."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Then put in angles by yourselves and write in which angle is X, the one we need to obtain. [T] Oh, if 30 students do it, if they made only one problem each we will have 30 problems. [T] It's actually pretty hard to put in the degrees. You can't just put in any degrees."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It's actually pretty hard to put in the degrees. You can't just put in any degrees. [T] When you turn it in you must be able to solve it. [T] If somebody says he or she doesn't understand it you must be able to say what and why the problem is. [T] Please think about how the problem can be understood."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Where? [T] That doesn't work if this and this are not parallel. [T] If this and this are not parallel then this angle is not 60 degrees. [T] No. If they're parallel lines then just put in the symbol for parallel lines here. (inaudible)"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No. If they're parallel lines then just put in the symbol for parallel lines here. (inaudible) [T] It looks a little tough. This is too difficult. [T] And right... I made it too difficult. I made it too difficult."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If there isn't an angle here it can't be understood. Just put something in. [T] You guys seemed to have learned that any number just doesn't fit in. [T] You guys seemed to have learned that any number just doesn't fit in."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Who made this? [T] Umm. [T] Mmm. Can they do it or not?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Mmm. Can they do it or not? [T] Yes. [T] Hey, let's bring up one."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Hey, let's bring up one. [T] Ha, it looks like a hard one. [T] Whose is it? [T] From which group? [T] This one? [T] Group five. [T] Ah."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Ah. [T] Oh, the diagram was too small. [T] Here. [T] This- which group? [T] This can't be used."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh huh. Because this is bent many times. [T] Yes. [T] Just a little more- this is too hard. [T] Oh, it looks like a good problem. What group? [T] Group one? [T] Group one? [T] The diagram is a little..."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] The diagram is a little... [T] Here. [T] Which number? [T] Number four- can you really solve it?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, that's good. Yes. [T] Next, who's next? [T] Don't say anything yet. Don't say anything. Groups that have not yet brought up one, please hurry up. [T] I wonder."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'll do number four just a little. Sorry, okay? [T] Can it be solved? [T] You're able to solve it? Hum [T] Hum oh. [T] Oh. [T] What number? [T] Hum. Okay. [T] They are problems that we don't know if we can solve or not until we try. [T] I'm sorry for taking so much time, but there are six problems on the right side."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'm sorry for taking so much time, but there are six problems on the right side. [T] (inaudible) if we can solve it or not. [T] I wonder. [T] It seems impossible to do all of them in this time so. So we'll think about them a little next time, too."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It seems impossible to do all of them in this time so. So we'll think about them a little next time, too. [T] Please hurry up and copy the six problems. [T] Imai is X here? [T] Hum. (inaudible)"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Is it group one or group two? [T] Umm. [T] Umm."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Try this one. This one is easier. There is a symbol included here. This parallel symbol. [T] Extend the auxiliary line all the way to here. Try extending it. [T] Yes, yes. [T] This and this are parallel. If you use (inaudible) angles this angle becomes the (inaudible). [T] This is a straight line so you know it. So you somehow get this angle."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2790.0,
+        "t_end": 2820.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That's good. [T] Umm, 120 degrees and then the straight line. [T] Like this line and like this, use auxiliary lines and try drawing it. It's good to draw auxiliary lines. [T] Umm, I see."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2970.0,
+        "t_end": 3000.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Oh, okay. Group three's? [T] Um, okay. Group four's? [T] Up to where did you get to? Um. Group five's? [T] Hum. Two people. This was a hard one. Umm. So that's it. Group six's? [T] Okay. [T] (inaudible) Okay then there are a lot of people who are using triangles."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 3060.0,
+        "t_end": 3090.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Thursday? [T] The day after tomorrow is Friday. [T] Today is what day of the week? [T] Tuesday? [T] Tomorrow? [T] Day after tomorrow? [T] That's right. I got it. Okay. [T] Go ahead."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2790.0,
+      "t_end": 2820.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2970.0,
+      "t_end": 3000.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 3060.0,
+      "t_end": 3090.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts/M-JP1"
+}

@@ -1,0 +1,929 @@
+{
+  "lesson_id": "S-AU2",
+  "transcript": "/home/jw310/comp646-friction-detector/data/science/transcripts/Science AU2 transcript.txt",
+  "n_bins": 67,
+  "n_risky_bins": 12,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Come on, come on. Right-o ladies and gents. Let's go back over yesterday. We talked about elements in the Periodic Table. We said that elements are matter. [T] They are therefore composed of- they're therefore composed //of? Of particles. [T] These particles are called?"
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] These particles are called molecules. [T] These molecules are made of? [T] Okay. Joined together by? [T] By chemical bonds. Okay. Because they're- because elements are a pure substance. [T] All molecules are?"
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Are the same. We said yesterday in elements, what are the particles inside the molecules? [T] Are called atoms. Inside the molecule are? [T] The particles. What about the particles? [T] They're the same. And we gave some examples. The examples we gave were these ones here in which there were?"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] They're the same. And we gave some examples. The examples we gave were these ones here in which there were? [T] No. There were, these- these indicate. [T] These indicate? No, they're- what are these? [T] They're the molecules. Indicated that inside the molecule there is only? [T] One atom. Those"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] One atom. Those kinds of molecules are referred to as being? [T] Monatomic. In these ones here there are- [T] Two atoms inside the molecule, and these ones are referred to as being? [T] Diatomic. These indicate- these- the Y's indicate the? [T] The atoms. This line here indicates the-"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The chemical bond. And what exists between this molecule here and this molecule here? Some kind of? [T] Some- Not a chemi- not a strong chemical bond but a? [T] But a different kind of bond that joins? [T] Molecules together. What do we break when we melt an element? [T] We break- which bonds do"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The ones between. These ones here have got? [T] Four atoms inside the molecule and therefore are called? [T] Polyatomic- ah, Polly the parrot isn't it? So these are- right-o. [T] What we've also got are elements that have got huge numbers, huge numbers of atoms inside each molecule, and they're "
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] What we need to do is to look- go back to the periodic table from yesterday, and we come down here. Not a good spot for it, is it? I'd better bring that up the front. I thought you'd be further down."
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] What we need to do is to look- go back to the periodic table from yesterday, and we come down here. Not a good spot for it, is it? I'd better bring that up the front. I thought you'd be further down. [T] We said yesterday that these elements- these elements over here are? [T] Are non-metals. The"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Right. These are the non-metals. But carbon has got lots of atoms inside the molecule. All these ones over here are shiny and these ones over here are the? [T] Are the metals. What we need to do now, and this is what this lesson's about. I want you to be able to find ways of distinguishing betwe"
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And there are two ways of doing it. Elements have physical properties which we'll be talking about in the future, but elements also have chemical properties. [T] So we're going to look at the chemical properties of two non-metals, those two there, phosphorus and sulfur and we're going to look at"
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay. What you- but- and the only way we're going to do that is by? [T] Is by experiment. I can't tell you about it. You can only find out if you- [T] //Learn it. Now once we do it you've got a problem. The problem is that you have to write it down in a form that is- that you understand. Right? "
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So not only do we have to do the experiment, and watch me do a demonstration over there, you have to write it down in a form that you understand. Okay? That's good for you. [T] And we'll put- we'll put a summary on the blackboard. So, what I'd like you to do, we've got one, two, three, four, fiv"
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] So what I'd like you to do is to get one of these trays and bring it back to your bench please, so could one person from this side pick up the trays and take one for this bench and one for that one please. [T] What flame have I got it on? [T] It's on the safety flame. [T] Pardon? [T] We'll get t"
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] We'll get that on in a sec. We need to share one between two- [T] Okay. [T] We're not- [T] Oh we'll- you'll have to share that. I've got one lot of water between the two. Okay, now, what we're going to do is to burn some magnesium. The magnesium is the?"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Oh we'll- you'll have to share that. I've got one lot of water between the two. Okay, now, what we're going to do is to burn some magnesium. The magnesium is the? [T] This piece, piece of wire. Magnesium is a very active metal and it burns very, very easily. Iron is not an active metal. If I use"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So when we're going to do- when we do the heating we change it to the blue. All right? Second thing, magnesium burns with a very, very bright flame. You don't stare at it. All right? [T] You can look and watch the flame. But don't stare at it. If you do it then you can hurt your eyes a little bi"
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Touch it. Right, so in order to do that I've given you a pair of wooden tongs. All right. Anyway so don't- when I, when you put it in there I fold it over, fold it over so it makes a double piece like that. [T] All right. Now. You also have a little beaker. I want you to put a piece in some wate"
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And you'll need to share those b- those big beakers of water with the be- with the bench beside you. Right, put the universal indicator in now. [T] About four or five. Pass the water over please ladies... Right. When you put the universal indicator in, the universal indicator will be that colour"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Right, that indicates that the unit- that the solution in there is neither acid nor alkaline, acid or basic. It is neutral. Okay. That's the green colour. [T] Right-o. A few drops. Now. Next bit. I want you to turn the flame to the? [T] To the heating flame. Away from the safety. You know how to"
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] To the heating flame. Away from the safety. You know how to do that. If you don't, you've forgotten from last year. Turn the air hole. Put the magnesium in the flame. Right. [T] Once it starts to burn, look away and bring it over and put it over the top of the beaker. Right. [T] No, the little o"
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yep, once it's all burned, put a drop- undo- just unclip it and put it in. Has there been a change in colour? [T] A brighter green, I wouldn't have called it a brighter green. It's (inaudible), gone a bit. [T] We've got to leave it there- oh hang on, we've stopped. Didn't burn it all. You panick"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I'm going to get a migraine tomorrow from this because the flames hurt my eyes. Okay, now, ladies and gents. Stop for a sec. Are we all done? [T] You all done? [T] I know that. Have we got the- have we burnt the magnesium? Have we put it into the solution? What colour has the solution gone?"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] I know that. Have we got the- have we burnt the magnesium? Have we put it into the solution? What colour has the solution gone? [T] Has- it's gone a blue colour. Right? [T] Let it stand for a little while and as it- as it stands it will go blue. Let it stand for a little while. Right. The one th"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yep. That's just fine. Okay, can you come back, can you sit down please. No, whoops. That's all right. Hold it up, hold it up, hold it up. Let it burn. Move it forward a bit. Move it forward. [T] Now let it drop. Let it drop. Good boy. Okay. Let it stand for a little while. What, to me please. M"
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now let it drop. Let it drop. Good boy. Okay. Let it stand for a little while. What, to me please. Magnesiums combined with oxygen in the air to form a new compound called magnesium oxide. [T] All right? What we're finding is now is what happens when that magnesium oxide dissolves in water. Fair"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You don't learn by watching that for the minute. I want to do now is to take a non-metal. We're going to take phosphorus and we're going to take sulfur. And I'm going to burn those. [T] I don't want you to do it. The reason I don't want you to do it is I don't want to fill the room with? [T] Wit"
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Out into the atmosphere. Right, so over here. [T] Now. What I'd like you to do, the people up the back, if you can come up to here please and say you- and sh-share the seats over here, or maybe come around the front. [T] Turn the fume cupboard on so that we won't fill the air with noxious fumes."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Turn the fume cupboard on so that we won't fill the air with noxious fumes. The other part of the problem is this little spoon is called a deflagrating spoon. Deflagrating is a word meaning? [T] Burning. Right. It's got a lid on here that fits over the top of the gas jar. Right. So I'll start it"
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Burning. Right. It's got a lid on here that fits over the top of the gas jar. Right. So I'll start it burning- [T] And phosphorus burns with a? [T] With a white smoke. Keep it burning in there. Right. Now what will happen is the white smoke, you got a white powder before? [T] The white smoke wil"
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It's gone red. What- what colour did metals go, when- when metals burnt they formed a? [T] White powder. That white powder dissolved in water and made the- made the universal indicator go? [T] Blue. The non-metals burn in air to form a white powder. That white powder dissolves in water to form a"
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Right? For some reason- see why only one person did it? I've got the coughs. For some reason they call that white powder there is an- it's an oxide. It's called a, an acidic oxide. Why is it called an acidic oxide? [T] Because it dissolves in water to form an? [T] Acid. Right. Just do that one. "
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Acid. Right. Just do that one. I'll put a bit more in so it's a bit more obvious. Second one is that this is another non-metal and I want to watch this one carefully. This one smells the worst. [T] It doesn't make rotten egg gas, it forms sulfur dioxide. And sulfur dioxide's a gas that's used in"
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It sterilises bottles because it kills any kind of bugs that are in there. Sulfur is a? Yellow powder. Now. The sulfur, oh hang on, what has it done? [T] What's it done? [T] How much te- how much heat did it take to melt it? [T] Oh. What does that say about the bonds which are joining the molecu"
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It's started to boil now, and it's burning with a? Burning with a? [T] What colour flame? [T] Blue flame. Whoops. This is the one that's got to go in there. That's got to go in there because it's got a really bad smell. [T] And the fume cupboard is not working particularly well and that's a bit "
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And the fume cupboard is not working particularly well and that's a bit of a problem. Sulfur burns in air to form? Tell me? Magnesium burnt to form? Magnesium oxide. Phosphorus burnt to form? [T] //Phosphorus oxide. Sulfur burns to form? [T] //Sulfur oxide. See the fumes coming out the top? Diss"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If those two non-metals burn in there to form an oxide which dissolves to form an acid, what would you assume? That other non-metals will do? [T] The same thing. For example. Carbon's a non-metal. It burns in there to form? [T] Carbon oxide. Carbon oxide dissolves in water to form? An acid. Do w"
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You drink it every time you have a mouthful of coke. You drink it every time you have a mouthful of soft drink. You drink it every time you have a mouthful of? How do you make any kind of soft drink? Out of? [T] Out of C-I beg your pardon? [T] What is the carb- what do you do to carbonate water?"
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] How about that. What's inside those- what's inside those little bombs you put- you screw in the top? [T] Carbon. [T] Dioxide. It dissolves in water to form? Carbonic acid, which you love. Right. No, you don't like it as soda water do you? [T] But you do when you put some- [T] Some flavour in it."
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Ahh, metals burn in air to form? [T] To form? [T] That white powder. That white powder dissolves in water to form? [T] A blue solution which is an alkaline. Right? That particular alkaline made in there is called milk of magnesia. What do they use milk of magnesia for? [T] It's a medicine given "
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It's a medicine given to babies to cure... indigestion. Right? [T] No, not real strong at all. You wouldn't give it to a baby to cure indigestion if it was real strong. What gives you indigestion? Too much? [T] Ah, not too much food. What does your stomach make to digest the food? [T] Acids. So "
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] By burning a non-metal and forming a white- an oxide. That oxide dissolves in water to form an acid. Any questions? Is there a distinct difference between metals and non-metals in their chemical properties? [T] Yes there is. Oh, guess what? Nature doesn't go one kind of substance, boom, new kind"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, it grades. So there are some of those metals on that per- ah, that table over there, which have got the properties of met- the chemical properties of metals, and the chemical properties of? [T] Non-metals. And they're the ones which are in between and they're called amphoteric and we'll talk"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, if we- if you put- both put some of that in and some of those in, that acid would use up that alkaline, and it would go back to being? [T] Green. Back to be-go back to being neutral. [T] Okey dokey. Would you like to go to sit down please, you need to put some stuff in your notebooks. Oh no,"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Rinse the beakers out down the sink. Put some more water in it. Rinse them out down the sink, put some more water in it. I think I'll have to open- open some windows. [T] No don't- no the water's here. A little rinse and guess- and change it- just swap some water over. Here we are. Rinse it out."
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now what do you need to do? Now what do you need to do? You need to burn the steel wool, allow it to burn and then drop that into the water. Heh. Just pick it up in the tongs. [T] Give it a- when you pick it up in the tongs, when you pick the steel wool up in the tongs, have it like that- right?"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Got to open the top. Oh my goodness, give it a blow on it. Heat it up and blow on it. Over the top. Blow on it, blow on it. I've turned that he- the heater off, Bunsen off, didn't I? [T] Give it a good burn. Does it form a white powder? [T] Does it form a white powder? [T] No, it forms a?"
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] A blacky kind of powder. Anyone know what that powder is called? [T] Not iron but we- we had magnesium form magnesium oxide, sulfur forms? [T] It's called iron oxide. Right. Another name for iron oxide is? Rust. Put it now into the water and see what happens. See if it changes colour... Put it- "
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Oh. It will now. Okay, now put it in. [T] It stayed green? Goodness. Ladies and gents- [T] To me please, to me please... To me please. Did it go- did it stay green?"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] To me please, to me please... To me please. Did it go- did it stay green? [T] Oh. Does iron oxide form an alkaline? [T] No. Alkali- metal ox- listen time. Listen time. Metal oxides that dissolve in water form alkalies and that are bases, right, they form alkalies. [T] Metal oxides which don't di"
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Metal oxides which don't dissolve in water are simply called bases. Right? They're not alkalies because they don't dissolve. This one doesn't dissolve. Because it doesn't dissolve, what doesn't it do? [T] Doesn't change the colour. Right? In fact- [T] What did we-what did we say the Periodic Tab"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Elements. Right-o. See these ones here, this group down here and this group down here, they're the ones that form the alkalies. [T] They're the ones when you burn them they form an oxide that dissolves in water and makes that water go blue, right, or purple. [T] All of these ones over here, they"
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] A base. Anybody got a problem? Okay, what have we got to work out now? [T] I beg your pardon? [T] We've got to work out what we're going to put in our books don't we? Right? Do I write that? [T] No way. Who writes that? [T] We do in a form that you can- [T] Understand. It's 12:43. What time's th"
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Pardon? [T] Okay. We said that- [T] Oh, where have I put my chalk? Where did I put my chalk... Where did I put my chalk? Sorry Dave. Can you hang on- can you hang on for a minute."
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Oh, where have I put my chalk? Where did I put my chalk... Where did I put my chalk? Sorry Dave. Can you hang on- can you hang on for a minute. [T] Okey dokey. [T] We're having our lesson video taped. Right-o ladies and gents. Ladies and gents, watch."
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Metals do what? You can turn the Bunsens off if you like. Metals do what? [T] They- no don't put them- you just turn it off. Metals do what? [T] When we heat them up what do they do? [T] They burn in air- [T] To form a substance called, a new substance called an?"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] An oxide. What have they reacted with? [T] Why- what have they reacted with to form an oxide? [T] Because-"
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] Right-o. What- I won't- won't call it an oxide, I'll call it a metal. What did some of those do? What did some of those do? Dissolved in water to form a? [T] Ah, ah, ah. What colour did it make it go? With the metals?"
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Made it went blue, therefore it forms an? [T] An alkali. Dissolves in water- [T] To form an alkali. Is that //fair? Right-o- [T] Non-metals do what? Non-metals do what?"
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Non-metals do what? Non-metals do what? [T] Burn in air to form a? [T] No, no, no. They burn- metals burn in air to form a new substance called a? [T] A metal oxide. Non-metals burn in air to form a new substance called a? Oh, dear oh dear oh dear. Metals form- burn in air to form a new substanc"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] A non-metal oxide. Thank you. [T] Because they have reacted with the oxygen in the air. Right? These ones dissolve in water... to form what? [T] An acid. How do we know?"
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Because the indicator turned? [T] Red. And when we compare it with the scale it means it's acid. Okay. Therefore, what do we call a metal oxide? What do we call a metal oxide? [T] It's not a- what's the special word I used instead of alkali? //Started [T] Base. So this one's called a-"
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And this one dissolves in any metal to form an acid so it's called an... it's called an? [T] It's called an acid oxide. Now your work to do now, there's the summary. How do we use that to tell the difference between metals and non-metals of chemical properties? [T] How do we use that information"
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] How do we use that information to tell the difference between metals and non-metals? Yep. [T] It will form an, yeah. [T] Absolutely. Not a problem. Okay. What have you got- what's your homework? Two sets. Number one, describe the experiments we've done. [T] Number two, make a general statement a"
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Number two, make a general statement about what we've just learned. Any problems? Ladies and gentlemen thank you for your attention. Do you want to go to maths now? [T] Are you right? What time's this bell go? [T] Soon? [T] About five minutes... This is, the writing part is groupwork. Right? Thi"
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] About five minutes... This is, the writing part is groupwork. Right? This is not me, this is groupwork, so it's time for you now to get organised within your group to write down what you've- what we've learned. What? [T] Second part of the- huh, first part was to describe the experiment. Second "
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Sorry, yep? [T] Not a problem. Just rinse it off with a bit of water. Just go to the tap and rinse it off with a bit of water. [T] It's not a problem, it's only methylated spirits on you. [T] Not a problem. Yep."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Come on, come on. Right-o ladies and gents. Let's go back over yesterday. We talked about elements in the Periodic Table. We said that elements are matter. [T] They are therefore composed of- they're therefore composed //of? Of particles. [T] These particles are called?"
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] These particles are called molecules. [T] These molecules are made of? [T] Okay. Joined together by? [T] By chemical bonds. Okay. Because they're- because elements are a pure substance. [T] All molecules are?"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] One atom. Those kinds of molecules are referred to as being? [T] Monatomic. In these ones here there are- [T] Two atoms inside the molecule, and these ones are referred to as being? [T] Diatomic. These indicate- these- the Y's indicate the? [T] The atoms. This line here indicates the-"
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] So when we're going to do- when we do the heating we change it to the blue. All right? Second thing, magnesium burns with a very, very bright flame. You don't stare at it. All right? [T] You can look and watch the flame. But don't stare at it. If you do it then you can hurt your eyes a little bit. All right. It also burns? [T] Very hot. If it burns very hot what I don't want you to do is? [T] Touch it. Right, so in order to do that I've given you a pair of wooden tongs. All right. Anyway so "
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Touch it. Right, so in order to do that I've given you a pair of wooden tongs. All right. Anyway so don't- when I, when you put it in there I fold it over, fold it over so it makes a double piece like that. [T] All right. Now. You also have a little beaker. I want you to put a piece in some water in the beaker. That's- oh, too much. About that much. And a few drops of universal indicator in it. [T] And you'll need to share those b- those big beakers of water with the be- with the bench besid"
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You don't learn by watching that for the minute. I want to do now is to take a non-metal. We're going to take phosphorus and we're going to take sulfur. And I'm going to burn those. [T] I don't want you to do it. The reason I don't want you to do it is I don't want to fill the room with? [T] With smelly gasses. Right. So I'll do it over here. And the other thing is that I'll do it a f- the other thing is that I'll do it in a fume cupboard. [T] And I'll do it in a fume cupboard so any excess "
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Out into the atmosphere. Right, so over here. [T] Now. What I'd like you to do, the people up the back, if you can come up to here please and say you- and sh-share the seats over here, or maybe come around the front. [T] Turn the fume cupboard on so that we won't fill the air with noxious fumes. The other part of the problem is this little spoon is called a deflagrating spoon. Deflagrating is a word meaning?"
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Turn the fume cupboard on so that we won't fill the air with noxious fumes. The other part of the problem is this little spoon is called a deflagrating spoon. Deflagrating is a word meaning? [T] Burning. Right. It's got a lid on here that fits over the top of the gas jar. Right. So I'll start it burning-"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, it grades. So there are some of those metals on that per- ah, that table over there, which have got the properties of met- the chemical properties of metals, and the chemical properties of? [T] Non-metals. And they're the ones which are in between and they're called amphoteric and we'll talk about those later on. Okay? [T] No, if we- if you put- both put some of that in and some of those in, that acid would use up that alkaline, and it would go back to being?"
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, if we- if you put- both put some of that in and some of those in, that acid would use up that alkaline, and it would go back to being? [T] Green. Back to be-go back to being neutral. [T] Okey dokey. Would you like to go to sit down please, you need to put some stuff in your notebooks. Oh no, before we do that. Before we do that, can you rinse out those- those beakers down the sink. [T] Rinse the beakers out down the sink. Put some more water in it. Rinse them out down the sink, put some "
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Oh. It will now. Okay, now put it in. [T] It stayed green? Goodness. Ladies and gents- [T] To me please, to me please... To me please. Did it go- did it stay green?"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Sorry, yep? [T] Not a problem. Just rinse it off with a bit of water. Just go to the tap and rinse it off with a bit of water. [T] It's not a problem, it's only methylated spirits on you. [T] Not a problem. Yep."
+    }
+  ]
+}

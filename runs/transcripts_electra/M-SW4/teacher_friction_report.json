@@ -1,0 +1,1804 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math SW4 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Okay, then. [T] Okay, then, hello take a seat. So to start with, we are going to correct the problems that were due for today, that means exercise 948... [T] Or we can practice one of the theorems of equivalence."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Or we can practice one of the theorems of equivalence. [T] Especially this one which, in the first place, is the one which tells us that one must add up an expression. Therefore, page 948. [T] We will start nicely, we will start with Gregoire... With A, X plus five equals eight. [T] We do minus five. [T] Mmm."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Mmm. [T] X is equal to three. Okay? We will maybe do the most complicated ones on the board, the ones from the second line. For, er, the B. [T] Guillaume. [T] So we mustn't take away minus three. [T] So we must add minus three or do minus three. [T] It makes minus three. [T] To minus eight, X equals minus eight. Questions up until now? C? Er... Florence."
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] To minus eight, X equals minus eight. Questions up until now? C? Er... Florence. [T] X equals 36, exactly... Letter D? Katia. [T] Uh huh, the solution is five. What do you do? That's what interests us. Now that we are learning what to do, what do you do?"
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We know that in an equation, we must put a little vertical bar, and what must we do? [T] What do we do to make our equation equivalent. [T] So there you're groping about. [T] You're searching like this- The idea is to do what? It's to avoid all these stories of groping about. [T] When we have an equation of this sort... it's the... We have three X is equal to two X plus five. What does that mean?"
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] When we have an equation of this sort... it's the... We have three X is equal to two X plus five. What does that mean? [T] What's the basic idea in all these problems there? Herve? [T] Take away the X. Here we must take away the X, but what are we trying to do? What are we trying to do as a final aim? Yes? [T] X is equal. So we must put on one side the X's, on the other side whatever doesn't have any X's. So we have the theorems of equivalence that we saw. [T] There's one which says I can add or take away a number... Okay?"
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] There's one which says I can add or take away a number... Okay? [T] There's one that says I can add or take away expressions, some literal part, okay? [T] And then there's a third one where we can multiply by a number that is not equal to zero. Are we okay? [T] So here, what do we do? Valentine? [T] We do minus two X. [T] On the left side it stays as one X. Three X minus two X makes one X."
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It suppresses the two X and what stays? [T] It stays as X is equal to plus five, and then directly one can say to oneself, well yes, my solution is well... five... Are we okay? [T] Okay, Katia? Because if you try by doing it by groping about, I know that we did it, er, by successive tests- [T] We tried that, but we saw it was tedious and long. So now we have a new method. [T] Aurore, what can we say for E?"
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Aurore, what can we say for E? [T] We have five X is equal to minus eight plus four X. Therefore we do minus four X. Which gives us X equal to? [T] X equals minus eight... Questions up until now? For F? For F maybe I'll write it up... We have minus eight X is equal to minus nine X... plus seventeen. [T] We will come to this side. Yeah, Herve."
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So if we do plus eight X... What happens if we do plus eight X? [T] We will have everything, we'll have nothing, and then we'll have the X's and the numbers on the right side. Have we won? [T] It's not want we want? What do we want? [T] So, Camille? [T] We do plus nine X. In doing plus nine X- in doing plus nine X what's interesting is that here we have X, because plus nine X minus eight X-"
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We do plus nine X. In doing plus nine X- in doing plus nine X what's interesting is that here we have X, because plus nine X minus eight X- [T] It makes X is equal to? [T] Seventeen... and then directly one can have our solution which is, well, 17. So it's clear that sometimes we are going to try and get the X's. [T] There it's advantageous, we always have the X's on the left. [T] Maybe for G and H still, we'll put them up on the blackboard. So for G we have three X plus five... is, is equal to two X, Ludivine?"
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Maybe for G and H still, we'll put them up on the blackboard. So for G we have three X plus five... is, is equal to two X, Ludivine? [T] Minus? [T] Minus 30? [T] Okay... so we can do it all in one stage. [T] So one could- but one can do it in two... So what do we want to do first? [T] So we want to do minus two X. And then it gives us? [T] X plus five is equal to? [T] Minus three... and what do we want to do now? What's bothering us?"
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's the five which is bothering us, therefore we do... [T] Minus five. Therefore X is equal to? [T] Minus 35. Okay... But we're going to try and take in the next one, we're going to try and do it in one stage directly. When [T] we write the next one down, we have 18 X. It's H... We have eighteen X, er, minus 24. [T] Plus 17 X... There we're going to try and do it in one stage. I don't have enough space. It's going to be okay. Eighteen X minus 24 is equal to"
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Plus 17 X... There we're going to try and do it in one stage. I don't have enough space. It's going to be okay. Eighteen X minus 24 is equal to [T] 72 plus 17 X... What do you want to do? What must we choose first? [T] So minus 17 X. It means we've chosen that on the right side we had more X's. We're okay? Okay, so if we decide to write minus [T] 17 X without doing the operation, we say- well then. I have already decided that on the right there would be more X's and then I'll put them on the left. [T] Are we okay? On the left the X's... So on the right we only have the-"
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Are we okay? On the left the X's... So on the right we only have the- [T] Okay. So what is bothering us on the left now? It's- [T] The minus 24. Therefore what must I do to take away this minus 24? [T] Plus 24. Therefore I can directly write at the same time plus 24... and I do the two things at the same time. [T] What I'm going to be able to do, we shall see in the following exercises, it's to do multiplications and additions at the same time. But on the other hand... [T] Plus if I add up, instead of adding up monomials, if I add up polynomials, it's the same thing. Since I add up several"
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Plus if I add up, instead of adding up monomials, if I add up polynomials, it's the same thing. Since I add up several [T] monomials. Okay? Therefore the 18 X that I'm going to subtract minus 17 X, there's going to stay? [T] And then what am I going to do with my 24? Well, the minus 24? I'll be staying with the Y. The seven- the [T] minus 17 X, when it will arrive here, it will make the 17 X go away. And then the 24, when it arrives here it will"
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] minus 17 X, when it will arrive here, it will make the 17 X go away. And then the 24, when it arrives here it will [T] give me? Ninety-six. [T] And there we don't need a calculator to get to that S is equal to 96. Is there a question on this exercise 948? [T] So I'll let you continue with 949. [T] For those who finish through 950, there's 951, 952, 953,"
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] For those who finish through 950, there's 951, 952, 953, [T] 954. There's enough to amuse oneself until 957."
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] 954. There's enough to amuse oneself until 957. [T] Yes."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] But you've done it right here. [T] Ah! So? [T] Yeah, you want to isolate- you want to isolate what? [T] But you want to isolate what, and you want to keep what? You decided on the left you put X's? It's what you've decided there. You tried to do [T] this. What's bothering you? It's that one there. [T] No. How do you take away seven? How do you get minus seven to become zero?"
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No. How do you take away seven? How do you get minus seven to become zero? [T] You do plus seven, hum. You take- so do plus seven. So now what happens on that side there? I do plus seven, [T] two X minus seven plus seven. The two X's will stay there. [T] And then, no! Minus 19, when there's plus seven it makes minus 12. [T] It's correct. You've badly written the things, but your calculation is correct."
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Two X is equal to minus 12. Now you want that only- that only X, therefore you- [T] Times a half. You find X equals minus six. [T] It's correct. [T] So there, the same thing. You decide, you have X's only on the left. What's bothering you? [T] The five. Therefore? [T] You do minus five. You write wrong things down, but you do the calculations correctly. You do minus five, therefore. You will find the four X here, and you [T] find 20 minus five, it equals, well?"
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] find 20 minus five, it equals, well? [T] Fifteen. And then you must divide by- no, you must divide-there's not 15 which must- you must simply divide by? [T] By? [T] By quarter, therefore we need a quarter. You must find 15 quarters as a solution. [T] Yes! [T] Not necessarily, you can also put it on the right. [T] Listen, generally people try and have it on the left because we've gotten used to saying X equals. But we'll see, maybe later,"
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] er, there are some, later on here, where it's nicer to have it on the right because it's positive. Therefore we can directly find what X equals. Because sometimes we [T] will have minus one X, so we must multiply again by minus one. [T] The purists always want X on the left. But is it really good? Yes! [T] Yeah, it's always the same thing but you can't do two things at the same time. You can't do- so sometimes you can't [T] do times a third then minus 12. To begin with, you must isolate- to start with- no- that one, you're not allowed to do it. The times a third."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] To start with, you do minus 12. So what will you be staying with? [T] Three X. [T] Three X, three X equals? [T] No... [T] If you do minus 12- [T] Thirty-six. Ah bother, I shouldn't have taken away the 36, it was there. So equals to 36. And then you can do times? [T] There now, is what I was saying before. We can't do several additions at the same- together. So we're going to do additions and multiplications together."
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Hum, hum? [T] It's okay. [T] You're welcome. [T] Yes! [T] What's the problem with C. [T] Take away five. [T] Okay. So what happens when you take away five? [T] Well yeah. So write the thing again. The four X stays. [T] Equals? Fifteen. Then now. When four objects are worth 15 francs, what do you do to know the price of an object?"
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah, take a quarter. [T] It needs a quarter, and what happens? [T] X equals fifteen over four. [T] The fraction is in numbers. [T] No, X equals? You can't put the fraction between- under the fraction- under- the bar of fraction under the equality. X equals 15 over four."
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah, if you like. [T] Yes. [T] Oh well, yeah. Therefore we don't divide by four? [T] No? [T] And then. [T] Then it's not divided by four fifteen? [T] Ho, poor little one, if it does have decimal points, are they so painful, decimal points? [T] Ha, good. [T] So we leave the fraction, we will leave 15 quarters. Exactly."
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So we leave the fraction, we will leave 15 quarters. Exactly. [T] But it's 15 quarters. You've divided 15 by four, that's 15 quarters. [T] Here you do minus 12, but when you did minus 12 here you touched only that 12 there. The three X you left alone. [T] Leave it as three X. It stays three X here... And now you must still do a stage. So that's annoying because you... [T] You have already done the next one but... we do times one third, then we will find?"
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] X is equal to? [T] Twelve. [T] Humm. But what do you do here? [T] Plus seven. [T] What are you going to find? [T] Well no... Minus 19 plus seven? Minus? [T] Minus 19 plus seven?"
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Tss-Tss. [T] Tss-Tss. [T] Minus 19 plus seven? [T] You've got 19 objects missing, someone gives you back seven, how many do you have missing? [T] So. [T] Then after that, what do we do? [T] You want to take away the two? [T] A half."
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Which will give, we take away the X. X equals. [T] Mental calculation. [T] Twelve divided by two... the minus, it stays. [T] There now. [T] Therefore here you must still put X is equal to 12 and here you must put X is equal to minus six. [T] What is it?"
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well yeah, and what? We never said one should do only one stage. [T] Well yeah... But yeah, one can maybe do 10 stages if it's necessary. We never said one should do it in only one stage. One mustn't be [T] a minimalist, either."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah exactly. We try to take away the literal part on the right, if we decide to put it on the left. But, er, for F, for example, it can [T] be interesting, or for E, to put it on the right for example. To avoid the minuses, but one can do it in both cases. [T] Yes. [T] Why? I'm not okay with what you've done there. You've done a multiplication and a subtraction at the same time. [T] No, don't do it at the same time. One stage after the other. Excuse me, Gregoire... I think that, let's stop for awhile,"
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, don't do it at the same time. One stage after the other. Excuse me, Gregoire... I think that, let's stop for awhile, [T] please. We look at A, we did it together as an example. Do you remember? And B also? It astonishes me, [T] though, because a lot of you did it wrong. [T] So we'll maybe just do B again together. Two X minus seven is equal to 19. So it's clear that you have two worries. [T] Here. You have one X which is multiplied by two. You want X on it's own."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Here. You have one X which is multiplied by two. You want X on it's own. [T] Thank you. [T] Here you've got to realize something. You can't do everything at the same time. You mustn't think we have a problem, we put a [T] bar, then we have the solution underneath. We can maybe do one, two, three, four stages if it's needed... There's the stages also of literal [T] calculations. You'll see that when we calculate the data and there's brackets or something else, there will be some stages where we'll simply have"
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] calculations. You'll see that when we calculate the data and there's brackets or something else, there will be some stages where we'll simply have [T] to work with the left part and the right part separately. Here, first thing, isolate everything unknown on the same side. [T] Therefore, what's bothering you here? [T] It's the minus seven. Therefore we do one stage with the minus seven... We make it plus seven. [T] And then we find two X is equal to? [T] Minus 12. And now we do one stage where we do times a-"
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Minus 12. And now we do one stage where we do times a- [T] Half... Okay, and then we find one X is equal to minus six so the solution is minus six... If we take C... You have it nearly [T] exactly C, you've all done it. Four X plus five is equal to 20. So it's very well, er... Herve, to say I divide by four, [T] and at the same time I do minus five... It's what you did, it's that one?"
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ah no, you did that in the next one, D. But look already here. It's the same thing here. We first try to isolate the X. There's only one place in X. [T] It's on the left, so what's bothering us? [T] The minus five... Therefore I find four X is equal to 15. And then even if there are decimal points it doesn't matter. Now I do times a quarter. [T] And I find X is equal to 15 quarters. And what does it mean that it's 15 quarters? There are those who would prefer to put three, decimal point, seventy-five."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And I find X is equal to 15 quarters. And what does it mean that it's 15 quarters? There are those who would prefer to put three, decimal point, seventy-five. [T] I remind you it's better as a fraction, because if by any chance it wasn't a fraction which gives a rational number which [T] finishes itself, it's not interesting... Okay? A number with decimal points which finish. If we have periodical numbers it's never very interesting, we [T] can't use them on the calculator. On the other hand, 15 quarters we can put in... Therefore S is equal to 15 quarters. So that's true. [T] When one looks at D for example, where one has four X, it's what in D? Four X plus five again."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] When one looks at D for example, where one has four X, it's what in D? Four X plus five again. [T] Two X minus 16? [T] So why do times a half? [T] So I tell you honestly, it's not good to do times a half. We're going to write what Herve said, then we're going to look at how we can [T] complicate a problem which wasn't too complicated to start with."
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] How to complicate it when one can do it simply... that's Herve's proposition. Look, I do times a half, I am- [T] Okay, when doing times a half, let's look at what happens. I'll change colors on purpose for you to realize that it's not [T] the ideal. If I do times a half, how many X's do I have here? [T] Two X. [T] No. [T] You can't do times half X... You can't do times letters... It's forbidden, we've seen. Do you want me to show you again on the [T] transparency what happens? Do you remember? Suddenly it has curves. We have raised one solution. Therefore we only have three possibilities"
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] transparency what happens? Do you remember? Suddenly it has curves. We have raised one solution. Therefore we only have three possibilities [T] to do something... All numbers, add letters, or multiply by a number which is not equal to zero... We can't [T] multiply by a literal part... We're not allowed to do that. Therefore when you say to me a half of X, but do times a half. It [T] doesn't bother me in that case there, the only difference is in my point of view, I absolutely haven't gained anything... because first of all I still have X's on [T] both sides... And what's more I've gained fractions. And since we all like working with fractions, we want to have them in"
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] both sides... And what's more I've gained fractions. And since we all like working with fractions, we want to have them in [T] the solution, the fractions. We're okay? Gregoire, we want to have them in the solution? It's correct or not? But to have them now it's [T] not comfortable... After, you don't know anymore how to add fractions and then you get into trouble. Why get into trouble? [T] All right? On one's sheet of paper when one had something one could do easily. So do we continue doing times a half here- [T] Herve? Do you insist?"
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Herve? Do you insist? [T] No. Thank you. [T] So let's try to start like before, using times. To use times we need more polynomials. That one only has monomials on [T] the left or the right. Okay? We isolate. Therefore for the first we shall say what? [T] So it's correct, it's correct, Camille. We can do minus two X. One can also do minus five. Because at the moment we say we'll do"
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So it's correct, it's correct, Camille. We can do minus two X. One can also do minus five. Because at the moment we say we'll do [T] minus two X, we've decided the X's will be on the left. [T] We can do both at the same time. [T] So there one can put them one after the other because it's two additions. [T] No, you can do them separately. After there's a problem of production, of efficiency, when you do exercises and one tells you I would like you to [T] do 15 in 45 minutes, er, if you have two stages you will lose a little time. But that's training."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's better to get the correct answer than to finish quickly with all the results wrong, you're right... So here we get to two X is equal to... [T] because minus two X minus five. [T] Minus? [T] Well, minus 13 minus five, you've got 13 objects missing, someone asks you for five more, you've got 18 missing. [T] It seems to me, I don't know... And then after?"
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No. [T] There now, either we do times a half or we divide by two, but we can't... times a half. X is equal to? [T] Minus nine... Okay. The S is equal to minus nine. [T] Is there a question on this? Can we continue now? Let's advance. [T] Yes?"
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So everywhere there are brackets, to start with we take away the brackets. [T] No. [T] It's wrong. [T] That is wrong. [T] The X cube is wrong. Ha, it was three X actually. [T] Ha, yeah. [T] Me, I would like it better when you have something like that. So there do as Ludivine said. You write again the object when you've taken away the brackets."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Me, I would like it better when you have something like that. So there do as Ludivine said. You write again the object when you've taken away the brackets. [T] You do here the thing like this, you can say I'm doing literal calculation. [T] And then I find four X minus five is equal to six... 27... Then now I can work as I did before... [T] It's not interesting. We have minus, yeah. [T] There then, so we decide to have the X's on the right. It doesn't matter."
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If X is equal to three or three is equal to X? What changes for you? [T] Okay. So it's what I told you. There are purists who absolutely want to have the X on the left. But finally as far as efficiency, [T] in what we'll want to do later on to find problems, resolve problems, it doesn't take us very far. [T] No you can't... After what must you do?"
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Minus 27. Okay. And what will we get? [T] Minus 32 is equal to? [T] Therefore- [T] Times a half. And you find X? [T] Yeah, 32 over two. Thirty-two over two. [T] Minus 16 is equal to X. [T] S equals minus five. Anyway, one writes S equals, so whether one has X equals minus 16 or minus 16 equals X."
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] S equals minus five. Anyway, one writes S equals, so whether one has X equals minus 16 or minus 16 equals X. [T] The element on the left is equal to the one on the right. Whether X is on the left or the right. All right? [T] Okay? [T] No, it would be better not to have zero X, because then we're not well. [T] Well, yeah. [T] Therefore you're going to find how much? Zero, yeah that's right. Well yeah, it's going to start to get interesting. Wait, let's look if you've already taken- [T] the correct data. That one, yeah, that's going to become interesting. What do you find? You do minus 17 X."
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] the correct data. That one, yeah, that's going to become interesting. What do you find? You do minus 17 X. [T] No you must do minus 17 X, okay. You take away this 17 X to put it here. You've had the idea to do it like this. You do minus 17 X. [T] Therefore you find two here. [T] So write two. Two equals minus two... So now. [T] You can't do. [T] So it's not wrong, it's that this equation doesn't have a solution. [T] Is there some X which will permit you to say: whatever X you chose, you will have two equals minus two? There's something which"
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is there some X which will permit you to say: whatever X you chose, you will have two equals minus two? There's something which [T] doesn't work, therefore you're going to say X equals the whole? [T] To the empty set, right? [T] Yes, but that is the set containing the empty set, therefore it's no longer empty. [T] That's all. The word there, that symbol means empty set. [T] That's right, yeah. [T] No, why do you do minus five X? Is there anywhere here where there's a minus five X?"
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, why do you do minus five X? Is there anywhere here where there's a minus five X? [T] We didn't say one must have X alone there. We must first take away that X there. Is it X which is bothering you? [T] I'm coming, I'm here. If I take this X, what do I do to take away this X? I don't do minus five X? [T] You do minus X. So now do only minus X. [T] Yes? [T] Where are you there?"
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, it's not possible. [T] Well, look at what happens. Do something. [T] You must do minus four X. [T] So do minus four X, then look at what happens. I'll come back. [T] Yes. [T] For E... Well minus four X plus 15, well what. You do minus 15. [T] I did minus four X... Your 15 falls, then minus 15 plus two... That doesn't bother me. Eleven minus 15?"
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I did minus four X... Your 15 falls, then minus 15 plus two... That doesn't bother me. Eleven minus 15? [T] But why do you divide by four when you have an addition? You mustn't do that when you have an addition, because [T] otherwise each element of the addition will divide up. There you're again in the case we just showed before, with the case that [T] Herve said where I divide first, then after, you have 15 quarters with 11 quarters."
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] For the first one you do minus 15. At the first isolate the X or multiply them by X. [T] Well you take away four X. [T] Zero equals, no you find zero equals minus one. Possible, not possible? [T] Impossible. S equals? [T] (inaudible) [T] The slash in the middle."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So after, when you have the four X alone, you can do times a quarter. [T] Yes. [T] I'm coming, I'm coming. [T] No. No, because if you do plus five X, you've got X here but five X here also. [T] Yes. That one's okay- and then that one... why is it- what's this six X? Where does it come from, this six X? Well, what I don't understand you've (inaudible) got a"
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. That one's okay- and then that one... why is it- what's this six X? Where does it come from, this six X? Well, what I don't understand you've (inaudible) got a [T] solution in X there. You haven't eliminated your X's? You haven't eliminated your X's! [T] But it doesn't matter... It's impossible to have minus. After, we'll do minus something. [T] No. [T] No. If you take away three X here... So look at one thing. We'll look at this all together, please,"
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No. If you take away three X here... So look at one thing. We'll look at this all together, please, [T] Please, we'll look at this all together. [T] Shh! Er, Camille get back to your seat please- we'll look at- I would just like to show you something- because there's- there's [T] the idea- it's- we- we will listen to- to what Valentine says, and then we'll try to see what- what doesn't match in her story. So [T] for the one, there's minus four X plus 15 is equal to 11. So Valentine said: I would like to have X on the left. We're okay, I'm going to have X on"
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] for the one, there's minus four X plus 15 is equal to 11. So Valentine said: I would like to have X on the left. We're okay, I'm going to have X on [T] the left, all right? So she says to herself but I want X. Therefore you go from minus four X to X, I do plus five X, right or wrong? [T] Yeah, so she says to herself, I'm going to do plus five X, then at the same time you do minus 15, all right? [T] So then, I write this. [T] Who said that, copycat? [T] You. You also want to do that."
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yeah, so, If I do plus five X. I remind you that everything I do here will be on both the left and the right side of the equality. Therefore if I [T] do plus five X, yes Miss, you'll have X here, the 15 will fall, wonderful, equal? But only on the right, the five X, it will [T] reappear. And then you'll have five X plus? [T] Minus four, it's all you've gained Miss. Now you have everything- X's. Before you had an advantage,"
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Minus four, it's all you've gained Miss. Now you have everything- X's. Before you had an advantage, [T] Valentine, you had an advantage, that here you had X's only on one side. Now, you've won so much that you've got X's on both sides... [T] So one shouldn't want to add something to raise (inaudible). One must say to oneself: do I have X's on both sides or not. That's not [T] at all okay, because now you've won nothing. I remind you everything you do, I repeat, I repeat once more, everything you [T] do here will apply itself on both sides of the equality. Therefore if you do plus five, because you only look at that because you've only"
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] do here will apply itself on both sides of the equality. Therefore if you do plus five, because you only look at that because you've only [T] looked- you've got an idea- you've put blinders there, all right? You know those blinders, one puts on horses, all right? So if you've [T] put blinkers and then you only look at part of your equation; stand back and look at all of the equation. The equation here, when I [T] look at it entirely, as it is- I will erase the one above so we see it well, all right! I've even erased the 15 with that. When"
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] look at it entirely, as it is- I will erase the one above so we see it well, all right! I've even erased the 15 with that. When [T] you look at this, what happens? You say to yourself ah, yeah, great! You're happy. Why? You've got on only one side with [T] X's. They don't create a problem, they are already on the left. So I leave them on the left. I don't bother about the X's for the time being. What [T] is bothering me here? In a global way, what's bothering me? [T] It's the 15, it's all. There's only the 15, which is bothering me to isolate the X's. So I do only the minus 15 and I find minus"
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's the 15, it's all. There's only the 15, which is bothering me to isolate the X's. So I do only the minus 15 and I find minus [T] four X is equal to? [T] Minus four. [T] Haha. [T] Times minus a quarter. [T] Times, so a quarter to take the four away, okay? But what's bothering me also? [T] It's the minus. That one there doesn't bother me. [T] Times minus a quarter. The minus to take away the minus... And then the quarter to take away the four. Then after I have X, then I apply this minus-"
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Times minus a quarter. The minus to take away the minus... And then the quarter to take away the four. Then after I have X, then I apply this minus- [T] A quarter times minus a quarter equals minus four. Therefore I find X equals? [T] One... okay? One must be careful with this. One must work only with the elements you have in the equation. You mustn't start [T] looking for others which please you. There are already enough in here, you must not look for others. [T] To do calculations, you must take away the brackets."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then after you do the same problem. [T] Yes! [T] So we will start there, I go round like this. [T] Well yeah, and you've found X equals zero two. Exactly. [T] I don't know if it's correct but- [T] If you do minus two X here. If you take away two X and then you've got two."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] If you do minus two X here. If you take away two X and then you've got two. [T] You've got two pencils. Minus two pencils, how many have you got? [T] So. [T] Equals? [T] Twenty-one... Then now how are you going to take away this minus X? Now it's good. Now you have a multiple of X alone. So [T] what do you do? You're not going to add this 21 on the same side?"
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, not seven X, we want to keep the X. [T] Times minus to take away this minus, then a seventh to take away this seven. [T] Okay? [T] And then it will give us what? So here we're going to be able, we'll rub out already (inaudible) with the eraser. [T] But because look at these two X, they are bothering us. These two X there, that's the one we want to take away. [T] Well because otherwise we must put the 21 on the other side, it's the same thing. As we see that there's only X's already here, we will"
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well because otherwise we must put the 21 on the other side, it's the same thing. As we see that there's only X's already here, we will [T] try and put everything this side... we choose a side where we want to put the X's. [T] We can put it the other way round if you wish. [T] Ha, well of course. I said everything we do behind this vertical bar here, we must do it on both sides. [T] So it makes X, but 21 divided by seven. [T] Three. Then there was a little minus, therefore it makes minus three. You can rub out what you had here."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Three. Then there was a little minus, therefore it makes minus three. You can rub out what you had here. [T] But yeah, simply. [T] Ha. That one is more problematic. You mustn't divide by four. [T] Yes. [T] Well, because I did minus two X. [T] I- yes. I must still go over there behind. [T] Must be X... Yeah. Yeah. That's why we do as you're doing here. You can do times minus one, but you could very well have done"
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] directly minus one. You do times minus one... Then 42. [T] Quarter, you can put twenty-one and a half. [T] There was a question here on this side. Who was it? Ha, yeah, Aurore. [T] No, it would be minus five X minus 21. [T] Well, yeah. [T] Well, yeah, it does something. [T] No... Why do you want minus 21?"
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No you've done times, times a seventh, minus a seventh, so the 21 is affected by the times minus a seventh. [T] Yeah. So I'll do F. I'll put F up. Yes, Herve? [T] Well, precisely, I'll do it. It's wrong there. So I'll come- I'll do F, then after we'll look at G together, because G has something tricky. [T] We'll quickly look at F. So F, it's five X, er, minus five X is equal to two X plus 21. Is that correct?"
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We'll quickly look at F. So F, it's five X, er, minus five X is equal to two X plus 21. Is that correct? [T] Okay, so again here, I've already got on the left only X's... Therefore I'll pass- I'll eliminate the X's on the right. How do I eliminate the X's? [T] I do minus two X. What does it give me? It gives me minus seven X is equal to 21. What's bothering me now? [T] It's the minus seven, it is being multiplied... It is being multiplied. Therefore times minus one."
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's the minus seven, it is being multiplied... It is being multiplied. Therefore times minus one. [T] A seventh... Which gives us X equals? [T] Minus three, simply. So now it's true on the other hand for that part... So there's S equals minus three. [T] It's true for the G part. [T] The G part, what do we have that's tricky? We have four X is equal to four X... minus one. So how are we going to see that?"
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The G part, what do we have that's tricky? We have four X is equal to four X... minus one. So how are we going to see that? [T] It's impossible. Valentine? [T] Let's try to take it away, let's try to be as methodical as we can, then let's see what happens. Let's see, where do we find, so-"
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You're okay that this four X is bothering you. [T] So we do minus four X. [T] We find zero X. Therefore zero is equal to minus one. Is that possible? [T] No. Therefore when you get to a case like this... [T] What does this mean graphically? Four X equals four X minus one. If we did it again graphically as we did it here. [T] Yes Sir Jean-Pierre! It's parallel. Do you remember that? If I do the axis of the X's here, the axis of the function G of X and D of X, the"
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes Sir Jean-Pierre! It's parallel. Do you remember that? If I do the axis of the X's here, the axis of the function G of X and D of X, the [T] function on the left and the function on the right... four X it's what? (inaudible) the origin of four X, I start from where? Four X, the force- the- the- [T] the equation which says: G of R of R, X goes on four X. [T] It starts from zero. Right. We'll put it in one color. That one there. Here, it starts from zero and each time it advances it goes up how much?"
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It starts from zero. Right. We'll put it in one color. That one there. Here, it starts from zero and each time it advances it goes up how much? [T] Up four. Okay... it goes up like this. [T] And then it goes down also each time. Each time I go backwards, I go down four. Are we okay? [T] That's okay? That's the function of G, the left element. The right element... what nice little colors here would [T] distinguish this from blue? We don't have much... a little orange, a green. We'll see the difference but I don't have anymore orange... So the"
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] distinguish this from blue? We don't have much... a little orange, a green. We'll see the difference but I don't have anymore orange... So the [T] function of the right side. I'll write it here... it says- it says from R to R, X goes on four X minus one. Therefore it means I go from where? [T] I go from minus one on- there and then, each time I advance one, I go up four."
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I go from minus one on- there and then, each time I advance one, I go up four. [T] It is, well, parallel. Therefore when do they meet each other, these two parallel lines? [T] Never. Therefore the- what we're looking for as a solution, it's the points that meet each other. Therefore there's none. Therefore one can say it's [T] it's- Do you visualize geometrically what's happening? Okay? Therefore that case, it's S equals- parallel. Okay? [T] Okay? That's the function of the right side."
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] You can wait two minutes. The bell will ring in two minutes. Yeah? [T] What's bothering you? Well then, how do we take away a fraction? [T] Well yeah, which one? To take away the five, you did what? If you had only five X, what would you do? [T] A fifth. If you had only the- you would do times? Times two."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] A fifth. If you had only the- you would do times? Times two. [T] No, times two. Times two, therefore times two fifths. Oh, I've put green, that's my print. [T] So I'll let you continue now, on this 948 and we'll correct next time the- the- the other ones, all right? We are"
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So I'll let you continue now, on this 948 and we'll correct next time the- the- the other ones, all right? We are [T] obliged. We'll correct H, I, K. Yeah. [T] Hum um...(inaudible) we do."
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I've got 949."
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I've got 949. [T] Yes. [T] Of course. [T] It had better be positive. It would avoid us- because every time there'll be minuses we'll make a mistake. What's bothering you? [T] No. Here you've got six X, here you've got five X- you've got X. [T] Well, which is the one bothering you? Where are there the most X's? On the left or on the right? So you stay on the left and then you take away."
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, which is the one bothering you? Where are there the most X's? On the left or on the right? So you stay on the left and then you take away. [T] Minus X, yeah, you do minus X. [T] Not before doing division. As long as you have a polynomial, you don't do division. It's a principle you've got to keep to. [T] Therefore now?"
+      }
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You do plus 10. [T] Okay then... Okay then, we'll see each other after the break."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It's the five which is bothering us, therefore we do... [T] Minus five. Therefore X is equal to? [T] Minus 35. Okay... But we're going to try and take in the next one, we're going to try and do it in one stage directly. When [T] we write the next one down, we have 18 X. It's H... We have eighteen X, er, minus 24. [T] Plus 17 X... There we're going to try and do it in one stage. I don't have enough space. It's going to be okay. Eighteen X minus 24 is equal to"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So we leave the fraction, we will leave 15 quarters. Exactly. [T] But it's 15 quarters. You've divided 15 by four, that's 15 quarters. [T] Here you do minus 12, but when you did minus 12 here you touched only that 12 there. The three X you left alone. [T] Leave it as three X. It stays three X here... And now you must still do a stage. So that's annoying because you... [T] You have already done the next one but... we do times one third, then we will find?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, don't do it at the same time. One stage after the other. Excuse me, Gregoire... I think that, let's stop for awhile, [T] please. We look at A, we did it together as an example. Do you remember? And B also? It astonishes me, [T] though, because a lot of you did it wrong. [T] So we'll maybe just do B again together. Two X minus seven is equal to 19. So it's clear that you have two worries. [T] Here. You have one X which is multiplied by two. You want X on it's own."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Minus 12. And now we do one stage where we do times a- [T] Half... Okay, and then we find one X is equal to minus six so the solution is minus six... If we take C... You have it nearly [T] exactly C, you've all done it. Four X plus five is equal to 20. So it's very well, er... Herve, to say I divide by four, [T] and at the same time I do minus five... It's what you did, it's that one?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Me, I would like it better when you have something like that. So there do as Ludivine said. You write again the object when you've taken away the brackets. [T] You do here the thing like this, you can say I'm doing literal calculation. [T] And then I find four X minus five is equal to six... 27... Then now I can work as I did before... [T] It's not interesting. We have minus, yeah. [T] There then, so we decide to have the X's on the right. It doesn't matter."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] for the one, there's minus four X plus 15 is equal to 11. So Valentine said: I would like to have X on the left. We're okay, I'm going to have X on [T] the left, all right? So she says to herself but I want X. Therefore you go from minus four X to X, I do plus five X, right or wrong? [T] Yeah, so she says to herself, I'm going to do plus five X, then at the same time you do minus 15, all right? [T] So then, I write this. [T] Who said that, copycat? [T] You. You also want to do that."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No you've done times, times a seventh, minus a seventh, so the 21 is affected by the times minus a seventh. [T] Yeah. So I'll do F. I'll put F up. Yes, Herve? [T] Well, precisely, I'll do it. It's wrong there. So I'll come- I'll do F, then after we'll look at G together, because G has something tricky. [T] We'll quickly look at F. So F, it's five X, er, minus five X is equal to two X plus 21. Is that correct?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] A fifth. If you had only the- you would do times? Times two. [T] No, times two. Times two, therefore times two fifths. Oh, I've put green, that's my print. [T] So I'll let you continue now, on this 948 and we'll correct next time the- the- the other ones, all right? We are"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I've got 949."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You do plus 10. [T] Okay then... Okay then, we'll see each other after the break."
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/M-SW4"
+}

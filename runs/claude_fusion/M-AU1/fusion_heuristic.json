@@ -1,0 +1,162 @@
+[
+  {
+    "friction": false,
+    "rationale": "The single transcript fragment 'I'm wired' is an off-task or transitional remark with no instructional strategy present and no evidence of student confusion coinciding with a high-pressure pedagogical move.",
+    "alternative_strategy": "",
+    "t_start": 0.0,
+    "t_end": 30.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The transcript reflects logistical/setup talk ('I'm wired', 'It's running', 'I'll make it a bit warmer') rather than any instructional exchange, so there is no pedagogical strategy in play that could constitute friction with student confusion.",
+    "alternative_strategy": "",
+    "t_start": 30.0,
+    "t_end": 60.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is summarizing a student conclusion without pressing for reasoning or inviting student voices, representing low-quality talk (monologic recapping) at a moment where unpacking why those three properties hold could deepen understanding.",
+    "alternative_strategy": "Pause and ask students directly: 'Which of these three claims surprises you most — that it's always 180 degrees, that moving points doesn't change it, or that the radius doesn't matter — and can someone explain *why* one of them must be true?'",
+    "t_start": 300.0,
+    "t_end": 330.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is actively pressing for reasoning and scaffolding student thinking toward a precise definition of polygon by building on student responses incrementally, which reflects productive rather than low-quality instructional practice.",
+    "alternative_strategy": "N/A",
+    "t_start": 630.0,
+    "t_end": 660.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is using low-quality talk moves while transitioning abruptly from a conceptual definition to an open-ended prediction task, which creates cognitive overload without sufficient scaffolding to help students form a hypothesis about exterior angles.",
+    "alternative_strategy": "Before asking students to write a conjecture, pose a guiding question such as 'If I walked along the outside of this convex polygon and turned at each corner, what do you think my total turning would add up to by the time I got back to where I started?' to anchor the prediction in a concrete, embodied experience.",
+    "t_start": 960.0,
+    "t_end": 990.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is issuing an open-ended prediction prompt with low instructional scaffolding ('write down what you think might be a fact') while dominant talk quality is low and no structured talk moves are supporting student thinking, creating a moment where students are likely unsure how to proceed.",
+    "alternative_strategy": "Before asking students to write, pose a concrete guiding question such as 'Look at your five angles — what do you notice about how big or small they appear compared to each other? Does anything seem equal or add up to something familiar?' to anchor student thinking in observable evidence rather than unconstrained guessing.",
+    "t_start": 990.0,
+    "t_end": 1020.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is asking students to generate hypotheses about exterior angles with minimal scaffolding, and the dominant low-quality talk move ('Other') combined with no vision-based engagement signal suggests students are uncertain what a valid conjecture looks like, creating pedagogical friction between the open-ended demand and students' readiness.",
+    "alternative_strategy": "Pause and revoice a specific student example aloud to the class, e.g., 'I heard someone say they think the exterior angles will all add up to the same number — can anyone tell me why you might expect that based on what you already know about triangles?' This grounds the conjecture task in prior knowledge and models the level of specificity expected.",
+    "t_start": 1020.0,
+    "t_end": 1050.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is pressing students to recall vocabulary ('conjecture') without scaffolding or connecting it to prior knowledge, while the dominant talk quality is low, suggesting students are not meaningfully engaged in reasoning about the term.",
+    "alternative_strategy": "Revoice and anchor the concept by saying something like: 'Someone mentioned it might be a guess — so a conjecture is an educated guess or prediction we haven't proven yet. Can anyone tell me what kind of evidence might help us test this conjecture?' This validates student thinking and bridges vocabulary to the upcoming investigation.",
+    "t_start": 1110.0,
+    "t_end": 1140.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "Without transcript content or a clear vision-based confusion signal, there is insufficient evidence to identify a genuine pedagogical friction moment in this window.",
+    "alternative_strategy": "",
+    "t_start": 1200.0,
+    "t_end": 1230.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is issuing a rapid sequence of procedural directives ('get rid of that one', 'use the pointer tool', 'make sure they join') without pausing to check student understanding of why the shapes need to be joined, which combined with the low-quality dominant talk pattern suggests the student is being guided through steps rather than building conceptual understanding.",
+    "alternative_strategy": "Pause and ask a guiding question such as 'What do you think will happen to the shape if those two points aren't connected?' to prompt the student to reason about the geometric concept of closure rather than just following mechanical steps.",
+    "t_start": 1290.0,
+    "t_end": 1320.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 1320.0,
+    "t_end": 1350.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYToL2iutxzWtZN4n5x'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1710.0,
+    "t_end": 1740.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYUHeNS38Zc1AUpZtcS'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is simplifying mathematical vocabulary ('measure is just the size, really') rather than pressing the student to reason through the concept, while the student has only explored one polygon case, suggesting shallow engagement and a missed opportunity for deeper conceptual development.",
+    "alternative_strategy": "Instead of rephrasing the definition for the student, ask a guiding question that builds on their single example: 'You found the angle sum for a pentagon — what do you predict the sum might be for a hexagon, and how could you test that prediction using the software?'",
+    "t_start": 2010.0,
+    "t_end": 2040.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 2040.0,
+    "t_end": 2070.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYYVCpRrH1Yn5hXFhhLn'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is pressing for reasoning about the pattern in angle sums while simultaneously troubleshooting a technical issue with the screen display, so any confusion signal is procedural rather than a pedagogical pressure mismatch.",
+    "alternative_strategy": "Once the screen issue is resolved, use a structured prompt such as 'Tell me what you notice happens to the total each time you add one more side — does it go up by the same amount every time?' to refocus the student on the mathematical pattern before asking them to write.",
+    "t_start": 2070.0,
+    "t_end": 2100.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is using 'Pressing for Reasoning' constructively, nudging the student to clarify 'does not change from what,' which is a high-quality Socratic move that scaffolds precision in mathematical language rather than creating unproductive pressure.",
+    "alternative_strategy": "",
+    "t_start": 2130.0,
+    "t_end": 2160.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "Although the dominant quality is unknown, the teacher is pressing for reasoning about interior versus exterior angles and soliciting student agreement, which represents a productive Socratic exchange rather than high-pressure or low-quality instruction coinciding with confusion.",
+    "alternative_strategy": "N/A",
+    "t_start": 2220.0,
+    "t_end": 2250.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is using a scaffolded demonstration with 'Pressing for Reasoning' talk moves to guide students through a computer tool, which represents active instructional support rather than high-pressure or low-quality strategy coinciding with confusion.",
+    "alternative_strategy": "Before taking over the mouse, ask the student 'Which angles do you think we need to select first, and why?' to keep the student cognitively engaged rather than shifting to teacher-led demonstration.",
+    "t_start": 2250.0,
+    "t_end": 2280.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is genuinely engaging with a student question, acknowledging uncertainty honestly, connecting to the learning content about polygon angle measurements, and scaffolding reasoning about the relationship between number of sides and total angle sum, which reflects responsive rather than high-pressure or low-quality instruction.",
+    "alternative_strategy": "N/A",
+    "t_start": 2340.0,
+    "t_end": 2370.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is wrapping up the lesson with a reflective check-in question about student predictions, which is a legitimate low-stakes formative closure move rather than a high-pressure or confusing instructional moment.",
+    "alternative_strategy": "",
+    "t_start": 2520.0,
+    "t_end": 2550.0,
+    "n_frames_sent": 3
+  }
+]

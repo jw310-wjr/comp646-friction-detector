@@ -1,0 +1,1754 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math NL3 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Was the answer booklet wrong or were you wrong? [T] That's nice. [T] That gives me something to do. [T] Little Pete? He'll be coming up shortly. [T] That's possible. Um, I think I am still missing a few."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That's possible. Um, I think I am still missing a few. [T] I think so. [T] Good morning! Who isn't coming? [T] Why not? [T] Hm. [T] It's called video. [T] Do you have any loose sheets of paper? [T] And your book? [T] Yes, okay. Do you still remember where you had difficulties? [T] Well, just have a quick look. Don't worry. Um, as you guys can see, uh, there is a camera here. That should have actually been announced in advance."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, just have a quick look. Don't worry. Um, as you guys can see, uh, there is a camera here. That should have actually been announced in advance. [T] But it doesn't make any difference otherwise, just pretend it's not here. [T] Uh, I will explain, uh, that to you next time. Okay? [T] Uh, to shoot a film. [T] Yes. Next time I will explain the purpose in more detail. [T] Yes, that as well. So, uh, just grab your book and grab your notebook as I think some people may need this."
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, that as well. So, uh, just grab your book and grab your notebook as I think some people may need this. [T] You're still going to, uh, you're still going to, uh, do Pythagoras? [T] Are you still going to do Pythagoras, or chapter five? [T] I would prefer that."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What did you say? [T] Yes, of course. What are you doing here? You guys have class. [T] Where do you guys have class? [T] Hurry up then. [T] Bye ladies! Those cases from one A, or one D, whatever it is. [T] Yes, I know."
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Very well. [T] Yes, all right. [T] In a moment I will explain something about calculating variables. Uh, several people are still on assignment three, four or five,"
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] In a moment I will explain something about calculating variables. Uh, several people are still on assignment three, four or five, [T] uh, while some haven't even reached one yet. [T] Um, at the end of this week, the whole chapter has to be finished. Good morning, Erik! [T] Um, those people who are at assignment one, have not been doing anything last week. That is my conclusion. [T] So Erik, uh, you will have to work hard to catch up. [T] Also if you cry, \"I don't understand, don't understand\", try to keep working nonetheless so that you will, uh-"
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Also if you cry, \"I don't understand, don't understand\", try to keep working nonetheless so that you will, uh- [T] Because it's quite possible that you do not understand problem three, but suddenly see the light at problem five, [T] and find yourself right back on track. Um, you didn't understand three. You- [T] That is not too smart. Can you get some paper? [T] Yes, there is some paper in the folder over here. Do you know where you were? [T] Then afterwards you just need to copy that into your notebook. Yes? [T] Assignment 15."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Assignment 15. [T] This is going great, you guys! [T] Will you make sure to put it in your notebook? [T] Um, very well. We are just going to start. I will come by several people and then I will, uh, for everybody- [T] Yes, but that is his choice. [T] That is his responsibility. You have the answer booklet. [T] You have to get to work now. That's a different thing. And, yes, right now you are calculating variables aren't you?"
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So, for example, with three, E is three E plus seven E. [T] How many- how many E's do you have? [T] No, why squared? [T] How much are three E's plus seven E's? [T] Period. Only if you'd multiply it then it'll get an E squared. [T] So, two E times three E? Two times three is?"
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And E times E, that is the E squared. [T] Yes, but you don't seem to have any E squared whatsoever. [T] Yes? [T] Uh- [T] No, that is correct. [T] L equals 11 P and always leads to the same solution. Well, let's see if he is right- by filling in P equals one, P equals six, [T] and, and P equals 10 in both equations."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] and, and P equals 10 in both equations. [T] So in this equation you have to fill in P equals one. [T] Yes? What is the solution to this? [T] Yes. And what is the solution to this? [T] Yes. Is it possible that they could be the same? [T] It is possible, very good. So I will fill in P equals six. [T] And over here? [T] Yes. And now fill it in for real. Three times six is?"
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Eight plus 18 is? Twenty-six. [T] Well, that is something completely different. [T] Could this and that be the same then? [T] Because P equals 10. [T] Yes? [T] What is three times 10? [T] And eight plus 30?"
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Well, yes, the last one you did was correct. What's eight times- what is eight plus 30? [T] That is just 38. And 11 times 10 is 110. [T] Beware, that's simply 110, right? For P you just fill in 10, not 11 P times 10. [T] Yes? [T] You have to fill in something at this spot. [T] That is what it is about. [T] Which one?"
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Which one? [T] How much are six A's plus five A's? [T] And two B plus three C, can you add anything up here? [T] Exactly. Are you able to proceed now? Where are you at? [T] Not over here, but in the other one there is."
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, huh. [T] How many F's do you have here? [T] How many F's do you have here? [T] And here? [T] So what's the total? [T] No. Here you have three. Three F's plus three F's is? [T] Therefore? You're left with? Six minus five F's equals?"
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Therefore? You're left with? Six minus five F's equals? [T] You have to see which numbers have F's in front of them. Over here is- I mean behind them- here is an F, here, and there. [T] Over here we have three and over here we have three as well, so that is six, minus five equals one F. [T] F minus three. [T] All right? [T] That one is clear? Can you move along? [T] Okay. [T] Let's have a look. You are succeeding? With that table?"
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Let's have a look. You are succeeding? With that table? [T] Well, yes, if you are correct then it should be correct, that's- [T] But do you understand what you are doing? [T] At least you are caught up. And you are not caught up, so you better continue working. [T] Are you just starting now? Or are you at, uh, five? [T] Which one don't you understand?"
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] How many Y's do you have? [T] Yes, I know that much too. But how did she get it? How many Y's did you get over here? [T] No, how many do you have here? The first section? [T] Give me a break and keep working, please. [T] Twelve. How many do you have here? How many should be subtracted? One Y."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] No, because it says minus Y here, so that means minus one Y. [T] If I say, take X, then that means take one X. And here too, minus Y means minus one Y. So 12 minus one equals 11, so you have 11 Y's. [T] No, then you fill in a two for Y. That is something else because then you will fill in a number for Y."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] How many Y's do you have here? [T] No. [T] Twelve. How many do you take away? [T] So how many will you have left? [T] Eleven. Eleven Y are left. It is not exactly, uh, what number the Y is because it's only afterwards that you'll fill something in for Y. [T] Yes, it does. Just cal- calculate it. Why don't you fill in for, uh, uh-"
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, it does. Just cal- calculate it. Why don't you fill in for, uh, uh- [T] No, because you have 11 Y left over. [T] Suppose for example you fill in three for Y? [T] Minus? [T] Thirty-three. You are left with 11 Y and that times three is indeed 33. Do you understand it? [T] Yes? Very well. [T] Are the diagrams coming along? [T] Yes."
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh huh. [T] Which eight? [T] Did you make a drawing of this? [T] Can you show me? [T] Yes. That's no big deal. [T] Um, what is the surface area of the top part? [T] Do you have a pencil? If you have a look here. Here you have the 50 and there the 15."
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Do you have a pencil? If you have a look here. Here you have the 50 and there the 15. [T] So here- this is 750 square centimeters. What is the surface area of this here? [T] How long is this section? [T] No, that is the surface area. [T] What is the length of this here? [T] This is also 50. What is the height of this?"
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] This is also 50. What is the height of this? [T] This one you don't know yet, correct? Of this whole area- [T] You don't know that yet, that is just H. Now how do you determine the surface area? You do 50 times H, length times width. [T] Which is 50 times the H. Yes? [T] Just like with those diagrams you're using over here, you actually just calculate a surface area. Fifty times 15 and 50 times H."
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Just like with those diagrams you're using over here, you actually just calculate a surface area. Fifty times 15 and 50 times H. [T] Plus 750. [T] Yes? And then over here you have three equations- or, uh, four equations and two out of these four are correct. [T] You need to figure out which ones. Just now you wrote down, A equals C. I know this is correct, but in a minute I would like you to tell me why. Okay?"
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You need to figure out which ones. Just now you wrote down, A equals C. I know this is correct, but in a minute I would like you to tell me why. Okay? [T] Could you please throw a window open? [T] Are you able to sniff your way through it? [T] Are you able to sniff your way through it? Or are you doing okay? [T] What is this all about? [T] But what is it?"
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes, what did you get in, uh, the first part? [T] Yes. [T] Yes. [T] And then here you have something written here. [T] Uh. [T] Right."
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Right. [T] Exactly, so, uh- [T] Let me check, here you have 60 times this 20 is 7200. That is correct. And you have 120 times minus B. [T] How much is 120 times minus B? [T] One hundred twenty- minus 120 B."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Whereas here you write 120. [T] No, what is this 120 about? [T] But you have to multiply the 120 with this. So you can- you cannot just add this together. [T] So this 120 over here doesn't make much sense. For here you calculated something. Sixty times 120."
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] So this 120 over here doesn't make much sense. For here you calculated something. Sixty times 120. [T] Exactly. So the B has to be taken away over here. [T] What does it say? Minus. [T] So minus 120 B. Yes? [T] Fifteen didn't work? [T] Okay, yes. [T] Yes?"
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Take a moment to draw it. [T] Yes. Just, uh, the- no, you've got it already, it's already here, the multiplication table. [T] What's stopping you from filling it in? Or how much is three times two D? [T] Yes, and you can fill in the second one as well. [T] With?"
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes. [T] Yes, but we need those too. [T] Those have to be calculated just as well. Is it coming along? [T] Fifteen? More people have a problem with 15. I will circulate for that one shortly. Or actually explain it on the blackboard in a minute."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Fifteen? More people have a problem with 15. I will circulate for that one shortly. Or actually explain it on the blackboard in a minute. [T] Can you write them down more briefly? [T] Okay. [T] Where are you uh- oh, here. [T] What? Eight. Not far enough but further than some of the others. Try to catch up. Can you do that? [T] That is possible. [T] Did you succeed with 15?"
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You also don't have a notebook with you? [T] Next time please report that beforehand, not afterwards. Just go ahead and do 16 together. Check it out together. [T] And then in a minute you will also- did you succeed with 15? [T] Did 15 work out? [T] Very well, then we'll do that one on the blackboard in a minute. Okay? [T] Just, uh, yes- [T] One of these sides, this one, is H. [T] That is the surface area of this small section: length times width is five times that H. Five H. The surface area of this whole square, how long is this section?"
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] That is the surface area of this small section: length times width is five times that H. Five H. The surface area of this whole square, how long is this section? [T] And this? [T] So what is the surface area? [T] Right. [T] And you have four times five times the H. Four sections of five multiplied by H. [T] And you have to take the sum of all that. That is the surface area, and the circumference is H plus H plus five plus H plus H plus five."
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And you have to take the sum of all that. That is the surface area, and the circumference is H plus H plus five plus H plus H plus five. [T] Yes. Yes? [T] Yes. [T] Plus five times H, plus five times H, plus five times H, plus five times H."
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, five times H and do that four times. Four multiplied by five times H. [T] This is 25. You know that one. And this is five H. [T] And then you have these four pieces of five H. [T] Four times- yes. Yes?"
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Plus three C, can you do anything with that? [T] I can't do anything with it. [T] Those are two different letters. So can you do anything with it? [T] Exactly. [T] Yes. [T] Yes."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Sure. [T] Yes? Very well, um, have a look ahead at assignment 15. Um, almost- not everybody is there yet, I believe. But we'll get there. [T] Which one? [T] For Dalton? Um, yes, I think so, but I have a lot more folks. I will have to look and see how many reservations I have."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Otherwise I will get in an argument with class two B because they all want to reserve as well. [T] Yes, but that is my mentor class. [T] No, you are not allowed to play favorites, but I'm doing it anyway. [T] Uh, that depends. Um, take a look at 15. Um, what are you supposed to do?"
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What are you supposed to do at 15? How would you start? Yes? [T] Draw an axis system. [T] And you will use the equations of A, B and C- please look for a moment, exercise 15. Um, drawing an axis system. [T] From how far to how far does that axis system need to run? [T] From minus six through eight. Well, that's something we can picture. Minus six, huh, huh, huh, minus four, minus two."
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] From minus six through eight. Well, that's something we can picture. Minus six, huh, huh, huh, minus four, minus two. [T] Over here somewhere a zero, two, four, six and eight. Very well, the Y-axis, do you know anything about that? [T] You don't know that yet. Um, what should you do, though? You have to plot those three equations. How do you plot an equation? How do you start?"
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You don't know that yet. Um, what should you do, though? You have to plot those three equations. How do you plot an equation? How do you start? [T] Just imagine something. [T] Yes, that is the axis system. How are you going to plot the equation itself? Marjolein? [T] Yes, the lines in there. But how will you get those lines? Erik? [T] You don't know? [T] By calculating those equations. You start by making a table. So the first thing you want to do when you plot an equation, is definitely making a table."
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] By calculating those equations. You start by making a table. So the first thing you want to do when you plot an equation, is definitely making a table. [T] The table A, if you fill in the X's and calculate the Y's, which numbers do you need to fill in for that? Erik? [T] Go ahead and do it. What numbers are you going to fill in for the X?"
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] Go ahead and do it. What numbers are you going to fill in for the X? [T] No, there is indeed no way you could know that yet. Therefore you may fill something in at random. Go ahead and pick a number. [T] One. Very well, if you fill in one, what is the outcome? I will fill in one for the X."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Exactly. [T] So to: \"X is one\" belongs \"Y is 15\". If you fill in a one for X, you have to calculate it, one plus four so in between brackets it becomes five. [T] Three times five equals 15. You can obviously do that with more numbers. Which numbers can you do that with? Just name one. Marjolein?"
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Three times five equals 15. You can obviously do that with more numbers. Which numbers can you do that with? Just name one. Marjolein? [T] Three, for example. What is the outcome then? [T] Three plus four is indeed seven, and then? [T] Twenty-one, yes. You can do that with many other numbers. I'll just do it really quickly. [T] You guys may, uh, do a bunch. You can do it all from minus six up till eight. So, what is the outcome at minus six? Also minus six. Why?"
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You guys may, uh, do a bunch. You can do it all from minus six up till eight. So, what is the outcome at minus six? Also minus six. Why? [T] Minus six plus four is? [T] Three times minus two. [T] Minus six. And I will also just fill in eight. [T] Why would I choose minus six and eight? [T] Precisely. So it is not exactly a coincidence. We also need to have a few points in between. What is the outcome at eight?"
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Precisely. So it is not exactly a coincidence. We also need to have a few points in between. What is the outcome at eight? [T] Because eight plus four is 12, three times the 12 is 36. Very well, now you fill this in. [T] It appears something will show up between minus 10 and 40. We can draw the vertical axis. [T] Um, this goes up to 40. Ten, 20, 30 and 40. And this goes minus 10 and minus 20. Yes?"
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Um, this goes up to 40. Ten, 20, 30 and 40. And this goes minus 10 and minus 20. Yes? [T] Um, it makes no big difference what you fill in on the vertical axis, as long as you're taking the same steps every time. [T] So if you took steps of two over here, that's fine. If you took steps of five, that's just as fine. What matters is that the steps are equal. [T] Um, then we will draw it. At minus six, we had an outcome of minus six. That is over here. At one, we had an outcome of 15, that is over here."
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Um, then we will draw it. At minus six, we had an outcome of minus six. That is over here. At one, we had an outcome of 15, that is over here. [T] At three we had an outcome of 21. And at eight we had an outcome of 36. Uh, that is over here somewhere. And I am not sure whether we have a nice ruler over here- [T] I don't think we do. So now I will draw a very straight line... Ah, not too bad. Um, you will do the same thing in order to get the second and third line."
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I don't think we do. So now I will draw a very straight line... Ah, not too bad. Um, you will do the same thing in order to get the second and third line. [T] Well, the second line, four X plus six, let me just- that starts at minus 18. You guys may calculate that one yourselves real neat. At zero it is six. [T] And at eight it is 38. That one will be over here. Well, we can draw that one more or less like this. [T] And the third line, that one I do want everyone to calculate for now. Go ahead and make the same table,"
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] And the third line, that one I do want everyone to calculate for now. Go ahead and make the same table, [T] and calculate it briefly, just a couple of points. [T] After which you may tell me what caught your eye. [T] Yuck, disgusting! [T] What you said is correct."
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What you said is correct. [T] Is that a pencil or a pen? [T] Yes, but you can borrow one. [T] Do you have a triangular protractor or not? You don't have a triangular protractor? You don't either? [T] Yes!"
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes! [T] Were you able to follow this, at 15? [T] You continued, okay. [T] The things I do? I calculate each time what I get with, uh, with every number. So, for example, if you, uh, fill in one for the X-"
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The things I do? I calculate each time what I get with, uh, with every number. So, for example, if you, uh, fill in one for the X- [T] Uh, do me a favor and keep working. [T] Once I fill in a one for X, then what does it say? Three times one. What is that? [T] Three. Twelve plus three is? [T] Fifteen. So once you fill in a one for the X- well, just put a one here somewhere, what does that do for the Y?"
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What did we just calculate? Fifteen. So what you write down is 15. Very well, now you are going to fill in a different number for X here. [T] Tell me what number you want to fill in. [T] Three. Go ahead and calculate it. You replace the X by a three, and then what does it say? [T] Exactly. [T] Is? [T] Precisely. Well... [T] Yes."
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Try to fill in another number. [T] Twenty-four. [T] What do you think the outcome will be? [T] Well, check it. [T] Three times minus six equals? Three times six equals 18 so three times minus six equals minus 18."
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Three times minus six equals? Three times six equals 18 so three times minus six equals minus 18. [T] Yes? [T] Plus 12. [T] And indeed. They do seem very similar. Have a look at those equations. [T] Is it possible that the A and the C are the same? [T] Steffi, is it possible? [T] Yes, it has to be, I know that much as well, but..."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Exactly. Three times this four, that becomes 12. [T] Times...? [T] Exactly. [T] Precisely, those equations are exactly the same. [T] Yes, you may draw it again. But actually it is already there. So you can add A plus C. Yes? [T] Do you understand what is going on? Do you understand why these two are the same?"
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Do you understand what is going on? Do you understand why these two are the same? [T] If you make a multiplication table, [T] here's an X- or uh, here's a multiplication sign. This is a multiplication sign, not an X. It stays tricky, doesn't it? [T] Those multiplications signs mixing with those X's. [T] Yes. Yes, exactly. Um, doing that will give you a three over here. [T] The X will be and over here, and the four over here."
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The X will be and over here, and the four over here. [T] Three times four is 12. Then you are done with this surface area over here. And three times the X equals that three X. [T] So the equations of A and C are exactly the same. [T] You get the picture? So earlier you calculated the surface area first, then you used the multiplication table. And finally you can see it at one glance. [T] But until you're there you'll utilize the multiplication table."
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes? [T] Yes, what particularity do you notice? [T] Very good. [T] Tah-dah! Yes? [T] Yes, certainly, it is correct [in French]. [T] It disappears completely? Why don't you move all of this out of the way. You guys have French class later on?"
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] It disappears completely? Why don't you move all of this out of the way. You guys have French class later on? [T] Test or paper? [T] From whom? [T] Ooh... [T] Are you going to put it away now? [T] Ooh! Bad girl! [T] That is not allowed, is it?"
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] You guys have a Biology test shortly? [T] La-bor-a-tor-ies. [T] No. [T] Yes, I know. [T] Meanwhile, how far did you get? You made exercise one, 15 and 20 in the meantime."
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Meanwhile, how far did you get? You made exercise one, 15 and 20 in the meantime. [T] You are beyond that? You've even gotten as far as 36 by now? [T] Just put it away for the time being. Really people, put your French away for now. I mean now. [T] Um, let me see. Steffi? Why don't you just get to work."
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Um, let me see. Steffi? Why don't you just get to work. [T] Laurie, just get to work. [T] Uh, by the end of this week the chapter has to be completely finished."
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, by the end of this week the chapter has to be completely finished. [T] Um, so be sure you make that. Because next week we will continue with chapter six. [T] Which makes this week the last opportunity to ask questions about chapter five. [T] Yes? [T] Also the additional subject matter. Everything on chapter five. [T] The test isn't until the exam week."
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] What? [T] Yes? [T] Yes. Of course. [T] Tomorrow is essentially the last time that you can ask questions about it. [T] We will still continue anyway, but that's not the intent."
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, ladies! Do cut the French now. [T] Last three minutes. [T] Do you really think that you can learn something all of a sudden in the last five minutes? [T] Then you might as well do it in the last three minutes."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Then you might as well do it in the last three minutes. [T] Oh, uh, for Dalton in a moment. [T] No, then it is Friday. [T] Whatever you want. [T] Uh, who else? [T] Louise? [T] I have five- I already have five tests from two B and five papers from two F here. Ah, Harley is sick again?"
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I have five- I already have five tests from two B and five papers from two F here. Ah, Harley is sick again? [T] So, uh, you can't reserve, you just have to be here in time. [T] All right? Because in a minute I will be all filled up. Or, uh- at least, yeah."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right? Because in a minute I will be all filled up. Or, uh- at least, yeah. [T] Yes, very difficult. [T] I have a very special one for you, three times more difficult. [T] Uh, you may, yes, you just have to hurry- you just have to get here fast. [T] You just have to get here fast. Hey, I want you to finally start doing something now. [T] Yes. You are very busy. [T] Keep working. Hey, just get to work."
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Keep working. Hey, just get to work. [T] I think that, uh, 40 is five times eight or 45 is five times nine. [T] Oh, right. But it's fine- [T] Uh, it is fine that you do it the other way around. [T] And now you do-"
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] True. Iris? [T] Yes, you have this orchard. What is the surface area of that? [T] Yes. What is the surface area of the other area? How do you calculate a surface area to begin with? [T] Just real simple-"
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Ruben, pick it up. Yes, I know but you are the one who is picking it up. [T] Yes. What is the length here? [T] Sixty? [T] One hundred twenty. What is the width? [T] But do you need the whole 60? [T] Do you need to include the B or not? [T] No, because that is away a bit, that doesn't belong there. So you have to take 60- and what are you supposed to subtract from that?"
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "[T] No, because that is away a bit, that doesn't belong there. So you have to take 60- and what are you supposed to subtract from that? [T] Minus B. Exactly. And what that B is you don't know yet. So the length is 120 times the width and we know, in this case, that is 60 minus B. [T] The last part you have to put in between brackets. [T] Yes. Write that down and then calculate further from there."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Even better: exactly. [T] Is that possible? [T] Have a look, uh, at the equations. [T] Could they be identical? [T] Yes, but over here it has three times in front of it. [T] How much is three times... what is shown in between brackets? Three times X plus four. Three times the X is? [T] We have that over here. Three times the four is?"
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] We have that over here. Three times the four is? [T] Twelve. We have that one over there. It could be the same, right? [T] Yes. So what do you notice and what is the answer for B? [T] Exactly. Yes? You understand that one? [T] Are you going to show me on Friday that you have completed up to paragraph five? [T] Yes? And of whatever you couldn't finish you need to copy the text and the answers."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes? And of whatever you couldn't finish you need to copy the text and the answers. [T] Usually on Fridays I have some happy hours left, since on Fridays I'm sitting here until 11 o'clock in the evening anyway. [T] Yes, then it is party time. Are you joining us as well? [T] Why not? [T] I wish you would. [T] Well, just make sure you are there. [T] I said: make sure you are there."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I said: make sure you are there. [T] Okay. [T] Yes, of course. [T] Yes, you bet. [T] Yes? [T] Yes, but that depends on how you look at length and width. [T] Does it matter what you take as the width or the length?"
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Length times width or width times length is the same. [T] Three times four is the same as four times three. [T] Yes? [T] So, if they mean something different when they talk about length and width here- [T] Yes? [T] Yes. [T] H times 50 or 50 times H is the same. Three times four and four times three is the same."
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] H times 50 or 50 times H is the same. Three times four and four times three is the same. [T] Yes, but- hey, four times three and three times four is the same as well, isn't it? [T] Well, there. [T] Laurie, try to keep working just a wee bit longer. [T] Have the last three minutes started yet? [T] Yes. [T] Look how fast the French books are appearing on the tables now. [T] Yes?"
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] How much is three times 40? [T] And how much is three times four? [T] Yes. So that one you can write down. [T] And what is, uh, the outcome of the whole equation? You know that you can just write this down here. [T] Three D plus 120. [T] This is how you use the table."
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Yes? Do you understand it? [T] Why don't you try that one again. [T] Uh, let's see which one. At 13 you will get a few more. Yes? You have to keep on making multiplication tables. [T] What is the matter? That you are kind of blushing? [T] Good morning, um..."
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Good morning, um... [T] A note? [T] Do you have it with you? [T] Where are you coming from? [T] Oh, okay. Um, you just have to drop it off at Mr. Fort. He eventually will remove that. [T] Where did the braids go? [T] Uh, huh. Were you still able to do anything for, uh, later on. Pythagoras. Test."
+      }
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2610.0,
+        "t_end": 2640.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, huh. Were you still able to do anything for, uh, later on. Pythagoras. Test. [T] Oh yeah? What should we bet for? [T] Oh, yes, we already agreed on that, yes. That is true. But please mention that at least three more times to me otherwise I will forget. Yes? [T] Um, let's have a look, who else is absent? [T] Uh, Laurie, who else is absent over there?"
+      }
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2640.0,
+        "t_end": 2670.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, Laurie, who else is absent over there? [T] Right, Loes. [T] Loes and Laura? Why? [T] Yes, but why? [T] Is you memory perhaps also like, uh... Really? Like what?"
+      }
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2670.0,
+        "t_end": 2700.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Keeping Everyone Together",
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Is you memory perhaps also like, uh... Really? Like what? [T] What is the date today, the 11th? [T] Well, good luck with uh, French! [T] Um... [T] The third period you have here, uh..."
+      }
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] See you soon!"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, five times H and do that four times. Four multiplied by five times H. [T] This is 25. You know that one. And this is five H. [T] And then you have these four pieces of five H. [T] Four times- yes. Yes?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Um, then we will draw it. At minus six, we had an outcome of minus six. That is over here. At one, we had an outcome of 15, that is over here. [T] At three we had an outcome of 21. And at eight we had an outcome of 36. Uh, that is over here somewhere. And I am not sure whether we have a nice ruler over here- [T] I don't think we do. So now I will draw a very straight line... Ah, not too bad. Um, you will do the same thing in order to get the second and third line."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] The X will be and over here, and the four over here. [T] Three times four is 12. Then you are done with this surface area over here. And three times the X equals that three X. [T] So the equations of A and C are exactly the same. [T] You get the picture? So earlier you calculated the surface area first, then you used the multiplication table. And finally you can see it at one glance. [T] But until you're there you'll utilize the multiplication table."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Uh, ladies! Do cut the French now. [T] Last three minutes. [T] Do you really think that you can learn something all of a sudden in the last five minutes? [T] Then you might as well do it in the last three minutes."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] I have five- I already have five tests from two B and five papers from two F here. Ah, Harley is sick again? [T] So, uh, you can't reserve, you just have to be here in time. [T] All right? Because in a minute I will be all filled up. Or, uh- at least, yeah."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] All right? Because in a minute I will be all filled up. Or, uh- at least, yeah. [T] Yes, very difficult. [T] I have a very special one for you, three times more difficult. [T] Uh, you may, yes, you just have to hurry- you just have to get here fast. [T] You just have to get here fast. Hey, I want you to finally start doing something now. [T] Yes. You are very busy. [T] Keep working. Hey, just get to work."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] Keep working. Hey, just get to work. [T] I think that, uh, 40 is five times eight or 45 is five times nine. [T] Oh, right. But it's fine- [T] Uh, it is fine that you do it the other way around. [T] And now you do-"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2700.0,
+        "t_end": 2730.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "[T] See you soon!"
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts_electra/M-NL3"
+}

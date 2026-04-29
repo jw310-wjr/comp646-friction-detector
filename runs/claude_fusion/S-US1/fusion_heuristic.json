@@ -1,0 +1,386 @@
+[
+  {
+    "t_start": 30.0,
+    "t_end": 60.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZd9x8VdfMXs7kb7pUr'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "friction": false,
+    "rationale": "The transcript shows a transitional classroom management moment (students leaving, possibly ill) followed by a routine page-direction instruction, not a pedagogical interaction where confusion and a high-pressure strategy are co-occurring.",
+    "alternative_strategy": "",
+    "t_start": 90.0,
+    "t_end": 120.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is giving navigational/organizational directions about physical materials rather than applying a high-pressure or low-quality instructional strategy, so this appears to be a routine transition moment rather than a pedagogical friction point.",
+    "alternative_strategy": "",
+    "t_start": 120.0,
+    "t_end": 150.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is using genuine inquiry-based pressing for reasoning ('What about the points?', 'There's no triangles where?'), which scaffolds student observation of high vs. low pressure centers—this reflects productive pedagogical questioning rather than confusion-inducing high-pressure strategy.",
+    "alternative_strategy": "N/A",
+    "t_start": 270.0,
+    "t_end": 300.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is using rapid-fire closed questions ('warm air has what kind of pressure?') without pausing to let students articulate reasoning, then abruptly pivots to a demonstration rather than pressing for deeper student thinking, indicating low-quality discourse despite a 'Pressing for Reasoning' signal.",
+    "alternative_strategy": "Before moving to the balloon demonstration, revoice the student's idea and press for reasoning: 'So you're saying warm air rises above cold air because of pressure differences — can you tell me in your own words *why* that pressure difference exists, and does anyone want to add to or challenge that?'",
+    "t_start": 360.0,
+    "t_end": 390.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is using a rapid call-and-response format with self-answered questions (answering for students before they can respond) while introducing abstract weather concepts with balloons, indicating low-quality instructional dialogue despite a potentially engaging demonstration.",
+    "alternative_strategy": "After holding up the red balloon, pause and ask a specific student: 'Can you tell me in your own words why we chose red for warm air — what does that connect to from what we learned about air pressure and temperature?' to press for conceptual reasoning rather than one-word fill-in answers.",
+    "t_start": 390.0,
+    "t_end": 420.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is announcing a high-stakes restriction (no notes or book) while referencing prior class underperformance, creating pressure without scaffolding or checking for current understanding, which aligns with the low dominant-quality signal and potential student confusion.",
+    "alternative_strategy": "Before removing the resource support, ask a brief cold-call check-for-understanding question such as 'Can someone walk me through what each part of a station model represents?' to surface gaps and give students a low-stakes retrieval opportunity before the pressure of working from memory.",
+    "t_start": 570.0,
+    "t_end": 600.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "This segment shows routine task transition and logistics management (distributing materials, setting up an assessment), not a high-pressure or low-quality instructional moment causing pedagogical friction.",
+    "alternative_strategy": "N/A",
+    "t_start": 660.0,
+    "t_end": 690.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The transcript shows the teacher providing procedural clarification and pacing guidance without evidence of student confusion or high-pressure strategy; the dominant talk move of pressing for reasoning is not strongly present here.",
+    "alternative_strategy": "",
+    "t_start": 900.0,
+    "t_end": 930.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is redirecting off-task behavior and following up on a missing assignment rather than deploying a high-pressure instructional strategy during a moment of student conceptual confusion.",
+    "alternative_strategy": "",
+    "t_start": 1140.0,
+    "t_end": 1170.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is in a direct instruction phase introducing weather symbols with low cognitive pressure, and while the dominant quality is unknown there are no clear confusion signals or high-pressure moves that would constitute genuine pedagogical friction.",
+    "alternative_strategy": "",
+    "t_start": 1260.0,
+    "t_end": 1290.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is pressing for reasoning while simultaneously answering her own question ('mostly clear or mostly?'), which reduces student cognitive engagement and may signal confusion about weather classification vocabulary.",
+    "alternative_strategy": "Pause after posing the question and invite a student to reason aloud: 'If clear means no clouds at all, what would YOU call a sky that has just a few clouds? Talk to your partner for 30 seconds and then share your thinking.'",
+    "t_start": 1470.0,
+    "t_end": 1500.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is using a gentle clarifying correction ('We didn't put humidity on there, did we?') that scaffolds student understanding without high pressure, and the talk moves indicate pressing for reasoning in a low-stakes way rather than a confusion-amplifying moment.",
+    "alternative_strategy": "",
+    "t_start": 1530.0,
+    "t_end": 1560.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is using structured recall prompts with scaffolded, low-pressure guidance that walks students through a station model step-by-step, and the talk moves (Pressing for Reasoning) appear supportive rather than coercive given the confirmatory pacing of the exchange.",
+    "alternative_strategy": "N/A",
+    "t_start": 1590.0,
+    "t_end": 1620.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is providing clear procedural guidance and checking for recall with low-stakes clarifying questions, which represents routine instructional scaffolding rather than high-pressure or low-quality strategy coinciding with student confusion.",
+    "alternative_strategy": "",
+    "t_start": 1620.0,
+    "t_end": 1650.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is providing a supportive scaffold (compass rose tip) after a student error on wind direction, which represents responsive low-stakes correction rather than high-pressure or low-quality instruction.",
+    "alternative_strategy": "N/A",
+    "t_start": 1650.0,
+    "t_end": 1680.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is directly correcting and narrowing the task by telling students what they do not need to worry about, rather than helping them reason through the wind direction content themselves, which coincides with student confusion and shuts down sense-making.",
+    "alternative_strategy": "Instead of stating 'you don't need to worry about east/northeast,' ask a guiding question such as 'Look at the compass rose on your map — which directions do you actually see labeled for these wind patterns? What do you notice?' to prompt students to extract the relevant information themselves.",
+    "t_start": 1680.0,
+    "t_end": 1710.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is correcting and redirecting students about map features (dot location, label placement) using short declarative statements with no probing questions, while simultaneously admitting confusion herself ('I'm looking in the wrong place anyways'), signaling low instructional quality during a moment of genuine student navigational confusion.",
+    "alternative_strategy": "Instead of simply stating 'New York is on here, it's just very hard to find,' the teacher could ask a guiding question such as 'What clues on the map—like the shape of the coastline or nearby state labels—might help us narrow down where to look for New York?' to press students to use map-reading strategies rather than relying on the teacher to locate the answer.",
+    "t_start": 1740.0,
+    "t_end": 1770.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher's language ('You're not stupid', implicit directive about task order, and social comparison to peers) combines mild reassurance with subtle pressure and conformity nudging rather than scaffolding the student's actual conceptual difficulty.",
+    "alternative_strategy": "Instead of redirecting to task sequence, ask a guiding question tied to the geography confusion: 'What clues on the map could help you figure out where an island city might be located?' to build spatial reasoning skills.",
+    "t_start": 1770.0,
+    "t_end": 1800.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is giving procedural directions about handwriting and using a plastic map, which is low-stakes organizational guidance rather than a high-pressure instructional moment coinciding with conceptual student confusion.",
+    "alternative_strategy": "",
+    "t_start": 1800.0,
+    "t_end": 1830.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is directing students with procedural corrections ('just write it down,' 'make it clear') rather than pressing for conceptual understanding, coinciding with low dominant quality and a context where students appear uncertain about how to represent information spatially.",
+    "alternative_strategy": "Instead of telling students what to do, ask a guiding question such as 'What would help someone reading your map know exactly what NY stands for—what choices do you have for making that label stand out?'",
+    "t_start": 1860.0,
+    "t_end": 1890.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is giving clear procedural/clarification instructions about how to label a map legibly, and there is no confusion signal from vision nor evidence of high-pressure or low-quality strategy—just organizational guidance.",
+    "alternative_strategy": "",
+    "t_start": 1890.0,
+    "t_end": 1920.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is making informal, low-stakes observations about student progress and a practical handwriting issue, with no evidence of high-pressure strategy or student confusion driving a pedagogical concern.",
+    "alternative_strategy": "",
+    "t_start": 1920.0,
+    "t_end": 1950.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The transcript shows the teacher offering informal encouragement and a quick factual correction about Kansas City, Missouri with no evidence of high-pressure strategy or student confusion signal beyond a minor mapping detail.",
+    "alternative_strategy": "N/A",
+    "t_start": 1950.0,
+    "t_end": 1980.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "This excerpt captures a non-instructional administrative/health conversation about a student needing medicine, not a pedagogical interaction involving content or reasoning.",
+    "alternative_strategy": "N/A",
+    "t_start": 2010.0,
+    "t_end": 2040.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher's question 'Were you listening when I gave directions?' is a high-pressure, potentially shaming response to a student who appears confused about the task involving humidity, creating pedagogical friction by prioritizing compliance over understanding.",
+    "alternative_strategy": "Instead of implying the student was inattentive, the teacher could revoice and re-clarify by saying 'Let me explain the humidity part again for everyone — on your plastic map, find the region we discussed and mark the humidity levels we talked about. Does that help you get started?'",
+    "t_start": 2070.0,
+    "t_end": 2100.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher opens with a mild rebuke ('You weren't listening?') and then answers her own questions rather than scaffolding the student's retrieval, combining social pressure with teacher-tell instead of supporting the confused student's thinking.",
+    "alternative_strategy": "Instead of supplying the answer ('Humidity is not on your station model at all'), pause and ask a guiding question tied to a concrete artifact: 'Can you look at your station model diagram right now and tell me which variables you do see listed on it?' — this redirects the student to a visible reference, keeps them cognitively active, and avoids the pressure of the rhetorical 'You weren't listening?' framing.",
+    "t_start": 2100.0,
+    "t_end": 2130.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher appears to be providing clarifying, supportive guidance to a specific student (Stuart) about reading weather data symbols, and the talk moves suggest pressing for reasoning rather than high-pressure tactics, indicating productive scaffolding rather than problematic friction.",
+    "alternative_strategy": "",
+    "t_start": 2220.0,
+    "t_end": 2250.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is using scaffolded questioning to guide the student toward correcting their weather symbol, pressing for reasoning in a low-pressure, step-by-step way that supports understanding rather than creating unproductive confusion.",
+    "alternative_strategy": "N/A",
+    "t_start": 2250.0,
+    "t_end": 2280.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The transcript shows the teacher validating student responses with affirmations and then redirecting with a content question, which is low-pressure scaffolding rather than high-pressure or low-quality instruction, and the confusion signal is absent due to transcript-only mode rather than confirmed student confusion.",
+    "alternative_strategy": "",
+    "t_start": 2280.0,
+    "t_end": 2310.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher uses social pressure and mild sarcasm ('You sigh like you're in pain, Todd') rather than instructional support during a moment when the student appears disengaged or struggling, representing low-quality talk that prioritizes compliance over learning.",
+    "alternative_strategy": "Instead of 'Come on, you're not gonna make me stand here the whole time, are you?', the teacher could use a guiding question tied to the content: 'Todd, can you tell me what you think is happening to the weather pattern in this region? Start with what you see on the map right in front of you.'",
+    "t_start": 2340.0,
+    "t_end": 2370.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is doing most of the cognitive work by answering her own questions and directing students to place diagram elements without eliciting student reasoning, while the low instructional quality signal and 'Pressing for Reasoning' talk move suggest students are not being meaningfully engaged in constructing understanding of variable direction vs. variable speed.",
+    "alternative_strategy": "Pause and ask a guiding question that hands the reasoning back to students: 'Before I tell you where to put the line, can someone explain to me WHY a variable direction means we can't draw a single arrow into the circle?' — then wait for student responses before confirming or correcting.",
+    "t_start": 2370.0,
+    "t_end": 2400.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is using scaffolded questioning and explicit guidance to help students make a decision about rounding or choosing benchmark values, which represents a supportive instructional move rather than high-pressure or low-quality strategy, even amid apparent student uncertainty.",
+    "alternative_strategy": "N/A",
+    "t_start": 2430.0,
+    "t_end": 2460.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is using procedural management and time-check talk rather than applying high-pressure or low-quality pedagogical strategies during a moment of student confusion; the interaction is routine task monitoring.",
+    "alternative_strategy": "",
+    "t_start": 2490.0,
+    "t_end": 2520.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is pressing for reasoning by guiding students to interpret a data representation ('if only a quarter of it is dark, what is it mostly of?'), which is a productive scaffolding move rather than a high-pressure or low-quality strategy.",
+    "alternative_strategy": "",
+    "t_start": 2520.0,
+    "t_end": 2550.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "This segment shows routine classroom management talk about pencil sharpeners and an off-topic reference to an art activity, with no evidence of student confusion or high-pressure instructional strategy coinciding with a learning struggle.",
+    "alternative_strategy": "",
+    "t_start": 2550.0,
+    "t_end": 2580.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The transcript reflects a brief off-topic or social clarification exchange rather than a pedagogical moment involving student confusion about academic content.",
+    "alternative_strategy": "N/A",
+    "t_start": 2610.0,
+    "t_end": 2640.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is providing direct procedural correction about map symbol placement, which is appropriately targeted feedback for a skill-based mapping task rather than a high-pressure or pedagogically problematic moment.",
+    "alternative_strategy": "N/A",
+    "t_start": 2640.0,
+    "t_end": 2670.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The brief transcript 'They were? Ooh.' suggests the teacher is expressing genuine surprise or interest in a student response, which reads as an affirming acknowledgment rather than a high-pressure or low-quality instructional moment, even though the dominant strategy quality is labeled unknown.",
+    "alternative_strategy": "N/A",
+    "t_start": 2670.0,
+    "t_end": 2700.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The transcript reflects informal conversational digression about post-9/11 travel rather than a high-pressure or low-quality instructional moment causing student confusion; students appear engaged in map work independently.",
+    "alternative_strategy": "",
+    "t_start": 2700.0,
+    "t_end": 2730.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is pressing Wes to recall a previous answer rather than rebuilding understanding, which creates retrieval pressure without scaffolding comprehension of 'variable direction' — a low-quality move coinciding with likely student confusion.",
+    "alternative_strategy": "Instead of asking Wes to recall what was said, revoice the concept collaboratively: 'Let's think about this together — if wind direction keeps changing, what does that tell us about how we should show it on the diagram? What would make sense to you?'",
+    "t_start": 2730.0,
+    "t_end": 2760.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is issuing rapid corrective directives ('No. Uh-uh. No.') without explaining the underlying conceptual distinction between coloring a station model versus shading a region, while the low-quality dominant talk signal and confusion indicators suggest students are not building understanding.",
+    "alternative_strategy": "Instead of repeating 'No,' pause and ask a guiding question such as 'What do you think the difference is between coloring in a single station symbol and shading an entire region on your map?' to prompt the student to articulate the distinction themselves before the teacher clarifies.",
+    "t_start": 2760.0,
+    "t_end": 2790.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is providing direct locational guidance on a map task with no evidence of high-pressure strategy or student confusion signal beyond a simple clarification question about geography.",
+    "alternative_strategy": "",
+    "t_start": 2790.0,
+    "t_end": 2820.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher deflects the student's question ('Why are you asking me?') and then provides the answer directly rather than scaffolding the student's geographic reasoning, which combines dismissive pressure with low-quality instructional support during a moment of genuine student confusion.",
+    "alternative_strategy": "Instead of telling the student where Cape Hatteras must be, ask a guiding question that activates geographic reasoning: 'What do you know about what a lighthouse is for and where they're typically built—can that clue help you figure out if it would be in a cove or on an open coastline?'",
+    "t_start": 2850.0,
+    "t_end": 2880.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher's comment about needing an American geography class reads as an informal, low-stakes aside or joke rather than a high-pressure instructional moment, and there is no clear evidence of student confusion or a demanding strategy in play.",
+    "alternative_strategy": "",
+    "t_start": 2970.0,
+    "t_end": 3000.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is pressing for reasoning but appears to be answering her own questions in rapid succession without allowing student wait time, which can create confusion and reduce genuine student sense-making.",
+    "alternative_strategy": "Pause after 'What front?' and use a think-pair-share prompt: 'Turn to a partner and use your map to point to where you think the front is located relative to the high-humidity area, then share your reasoning.'",
+    "t_start": 3090.0,
+    "t_end": 3120.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is using compliance-focused, high-pressure language ('crackdown situation', 'Work. Work.') rather than engaging students with content support, which is a low-quality instructional strategy that may increase student anxiety without addressing learning needs.",
+    "alternative_strategy": "Instead of issuing repeated directives, pause and ask a specific guiding question tied to the current task, such as 'What part of the problem are you working on right now—can you tell me where you're stuck?' to redirect attention productively and surface any genuine confusion.",
+    "t_start": 3270.0,
+    "t_end": 3300.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is using a high-pressure, directive approach around accountability and consequences (threatening no replacement materials) precisely at a moment of transition chaos triggered by a lunch bell, which creates anxiety rather than supporting understanding.",
+    "alternative_strategy": "Instead of issuing a consequence threat, pause and give a clear, calm procedural prompt: 'Before you leave, hold up your map so I can see you have it — if you don't have it, come see me now and we'll sort it out together.'",
+    "t_start": 3300.0,
+    "t_end": 3330.0,
+    "n_frames_sent": 3
+  }
+]

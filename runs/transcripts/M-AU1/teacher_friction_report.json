@@ -1,0 +1,1977 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math AU 1 transcript.txt",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'm wired."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'm wired. [T] It's running. [T] I'll make it a bit warmer."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'll make it a bit warmer. [T] Well not really, but if you really have to I suppose. Okay. [T] Oh, you won't need it today."
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Are you going to be sitting down? [T] Oh, then you've got to go outside then. [T] There'll be some books out there."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] There'll be some books out there. [T] Oh. They- they can't come in now. They're not supposed to be coming in here. [T] 'Cause we're doing this filming. [T] No. It doesn't anymore. But um- They'll have to-"
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Well they can sit outside there, I suppose. You'll need to just sit over there. [T] People can you start by taking out this... sheet that we were looking at the other day."
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] People can you start by taking out this... sheet that we were looking at the other day. [T] We're going to be looking at something a bit similar, uh, today. Just have a look at the... bit down here for a moment where it says \"present your findings\"."
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] We're going to be looking at something a bit similar, uh, today. Just have a look at the... bit down here for a moment where it says \"present your findings\". [T] I did print out a few of the things that you've been doing on the computer that's sitting over there. [T] There's a few, uh, snow men or snow people. There's a \"Herb\" the circle. There's a smiley face that's reflected. [T] And there's two or three of the things that you've been doing with the star in the circle. And it actually doesn't print out in a way that you can read it from very far away."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And there's two or three of the things that you've been doing with the star in the circle. And it actually doesn't print out in a way that you can read it from very far away. [T] It's all right to look at in front of you. Uh, and it doesn't print out in color either. [T] But, this one has- firstly, the diagram. Up here it has the measurements of the angles plus the formula. [T] And that person and also the one next to it has written some sort of a conclusion which is what is being talked about here. That's one of them."
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And that person and also the one next to it has written some sort of a conclusion which is what is being talked about here. That's one of them. [T] Now this actually is quite easy to read, but it doesn't project all that well. So let me read it for you. \"The sum of the angles don't change when you move the points around the circle. [T] When you change the radius of the circle, the size of the circle changes and moves in and out. [T] No matter what the size of the angles are, if you have a five pointed star inscribed in a circle it will be 180 degrees.\""
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No matter what the size of the angles are, if you have a five pointed star inscribed in a circle it will be 180 degrees.\" [T] So there's actually a few things mentioned in there. There's the fact that it's 180 degrees. [T] There's the fact that it doesn't change if you move the points around the circle. There's the fact that it doesn't change if you change the radius of the circle. [T] So this person has put in a conclusion, uh, to do with several of the things that were mentioned on there. [T] Quite a lot of you haven't yet got to that stage of writing all of those things onto your page."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Quite a lot of you haven't yet got to that stage of writing all of those things onto your page. [T] What I want to do now is, if you can pass these back..."
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] What I want to do now is, if you can pass these back... [T] Spares? [T] Firstly, everyone just individually read through the page please."
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Firstly, everyone just individually read through the page please."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Firstly, everyone just individually read through the page please. [T] Okay, that's enough for just a quick read through. [T] Now I'd like you together with the person next to you to read through it and have a look at any words in there that you think we might need to know the meaning of."
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Now I'd like you together with the person next to you to read through it and have a look at any words in there that you think we might need to know the meaning of. [T] Just underline them with a pencil or something like that. They could be words that you're not sure of the meaning of. [T] Uh, or they could be words that maybe you do know, but you think that's a pretty important word for us to do. Just do this with a brief discussion with the person next to you please."
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh, or they could be words that maybe you do know, but you think that's a pretty important word for us to do. Just do this with a brief discussion with the person next to you please."
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh, or they could be words that maybe you do know, but you think that's a pretty important word for us to do. Just do this with a brief discussion with the person next to you please. [T] Oh, well, we'll cover that later, but what it would mean would be that if these rays instead of going in that direction if they went in the opposite direction. [T] Okay. People have found a few words. They seem to be the same words. Can someone give me a word or two that you need?"
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. People have found a few words. They seem to be the same words. Can someone give me a word or two that you need? [T] Okay, convex. Um, where is that? Okay, it's in several places, but there's- there's one of them. [T] And there's another one. So there's convex. It certainly must be important since it occurs more than once. [T] Okay, we've got quadrilateral."
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Polygon. The actual heading says Polygon, doesn't it? So if, uh, you certainly need to look in the heading. Some others, words or- phrases? [T] Okay. Who, who had exterior angle, uh, picked out as something that they need to know about? Okay. So exterior angle, polygon, convex, quadrilateral. [T] They were the main ones I saw when I looked around. Were there any others? [T] Rays. Okay. It says construct rays. So that's something that we need to know about as well."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Rays. Okay. It says construct rays. So that's something that we need to know about as well. [T] Let's have a look at these words. Polygon. Can anyone help us with what a polygon might be? [T] Five-sided shape. Who agrees with the five-sided shape? Hmm, not a lot. [T] Any two-D shape. Okay. So... would that be a polygon?"
+      }
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Any two-D shape. Okay. So... would that be a polygon? [T] Mm, oh, that's enclosed. [T] Many-sided shape [T] Oh, straight. Okay. That's getting a bit closer, to it. So... a shape that has a number of straight sides. How many sides has that got?"
+      }
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 660.0,
+        "t_end": 690.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Oh, straight. Okay. That's getting a bit closer, to it. So... a shape that has a number of straight sides. How many sides has that got? [T] Six. What's it called if it has six straight sides? Hexagon. The diagram up there has in the middle of it what sort of shape? Pentagon, because it has five sides. [T] If it- Polygon is just a name for any number of sides. Now exterior angles. There is something that tells you what an exterior angle is."
+      }
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 690.0,
+        "t_end": 720.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If it- Polygon is just a name for any number of sides. Now exterior angles. There is something that tells you what an exterior angle is. [T] Who has found the spot that actually tells you on the page what an exterior angle is? Peter. [T] Okay. Exterior angles lie outside the polygon. It says that in the second sentence underneath the heading. What does the first sentence underneath the heading say? [T] Right. It's formed when one of the sides is extended. So, suppose I took that side... what choice have I got about extending it? Emma."
+      }
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 720.0,
+        "t_end": 750.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Right. It's formed when one of the sides is extended. So, suppose I took that side... what choice have I got about extending it? Emma. [T] Okay. You can go in two directions. But suppose we choose to go down. Then... I've turned it into a ray now, haven't I? [T] Because it goes on in one direction. The exterior angle is the bit that's formed in there. And it does lie outside the original polygon, does it? [T] Yes, it certainly does. How many of those could you get from this hexagon?"
+      }
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 750.0,
+        "t_end": 780.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes, it certainly does. How many of those could you get from this hexagon? [T] You can get six of them because there are six sides to extend. And you can see from the diagram that you've got on your page that they've all been extended in the same direction. [T] Someone asked about... this note down here. \"This construction creates only one set of exterior angles."
+      }
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 780.0,
+        "t_end": 810.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Someone asked about... this note down here. \"This construction creates only one set of exterior angles. [T] Another set could be constructed if you went the opposite direction with your rays.\" [T] So I could have gone... all of them around in that direction. But we just choose one direction. Okay, we'll be moving across to the computer soon. [T] And you'll be doing that construction. It gives you some fairly specific things to do first. Just think about how this is going to be constructed and read what it says there."
+      }
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 810.0,
+        "t_end": 840.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And you'll be doing that construction. It gives you some fairly specific things to do first. Just think about how this is going to be constructed and read what it says there. [T] How do you actually construct that diagram? [T] Okay. First thing is, you need to go to the segment tool bar and change it to a ray because you want to draw rays rather than segments. And then?"
+      }
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 840.0,
+        "t_end": 870.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Just listen carefully to what he said there. You create one ray... Let me get rid of this and start again... [T] It'll look like that, won't it? Okay. Now the next thing he said was you go somewhere along that ray and do another one. Now think carefully about that."
+      }
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 870.0,
+        "t_end": 900.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] It'll look like that, won't it? Okay. Now the next thing he said was you go somewhere along that ray and do another one. Now think carefully about that. [T] Right. You actually start at this point that's already there. You don't pick a point somewhere else. [T] Start at that point to make sure that the new one you draw is joined on to the old one rather than separate. [T] So, you actually start with that one. When you read through this you'll see that it does all of that. Now what haven't we explained yet?"
+      }
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 900.0,
+        "t_end": 930.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning"
+        ],
+        "transcript_excerpt": "[T] Convex. Anyone know what convex is? Anyone know- there's a word that's the opposite of convex. [T] Curved. Yes. Curved which way? That's the key thing."
+      }
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 930.0,
+        "t_end": 960.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yeah, curved inside. The- the other word that means the opposite of that also starts with that. [T] Concave. Yeah. Now convex polygon is the sort we just drew. But for example, a concave polygon... looks like that. [T] And the easy way to remember it is, is that part of it is caved in. Okay? It's pointing inwards. Convex polygon, everything is point outwards."
+      }
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And the easy way to remember it is, is that part of it is caved in. Okay? It's pointing inwards. Convex polygon, everything is point outwards. [T] So you have to make sure that your polygons stay like that. The investigation is to find out something about these... exterior angles. [T] And you're starting off with five of them. In the space up here just write down what you think might be something, a fact, that you might discover about those angles."
+      }
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And you're starting off with five of them. In the space up here just write down what you think might be something, a fact, that you might discover about those angles."
+      }
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And you're starting off with five of them. In the space up here just write down what you think might be something, a fact, that you might discover about those angles. [T] There are some sentences starting, \"I think that all of the exterior angles will\". Some people are getting a bit more specific than that."
+      }
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1050.0,
+        "t_end": 1080.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] There are some sentences starting, \"I think that all of the exterior angles will\". Some people are getting a bit more specific than that. [T] Ah, some people are saying \"they may\". Hedging their bets a little bit. [T] Take a guess anyway, because it doesn't matter if you're wrong. But it will be interesting to test and see if you're correct."
+      }
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1080.0,
+        "t_end": 1110.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Take a guess anyway, because it doesn't matter if you're wrong. But it will be interesting to test and see if you're correct. [T] Okay, there's a few different ideas written down there."
+      }
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, there's a few different ideas written down there. [T] And we'll actually have a look at everyone's later on, but for the moment it's just you thinking about your own one and seeing whether it proves to be correct or not. [T] What's that sort of thing called that you've just written down? [T] Okay, it's another word beginning with those things. Okay, so we have a conjecture, but we haven't really got the evidence yet. [T] So now we're going to have a look for some evidence. Okay. Oh, make sure your name is written on the page. [T] I see most people have already. Just in case it goes astray. Now you'll be working at the computers in groups of two or maybe three."
+      }
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1140.0,
+        "t_end": 1170.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I see most people have already. Just in case it goes astray. Now you'll be working at the computers in groups of two or maybe three. [T] Um, the computer that wasn't working yesterday has decided it's much happier about working today, so they all are working. Uh, so if you'd like to... do that."
+      }
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1170.0,
+        "t_end": 1200.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Um, the computer that wasn't working yesterday has decided it's much happier about working today, so they all are working. Uh, so if you'd like to... do that."
+      }
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      }
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1230.0,
+        "t_end": 1260.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Notice I've fixed up- [T] Very well. That's great. [T] Well, there's a pentagon already. [T] How come they do what? [T] Oh. Yeah. Yeah. Now be careful with what I was saying before. Rather than using that point, you need to use the one that's already on there."
+      }
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1260.0,
+        "t_end": 1290.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Oh. Yeah. Yeah. Now be careful with what I was saying before. Rather than using that point, you need to use the one that's already on there. [T] So how do we get rid of that one? Is there a way to undo that thing? Yeah okay. You can move... move that along a little bit and then go back to um... go back to that. [T] And then start from that one, when you do your next one. [T] Yeah, that's good. You can make it a bit bigger, but, uh, it should click on to that last."
+      }
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yeah, that's good. You can make it a bit bigger, but, uh, it should click on to that last. [T] Just make sure- just make sure they join. Get rid of that one. [T] Use the pointer tool, just to make sure that it's all joined together. Move them around a bit, and make sure they stay. No that's not joined on."
+      }
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yep. [T] Okay, if you go down to there. Just move the pointer down. It should join up. (inaudible) [T] Oh, no, you don't want this to join up to that one yet, do you? No. That's true. You know what you're doing here. I don't. That's fine, actually."
+      }
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1350.0,
+        "t_end": 1380.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Oh, no, you don't want this to join up to that one yet, do you? No. That's true. You know what you're doing here. I don't. That's fine, actually. [T] See, what's happened here is you didn't... start the next one there, okay. [T] And then that- that makes sure they're joined up, if you do that rather than having separate ones."
+      }
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1380.0,
+        "t_end": 1410.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And then that- that makes sure they're joined up, if you do that rather than having separate ones. [T] Can I just test this one for you? [T] Let's make sure they're all joined on. Let's see, that's really not quite joined on. You've got too many points there. [T] What you need to do with your- with the second one is actually start with the point that's already on it."
+      }
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1410.0,
+        "t_end": 1440.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, and then your- your next one starts with the point that's already on it. You can also move it around, so it looks a bit bigger, like so. [T] Okay that's fixed that. Then start with that point. Then- then they're all joined nicely."
+      }
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1440.0,
+        "t_end": 1470.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay let's just check they're all nicely joined. Seems to be quite nicely joined. Okay, now, see what it says there... you've done that, you've done that. [T] On the rays outside of the pentagon construct points so we need to construct some points outside... we need those. So we can talk about the angles."
+      }
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1470.0,
+        "t_end": 1500.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] On the rays outside of the pentagon construct points so we need to construct some points outside... we need those. So we can talk about the angles. [T] All right now to measure the angles, you would go... that- that- that. Now that's one of the exterior angles, isn't it? So now we... can measure the angle. [T] Okay, now do the same for that one."
+      }
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1500.0,
+        "t_end": 1530.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Something tells me its going in the wrong direction. See all these are going around that way. [T] And that one's going off in that direction. Can we just (inaudible) suppose we draw it over...like so. [T] See how now they're all going around in the same direction. Like the diagram?"
+      }
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1530.0,
+        "t_end": 1560.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] See how now they're all going around in the same direction. Like the diagram? [T] That's a good one. [T] How are we going with ours? Yeah that's looking... looking good so far."
+      }
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1560.0,
+        "t_end": 1590.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] How are we going with ours? Yeah that's looking... looking good so far. [T] Hang on. What are we doing here- oh. What you've got to do- can I just use this- cancel that. [T] You've actually got to select these things before you put them in the formula. So you do that. Then you go \"Calculate\". [T] And then you can- then you can have that angle plus that angle plus..."
+      }
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1590.0,
+        "t_end": 1620.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And then you can- then you can have that angle plus that angle plus... [T] No. That's what it says in step three. On the rays outside of the pentagon construct points. So you've just got to select the point tool and click somewhere out there."
+      }
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1620.0,
+        "t_end": 1650.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Otherwise you can't- You might need the point tool... That's good. And then just make sure it joins up. Yes. That's good."
+      }
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1650.0,
+        "t_end": 1680.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Otherwise you can't- You might need the point tool... That's good. And then just make sure it joins up. Yes. That's good. [T] It doesn't matter if they're not labeled really exactly the same way. Just as long as they've got labels. Okay. [T] I think you might need the select tool."
+      }
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1680.0,
+        "t_end": 1710.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I think you might need the select tool. [T] Well, no, 'cause it's all about the exterior angles, isn't it? So we don't really want to know about the interior ones. Now do you remember how to measure the angle? [T] That should be o-. That should be okay."
+      }
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That should be o-. That should be okay. [T] Remember... click somewhere to get rid of the other selection and then go that, that, that... Do you remember how to measure the angles? [T] Good. [T] After you've got something good like a, uh, a diagram with a pentagon and- and maybe a formula even, you might probably save that. Just... it's a good idea to save things."
+      }
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1740.0,
+        "t_end": 1770.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] After you've got something good like a, uh, a diagram with a pentagon and- and maybe a formula even, you might probably save that. Just... it's a good idea to save things. [T] Call it 'Exterior Angle Pentagon'. So then if you do some other exterior angles, you can give it similar names. [T] Okay. So did they change? [T] Okay. What about if you make it concave?"
+      }
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1770.0,
+        "t_end": 1800.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. What about if you make it concave? [T] Yeah. Once it's concave it doesn't stay- yep. [T] Point two? [T] Hmm, let's just- show all the labels. A B C D E, A B C You've got angle D H D which is yeah 'cause you've actually measured angle D H E, which is that angle over there."
+      }
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1800.0,
+        "t_end": 1830.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Hmm, let's just- show all the labels. A B C D E, A B C You've got angle D H D which is yeah 'cause you've actually measured angle D H E, which is that angle over there. [T] You've got to go like that. You can easily check up by the vertices 'cause you should have angles A B C D E look in the middle. A B C H. So that one there needs to be changed."
+      }
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1830.0,
+        "t_end": 1860.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] You've got to go like that. You can easily check up by the vertices 'cause you should have angles A B C D E look in the middle. A B C H. So that one there needs to be changed. [T] But it'll mean you have to change your formula as well. [T] Okay you think- Yeah, you've got to go back one stage... because you have to select the measurements you want for your formula before you do it."
+      }
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1860.0,
+        "t_end": 1890.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay you think- Yeah, you've got to go back one stage... because you have to select the measurements you want for your formula before you do it. [T] Now when you go to calculate you can say... [T] That angle plus the second one plus and so on."
+      }
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1890.0,
+        "t_end": 1920.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yes. Excellent idea. [T] No, you've got room in the corner there to write it. Do you remember how to do that? [T] I think you have to select the little- the little hand. And then do what you just did. [T] Yeah. Now you can write."
+      }
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1920.0,
+        "t_end": 1950.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yeah. Now you can write. [T] Now. Let me see... You should have in the outbox (inaudible) and look in the middle (inaudible) You've got one with Jack."
+      }
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1950.0,
+        "t_end": 1980.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Now. Let me see... You should have in the outbox (inaudible) and look in the middle (inaudible) You've got one with Jack. [T] Yeah. You- yeah. So... yeah you want that one, which means you're going to have to change the formula as well. [T] Oh, triangles, too. [T] Have you saved what you've been doing? That's good."
+      }
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 1980.0,
+        "t_end": 2010.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] People, can you just turn around and face me for a moment please. Uh, you- most people are getting to have the formula. And in most cases you're finding a reasonable looking result. [T] If you get something that looks a bit strange it could well be that you haven't measured exactly the right angles, and I'll help you check that. [T] Once you've got a conclusion from your formula, then you can write about it somewhere on that, um, sheet. [T] If you haven't got up to finding out how to do a text box yet, just ask me. Uh, and I'll show you how to do that. Okay?"
+      }
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If you haven't got up to finding out how to do a text box yet, just ask me. Uh, and I'll show you how to do that. Okay? [T] Well, which polygons have you tried so far? [T] You've only tried a pentagon. [T] Okay. So... if it said what is the sum- the measure is just the size, really. Which is what you found. So it's just the sum of the angles, really."
+      }
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. So... if it said what is the sum- the measure is just the size, really. Which is what you found. So it's just the sum of the angles, really. [T] Exterior angles. Now for the pentagon it turned out to be 360 degrees. [T] Now they're asking you- assuming you've also done triangles, quadrilaterals, hexagons and so on. Now what's your conclusion? [T] Does the total go up perhaps as you add to the number of sides, or what happens? That's, that's what it's asking you to, to write down about. Um, what did you do there?"
+      }
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Does the total go up perhaps as you add to the number of sides, or what happens? That's, that's what it's asking you to, to write down about. Um, what did you do there? [T] Well can you do it again? [T] Ah. [T] The top of it is slightly off the screen because you haven't got your, um, your thing- [T] It should, it should work if you drag the edge of it. [T] And that should just make it nicely fill up the screen if you could click on that. Okay. Now you going to write something about it then?"
+      }
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2100.0,
+        "t_end": 2130.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And that should just make it nicely fill up the screen if you could click on that. Okay. Now you going to write something about it then? [T] Do you know how to do that? [T] Uh, yes, I think so. Now, your conclusion says when you move the parts of the pentagon, the sum of the angles does not change."
+      }
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh, yes, I think so. Now, your conclusion says when you move the parts of the pentagon, the sum of the angles does not change. [T] Okay so exterior angles would be a good thing to add in there. And one other, one other fairly important fact that you could mention... but just think about it. [T] Yeah. [T] Okay but just think about when you say it does not change, what doesn't it change from?"
+      }
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2160.0,
+        "t_end": 2190.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay but just think about when you say it does not change, what doesn't it change from? [T] Text box. Use this little thing. And you just drag it where you want the box. And then you get a usual sort of insertion point you can start typing."
+      }
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2190.0,
+        "t_end": 2220.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Text box. Use this little thing. And you just drag it where you want the box. And then you get a usual sort of insertion point you can start typing. [T] Now... If you look at that angle there. Is that angle I B C? Is that what it says?"
+      }
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Now if we trace angle I B C, it goes from there to there, to there. Now, is that one of the exterior angles of the polygon? In fact what would you really call it? [T] Interior angle. Are all the other ones the same? [T] Yeah so-"
+      }
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yeah so- [T] Will we get the computer to do that for us? You need to do a little- can I just do this? [T] Before you do that, you just need to select the angles that you want. Or any other measurements for that matter. [T] Then go calculator. Now what it allows you to do is, you say that angle plus that angle plus. It will actually build it up for you like so."
+      }
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2280.0,
+        "t_end": 2310.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Then go calculator. Now what it allows you to do is, you say that angle plus that angle plus. It will actually build it up for you like so."
+      }
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2310.0,
+        "t_end": 2340.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Um, mm. Good question. Let me try. I'm not sure if you can do it easily. Something there. Maybe that looks like a degree sign."
+      }
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Um, mm. Good question. Let me try. I'm not sure if you can do it easily. Something there. Maybe that looks like a degree sign. [T] (inaudible) [T] Yeah. That's, that's what they're asking about down here where they talk about some of the measurements in these polygons. They're talking about ones- [T] Because if you have more sides you might get a higher total might- might'n you? So..."
+      }
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2370.0,
+        "t_end": 2400.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] What's- hang on I'm trying to read that. [T] When you move parts of the pentagon angles change in degrees, but this does not affect the sum. [T] Yes the sum of the exterior angles are the same for any convex polygon which is 360 degrees."
+      }
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2400.0,
+        "t_end": 2430.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yeah, I'd sort of maybe suggest that you put the bit about the 360 degrees first. And then say, and discuss the change if you change the uh polygon. [T] But yeah, it's good. [T] Yes. I don't think we really have time to do much of that today, but save this one before you go any further. [T] Uh, that's probably about all we're going to have time for."
+      }
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2430.0,
+        "t_end": 2460.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] People, I think we're going to have to finish off for now. So, if you haven't already saved, you need to save it at this stage. [T] If you've saved it before then, re-save it just to get the most up-to-date thing. We'll come back to that later. [T] Can you save and close off, log out. And if you go back to your seats in the middle of the room please. [T] When you're choosing a name for it, try and choose a name that actually means something."
+      }
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2460.0,
+        "t_end": 2490.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] When you're choosing a name for it, try and choose a name that actually means something. [T] Yeah. The reason probably is- These one's- these one's are rounded off slightly."
+      }
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2490.0,
+        "t_end": 2520.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yeah. The reason probably is- These one's- these one's are rounded off slightly. [T] Now the computer probably knows that that's really ninety point two and that's really seventy-three point one. [T] So it's- it hasn't displayed the decimals, but it's sort of got it in it's memory and it's included that in the total as well."
+      }
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So it's- it hasn't displayed the decimals, but it's sort of got it in it's memory and it's included that in the total as well. [T] Pack up? Yes you can pack up. [T] People, just before you go, we got about as far as I thought we would in that amount of time. And obviously that's only about half way through the thing. [T] But just before you go, who found that their conjecture or prediction was confirmed by what they did?"
+      }
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2550.0,
+        "t_end": 2580.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] But just before you go, who found that their conjecture or prediction was confirmed by what they did? [T] Now not everyone had a prediction that the total was going to be 360. Some predicted 180. [T] A few people had quite different predictions such that all the angles will be less than 90 degrees. [T] Um, which is another one, others might not have thought of that one but you could test that conjecture as well. [T] Okay, we'll be continuing on with this at a later stage."
+      }
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "mean_confusion": 0.0,
+      "strategy": {
+        "t_start": 2580.0,
+        "t_end": 2610.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, we'll be continuing on with this at a later stage."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'm wired."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] I'm wired. [T] It's running. [T] I'll make it a bit warmer."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] No matter what the size of the angles are, if you have a five pointed star inscribed in a circle it will be 180 degrees.\" [T] So there's actually a few things mentioned in there. There's the fact that it's 180 degrees. [T] There's the fact that it doesn't change if you move the points around the circle. There's the fact that it doesn't change if you change the radius of the circle. [T] So this person has put in a conclusion, uh, to do with several of the things that were mentioned on there. [T] Quite a lot of you haven't yet got to that stage of writing all of those things onto your page."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 630.0,
+        "t_end": 660.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Any two-D shape. Okay. So... would that be a polygon? [T] Mm, oh, that's enclosed. [T] Many-sided shape [T] Oh, straight. Okay. That's getting a bit closer, to it. So... a shape that has a number of straight sides. How many sides has that got?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 960.0,
+        "t_end": 990.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And the easy way to remember it is, is that part of it is caved in. Okay? It's pointing inwards. Convex polygon, everything is point outwards. [T] So you have to make sure that your polygons stay like that. The investigation is to find out something about these... exterior angles. [T] And you're starting off with five of them. In the space up here just write down what you think might be something, a fact, that you might discover about those angles."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 990.0,
+        "t_end": 1020.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And you're starting off with five of them. In the space up here just write down what you think might be something, a fact, that you might discover about those angles."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1020.0,
+        "t_end": 1050.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Other"
+        ],
+        "transcript_excerpt": "[T] And you're starting off with five of them. In the space up here just write down what you think might be something, a fact, that you might discover about those angles. [T] There are some sentences starting, \"I think that all of the exterior angles will\". Some people are getting a bit more specific than that."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1110.0,
+        "t_end": 1140.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay, there's a few different ideas written down there. [T] And we'll actually have a look at everyone's later on, but for the moment it's just you thinking about your own one and seeing whether it proves to be correct or not. [T] What's that sort of thing called that you've just written down? [T] Okay, it's another word beginning with those things. Okay, so we have a conjecture, but we haven't really got the evidence yet. [T] So now we're going to have a look for some evidence. Okay. Oh, make sure your name is written on the page. [T] I see most people have already. Just in case it goes astray. Now you'll be working at the computers in groups of two or maybe three."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1200.0,
+        "t_end": 1230.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [],
+        "transcript_excerpt": ""
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1290.0,
+        "t_end": 1320.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": true,
+        "talk_moves": [
+          "Pressing for Accuracy",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yeah, that's good. You can make it a bit bigger, but, uh, it should click on to that last. [T] Just make sure- just make sure they join. Get rid of that one. [T] Use the pointer tool, just to make sure that it's all joined together. Move them around a bit, and make sure they stay. No that's not joined on."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1320.0,
+        "t_end": 1350.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yep. [T] Okay, if you go down to there. Just move the pointer down. It should join up. (inaudible) [T] Oh, no, you don't want this to join up to that one yet, do you? No. That's true. You know what you're doing here. I don't. That's fine, actually."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 1710.0,
+        "t_end": 1740.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] That should be o-. That should be okay. [T] Remember... click somewhere to get rid of the other selection and then go that, that, that... Do you remember how to measure the angles? [T] Good. [T] After you've got something good like a, uh, a diagram with a pentagon and- and maybe a formula even, you might probably save that. Just... it's a good idea to save things."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2010.0,
+        "t_end": 2040.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] If you haven't got up to finding out how to do a text box yet, just ask me. Uh, and I'll show you how to do that. Okay? [T] Well, which polygons have you tried so far? [T] You've only tried a pentagon. [T] Okay. So... if it said what is the sum- the measure is just the size, really. Which is what you found. So it's just the sum of the angles, really."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2040.0,
+        "t_end": 2070.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. So... if it said what is the sum- the measure is just the size, really. Which is what you found. So it's just the sum of the angles, really. [T] Exterior angles. Now for the pentagon it turned out to be 360 degrees. [T] Now they're asking you- assuming you've also done triangles, quadrilaterals, hexagons and so on. Now what's your conclusion? [T] Does the total go up perhaps as you add to the number of sides, or what happens? That's, that's what it's asking you to, to write down about. Um, what did you do there?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2070.0,
+        "t_end": 2100.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Does the total go up perhaps as you add to the number of sides, or what happens? That's, that's what it's asking you to, to write down about. Um, what did you do there? [T] Well can you do it again? [T] Ah. [T] The top of it is slightly off the screen because you haven't got your, um, your thing- [T] It should, it should work if you drag the edge of it. [T] And that should just make it nicely fill up the screen if you could click on that. Okay. Now you going to write something about it then?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2130.0,
+        "t_end": 2160.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Uh, yes, I think so. Now, your conclusion says when you move the parts of the pentagon, the sum of the angles does not change. [T] Okay so exterior angles would be a good thing to add in there. And one other, one other fairly important fact that you could mention... but just think about it. [T] Yeah. [T] Okay but just think about when you say it does not change, what doesn't it change from?"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2220.0,
+        "t_end": 2250.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Okay. Now if we trace angle I B C, it goes from there to there, to there. Now, is that one of the exterior angles of the polygon? In fact what would you really call it? [T] Interior angle. Are all the other ones the same? [T] Yeah so-"
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2250.0,
+        "t_end": 2280.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Yeah so- [T] Will we get the computer to do that for us? You need to do a little- can I just do this? [T] Before you do that, you just need to select the angles that you want. Or any other measurements for that matter. [T] Then go calculator. Now what it allows you to do is, you say that angle plus that angle plus. It will actually build it up for you like so."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2340.0,
+        "t_end": 2370.0,
+        "dominant_quality": "unknown",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] Um, mm. Good question. Let me try. I'm not sure if you can do it easily. Something there. Maybe that looks like a degree sign. [T] (inaudible) [T] Yeah. That's, that's what they're asking about down here where they talk about some of the measurements in these polygons. They're talking about ones- [T] Because if you have more sides you might get a higher total might- might'n you? So..."
+      },
+      "frame_paths": []
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "mean_confusion": 0.0,
+      "confusion_z": 0.0,
+      "strategy": {
+        "t_start": 2520.0,
+        "t_end": 2550.0,
+        "dominant_quality": "low",
+        "low_quality": true,
+        "high_pressure": false,
+        "talk_moves": [
+          "Pressing for Reasoning",
+          "Other"
+        ],
+        "transcript_excerpt": "[T] So it's- it hasn't displayed the decimals, but it's sort of got it in it's memory and it's included that in the total as well. [T] Pack up? Yes you can pack up. [T] People, just before you go, we got about as far as I thought we would in that amount of time. And obviously that's only about half way through the thing. [T] But just before you go, who found that their conjecture or prediction was confirmed by what they did?"
+      },
+      "frame_paths": []
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "friction": null,
+      "rationale": "transcript-only mode — no vision/VLM fusion",
+      "alternative_strategy": "",
+      "raw_model_output": null
+    }
+  ],
+  "work_dir": "runs/transcripts/M-AU1"
+}

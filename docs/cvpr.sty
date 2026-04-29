@@ -1,0 +1,22 @@
+%% Minimal cvpr.sty stub for compilation without the official CVPR package.
+%% Defines only the macros used by ProgressReport_cvprformat.tex.
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{cvpr}[2023/01/01 Minimal CVPR stub]
+
+% Page geometry matching CVPR style
+\usepackage[letterpaper,
+            top=1in, bottom=1.125in,
+            left=0.875in, right=0.875in,
+            columnsep=0.375in]{geometry}
+
+% Standard packages
+\usepackage{ifthen}
+
+% \cvprfinalcopy — in the real sty this enables final-copy formatting
+\newcommand{\cvprfinalcopy}{}
+
+% Suppress header/footer rule
+\pagestyle{plain}
+
+% Caption formatting
+\usepackage[font=small,labelfont=bf]{caption}

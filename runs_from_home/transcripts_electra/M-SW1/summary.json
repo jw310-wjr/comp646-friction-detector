@@ -1,0 +1,1312 @@
+{
+  "lesson_id": "M-SW1",
+  "transcript": "/home/jw310/comp646-friction-detector/data/math/transcripts/Math SW1 transcript.txt",
+  "n_bins": 93,
+  "n_risky_bins": 19,
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "dominant_quality": "unknown",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [],
+      "excerpt": ""
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay... Good morning... [T] We have been dealing with the subject of factorizing since the autumn holidays, which actually means the past two lessons. [T] And we have been working on two levels, on the one hand we have tried to find out [T] why factorizing actually is important, and in relation "
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] why factorizing actually is important, and in relation to what we saw yesterday, [T] that factorizing is important when calculating with fractions. [T] Because the subject is somewhat dry, we cheered ourselves up with these figures. [T] Today we will get acquainted with a second area where facto"
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] and that is quadratic equations. Until now we were not able to solve quadratic equations. [T] With the help of factorizing, we will see that we are at least able to already solve some of them. [T] Last Tuesday we also did some exercises on how to deal with this factorizing technically. [T] And y"
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And you solved problems for homework on this topic, which I now firstly would like to correct. [T] We have not discussed problem A yet, but that one doesn't pose any specific difficulties. [T] Maybe I'll repeat the method of proceeding right away: First we look at which parentheses,"
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Maybe I'll repeat the method of proceeding right away: First we look at which parentheses, [T] which expression can be found in both addends. Here it is clearly parenthesis A minus B, which I will factorize- [T] meaning I will think about what this parenthesis multiplies with. The answer is: [T]"
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It multiplies with, on the one hand, the three X plus four Y, and on the other hand, with plus two X plus Y. [T] We calculate it and we'll then notice, watch out, that there we have another common factor, which we can exclude again. [T] Are there any questions on this problem, on this result? [T"
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now nobody is posing any questions. The second I don't have to discuss; we actually had solved that one [T] together as an example. That way we can proceed to the third problem. The method is exactly the same. [T] The bracket appears in both terms- I factorize them- what does this bracket multip"
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] The bracket appears in both terms- I factorize them- what does this bracket multiply? [T] Ten Y plus seven A X minus this second bracket. [T] And now we have to summarize it, calculate it, and detect that still something more can be factorized here. [T] Is everything clear? Or nothing at all? Ra"
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Is everything clear? Or nothing at all? Raphaela? [T] What is it that isn't clear? Try to express your problem. [T] This one? [T] Yes. Well that is there. [T] Now what about that minus sign? [T] Yes, of course, minus. [T] I have to multiply the difference of the two brackets with my bracket two "
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I have to multiply the difference of the two brackets with my bracket two M minus three N. [T] That's why I have to bring the minus over here. And your question is very good, because it refers to a difficulty: [T] We have to pay attention to that we write this bracket in any case. Because it is "
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] We have to pay attention to that we write this bracket in any case. Because it is the whole expression that is subtracted. [T] The bracket must be there. This bracket here is actually optional. But this one I have to put, [T] because the minus works for both expressions. That's where the plus tw"
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Has your question been answered or not quite yet? [T] Tomi. [T] Eh- just calculate it. How do you mean that? [T] Sure if you're highly gifted, then you can do that."
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] There is just a high danger that you'll forget this combined sign change, [T] if you don't write the bracket. And you would easily write a minus here. [T] But it is certain that you could do it in one step. From this line you can conclude directly to this line here. [T] Now I solved the last two"
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now I solved the last two somewhat faster too, you'll see it in a minute... Are there any other questions about letter C? [T] Okay, the minus was the new difficulty in it, actually. [T] Now let's go to letter D. [T] Can you tell me what the common thing is? Which bracket can be found in both ter"
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Three U plus four V, correct. I will factorize them here... And now I used Tomis' quick method... [T] Who can reconstruct how I got to these two terms, in this bracket? Yes, Samuel."
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Correct, equals minus four A B. I have factorized further because the [T] common factor two is contained in the number 10 and in the number four... And now there is nothing else that can be done. [T] E."
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] E. [T] That has been written down in fast modus as well. I have left out the square brackets, [T] because that was originally only an aid to distinguish the brackets. [T] What is the common expression that I will factorize, Philipp. [T] Two A minus five B... correct. Now how does the content of "
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Two A minus five B... correct. Now how does the content of the second bracket develop, Philipp? [T] Good. Minus two N, hm. All right, that's the important minus again, which refers to the whole bracket here. [T] Minus five N and minus two N and now here there are no common factors, there is noth"
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Minus five N and minus two N and now here there are no common factors, there is nothing more to do. [T] And the last one... F... Equals, Benjamin, what do we get? [T] Times nine Y, yes, you didn't specify, but one could hear from your speech that it stands in brackets, hm."
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Times nine Y, yes, you didn't specify, but one could hear from your speech that it stands in brackets, hm. [T] That was the common factor in the first sum. I take it out of the brackets and observe the plus sign. [T] Eight Y plus Y equals nine Y, Z plus minus Z cancels out, thus this will remain"
+    },
+    {
+      "t_start": 630.0,
+      "t_end": 660.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] At the beginning I wrote them out in detail, here I didn't do that anymore. I would advise you to write it... [T] relatively fast, meaning with fewer lines, but with great thought and exactness for what you are writing. [T] If you choose the detailed writing like here... the danger of copying is"
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I know these things. You might forget the two or you might make an X out of the Y and such things. [T] Are there any further questions concerning the homework? [T] Nothing else? Good. [T] Then we will continue to the second point... to these quadratic equations, which we want to take a closer lo"
+    },
+    {
+      "t_start": 690.0,
+      "t_end": 720.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Then we will continue to the second point... to these quadratic equations, which we want to take a closer look at. [T] And I'm now going distribute a worksheet to go with it. [T] The questions can be read on the worksheet. Give it some thought. First of all try to figure out in your notebook, [T"
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You are very welcome to discuss- the matter- in pairs. We will fill in the correct solutions on the worksheet afterwards. [T] All right..."
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right... [T] Here you've got these wonderful examples... [T] Have fun... [T] And also... [T] You're welcome."
+    },
+    {
+      "t_start": 780.0,
+      "t_end": 810.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] You're welcome. [T] M-hm, yes. [T] No, that's a transformation, the two terms are absolutely equal."
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, that's a transformation, the two terms are absolutely equal. [T] Corine, I will correct it for you by tomorrow, all right? I don't have it yet. [T] Do it in your notebook, Shane, so that you're able to make a clean entry of the solution here afterwards."
+    },
+    {
+      "t_start": 840.0,
+      "t_end": 870.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Do it in your notebook, Shane, so that you're able to make a clean entry of the solution here afterwards. [T] Yes and now- now you have to think about it... what does it mean... that is zero. Under what circumstances can- [T] Well, then write it down... From- one of the two (inaudible), that's a"
+    },
+    {
+      "t_start": 870.0,
+      "t_end": 900.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Hm... then it gets problematic- right, because you've got X squared and X. [T] Take a good look at- the term and maybe think a little about our \"factorizing forceps\"- [T] Or how did we call it- yesterday... there, our- our friend and helper."
+    },
+    {
+      "t_start": 900.0,
+      "t_end": 930.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Or how did we call it- yesterday... there, our- our friend and helper. [T] Hm... Tomi! [T] Look, hm? [T] We met this one yesterday, right? [T] If we pose this question in connection with factorizing... maybe factorizing could help us along the track? [T] That can very possibly be right."
+    },
+    {
+      "t_start": 930.0,
+      "t_end": 960.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] That can very possibly be right. [T] That's right, now you have to think further. [T] What does this expression mean... and when can it be zero? [T] No, that's not right. Five cannot be zero, Barbara."
+    },
+    {
+      "t_start": 960.0,
+      "t_end": 990.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Hmm... well, it is correct, but how do you continue now? [T] [Laughter] I- [T] But you have got the X twice in there. [T] Well then. [T] Did you really factorize? Look Raphaela, you still have a sum."
+    },
+    {
+      "t_start": 990.0,
+      "t_end": 1020.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Did you really factorize? Look Raphaela, you still have a sum. [T] Isn't there a possibility to write this whole sum as a product? [T] That's right, yes- well... I think lots of you have at least done the first step... [T] of what does this X squared plus 10 X plus 25 remind you? Esti."
+    },
+    {
+      "t_start": 1020.0,
+      "t_end": 1050.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] of what does this X squared plus 10 X plus 25 remind you? Esti. [T] Of a binomial formula, correct- and which one... of them? What is it, this expression? [T] Yes. [T] Mh, not sure. [T] Yes, that doesn't matter. How can it be factorized, that was my original question... Michelle?"
+    },
+    {
+      "t_start": 1050.0,
+      "t_end": 1080.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, that doesn't matter. How can it be factorized, that was my original question... Michelle? [T] X to the power of two... do the check. X squared plus two times the product- well 10 X, plus 25 is the square of five. [T] Is the square of five. This square is zero- how do we continue... Anette?"
+    },
+    {
+      "t_start": 1080.0,
+      "t_end": 1110.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] X plus five has to be zero, correct- I've got that here... so that we don't have to write that much... correct. [T] You remember- we have seen this more than once. [T] If the product of two numbers or of two brackets is zero, one or the other bracket has to be zero."
+    },
+    {
+      "t_start": 1110.0,
+      "t_end": 1140.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If the product of two numbers or of two brackets is zero, one or the other bracket has to be zero. [T] And here I've got a special case. The A and the B are both X plus five. [T] This square can only be zero if X plus five is zero, which means that X has to have what value, Klaus? [T] X has to b"
+    },
+    {
+      "t_start": 1140.0,
+      "t_end": 1170.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay we made it, to solve our first quadratic equation, sort of. [T] But you can see, it is a special case, we had a binomial formula. [T] Now you can chew the cud and think on- the second tricky problem... it is not much more difficult than the first one. [T] Try to find a solution for it and a"
+    },
+    {
+      "t_start": 1170.0,
+      "t_end": 1200.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Try to find a solution for it and always keep the- law about products in mind. [T] Let's give everybody some time. [T] Please transfer the correct solutions from here to the theory sheet, which will then be complete. [T] Okay well, you can do a little mental calculation, right?"
+    },
+    {
+      "t_start": 1200.0,
+      "t_end": 1230.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Eleven times 11 equals- [T] One hundred and twenty-one... yes... that's what it comes to. [T] What else is there, Sandra? [T] Eleven times what equals 121?"
+    },
+    {
+      "t_start": 1230.0,
+      "t_end": 1260.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Eleven times what equals 121? [T] M-mh, yes. [T] Yes that's correct. [T] Well. [T] Ho-ho, they are-"
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] There is just one trifle missing, it has to be equal. [T] That's true, yes... well done. [T] X is 11 in the second one, look, I covered it at the front. [T] Okay, you are so quick. Some of you have already solved the third one... Shane, move on."
+    },
+    {
+      "t_start": 1290.0,
+      "t_end": 1320.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Okay, you are so quick. Some of you have already solved the third one... Shane, move on. [T] M-mh, yes. [T] Our dear binomial formulas. [T] One hundred and nine- sixty-nine. [T] Well... well, well... What is 12 times 12?"
+    },
+    {
+      "t_start": 1320.0,
+      "t_end": 1350.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Well... well, well... What is 12 times 12? [T] Look, you only have to look at the last number- nine. As a square you will only get that with a three. [T] Then it is quite close, that you... what have I got, one hundred- [T] Ah- excuse me, I read 169 from here, it is 196. [T] Right? No... I think"
+    },
+    {
+      "t_start": 1350.0,
+      "t_end": 1380.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Right? No... I think... yes, it's 96. [T] Have you got the third one? [T] All right, now there's a small difference. Well you can see- 196- [T] Yes, what did I write there, oh gosh. Probably I wanted to do 169. No, that's wrong. [T] The reflection stays the same, but the factorization is X minus"
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] The reflection stays the same, but the factorization is X minus 14 times X plus 14 equals zero. [T] I really did write 96 on the sheet, didn't I? Quickly take a look. Yes, yes. Very well. [T] And now it's a bit different than before. In the first two cases I had... [T] twice the same bracket as "
+    },
+    {
+      "t_start": 1410.0,
+      "t_end": 1440.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] twice the same bracket as factors. And now I have two brackets. All right... let's think about this- rule here. [T] One of them is zero, or the other, thus X minus 14 must be zero, or- second variant- Benjamin. [T] X plus 14 has to be zero, and that will give us for X the two solutions... [T] Fo"
+    },
+    {
+      "t_start": 1440.0,
+      "t_end": 1470.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Fourteen or X equals minus 14. [T] Hansueli asked a question: can one write it down as a solution set, and if so, how. Barbara? [T] Semi- semicolon. [T] And 14. I will list them, the two solutions. [T] Anette?"
+    },
+    {
+      "t_start": 1470.0,
+      "t_end": 1500.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, you could. But you don't really do that. If you have an absolute value in the end, you split it up in the two numbers. [T] You see, we have thus found out that we now are capable of solving quadratic equations if we- [T] either recognize a first, a second or a third binomial formula."
+    },
+    {
+      "t_start": 1500.0,
+      "t_end": 1530.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] either recognize a first, a second or a third binomial formula. [T] It's just that quadratic equations are not always of this kind. And the next one is a rather tricky problem. [T] Now let's see, if you can find anything here... The idea is again that we try to find two brackets, whose product i"
+    },
+    {
+      "t_start": 1530.0,
+      "t_end": 1560.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] and whose product corresponds to this expression six X squared minus seven X minus three. [T] What do you have to fill in the brackets, you can guess a little, try it out, and test. [T] Pardon? [T] Yes, you won't need the above anymore. Thanks. I just don't want to show the solution yet."
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, you won't need the above anymore. Thanks. I just don't want to show the solution yet. [T] Like that! [T] Okay... good. Bravo. [T] Yes, now you're- I think it is correct- wait, I have to read it from your side... three equals minus nine, yes that's correct."
+    },
+    {
+      "t_start": 1590.0,
+      "t_end": 1620.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, now you're- I think it is correct- wait, I have to read it from your side... three equals minus nine, yes that's correct. [T] Now you have to finish the calculation, Marc. [T] Yes, maybe you should write it as a fraction- why three point- [T] Yes exactly, one third, correct."
+    },
+    {
+      "t_start": 1620.0,
+      "t_end": 1650.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes exactly, one third, correct. [T] Search for yourself! Don't let yourself get influenced by your neighbor. [T] Look, you have to think. There has to be two brackets. [T] How can you proceed in order to get six X squared in the product. [T] Three X and two X. Also possible would be six X and o"
+    },
+    {
+      "t_start": 1650.0,
+      "t_end": 1680.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Three X and two X. Also possible would be six X and one X. [T] There you somehow have to make a decision, you have to try it out. [T] There is no method through which you can immediately say what's correct. In the last place- it has to be a three. [T] That is minus three, to be more exact. [T] T"
+    },
+    {
+      "t_start": 1680.0,
+      "t_end": 1710.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Two X- yes- no, you've got a sign error there, watch out... If you have the number of three- here, then you take two X to the right. [T] Minus or just two X equals plus three. [T] That would be one variant, yes. [T] Correct, okay the last variant, Shane, those are actually the same ones. You jus"
+    },
+    {
+      "t_start": 1710.0,
+      "t_end": 1740.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, yes, all right you can test them both with that. Basically the two possibilities stand open. [T] Correct and now you have to consider what has to come in the last place. [T] And to find what is correct, you ascertain that using the middle term, afterwards. [T] M-hm, yes."
+    },
+    {
+      "t_start": 1740.0,
+      "t_end": 1770.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] M-hm, yes. [T] What have we got here? Yes in a minute... six X squared minus seven X plus three equals zero. [T] Now could you please look up for a second? The ideas that you came up with- for filling in the bracket- were-"
+    },
+    {
+      "t_start": 1770.0,
+      "t_end": 1800.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Now could you please look up for a second? The ideas that you came up with- for filling in the bracket- were- [T] Shane just mentioned it before, six X and one X, then I get the six squared. [T] Or, another possibility, which we actually should recognize quickly- is this variant. [T] We have don"
+    },
+    {
+      "t_start": 1800.0,
+      "t_end": 1830.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] We have done with the term- we needed it to get this far. Secondly, you were supposed to- [T] look at the number of minus three. How can you get the product minus three, with integers, for now. [T] Plus three times minus one. Now I could- put- plus three and minus one here, but I could also put "
+    },
+    {
+      "t_start": 1830.0,
+      "t_end": 1860.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] and plus three there, and here I have also got the same options to choose from. [T] Well at the moment, I have different choices of an ending. What fits and- let's proceed this way- what does certainly not fit. [T] How can I recognize if one of these four solutions is the correct one... Samuel."
+    },
+    {
+      "t_start": 1860.0,
+      "t_end": 1890.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Good. The last one- the last term here in the middle, we haven't considered that one at all yet. [T] If I calculate these products I will get this term, right? [T] That's why we now have to think about which one of these four cases really gives us the minus seven X. [T] How about the first case?"
+    },
+    {
+      "t_start": 1890.0,
+      "t_end": 1920.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together"
+      ],
+      "excerpt": "[T] How about the first case? How many X do I get there? Minus six plus three- equals, Hansueli. [T] Minus three X, all right... we can forget that, that's wrong. Second case... How many X do I get here? Jeanine."
+    },
+    {
+      "t_start": 1920.0,
+      "t_end": 1950.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Minus three X, all right... we can forget that, that's wrong. Second case... How many X do I get here? Jeanine. [T] I can't really follow you. Six times three X, six X times three? [T] Eighteen. [T] And... [T] Minus one, 17 X... that's something else yet. The first case is dead. Maybe we'll have"
+    },
+    {
+      "t_start": 1950.0,
+      "t_end": 1980.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] There are... Corinne? [T] Nine X, and what else? [T] Ehm, Excuse me, I showed you the wrong one, hm? Three X times minus one is? [T] No. Three X times minus one is minus three X and then?"
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No. Three X times minus one is minus three X and then? [T] Pay attention... don't be nervous. [T] Six X, six minus three, three X is left in the middle... Our hopes are diminishing, if it's not going to work out this time, [T] the whole thing does not look very hopeful. Let's just write it down "
+    },
+    {
+      "t_start": 2010.0,
+      "t_end": 2040.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Our last hope... is that correct? Nine X... and now, Marc? [T] He needs to put his glasses on. Nine X? [T] Equals seven X. Hm. [T] Now I've got six X squared plus seven X minus three."
+    },
+    {
+      "t_start": 2040.0,
+      "t_end": 2070.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Thanks. Hm. Almost. Are we able to wangle that one? Hansueli. [T] Correct. Let's do the check. Is it really correct now? Yes, (inaudible)?"
+    },
+    {
+      "t_start": 2070.0,
+      "t_end": 2100.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Correct. Let's do the check. Is it really correct now? Yes, (inaudible)? [T] Let's multiply everything properly once again. [T] Six X squared. [T] Minus nine X. [T] Plus, minus? [T] Plus two X and? [T] Minus three equals zero, that's correct now... wonderful. Uf! Hm?"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Minus three equals zero, that's correct now... wonderful. Uf! Hm? [T] Well you can see... it doesn't always go that easy as we have seen with the first two problems that we did. [T] Tomorrow we will see how one can proceed to be able to solve something like that systematically."
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Tomorrow we will see how one can proceed to be able to solve something like that systematically. [T] But for today you have got enough new material. Now I would like you to practice a little on these techniques, because you will notice, [T] that you have to get some routine to solve these factor"
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yeah, yeah, well, on the- worksheets to be more exact. Third grade book, well, on your copies, the numbers 14 A, [T] 15 B, and then also 17 B, they are all problems on this topic. It is written down, Benjamin, which problems. [T] Fourteen A clearly says: determine the solution for the equation. "
+    },
+    {
+      "t_start": 2190.0,
+      "t_end": 2220.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Fourteen A clearly says: determine the solution for the equation. And you have multiple quadratic equations. [T] You have to try to solve them now, using this method. [T] Yes, yes, sure, they should be entered on the theory sheet. Shall I put it up for you to see once more? [T] My pleasure... ju"
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] There- I think you can read the last one, too, on the blackboard. [T] We know, right, our blackboard isn't that great, but it doesn't matter, we can still manage. [T] Should anybody still have questions, then raise your hand now so that I can pass by. [T] Look, it is written right at the bottom "
+    },
+    {
+      "t_start": 2250.0,
+      "t_end": 2280.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Look, it is written right at the bottom there, 14 A, 15 B, and 17 B. They are all equations that you have to solve. [T] The... sixt- 15 and 14 A, yes. [T] The solutions are there in the front as usual, you can check if your results are correct or not. [T] Yes."
+    },
+    {
+      "t_start": 2280.0,
+      "t_end": 2310.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Yes. [T] What do you mean? [T] Here we said number 14 A... Yes, yes, we will look at them too, for practicing. [T] But for what we are trying out right now- [T] It's 14A, 15B, and 17B, actually 16 too."
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] It's 14A, 15B, and 17B, actually 16 too. [T] Does it work out? Homework was all right? [T] Yes, yes, yes, that's okay. [T] When you have solved some already, Christoph, you can just as well go and check your answers in the solution booklet if they are correct."
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] It's laying in the front. [T] M-hm, well it is actually all about recognizing the binomial formulas. [T] Yes, exactly. Shane, try to improve your presentation a little, will you?"
+    },
+    {
+      "t_start": 2370.0,
+      "t_end": 2400.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It looks so very loose and careless [in French], how you're doi- Just look at how much space you're using! [T] You could use much less if you consistently wrote on every second line. [T] You know, when we are dealing with those fractions, as we saw in our first example there, and you're using th"
+    },
+    {
+      "t_start": 2400.0,
+      "t_end": 2430.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Well, I would try to do that a little bit smaller. [T] Yes, good. [T] That's correct. [T] Yes. [T] It's just a little bit strange that you always take your X to the right when you write it. [T] It doesn't matter, it's just a bit uncommon. You can be original if you like. [T] Yes."
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes- that's correct. [T] For 15 B? No, he is working on 14. [T] Yes you are doing problem 15 B and he is working on problem 14 A. [T] No wonder you have got different results. [T] And look, if you want to write it in short form, you can of course just list it after your consideration..."
+    },
+    {
+      "t_start": 2460.0,
+      "t_end": 2490.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] And look, if you want to write it in short form, you can of course just list it after your consideration... [T] All right, that has the same value. [T] Tomi, nice presentation, please. [T] Well, why don't you do it then? [T] M-hm, yes. [T] Are you sure that it is minus, Jeanine?"
+    },
+    {
+      "t_start": 2490.0,
+      "t_end": 2520.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Are you sure that it is minus, Jeanine? [T] M-hm, yes. [T] Yes, exactly, m-hm. You always have to pay attention there, those are the- the tricky errors that annoy you afterwards. [T] Yes, yes, you see, 15 B can hardly be considered as a B problem, because everything is so wonderfully factorized "
+    },
+    {
+      "t_start": 2520.0,
+      "t_end": 2550.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Five sixth, yes, correct. [T] But you must have X squared in front. Which one are you doing there? A. [T] Eh, D. It has to be X squared. [T] Aha, it cou... Yes, yes, sure. If you change both the signs then it stays the same. [T] If X minus seven is zero, then X is seven, and if seven minus X is "
+    },
+    {
+      "t_start": 2550.0,
+      "t_end": 2580.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] If X minus seven is zero, then X is seven, and if seven minus X is zero, then X is also seven. [T] See, it doesn't matter in which order you write it. [T] Eh, the negative or the positive. Now do you mean at the listing? [T] No. Mostly you state the solution set in enumerating form, beginning wi"
+    },
+    {
+      "t_start": 2580.0,
+      "t_end": 2610.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] It is also correct. One can imagine it directly on the number line that way. [T] That's the advantage, hm, but... [T] If it was binomial... then it would be a first one, right? Well, an X plus something squared. [T] One hundred and forty-four is the square of what number? [T] Hm-m, no."
+    },
+    {
+      "t_start": 2610.0,
+      "t_end": 2640.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Ten times 10 equals one hundred. Eleven times 11 we saw before, and what's next? [T] Equals just about 144. And now look, if you take X plus 12 in the middle, [T] you will, as is generally known, receive the double product. And two times 12- correct, equals 24. [T] Now if you had 27 here, then y"
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Now if you had 27 here, then you wouldn't be able to factorize it like that, hm. [T] So you mustn't deceive yourself and think that it will always work like that. These are of course problems that all work. [T] But in other cases it could look completely different. [T] M-hm, yes, you can also ju"
+    },
+    {
+      "t_start": 2670.0,
+      "t_end": 2700.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Where? [T] E... Two X and three in the back... doesn't that work out? [T] Squared, right, because there's a minus here and maybe you have to do something with the signs, too. [T] All right, the bell is going to ring in a minute, or maybe it already has. For tomorrow, please just do this first pr"
+    },
+    {
+      "t_start": 2700.0,
+      "t_end": 2730.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] All right, the bell is going to ring in a minute, or maybe it already has. For tomorrow, please just do this first problem, 14 A. [T] All of it. It goes fast. [T] You will need a little routine. [T] Did you solve the wrong one? [T] Yes, well then there's not much left. All right. We will continu"
+    },
+    {
+      "t_start": 2730.0,
+      "t_end": 2760.0,
+      "dominant_quality": "high",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "Keeping Everyone Together",
+        "No Move"
+      ],
+      "excerpt": "[T] Oh, you poor thing. What else? [T] But now there is no A plus B anymore there in the back. [T] Goodbye to you all! [T] You factorized A plus B here. [T] Nine X plus eight X minus that, but it is- that's that."
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That's that. [T] Right."
+    }
+  ],
+  "risky_bins": [
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] and that is quadratic equations. Until now we were not able to solve quadratic equations. [T] With the help of factorizing, we will see that we are at least able to already solve some of them. [T] Last Tuesday we also did some exercises on how to deal with this factorizing technically. [T] And you solved problems for homework on this topic, which I now firstly would like to correct."
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I have to multiply the difference of the two brackets with my bracket two M minus three N. [T] That's why I have to bring the minus over here. And your question is very good, because it refers to a difficulty: [T] We have to pay attention to that we write this bracket in any case. Because it is the whole expression that is subtracted."
+    },
+    {
+      "t_start": 660.0,
+      "t_end": 690.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] I know these things. You might forget the two or you might make an X out of the Y and such things. [T] Are there any further questions concerning the homework? [T] Nothing else? Good. [T] Then we will continue to the second point... to these quadratic equations, which we want to take a closer look at."
+    },
+    {
+      "t_start": 720.0,
+      "t_end": 750.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] You are very welcome to discuss- the matter- in pairs. We will fill in the correct solutions on the worksheet afterwards. [T] All right..."
+    },
+    {
+      "t_start": 750.0,
+      "t_end": 780.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] All right... [T] Here you've got these wonderful examples... [T] Have fun... [T] And also... [T] You're welcome."
+    },
+    {
+      "t_start": 810.0,
+      "t_end": 840.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No, that's a transformation, the two terms are absolutely equal. [T] Corine, I will correct it for you by tomorrow, all right? I don't have it yet. [T] Do it in your notebook, Shane, so that you're able to make a clean entry of the solution here afterwards."
+    },
+    {
+      "t_start": 1260.0,
+      "t_end": 1290.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] There is just one trifle missing, it has to be equal. [T] That's true, yes... well done. [T] X is 11 in the second one, look, I covered it at the front. [T] Okay, you are so quick. Some of you have already solved the third one... Shane, move on."
+    },
+    {
+      "t_start": 1380.0,
+      "t_end": 1410.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] The reflection stays the same, but the factorization is X minus 14 times X plus 14 equals zero. [T] I really did write 96 on the sheet, didn't I? Quickly take a look. Yes, yes. Very well. [T] And now it's a bit different than before. In the first two cases I had... [T] twice the same bracket as factors. And now I have two brackets. All right... let's think about this- rule here."
+    },
+    {
+      "t_start": 1560.0,
+      "t_end": 1590.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes, you won't need the above anymore. Thanks. I just don't want to show the solution yet. [T] Like that! [T] Okay... good. Bravo. [T] Yes, now you're- I think it is correct- wait, I have to read it from your side... three equals minus nine, yes that's correct."
+    },
+    {
+      "t_start": 1980.0,
+      "t_end": 2010.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] No. Three X times minus one is minus three X and then? [T] Pay attention... don't be nervous. [T] Six X, six minus three, three X is left in the middle... Our hopes are diminishing, if it's not going to work out this time, [T] the whole thing does not look very hopeful. Let's just write it down now. [T] Our last hope... is that correct? Nine X... and now, Marc?"
+    },
+    {
+      "t_start": 2100.0,
+      "t_end": 2130.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Minus three equals zero, that's correct now... wonderful. Uf! Hm? [T] Well you can see... it doesn't always go that easy as we have seen with the first two problems that we did. [T] Tomorrow we will see how one can proceed to be able to solve something like that systematically."
+    },
+    {
+      "t_start": 2130.0,
+      "t_end": 2160.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Tomorrow we will see how one can proceed to be able to solve something like that systematically. [T] But for today you have got enough new material. Now I would like you to practice a little on these techniques, because you will notice, [T] that you have to get some routine to solve these factorizations quickly. In your book you have... [T] Yeah, yeah, well, on the- worksheets to be more exact. Third grade book, well, on your copies, the numbers 14 A,"
+    },
+    {
+      "t_start": 2160.0,
+      "t_end": 2190.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yeah, yeah, well, on the- worksheets to be more exact. Third grade book, well, on your copies, the numbers 14 A, [T] 15 B, and then also 17 B, they are all problems on this topic. It is written down, Benjamin, which problems. [T] Fourteen A clearly says: determine the solution for the equation. And you have multiple quadratic equations."
+    },
+    {
+      "t_start": 2220.0,
+      "t_end": 2250.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] There- I think you can read the last one, too, on the blackboard. [T] We know, right, our blackboard isn't that great, but it doesn't matter, we can still manage. [T] Should anybody still have questions, then raise your hand now so that I can pass by. [T] Look, it is written right at the bottom there, 14 A, 15 B, and 17 B. They are all equations that you have to solve."
+    },
+    {
+      "t_start": 2310.0,
+      "t_end": 2340.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] It's 14A, 15B, and 17B, actually 16 too. [T] Does it work out? Homework was all right? [T] Yes, yes, yes, that's okay. [T] When you have solved some already, Christoph, you can just as well go and check your answers in the solution booklet if they are correct."
+    },
+    {
+      "t_start": 2340.0,
+      "t_end": 2370.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] It's laying in the front. [T] M-hm, well it is actually all about recognizing the binomial formulas. [T] Yes, exactly. Shane, try to improve your presentation a little, will you?"
+    },
+    {
+      "t_start": 2430.0,
+      "t_end": 2460.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Yes- that's correct. [T] For 15 B? No, he is working on 14. [T] Yes you are doing problem 15 B and he is working on problem 14 A. [T] No wonder you have got different results. [T] And look, if you want to write it in short form, you can of course just list it after your consideration..."
+    },
+    {
+      "t_start": 2640.0,
+      "t_end": 2670.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] Now if you had 27 here, then you wouldn't be able to factorize it like that, hm. [T] So you mustn't deceive yourself and think that it will always work like that. These are of course problems that all work. [T] But in other cases it could look completely different. [T] M-hm, yes, you can also just write it as a square, Esti, you don't have to write them twice next to each other. That's not necessary. [T] That's not necessary."
+    },
+    {
+      "t_start": 2760.0,
+      "t_end": 2790.0,
+      "dominant_quality": "low",
+      "low_quality": false,
+      "high_pressure": false,
+      "talk_moves": [
+        "No Move"
+      ],
+      "excerpt": "[T] That's that. [T] Right."
+    }
+  ]
+}

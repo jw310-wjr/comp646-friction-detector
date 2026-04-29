@@ -1,0 +1,74 @@
+[
+  {
+    "friction": false,
+    "rationale": "Although the transcript shows minor classroom management disruption ('You, please leave') and laughter, the teacher quickly re-engages students with conceptual review questions and receives correct responses, indicating adequate comprehension rather than student confusion or high-pressure strategy mismatch.",
+    "alternative_strategy": "N/A",
+    "t_start": 210.0,
+    "t_end": 240.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is using a low-quality, transmission-only instructional strategy—dictating definitions and symbols for students to copy—with no elicitation of prior knowledge or student thinking, which is a classic low-engagement moment prone to passive confusion.",
+    "alternative_strategy": "Before writing the symbol and unit on the board, ask students a guiding question: 'Has anyone seen the letter I or the unit ampere on a device at home—like a phone charger or a fuse box? What do you think it might tell us about electricity?' This activates prior knowledge and gives the teacher a diagnostic window into student understanding before formalizing the notation.",
+    "t_start": 1200.0,
+    "t_end": 1230.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 1230.0,
+    "t_end": 1260.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZQxQWbfeHzhrV8N8DZ'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 1320.0,
+    "t_end": 1350.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZRGE5AdGJ2fbFPAemi'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is delivering a dense, one-way explanation of the formula for electrical current (I = Q/t) with no student interaction or comprehension checks, which combined with the low dominant quality and 'Other' talk-move classification signals a passive, lecture-only moment where student understanding is not being actively probed.",
+    "alternative_strategy": "Pause after stating 'we determine the current by dividing the total charge by the total time' and ask a guiding question such as 'Can anyone tell me: if a larger charge passes through in the same amount of time, what happens to the current—does it get bigger or smaller, and why?' to press students for reasoning and surface any conceptual gaps before moving on.",
+    "t_start": 1350.0,
+    "t_end": 1380.0,
+    "n_frames_sent": 3
+  },
+  {
+    "friction": true,
+    "rationale": "The teacher is delivering a passive, formulaic dictation segment ('write it down') with no student engagement or reasoning elicited, which aligns with the low dominant quality and absence of substantive talk moves, creating a friction point where conceptual understanding of current (Q/t) is bypassed in favor of rote copying.",
+    "alternative_strategy": "Instead of simply dictating the formula, pause and ask a guiding question: 'Before I write the formula, can anyone suggest what two quantities we might need to measure in order to figure out how much charge is flowing per second?' — pressing students to reconstruct Q/t reasoning themselves before committing it to notes.",
+    "t_start": 1380.0,
+    "t_end": 1410.0,
+    "n_frames_sent": 3
+  },
+  {
+    "t_start": 1920.0,
+    "t_end": 1950.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 50 requests per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZSZgahQQoCCCY7onGf'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "t_start": 2280.0,
+    "t_end": 2310.0,
+    "friction": null,
+    "rationale": "ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': \"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: dad2210a-1011-4cad-b67e-196564191db3, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.\"}, 'request_id': 'req_011CaYZSpwc2saQTZ9mETkTy'}",
+    "alternative_strategy": "",
+    "n_frames_sent": 0
+  },
+  {
+    "friction": false,
+    "rationale": "The teacher is providing a procedural hint ('convert to amperes first') which is a supportive scaffolding move rather than a high-pressure or low-quality strategy, and there is no clear confusion signal from the vision system in this window.",
+    "alternative_strategy": "N/A",
+    "t_start": 2490.0,
+    "t_end": 2520.0,
+    "n_frames_sent": 3
+  }
+]

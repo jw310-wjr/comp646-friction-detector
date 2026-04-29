@@ -1,0 +1,630 @@
+00:00:08	T	Good day everyone. Finish up drinking your sodas and eating your lunch. You may stay seated.
+00:00:20	T	Today we're not going to have tournaments, but since I will walk around the room,
+00:00:24	T	I would like you to zip up your backpacks and place it under your desks.
+00:00:28	T	Zip up your backpack please. Good. In our last class, we talked about the concept of powered numbers.
+00:00:52	T	We worked with terms like the value of a numerical expression and the sequence of the mathematical operations.
+00:00:56	T	Which one of you can describe- which one of you can describe, what is a squared number. What kind of product or creation is it?
+00:01:03	T	Give us an example of a powered number.
+00:01:05	SS	Five squared.
+00:01:06	T	Not everyone at the same time because we can't understand it. Marcela?
+00:01:09	SN	Five squared.
+00:01:09	T	Five squared. At what power.
+00:01:11	S	To the second power.
+00:01:12	T	To the second power, good. What is the number five, what do we call the number five, if five...
+00:01:16	SS	Exponent.
+00:01:19	T	Number five is an exponent?
+00:01:21	SS	No. (inaudible)
+00:01:22	T	Number two is an exponent?
+00:01:23	SN	No. (inaudible)
+00:01:25	T	Jana, come up here and write it up on the left side of the board. Here is a piece of chalk.
+00:01:33	SN	(inaudible)
+00:01:34	T	Yes, good. What Jana wrote up there is the second power.
+00:01:39	T	So, number five is the foundation of a power and the number two is, you've already mentioned it here?
+00:01:43	SS	Exponent.
+00:01:43	T	Exponent, or we may use a foreign word exponent, that's correct as well. Fine.
+00:01:48	T	May we use, or can you give us an example of one other than the second power? To the third power.
+00:01:53	SS	The third power.
+00:01:54	T	Go ahead. And once again, we raise our hands.
+00:01:56	SN	Five to the third power.
+00:01:57	T	Five to the third power. What power is that?
+00:01:59	SS	The third power.
+00:02:00	T	To the third power. Any other power. Lubo?
+00:02:03	SN	Eight to the tenth power.
+00:02:04	T	Excellent, eight to the tenth power. What power is it?
+00:02:06	S	The tenth power.
+00:02:07	T	The tenth power, fine. We have here... we have already... we'll do it again, calculating some of these problems.
+00:02:15	T	The value of a numerical expression, so why don't we... before I give you some work, think about it for a minute.
+00:02:21	T	And if you know it, raise your hand.
+00:02:24	T	Two to the second power minus three times five, two to the second power minus three times five. Martin?
+00:02:35	SN	Minus 11.
+00:02:36	T	Minus 11. And how did you calculate it?
+00:02:38	S	Two to the second power minus three times five equals 15.
+00:02:41	T	Minus 15. And why didn't you calculate, two squared which is four, minus three equals one, times five?
+00:02:47	S	Because first I figured out the power and then I multiplied it.
+00:02:51	T	So as a rule, we use multiplication first, we figure out the power by multiplying it first, then dividing, and last is adding.
+00:02:56	T	You'll all receive the same work, but each person will be calculating something different.
+00:03:02	T	So, first take a look at it, don't calculate anything yet, don't sign it. Paul, can you pass these around? Here and Marcela as well?
+00:03:15	T	You'll give it a try, okay? Okay, two more? You will get the rest of it.
+00:03:30	SN	(inaudible)
+00:03:37	T	All of you have one?
+00:03:38	SN	No, we're missing one.
+00:03:39	T	Okay I... Do you boys each have one?
+00:03:42	SN	No.
+00:03:43	T	Each person must have one. Good. I would like you to mark which one you're going to do in order to be quick.
+00:03:57	T	Lucka will do letter A, you will do B, you will do C, D, you E, you F, G, H. You will do A, B, C, D, E, F, H, G.
+00:04:24	SN	I already have G.
+00:04:25	T	G and H, you don't have one yet? You'll do B and you will do C.
+00:04:32	SN	I have the letter A.
+00:04:32	T	Fine, you'll have the letter A. Do you have one? You do. Good. Calculate it, and when you're done raise your hand, so we can...
+00:04:42	SN	(inaudible)
+00:04:43	T	Very good. Come up here Paul, take your work with you.
+00:05:08	SN	I'm not sure if I have it correct.
+00:05:10	T	Then we'll correct it. That's why we're in school, to learn.
+00:05:28	SN	May I go up to write the next one?
+00:05:31	T	You may and do you have the same one as Paul is doing?
+00:05:33	SN	I'm doing (inaudible).
+00:05:34	T	Go up there and do it on the board. Your own assignment and if you have it completed and it's not already on the board, go up there and do it.
+00:05:49	T	If it's not on the board, go up there and do the problem. Be careful so...
+00:05:54	SN	Teacher, may I do the letter H?
+00:05:57	T	You want to do the letter A?
+00:05:58	S	The letter H.
+00:05:59	T	Letter H, yes you may. Of course. You can't go up anymore but you may check the work.
+00:06:09	SN	Teacher, so I can go up?
+00:06:12	T	Which assignment do you have?
+00:06:13	S	Letter B.
+00:06:14	T	You may go up and do the assignment. You as well. Just check your work to see if you have it correct. Chalk is over there, yes.
+00:06:34	T	If you've checked your own work, you have the entire text in front of you so you can check the other assignments as well.
+00:06:43	T	So, who has done the letter A?
+00:06:46	SN	Me!
+00:06:48	T	No one else has the letter A? I guess so. Lucka is not finished yet.
+00:06:56	SS	I will do letter A.
+00:06:58	T	Excuse me?
+00:06:58	SN	I just have the last two assignments remaining.
+00:07:00	T	The last two assignments. I would like to have someone do the letter A. Who has the letter C?
+00:07:07	SN	Who has an A?
+00:07:08	T	It's not possible yet? How about the letter C, if any of you has it done. We still don't have the letter F completed.
+00:07:14	T	I did not assign the letter F to anyone?
+00:07:17	SN	I have that one.
+00:07:18	T	Excuse me?
+00:07:18	S	I'm doing that one.
+00:07:19	T	Nikola, okay. I know that she's concentrating on the other assignment. Which problem do you have?
+00:07:27	SN	Letter A.
+00:07:27	T	The letter A. Go up, to do the problem. Write it up on the board.
+00:07:29	SN	I'm done.
+00:07:31	T	Write it on the board.
+00:07:31	S	I'm done.
+00:07:32	T	Lucka is done, so she can check her work. Now Denisa will go up to the board.
+00:07:47	SN	I have the letter C.
+00:07:49	T	Okay!
+00:07:50	SN	I have done the letter C as well.
+00:07:55	T	You will do C and what else.
+00:08:00	SN	Teacher!
+00:08:00	T	Yes? We'll check all the work. Just wait for a moment. Good job. Good.
+00:08:29	T	I would like all of you to pay attention. You have the assignments in front of you. Let's all check the work together.
+00:08:37	T	Which one... rather letter 1A, tell me which calculating performance is it or what is the last calculation, we must do in this problem.
+00:08:45	T	We'll know what kind of problem it is based on that information.
+00:08:47	SS	Additions.
+00:08:47	T	Additions, correct. From which two numbers did she come up with 16?
+00:08:53	SS	Four plus 12.
+00:08:54	T	Four plus 12, correct. In number two, what is the last calculating performance?
+00:09:00	T	Product. Correct, from what two numbers did she get the result.
+00:09:03	SS	Number four and... number seven.
+00:09:06	T	Seven and four. Good. Number three. What is the last calculating performance.
+00:09:13	SS	Subtraction.
+00:09:14	T	Subtraction, no addition, and from what two numbers?
+00:09:17	SN	From 12 and four.
+00:09:18	T	From four and minus 12. Excellent. What does it say? I can't see it.
+00:09:24	SN	It's incorrect.
+00:09:24	T	What is the correct answer?
+00:09:25	S	Minus eight.
+00:09:26	T	Minus eight. Go up there to correct it. Okay and number four, what is the last calculating performance?
+00:09:35	SN	Multiplication.
+00:09:36	T	Good. Excuse me? I can't hear you.
+00:09:39	SN	Multiplication.
+00:09:40	T	Multiplication, good, and what two numerators?
+00:09:43	SS	Four (inaudible).
+00:09:46	T	Okay, I heard the number four somewhere. That means we'll have to take a look at what's in the parenthesis.
+00:09:51	T	Calculate what's in the parenthesis. Veronika.
+00:09:55	SN	Two squared is four and four minus three is one.
+00:09:58	T	So, it will not be negative one, but a positive one. Denisa has four up there, which is fine. Let's go to letter B and let's try quickly.
+00:10:05	T	What last two numbers will be calculated. Go ahead. Jarko?
+00:10:11	SN	It's seven. Nine minus two.
+00:10:12	T	Nine minus two equals two. Good. Next, number two. Lukas?
+00:10:17	SN	Nine minus four.
+00:10:18	T	Excuse me?
+00:10:19	SN	Nine minus four.
+00:10:20	T	And the answer is five. Good. Next, number three. Paul.
+00:10:23	SN	Three minus four minus one.
+00:10:25	T	Excellent. And we do have minus one there. Number four.
+00:10:29	S	One.
+00:10:30	T	Dennis!
+00:10:31	SN	One (inaudible).
+00:10:32	T	Excellent. Let's do letter C, the first problem. Once again, I want to know which two numbers are calculated... Go ahead Jana.
+00:10:43	SN	Nine plus ten.
+00:10:44	T	The answer is 19. Number two? What is that?
+00:10:48	SN	Fourteen times two.
+00:10:49	T	And what is it? A product, correct Jarko. It's 14 times two. Fine. Number three is?
+00:10:57	SN	Nine minus 10.
+00:10:59	T	Difference? The answer is, minus one. Number four is?
+00:11:03	SN	Four times two.
+00:11:05	T	Yes, it's correct. Make sure to check the products, which are up there as a hint. Letter D?
+00:11:12	SN	Sixteen minus five.
+00:11:13	T	Dennis?
+00:11:14	S	Sixteen minus five.
+00:11:15	T	The answer is 11. Good.
+00:11:17	SN	Sixteen minus 25.
+00:11:18	T	Good, Paul and the answer is?
+00:11:20	S	Minus nine.
+00:11:20	T	Minus nine, fine. Number three, Paul?
+00:11:23	S	Four minus 25 equals minus 21.
+00:11:25	T	Minus 21? Number four.
+00:11:28	S	Me?
+00:11:29	T	You may.
+00:11:30	S	Four minus five equals one squared.
+00:11:32	T	Be careful here.
+00:11:32	S	(inaudible)
+00:11:33	T	Okay, but four minus five does not equal one.
+00:11:35	S	Minus one.
+00:11:36	T	Minus one. Minus one squared. Is it in fact one? Isn't it negative one?
+00:11:42	SN	It's (inaudible).
+00:11:42	T	It's one squared.
+00:11:50	T	Now, let's do letter E. Excuse me?
+00:11:53	SN	(inaudible)
+00:11:56	T	Can you repeat it, Martin?
+00:11:57	S	(inaudible)
+00:11:59	T	Where. The problem in letter D?
+00:12:01	S	Yes.
+00:12:02	T	We'll take a look at it. Eleven minus nine minus 21 and one. Eleven minus nine equals. Excuse me?
+00:12:11	SN	Two.
+00:12:12	T	Two. Two minus 21 equals negative...
+00:12:15	SN	Negative 19.
+00:12:16	T	Negative 19 plus one equals negative 18. Martin is correct, we should check the work for mistakes. Next is letter E.
+00:12:25	SN	Fifteen minus 36.
+00:12:27	T	Fifteen minus 36 equals...
+00:12:29	S	Negative 21.
+00:12:30	T	I see something else up there. I would like someone to put negative up by the number. Who did that problem! Good.
+00:12:38	T	Number two.
+00:12:39	SN	Fifteen minus 18.
+00:12:40	T	Fifteen minus 18 should be. Excuse me?
+00:12:43	SN	Negative three.
+00:12:43	T	Negative three, it's already up on the board, good. Number three is?
+00:12:48	SN	Fifteen minus 12.
+00:12:48	T	Correct, 15 minus 12. Fine, and number four?
+00:12:52	S	Fifteen minus six.
+00:12:53	T	Fifteen minus?
+00:12:54	SS	Six.
+00:12:55	T	Six, because the root of four times nine. Fine. Letter F. Go ahead Nicole.
+00:13:01	T	In this problem we're not going to have only a sum of the number nor a product of the number.
+00:13:04	T	The assignments in F are composed of? Problem, number one?
+00:13:09	SN	One plus four... minus 25.
+00:13:13	T	Minus 25 equals?
+00:13:16	S	Negative 20.
+00:13:16	T	Negative 20, correct. Number two?
+00:13:20	S	One plus four minus five equals zero.
+00:13:23	T	Excellent. Number three?
+00:13:25	S	Negative one minus four minus five equals negative 10.
+00:13:29	T	Correct.
+00:13:30	S	And one minus four plus five equals...
+00:13:35	SN	Plus two.
+00:13:36	T	Plus two. One minus four equals minus three plus five is positive two. Fine. How about the problems in letter G.
+00:13:45	SN	Ten minus 12.
+00:13:47	T	Go ahead Jana.
+00:13:48	S	Ten minus 12 equals negative two.
+00:13:49	T	Correct and do number two as well Jana?
+00:13:52	S	Seven times four equals 28.
+00:13:54	T	Yes and Paul will try number three.
+00:13:58	SN	Number three?
+00:13:59	T	Yes.
+00:14:00	S	Sixty-five minus three is...
+00:14:06	T	Martin is helping him out so why don't you tell us since you know it.
+00:14:10	SN	Okay, so first we calculate the power of a number...
+00:14:13	T	The root of the number, yes.
+00:14:14	S	The root of the number, (inaudible).
+00:14:19	T	Excellent, Martin. How about number four.
+00:14:22	SN	Ten minus 36.
+00:14:23	T	Ten minus... you're already doing the next one, in that case go ahead Denisa, give it a try.
+00:14:28	S	The square root of 100 is 10 minus three times two is six squared equals 36. So the answer is negative 36.
+00:14:36	T	The answer is negative 36, which is up on the board. Now we'll get to the last one, which is letter H.
+00:14:42	T	Why don't you try the first one Paul.
+00:14:44	SN	Me?
+00:14:45	T	Yes.
+00:14:46	S	So the square root of 25 is so it's five, two squared is four, five minus four is one.
+00:14:52	T	Be careful you have multiplication there. Multiplication.
+00:14:58	S	Five times four is 20 and 30 minus 20 is 10.
+00:15:02	T	Fine. Jarka will try the next one?
+00:15:05	SN	Parenthesis, 30 minus the square root of 25 is five, so 30 minus five is 25, times four equals 100.
+00:15:14	T	Excellent. Lubo will try number three.
+00:15:18	SN	Thirty minus 20 equals 10 squared which is 20. Twenty times two is 40.
+00:15:29	T	I would say it's going to be a bit different. You've calculated the parenthesis correctly.
+00:15:33	T	Thirty minus 20 equals 10 and 10 squared is 100.
+00:15:38	T	One hundred times two equals 200. It's on the board. Mike, please read number four.
+00:15:46	T	I meant Mike Papez. Mike Brizek has not been here in class for a while so he's just reviewing the work.
+00:15:52	SN	(inaudible), 10 squared is 100, 30 minus 100 is minus 70, times two equals negative 140.
+00:16:06	T	Negative 140. Martin did a good job, I suppose... I see.
+00:16:12	SN	Negative 145. Negative...
+00:16:14	T	Why does it say 100... it does say negative 100 but why does it say 145 on the board?
+00:16:19	SN	Because someone wrote it up there.
+00:16:21	T	Someone must have made a mistake. We should correct it on the board. Go over there and write negative 140.
+00:16:26	T	I'm very pleased to see you checking the work.
+00:16:28	T	And once again I want to give high marks to Martin who was keeping an eye on all the work to make sure the calculations are correct.
+00:16:35	T	Even if it did not come out right, he kept a good eye on it. Good.
+00:16:39	T	Now I would like you to put these papers away and take out your books. Last Friday we started to discuss the power of a number.
+00:16:52	T	Which is in the variable form. Open your books to page 24. Honza will open his book as well.
+00:17:16	T	And as a review, we'll go over some of these problems on page 24. Let's review, start with 1A. Jana?
+00:17:24	SN	(inaudible)
+00:17:25	T	Excellent. How about B?
+00:17:28	SS	(inaudible)
+00:17:28	T	Excuse me?
+00:17:29	SS	A raised to the fifth power.
+00:17:30	T	That was letter C and B.
+00:17:33	SN	Negative four to the third power.
+00:17:34	T	Negative four to the third power. Go ahead Jana.
+00:17:37	SN	Parenthesis.
+00:17:38	T	What are we going to call it.
+00:17:40	SN	Negative four to the third power as a whole number.
+00:17:41	T	Negative four, Nicole.
+00:17:42	SN	Negative four to the third power.
+00:17:43	T	The whole number to the third power. Good. We'll know that it includes the negative number. Great. How about D?
+00:17:49	SS	(inaudible)
+00:17:51	T	You've said it already, so it's X to the fourth power. Fine. We'll try to calculate number two in our heads.
+00:17:57	SN	Six.
+00:17:58	SS	Nine.
+00:18:00	T	Nine. Excuse me? Eight, excellent.
+00:18:06	SS	One.
+00:18:07	T	One.
+00:18:08	SS	One thousand.
+00:18:09	T	Yes.
+00:18:10	SS	Zero.
+00:18:11	T	Yes.
+00:18:12	SS	(inaudible)
+00:18:13	T	Very good.
+00:18:14	SS	Thirty-six.
+00:18:16	T	Good and now we must be careful because we have decimal numbers. The first one is?
+00:18:21	SS	(inaudible)
+00:18:23	T	One hundredth.
+00:18:23	SS	One hundredth.
+00:18:24	T	Hundredth.
+00:18:26	SS	Zero point.
+00:18:28	T	Eight.
+00:18:29	SS	To the thousandths.
+00:18:31	T	Correct.
+00:18:35	SS	Zero point... thousandths.
+00:18:40	T	Speak up. Everyone else should be quiet, Lukas will tell us...
+00:18:43	SN	One ten thousandths.
+00:18:44	T	Ten thousandths. And the second to last problem?
+00:18:48	SS	To the nearest thousandths.
+00:18:51	T	And the last one is?
+00:18:52	SS	Zero point four to the ten thousandths.
+00:18:54	T	Jarka.
+00:18:54	SN	Zero point, four to the ten thousandths.
+00:18:56	T	Excellent. Now we'll discuss the letter C, which is a bit more difficult.
+00:19:00	T	Just to make sure you realize when the power is positive and when it's negative.
+00:19:04	T	So the first one is, Paul? Fine. Number two. Raise your hand and speak up so I can hear you. Paul?
+00:19:10	SN	Negative 25.
+00:19:13	T	Rosta?
+00:19:14	SN	Negative 125?
+00:19:14	T	Good, I'm glad you've gotten it right. Next calculation? Veronika.
+00:19:22	SN	Sixteen.
+00:19:23	T	Excellent. Next problem?
+00:19:26	SS	Negative one.
+00:19:27	T	Negative one because it's what power? The fifth power.
+00:19:30	SS	The fifth power.
+00:19:31	T	The fifth power and the last one Paul?
+00:19:33	SN	Positive one.
+00:19:34	T	Positive one because it's...
+00:19:36	SS	Sixth power.
+00:19:37	T	Sixth power. Fine. That should be enough reviewing. We'll eventually get back to that because we'll have a test on this.
+00:19:44	T	You will need more practice.
+00:19:45	T	If you can recall, on Friday in our math class, you've worked with numbers, which in principal had the powered numbers.
+00:19:55	T	And in one way or the other we did some calculations. What do we call... look it up on page 25.
+00:20:03	T	When we add up, two A cubed plus three A cubed, what did we call it on Friday? I also drew out a picture for you? What is A cubed?
+00:20:11	SN	Cubed.
+00:20:12	T	What is A cubed? How do I imagine it?
+00:20:14	SS	Cubed.
+00:20:14	T	Volume of a cube. Fine, and Paul has already said that it will be...
+00:20:17	SN	Two A cubed.
+00:20:18	T	Two A cubed because two A cubed is like two squares, A cubed plus A cubed. Good. So, what can we sum up-
+00:20:30	T	Based on the picture which we have there or based on the notes.
+00:20:34	T	We have X cubed which is once again a volume of a cube but we also have Y squared which is not a volume of a cube but it's what?
+00:20:42	SN	Square.
+00:20:42	T	The area of the square. Fine. So, Jana what can we sum up?
+00:20:48	SN	What page are we on?
+00:20:49	T	We're on page 25 on top of the page. Someone else may try it as well.
+00:20:56	SN	The cubed numbers may be added.
+00:20:58	T	The cubed numbers may be added up.
+00:21:01	SN	And the squared numbers.
+00:21:02	T	The squared numbers separate.
+00:21:02	T	We have a paragraph in the book that talks about which powered numbers we can add up and which powered numbers we can't.
+00:21:07	T	Please, read this part for me.
+00:21:09	SN	We can only add and subtract powers with the same base and exponent.
+00:21:14	T	Good and now you have an expression which can't be added together. I would like someone to explain why.
+00:21:19	T	Which ones can't be calculated and explain why. Denisa?
+00:21:24	SN	Two A plus three A to the second power.
+00:21:26	T	And what is it, or why is it that we can't add them together. Jarko?
+00:21:29	SN	Because A is a side, and A squared is the area of the cube face.
+00:21:35	T	Very good. A segment of a squared number as I've shown you by drawing it out, cannot be added together.
+00:21:41	T	We have another similar example. Marcela please read the one we can't add up.
+00:21:47	SN	Yes, five X minus four Y, can't be calculated.
+00:21:51	T	Why can't we calculate it?
+00:21:54	SS	(inaudible)
+00:21:55	T	Because it's two different things. I must admit that I can't think of a better example than X and Y.
+00:22:02	T	I can't put these two together because I would not have anything out of it.
+00:22:08	T	In your books you have some examples such as number one. Since it's difficult to write in your notebooks, I'll distribute these strips of paper.
+00:22:19	T	Apply it to your work and write your work. Paul, please pass these behind you, count how many of you are on this side.
+00:22:27	T	This should be enough. Place the remaining sheets on my desk. I don't think you'll have enough on this side. I'll get more from Paul.
+00:22:36	T	So, use it to answer the questions and just write the answers, okay? Was there enough for you guys back there?
+00:22:45	SS	No.
+00:22:46	T	I knew there was not enough on your side. Yes, I'll give you a bigger one. Give me back the smaller sheet and you may start calculating.
+00:23:00	T	Assignment number one.
+00:23:15	T	Place it on your desk.
+00:23:58	SN	I'm done.
+00:23:59	T	You're done? Great. Why don't you just take a look at this problem, don't do it yet. Good.
+00:24:22	SN	I can't figure it out.
+00:24:24	T	This is five cubed plus three cubed equals...
+00:24:32	S	Eight.
+00:24:34	T	Eight cubed, so it's eight...
+00:24:37	S	Cubed.
+00:24:38	T	X cubed, correct. This is three squared, write it on the sheet of paper.
+00:24:48	T	Those of you that are finished, please raise your hand so I know when to check the results. Good, is it working out for you Paul?
+00:24:58	SN	Yes, I'm done.
+00:24:59	T	Good, we can start reviewing the answers. Why don't you start Lubo?
+00:25:05	SN	Three X cubed.
+00:25:08	SS	Eight X cubed.
+00:25:10	T	Yes, you just made a verbal mistake, fine. Paul?
+00:25:13	SN	Three X squared.
+00:25:15	SS	Four X squared.
+00:25:18	T	Okay? The problem is three squared and one squared, which is four. Marcela?
+00:25:26	SN	Ten X to the fifth power.
+00:25:30	T	Good, that's a bit more difficult for us at this time because we've said that we'll go up to the fourth power for now, but the answer is 10 X to the fifth power.
+00:25:40	T	Paul?
+00:25:41	SN	Four A to the fourth power.
+00:25:42	T	Good. Marcela?
+00:25:45	SN	Six A to the fourth power.
+00:25:46	T	Good. Lubo?
+00:25:49	SN	Negative one A to the fourth power.
+00:25:51	T	Yes. Jana?
+00:25:54	SN	Negative Y squared.
+00:25:55	T	Great. Teresa?
+00:25:58	SN	Negative one Y to the fourth power.
+00:26:00	SS	No, no. One.
+00:26:02	T	Positive, number correct? Two Y minus one equals two. Lukas?
+00:26:06	SN	That one can't be solved.
+00:26:07	T	Very good. Why is that?
+00:26:09	SS	There are two different exponents.
+00:26:11	T	Okay, two different exponents. One is squared and the other one is cubed, of course.
+00:26:18	T	Okay, Martin was the first person to be done, so he had the time to take a look at number two.
+00:26:23	T	Now he'll try to explain what exactly are we going to do with this problem.
+00:26:27	SN	We'll use either subtraction or addition depending on the circle.
+00:26:32	T	Very good, so give it a try so we know how to do it.
+00:26:35	S	Well, plus three X squared, we'll subtract it from negative two...
+00:26:44	T	I think Martin, we should start with...
+00:26:46	SS	X squared which is in the middle.
+00:26:48	T	The middle which is X squared. Calculate three X squared.
+00:26:52	SS	Four.
+00:26:53	T	Four X squared. Now we keep on going.
+00:26:55	SS	(inaudible)
+00:26:57	T	Yes, that's two X squared and what else?
+00:26:59	SN	Six X squared.
+00:27:00	T	Good six X squared, minus...
+00:27:02	SS	Is one X squared.
+00:27:03	T	Is one X squared and as you can see we got into the circle. Let's try another one.
+00:27:09	SS	Two A cubed.
+00:27:11	T	Yes!
+00:27:11	SS	Three A cubed.
+00:27:13	T	Yes!
+00:27:13	SS	Eight A cubed, one A cubed.
+00:27:16	T	And once again we got back into the circle. Great.
+00:27:18	T	I guess we know these assignments and now I'll give you some assignments and you'll try to calculate them.
+00:27:26	T	Once again, please write the calculations on the sheet of paper. Here you go? Paul is getting a little something different.
+00:27:35	T	One for you Martin, here is one for the other Martin. Please clean up your desk so you can have plenty of... yes you may start calculating.
+00:27:48	T	Okay, you may do this one, you were very good with that one last time. You can try this one, you this one, Peter and Bara gets one.
+00:28:03	T	I can give you this one as well. Martin, this one and this as well. Start calculating the assignments. Yes, it's not too much work.
+00:28:24	T	I have enough for you two. Great. Very good Martin. Yes, yes. You're a clever girl. Sit up or you'll have crookback.
+00:28:56	SN	Really?
+00:28:57	T	Yes.
+00:29:00	SN	We have to do the entire page?
+00:29:02	T	Yes, the entire page. Do you need anything?
+00:29:16	SN	No, nothing at this time.
+00:29:17	T	Fine.
+00:29:24	SN	(inaudible)
+00:29:27	T	(inaudible)
+00:29:28	S	Can this be for an example, three plus one.
+00:29:30	T	Well and what is it going to be, zero A to the fifth power. It's zero times A to the fifth power, which is?
+00:29:37	S	Zero.
+00:29:37	T	Zero, okay? Because when you take this formula and minus it with the same formula, you get zero, so write equals zero.
+00:29:50	SN	Teacher!
+00:29:50	T	Yes?
+00:29:51	S	Should I continue here?
+00:29:53	T	This is already calculated, you just have to review it to see if it's correct. Done, very good.
+00:30:00	SN	The entire page?
+00:30:01	T	Excuse me!
+00:30:05	S	We have to figure out... C and D?
+00:30:08	SN	Are we doing the entire page?
+00:30:09	T	You need an advice? Yes, you're doing the entire page.
+00:30:12	SN	The results... (inaudible).
+00:30:16	T	Yes, you may.
+00:30:32	SN	Your work is easy?
+00:30:37	T	What are you saying?
+00:30:40	T	(inaudible)... five to the fourth power.
+00:30:46	S	Okay.
+00:30:49	T	Five C to the fourth power. And it is five C to the fourth power isn't it?
+00:30:52	S	Well yes.
+00:30:54	T	You have negative here so you're going to find five C to the fourth power over here.
+00:30:58	S	Fine.
+00:31:03	SN	(inaudible)
+00:31:12	T	Well, A squared minus two A squared. Find out whether it's true or not. You're supposed to change over the expression, okay?
+00:31:20	T	That means this is minus A to the second power. This over here, whether it's negative A...
+00:31:25	S	(inaudible)
+00:31:28	T	Okay and down here you have the answers so why don't you check your work.
+00:31:41	T	You've scratched this out because it's not correct, yes?
+00:31:43	SN	That was already crossed out.
+00:31:43	T	That was already crossed out, fine. You must change over the numbers here as well. Very good, are you checking your work?
+00:31:55	T	Unfortunately, you will not be able to see the incorrect answer. Just cross out the incorrect answer next time. Martin is finished?
+00:32:04	T	Try this down here, this formula and change over the expression. Okay? Yes!
+00:32:14	SN	Three. (inaudible)
+00:32:22	T	Yes?
+00:32:26	SN	Is that correct?
+00:32:29	T	Very good, you're so smart. Did you check this one to see if it's correct? Verify it to make sure it's correct.
+00:32:34	S	Why?
+00:32:36	T	This may not be correct.
+00:32:38	S	I'm satisfied with it.
+00:32:39	T	Are you sure?
+00:32:40	SN	Teacher! If I have a problem for example zero A to the fifth power, is that zero?
+00:32:42	T	Yes.
+00:32:43	SN	But I can write zero A to the fifth power.
+00:32:46	T	Well yes, but that equals zero. The previous formula is a partial answer.
+00:32:50	S	Would it be wrong if it said...
+00:32:52	SN	Do we have to do these along the sides as well?
+00:32:54	SN	A squared... zero A squared. Is that incorrect?
+00:32:54	T	Yes, yes.
+00:32:58	T	It's not an answer. It's only a partial answer.
+00:33:01	S	(inaudible)
+00:33:03	T	Correct. Yes?
+00:33:06	SN	If it says, zero A squared, is that zero?
+00:33:10	T	Yes, because zero times A squared is?
+00:33:13	S	Zero.
+00:33:14	T	Zero, very good. Yes?
+00:33:21	SN	Teacher, what am I supposed to do here?
+00:33:23	T	Here you have a formula and your assignment is to do the same here which is to change over the numbers where it's correct.
+00:33:28	T	And where you see the numbers incorrect, you just cross it out.
+00:33:30	S	So, I should do it like...
+00:33:31	T	Yes, yes. May I help you?
+00:33:34	SN	I'm done with my work.
+00:33:35	T	Excellent and did you finish this part as well?
+00:33:38	S	No!
+00:33:39	T	Why don't you take a look at it than.
+00:33:40	S	These were assigned to us as well?
+00:33:42	T	Yes.
+00:33:42	SN	(inaudible)
+00:33:45	T	First of all I would... It's calculated already, very good... It's not calculated here.
+00:33:49	SS	How do you calculate this... do I just write out the results?
+00:33:52	T	Read it carefully first. Yes?
+00:33:56	SS	(inaudible)
+00:34:02	T	No. Here you have negative four A squared, so you'll find it here and cross it out.
+00:34:06	SN	(inaudible)
+00:34:12	T	Yes and you crossed it out, correct? Of course you may.
+00:34:22	T	Okay, great. Now I would like everyone to stop. Please place your pencils down for a minute.
+00:34:35	T	You've noticed that everyone had a variety of work. So, those students that had assignments A and B, please raise your hands.
+00:34:45	T	Lubos is finished,
+00:34:47	T	So he'll take a seat in the back of the room and I will send him those students that have the same assignments and they will discuss and check their work.
+00:34:55	T	Once again, please raise your hand those of you that have A and B assignments.
+00:34:59	T	Fine, so Denisa is the second one to be finished, so she'll sit in the middle desk.
+00:35:06	T	Okay raise your hands so I can send you to your proper desk. Which of you had A and B assignments?
+00:35:12	T	Denisa is back there already so let's see...
+00:35:13	SN	Where am I going.
+00:35:15	T	You're going to Denisa's team, Petra goes to her as well, Bara... quietly please. Wait until I'm done.
+00:35:22	T	Bara goes to Lubos' team, Paul goes to Denisa, Teresa is with Lubos, Lukas is with Lubos as well.
+00:35:31	T	Is there anyone I did not call up?
+00:35:32	SN	Me!
+00:35:33	T	Rosta, you will go with them, good. Quietly please. Paul, let him pass you by. Which students had C and D assignments?
+00:35:43	T	You have what?
+00:35:44	SN	A and B.
+00:35:45	T	Okay, so you'll go with Lubos, yes? Which of you have C and D?
+00:35:52	T	The only people that will stay up here are Martin joined by Lukas, Marcy, Veronika... you will get Honza, Jana and Paul.
+00:36:15	T	And you two remained. Okay, one of you will go with the girls and the other one will go here, okay?
+00:36:23	SN	I should go with Verka?
+00:36:24	T	You will go with them. Actually, why don't you come back here, bring up a chair, stay here with this group to make it simple.
+00:36:35	T	You're supposed to compare the answers and if your results come out different, discuss it, okay?
+00:36:55	SS	This over here is incorrect. That should be zero. (inaudible)
+00:37:06	T	Honza will explain it to you. Which one did you work on?
+00:37:11	SN	I'm done. I had only one incorrect problem.
+00:37:13	T	What team were you part of?
+00:37:15	S	Well...
+00:37:15	T	Come back here so I can take a look at how you went over your work. Come back here.
+00:37:18	SN	(inaudible)
+00:37:19	T	Come back here so I can talk to you about it. Petra, Paul, come here.
+00:37:25	SN	I have everything correct.
+00:37:26	T	That's very good. Come, come. Petra as well, and Paul. Come on Paul so I can take a look at it and share information.
+00:37:47	T	Petra's work is here, fine and Paul is here, good. Once again, going over these math problems is important so all of you can learn.
+00:37:55	T	Okay, I would like to know how did you come up with number five.
+00:37:59	SN	Because we substituted X with one and one minus one equals zero. So X A cubed equals zero.
+00:38:04	T	I see, you've substituted X with one for example, and one cubed minus one cubed equals zero. Okay, now we know.
+00:38:09	T	Some students asked me, if they can use zero times X cubed. Would that answer work or is zero a more accurate answer?
+00:38:18	SN	It can be used as well.
+00:38:19	T	What is the result when you multiply zero times X cubed. If you calculate zero times X cubed the answer is zero.
+00:38:26	SN	Zero.
+00:38:27	T	So this is a complete answer. The previous example would have been an incomplete answer. Okay?
+00:38:31	T	Paul, which one were you having a hard time with so we can discuss it.
+00:38:34	SN	Well, I was having some difficulty with the last one.
+00:38:35	SN	The last one.
+00:38:36	T	And why did you have problems with this one. You did not read it accurately.
+00:38:39	SN	Okay, I see.
+00:38:40	T	Okay, so you didn't read it. Basically this part is similarly calculated, yes?
+00:38:46	T	Fine. Lucko, how many problems did you calculate on your own?
+00:38:49	SN	All of them.
+00:38:49	T	All the problems and you're satisfied with the results.
+00:38:51	S	Yes.
+00:38:52	T	Yes? So you had some problems in the beginning...
+00:38:53	S	When I figured out the formula, it got easy after that.
+00:38:54	T	It got easy for you, great. You may quietly return to your seats. How are you doing over here?
+00:39:04	SN	We've discussed all the problems.
+00:39:05	T	Excellent. You may return to your seats. Were you having any difficulty?
+00:39:08	S	No.
+00:39:09	T	Fine.
+00:39:13	SN	Negative C to the fourth power.
+00:39:15	SN	Negative C to the fourth power.
+00:39:16	T	You're making up the assignments.
+00:39:17	T	Well, fine. You did check the rest of your work, yes?
+00:39:20	S	Yes.
+00:39:21	T	You may return to your seats as well. Yes, I'm listening.
+00:39:27	SN	May I go to the restroom?
+00:39:28	T	Go ahead.
+00:39:30	SN	Five X cubed plus X minus X. Is that possible to calculate it?
+00:39:34	T	Yes, you can calculate it. The only thing remaining is? Positive X minus X equals to?
+00:39:37	SS	X, X, zero X.
+00:39:39	T	Zero, and the only thing remaining will be the grand total of...
+00:39:42	SN	Five X cubed.
+00:39:43	T	Five X cubed.
+00:39:44	S	I was right, do you see?
+00:39:46	T	If you're done checking your work, please return to your seat. You may return to your seats, okay?
+00:40:12	T	Good, I would like everyone to put everything down. We'll get back to... Lubos!
+00:40:18	T	We'll get back to the assignment which was given to you on Thursday.
+00:40:23	T	The story is... or the text is as follows. I'll read it again since you don't have it in front of you.
+00:40:29	T	Mr. Blacksmith forged Ritirov's horses. How do you want to trade?
+00:40:33	T	Horseshoes are for free Mr., but you must pay me for the 16 nails. Pay me for the nails which I used.
+00:40:44	T	For the first nail, give me two pennies, for the second nail give me four pennies.
+00:40:47	T	And for each additional nail pay me twice as much as the previous nail. This low amount will not even equal to one dollar.
+00:40:54	T	There is an error in the text. Evaluate if Mr. Ritirov is correct, when one dollar equals 100 pennies.
+00:41:00	T	Then you calculate how many pennies is Mr. Blacksmith going to get, and if it comes out to more than one dollar, tell us how much is it in dollars.
+00:41:06	T	I took a look at some of the students' work and I congratulate some of you on a good job.
+00:41:11	T	I looked at Martin's work which was completed here in class.
+00:41:14	T	And I'll ask him to come up here and write the result on the right side of the board. Write it vertically, okay? I'm listening?
+00:41:25	SN	I have it calculated (inaudible) two plus two is four, plus four is eight, eight plus eight is 16,
+00:41:36	S	and from 16, I got 66,176.
+00:41:40	T	And did you calculate it in dollars?
+00:41:45	S	No, I didn't because I did not want to add it up.
+00:41:46	T	Fine. I would like Martin to...
+00:41:50	T	Yes, you've all done your calculations but Martin will write on the board what he has done here on his paper.
+00:41:55	T	He wrote number two... okay fine and underneath that... now he'll write number one next to it. Next to it, write number one.
+00:42:09	T	Later on you'll understand where he's going with this. Then he wrote number four slash two, eight slash three,
+00:42:18	T	sixteen slash four, 32 slash five, 64 slash six, don't worry you will not have to write all the numbers.
+00:42:31	T	One hundred and twenty-eight slash seven, good. That should be enough. Can you figure out reasoning behind all of this?
+00:42:42	T	Is there some kind of correlation, or is it just a coincidence that it's number one, two, three times two, etc. Yes?
+00:42:53	SN	Power numbers.
+00:42:54	T	Power of what number.
+00:42:55	SN	The power of one and two.
+00:42:57	SN	To the second power.
+00:42:58	T	To the second power, very good. So number two is to the first power, four is...
+00:43:07	SS	Two squared.
+00:43:08	T	Excellent. Number three is... I mean number eight is...
+00:43:12	SS	Two cubed.
+00:43:12	T	Two cubed. So, these numbers are exponents...
+00:43:17	SS	Exponents.
+00:43:19	T	And the main number is always two and this is a powered number.
+00:43:23	O	[Intercom] Excuse me for the interruption.
+00:43:27	O	Due to our current situation, students will not be allowed to go out during the break.
+00:43:33	SS	Great!
+00:43:33	O	I'm handing over the microphone to the class representative of 8A.
+00:43:38	O	Today at 2:00 p.m. we have tournaments of between 8A and 8B.
+00:43:43	O	8B (inaudible) and now it's our turn.
+00:43:47	O	Today at 2:00 p.m. there is a tournament called "Who wants to be a millionaire" which will decide who moves up to the next level.
+00:43:54	O	Those of you that are interested in this tournament should go to room 8A at 1:55 p.m. to take an exam in mathematics.
+00:44:03	O	We look forward to your participation.
+00:44:09	T	Okay, since we don't have any time left, finalize... I'm very pleased that you recognized this as a squared number.
+00:44:16	T	Let's outline your homework. Number one to six may look overwhelming but it's just simplifying the expressions.
+00:44:24	T	Which you just did in class, okay?
+00:44:32	SN	Why didn't you assign number seven?
+00:44:35	T	Because I would like to go over number seven in class. But you may try it on your own.
+00:44:47	T	Did you write down your homework assignments?
+00:44:50	SN	Yes, I did.
+Ê
