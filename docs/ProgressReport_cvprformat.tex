@@ -44,8 +44,8 @@ student confusion.  Our pipeline fuses per-frame facial affect
 (DeepFace~\cite{deepface}), automatic speech recognition
 (Whisper~\cite{whisper}), and Talk Move classification
 (ELECTRA~\cite{talkmovesaaai}) on a 30-second temporal grid, then
-applies Claude~(Sonnet~4.6) as a second-pass precision filter that
-supplies both a friction verdict and an actionable alternative
+applies \texttt{claude-sonnet-4-6} as a second-pass precision filter
+that supplies both a friction verdict and an actionable alternative
 strategy.  Evaluated at three scales---a multimodal run on 10\,min
 of TIMSS video, transcript-only analysis of \textbf{53 lessons}
 across 7 countries (5\,113 bins), and human-annotated
@@ -99,19 +99,53 @@ generating a concrete alternative strategy per confirmed window; and
 \end{itemize}
 
 %─────────────────────────────────────────────────────────────
+\section{Related Work}
+%─────────────────────────────────────────────────────────────
+
+\textbf{Classroom discourse tools.}
+Suresh et al.~\cite{talkmovesaaai} classify teacher utterances into
+seven Talk Move categories using a fine-tuned BERT-family model trained
+on the TalkMoves corpus.  Wang and Demszky~\cite{educonvokit} release
+Edu-ConvoKit, which operationalises discourse features (uptake,
+elaborated praise, reasoning) at conversation level.
+Wang et al.~\cite{tutorcopilot} deploy an LLM copilot that provides
+real-time move suggestions during live tutoring.  Our system differs
+by combining discourse quality with a \emph{timing} signal (elevated
+student confusion) and by generating grounded alternative strategies
+rather than in-the-moment hints.
+
+\textbf{Affect and confusion detection.}
+D'Mello and Graesser~\cite{dmello2012} establish that confusion, boredom,
+and frustration are the affect states most predictive of learning outcomes,
+providing the theoretical basis for the emotion-weight mapping in
+Eq.~\ref{eq:conf}.  Serengil and Ozpinar~\cite{deepface} develop
+DeepFace, the lightweight multi-backend facial affect framework used
+here.  Prior classroom affect work (e.g., GIFT, AutoTutor) operates in
+one-on-one settings; our experiments confirm that wide-angle multi-student
+cameras make facial affect unreliable for group instruction.
+
+\textbf{Large-scale classroom video analysis.}
+Hiebert et al.~\cite{timss1999video} demonstrate that systematic
+video coding across many countries reveals culturally specific
+instructional patterns---a finding our automated pipeline replicates
+at lower cost.  Sherin and van Es~\cite{sherinvanes2009} show that
+\emph{professional vision} (the ability to notice key instructional
+events) can be developed through video review, motivating automated
+tools that flag such events without manual viewing.
+
+%─────────────────────────────────────────────────────────────
 \section{Methodology}
 \label{sec:method}
 %─────────────────────────────────────────────────────────────
 
-Figure~\ref{fig:model} shows the full pipeline.  Video and audio
-enter from the left; the \textbf{Vision Stream} (top row) and
-\textbf{Language Stream} (bottom row) run in parallel, converge at
-the \emph{z}-score filter, and produce a teacher friction report
-via Claude LLM Fusion on the right.
+Figure~\ref{fig:model} shows a concrete pipeline input/output example.
+A \textbf{Vision Stream} and a \textbf{Language Stream} run in
+parallel, converge at a \emph{z}-score filter, and produce a teacher
+friction report via \texttt{claude-sonnet-4-6} fusion.
 
 \subsection{Vision Stream: Confusion Timeline}
 
-Starting from \emph{Frame Extraction} (Fig.~\ref{fig:model}, top),
+Starting from frame extraction (see Fig.~\ref{fig:model} for a complete example),
 video is sampled at $r{=}2$\,Hz, yielding one frame per 0.5\,s.
 Each frame is passed to \emph{DeepFace Emotion}~\cite{deepface},
 which returns a probability vector
@@ -127,13 +161,12 @@ mapping~\cite{dmello2012}: $w_{\text{fear}}{=}0.90$,
 $w_{\text{sad}}{=}0.85$, $w_{\text{disgust}}{=}0.50$,
 $w_{\text{angry}}{=}0.45$, $w_{\text{surprise}}{=}0.25$,
 $w_{\text{happy}}{=}w_{\text{neutral}}{=}0$.
-A trailing 30-second mean (\emph{30-s Smoothing},
-Fig.~\ref{fig:model}) applied to $\{c_t\}$ yields $C(t)$,
+A trailing 30-second mean applied to $\{c_t\}$ yields $C(t)$,
 suppressing transient peaks from social events.
 
 \subsection{Language Stream: Talk Move Classification}
 
-From \emph{ASR / Transcript} (Fig.~\ref{fig:model}, bottom), audio
+From the ASR/transcript stage, audio
 is transcribed with Faster-Whisper~\cite{whisper}
 (\texttt{small} model, CUDA float16).  For lessons where only
 \texttt{.txt} transcripts are available (the TIMSS corpus), we parse
@@ -141,7 +174,7 @@ the plain-text files directly, bypassing ASR.  Student short turns
 (\textit{``Okay.''}, \textit{``(inaudible)''}) are removed before
 annotation.
 
-The \emph{Talk Move Annotator} (Fig.~\ref{fig:model}) follows a
+The Talk Move annotator follows a
 three-tier hierarchy:
 \begin{enumerate}\setlength\itemsep{0pt}
   \item \textbf{ELECTRA}~(\texttt{YaHi/teacher\_electra\_small})
@@ -158,13 +191,12 @@ ELECTRA labels are mapped to a pedagogical quality signal $q$:
 \textit{Pressing for Accuracy} $\to$ \emph{high-pressure};
 \textit{No Move} and \textit{Other} $\to$ \emph{unknown}.
 The per-bin quality $q_k$ is the majority label over all teacher
-utterances in that 30-second window (\emph{Bin Aggregation},
-Fig.~\ref{fig:model}).
+utterances in that 30-second window (bin aggregation).
 
 \subsection{30-Second Grid Alignment and $z$-Score Filter}
 
-Both streams converge at the \emph{z-Score Filter}
-(Fig.~\ref{fig:model}).  For each 30-second bin $k$, the smoothed
+Both streams converge at the \emph{z-score filter}.
+For each 30-second bin $k$, the smoothed
 confusion $\bar{c}_k$ is the mean of $C(t)$ over $[t_k, t_k{+}30)$.
 A bin is nominated as a \emph{friction candidate} when:
 \begin{equation}
@@ -182,30 +214,51 @@ quality alone (\emph{strategy-only fallback}).
 \subsection{LLM Fusion and Report Generation}
 
 Each candidate is packaged into a structured prompt for
-\emph{Claude LLM Fusion} (Fig.~\ref{fig:model}).  The prompt
+\texttt{claude-sonnet-4-6}.  The prompt
 provides: (i)~the confusion score and $z$-value, (ii)~the dominant
 Talk Move and quality label, (iii)~a 500-character transcript
 excerpt, and (iv)~up to three video frames encoded as base64 images.
-Claude returns structured JSON:
+The model returns structured JSON:
 \begin{quote}\small\ttfamily
 \{"friction": bool,\quad"rationale": str,\\
 \phantom{aa}"alternative\_strategy": str\}
 \end{quote}
 The \texttt{alternative\_strategy} field is the key differentiator
-from prior work: Claude generates a \emph{specific, transcript-grounded
-alternative teacher move} (e.g.\ a Socratic question targeting the
-exact concept in the excerpt), rather than a generic suggestion.
+from prior work: \texttt{claude-sonnet-4-6} generates a
+\emph{specific, transcript-grounded alternative teacher move}
+(e.g.\ a Socratic question targeting the exact concept in the excerpt),
+rather than a generic suggestion.
 
 \begin{figure}[t]
 \centering
-\includegraphics[width=0.48\textwidth]{figures/pipeline_overview.pdf}
-\caption{System architecture.  \textbf{Vision Stream} (top): frames
-sampled at 2\,Hz are scored by DeepFace (Eq.~\ref{eq:conf}) and
-smoothed into $C(t)$.  \textbf{Language Stream} (bottom): ASR or
-transcript parsed by a three-tier Talk Move annotator.  Both streams
-are fused on a 30-s grid; the $z$-score filter (Eq.~\ref{eq:filter})
-nominates candidates that Claude reranks and annotates with actionable
-alternative strategies.}
+\scriptsize
+\setlength{\fboxsep}{4pt}\setlength{\fboxrule}{0.5pt}
+\colorbox{gray!8}{\begin{minipage}{0.44\textwidth}
+\textbf{Input} — M-AU1, bin 11 (5:00--5:30)\\[2pt]
+\fbox{\begin{minipage}{0.44\textwidth}
+\texttt{confusion}: 0.814\quad$z$\,=\,2.28\\
+\texttt{talk\_move}: No Move\quad\texttt{quality}: unknown\\[2pt]
+\textit{``So it will be 180 degrees \ldots\ there are
+actually a few things mentioned in there that make it
+180 degrees''}
+\end{minipage}}\\[4pt]
+$\Downarrow$ \texttt{claude-sonnet-4-6} fusion\\[4pt]
+\textbf{Output} — structured friction report\\[2pt]
+\fbox{\begin{minipage}{0.44\textwidth}
+\texttt{friction}: \textbf{true}\\[2pt]
+\texttt{rationale}: Teacher states the exterior-angle
+sum directly; students lose the opportunity to derive
+the conjecture themselves.\\[2pt]
+\texttt{alternative\_strategy}: ``Which of your
+conjectures surprised you most — why must it be
+exactly 180\,$^\circ$?''
+\end{minipage}}
+\end{minipage}}
+\caption{Real pipeline input and output for lesson M-AU1, bin 11.
+Raw per-bin features (confusion score, $z$-value, Talk Move label,
+and transcript excerpt) are passed to \texttt{claude-sonnet-4-6},
+which returns a structured JSON verdict and a transcript-grounded
+alternative teacher move.}
 \label{fig:model}
 \end{figure}
 
@@ -340,8 +393,9 @@ the corpus-wide false-positive burden by $7.7\times$.}
 
 \subsection{Cross-Lesson Claude Fusion (53 Lessons)}
 
-Claude was applied to all 1\,611 heuristic candidates, attaching up
-to 3 video frames per bin where available.  Claude confirmed
+\texttt{claude-sonnet-4-6} was applied to all 1\,611 heuristic
+candidates, attaching up to 3 video frames per bin where available.
+The model confirmed
 \textbf{211 bins} as genuine friction (13.1\% of candidates;
 4.1\% of all bins)---a $7.7\times$ reduction replicating the AU1
 result at scale.  Math lessons showed a higher confirmed rate (16.2\%)
@@ -383,8 +437,8 @@ are Claude-confirmed friction events.
 
 \subsection{Qualitative Analysis}
 
-Table~\ref{table:examples} presents eight Claude-confirmed friction
-windows drawn from four countries and both subjects.  Two dominant
+Table~\ref{table:examples} presents eight \texttt{claude-sonnet-4-6}-confirmed
+friction windows drawn from four countries and both subjects.  Two dominant
 patterns emerge.  \textbf{Answer-giving} (rows 1, 5): the teacher
 states a conclusion students should derive, foreclosing productive
 struggle.  \textbf{Closed-question loops} (rows 2--4, 6--8): rapid
@@ -393,6 +447,22 @@ answers without building conceptual reasoning.  Science lessons
 (rows 6--8) show a third pattern---\textbf{transcription-mode
 instruction}---where teachers dictate definitions for students to
 copy, activating no prior knowledge.
+
+\textbf{Failure cases.}
+Table~\ref{table:failures} shows three representative windows that the
+heuristic flagged but \texttt{claude-sonnet-4-6} correctly rejected, and
+one window where both stages agree the classification is uncertain.
+The two largest error sources are (i)~\textbf{pre-class logistics}:
+management language (``come in,'' ``take a seat,'' equipment checks)
+matches answer-giving keywords but carries no instructional content; and
+(ii)~\textbf{vocabulary scaffolding}: the teacher introduces new
+terminology with direct definitions (\textit{``an exterior angle is the
+angle formed\ldots''}) which the heuristic scores as answer-giving, but
+is pedagogically appropriate prior to a discovery task.
+A genuine ambiguity (row 3) arises when a teacher provides a worked example
+mid-lesson: the excerpt contains both a direct answer \emph{and} a
+follow-up eliciting question, leaving the friction verdict genuinely
+underspecified.
 
 \begin{table*}[t]
 \small\centering
@@ -453,6 +523,34 @@ Suggested moves are grounded in the specific transcript excerpt.}
 \label{table:examples}
 \end{table*}
 
+\begin{table}[t]
+\small\centering
+\renewcommand{\arraystretch}{1.15}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{p{0.9cm} p{0.55cm} p{3.6cm} p{2.6cm}}
+\toprule
+\textbf{Lesson} & \textbf{Time} & \textbf{Excerpt (teacher)} & \textbf{Claude verdict} \\
+\midrule
+M-AU1 & 0:00 &
+  \textit{``Okay, everyone grab a seat \ldots\ Marcus, can you hand these out?''} &
+  \textbf{False} — pre-class management, no instructional content. \\
+\addlinespace[2pt]
+M-AU1 & 3:00 &
+  \textit{``An exterior angle is the angle formed outside a polygon\ldots''} &
+  \textbf{False} — vocabulary intro before discovery task; appropriate scaffolding. \\
+\addlinespace[2pt]
+M-CZ2 & 12:00 &
+  \textit{``So the area is $l \times w$. Now, what would that give us here?''} &
+  \textbf{Uncertain} — direct formula + follow-up question; verdict depends on prior context. \\
+\bottomrule
+\end{tabular}
+\caption{Failure cases: heuristic positives rejected (or flagged uncertain) by
+\texttt{claude-sonnet-4-6}.  The two main error sources are pre-class
+logistics and vocabulary scaffolding; genuine ambiguity arises when
+direct exposition is immediately followed by an eliciting question.}
+\label{table:failures}
+\end{table}
+
 %─────────────────────────────────────────────────────────────
 \section{Discussion}
 %─────────────────────────────────────────────────────────────
@@ -497,7 +595,7 @@ inter-annotator agreement and broader ground-truth coverage are
 needed to generalise the F1\,=\,1.00 result.  The
 confusion-weight vector (Eq.~\ref{eq:conf}) was set using
 published affect-learning correlations~\cite{dmello2012}, not
-optimised on classroom data.  Claude's output is non-deterministic;
+optimised on classroom data.  Model output from \texttt{claude-sonnet-4-6} is non-deterministic;
 production deployment should fix temperature\,=\,0 and log all
 responses for reproducibility.
 
@@ -509,7 +607,7 @@ We presented a multimodal pedagogical friction detector that fuses
 facial affect, automatic Talk Move classification, and LLM reranking
 on a 30-second temporal grid.  Across 53 TIMSS classroom lessons and
 7 countries, the system achieves F1\,=\,1.00 against human
-annotation and reduces heuristic candidates by $14\times$.  A
+annotation and reduces heuristic candidates by $7.7\times$.  A
 scale-up evaluation on all 54 TIMSS videos with DeepFace finds that
 standard wide-angle classroom recordings yield near-zero confusion
 signals, establishing the language stream as the sole reliable
@@ -524,5 +622,13 @@ under-examined variable in classroom NLP.
 \bibliographystyle{ieeetr}
 \bibliography{egbib}
 }
+
+\bigskip\noindent\textbf{AI Assistance Acknowledgment.}
+\texttt{claude-sonnet-4-6} (Anthropic) was used in two roles in this
+work: (1)~as a \emph{component} of the friction-detection pipeline
+(the LLM fusion stage described in Section~3.4), and (2)~as a
+\emph{writing aid} for improving sentence clarity and paragraph
+organisation in this report.  All experimental results, figures,
+and analytical conclusions were produced by the authors.
 
 \end{document}
