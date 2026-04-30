@@ -102,36 +102,19 @@ generating a concrete alternative strategy per confirmed window; and
 \section{Related Work}
 %─────────────────────────────────────────────────────────────
 
-\textbf{Classroom discourse tools.}
 Suresh et al.~\cite{talkmovesaaai} classify teacher utterances into
-seven Talk Move categories using a fine-tuned BERT-family model trained
-on the TalkMoves corpus.  Wang and Demszky~\cite{educonvokit} release
-Edu-ConvoKit, which operationalises discourse features (uptake,
-elaborated praise, reasoning) at conversation level.
-Wang et al.~\cite{tutorcopilot} deploy an LLM copilot that provides
-real-time move suggestions during live tutoring.  Our system differs
-by combining discourse quality with a \emph{timing} signal (elevated
-student confusion) and by generating grounded alternative strategies
-rather than in-the-moment hints.
-
-\textbf{Affect and confusion detection.}
-D'Mello and Graesser~\cite{dmello2012} establish that confusion, boredom,
-and frustration are the affect states most predictive of learning outcomes,
-providing the theoretical basis for the emotion-weight mapping in
-Eq.~\ref{eq:conf}.  Serengil and Ozpinar~\cite{deepface} develop
-DeepFace, the lightweight multi-backend facial affect framework used
-here.  Prior classroom affect work (e.g., GIFT, AutoTutor) operates in
-one-on-one settings; our experiments confirm that wide-angle multi-student
-cameras make facial affect unreliable for group instruction.
-
-\textbf{Large-scale classroom video analysis.}
-Hiebert et al.~\cite{timss1999video} demonstrate that systematic
-video coding across many countries reveals culturally specific
-instructional patterns---a finding our automated pipeline replicates
-at lower cost.  Sherin and van Es~\cite{sherinvanes2009} show that
-\emph{professional vision} (the ability to notice key instructional
-events) can be developed through video review, motivating automated
-tools that flag such events without manual viewing.
+Talk Move categories using a fine-tuned ELECTRA model; Wang and
+Demszky~\cite{educonvokit} provide NLP utilities for educational
+dialogues; Wang et al.~\cite{tutorcopilot} deploy an LLM copilot for
+live tutoring.  None fuses discourse quality with a concurrent affect
+signal or generates transcript-grounded alternative strategies.
+D'Mello and Graesser~\cite{dmello2012} establish that confusion and
+frustration are the affect states most predictive of learning outcomes,
+motivating the emotion-weight mapping in Eq.~\ref{eq:conf}.
+Hiebert et al.~\cite{timss1999video} and Sherin and van
+Es~\cite{sherinvanes2009} demonstrate the value of systematic
+classroom video coding and \emph{professional vision} training,
+which our automated pipeline aims to replicate at scale.
 
 %─────────────────────────────────────────────────────────────
 \section{Methodology}
@@ -284,27 +267,17 @@ resolve.
 
 \subsection{Full Video Pipeline at Scale (54 Lessons)}
 
-All 54 TIMSS videos were processed end-to-end via SLURM GPU array
-jobs (NVIDIA A40): frames extracted at 2\,Hz, Whisper (\texttt{small},
-float16) for ASR, heuristic strategy annotation, and local LLM fusion.
-DeepFace returned $\bar{c}_k{=}0$ for \emph{every bin in every lesson}
-(5\,318 bins total).  Post-hoc inspection confirms that TIMSS videos
-are shot from wide-angle cameras at the back of the room; student
-faces subtend fewer than 20 pixels and are mostly labelled
-\textit{neutral} or \textit{happy} by the face detector, both of which
-carry zero weight in Eq.~\ref{eq:conf}.  The only exception was the AU1
-10-minute opening clip (Section~3.1), where late-arriving students
-walked close to the camera producing detectable affect.
-
-The pipeline therefore fell back to strategy-only candidate selection
-(Section~2.3) for all 54 full lessons.  Of 1\,797 strategy-flagged
-bins, local LLM fusion confirmed \textbf{21 genuine friction moments}
-(1.2\% of candidates; 0.4\% of all bins).  The lower confirmation
-rate relative to transcript-only analysis (Section~3.3) reflects
-Whisper transcription differences from the manual TIMSS transcripts
-used in that experiment.  This finding establishes a practical
-boundary condition: DeepFace-based affect is not a reliable signal
-for standard TIMSS-style classroom recordings.
+All 54 TIMSS videos were processed via SLURM GPU array jobs
+(NVIDIA A40): 2\,Hz frame extraction, Whisper (\texttt{small},
+float16) ASR, heuristic strategy annotation, and local LLM fusion.
+DeepFace returned $\bar{c}_k{=}0$ for every bin in every lesson
+(5\,318 bins): TIMSS wide-angle cameras render faces $<$20 pixels,
+labelled \textit{neutral} or \textit{happy} by the detector, both
+carrying zero weight in Eq.~\ref{eq:conf}.  The pipeline fell back
+to strategy-only selection for all 54 lessons; of 1\,797 flagged
+bins, LLM fusion confirmed \textbf{21 friction moments} (0.4\% of
+bins).  This establishes a boundary condition: DeepFace is not a
+reliable signal for standard classroom recordings.
 
 \subsection{Scale-Up: 53 TIMSS Lessons (Transcript-Only)}
 
@@ -394,21 +367,15 @@ the corpus-wide false-positive burden by $7.7\times$.}
 \subsection{Cross-Lesson Claude Fusion (53 Lessons)}
 
 \texttt{claude-sonnet-4-6} was applied to all 1\,611 heuristic
-candidates, attaching up to 3 video frames per bin where available.
-The model confirmed
-\textbf{211 bins} as genuine friction (13.1\% of candidates;
-4.1\% of all bins)---a $7.7\times$ reduction replicating the AU1
-result at scale.  Math lessons showed a higher confirmed rate (16.2\%)
-than science (9.2\%), consistent with the tighter discourse norms
-in mathematics where direct answer-giving is more readily identified
-as inappropriate.  Figure~\ref{fig:heuristic_claude} disaggregates
-confirmation rates by country: Czech Republic and Hong Kong achieve
+candidates.  The model confirmed \textbf{211 bins} as genuine friction
+(13.1\%; $7.7\times$ reduction).  Math showed a higher confirmation
+rate (16.2\%) than science (9.2\%).  Figure~\ref{fig:heuristic_claude}
+disaggregates by country: Czech Republic and Hong Kong reach
 $\sim$20\%, while Japan and the US fall below 10\%---Japan because
-culturally appropriate direct instruction is flagged by the
-English-centric heuristic; the US because its high heuristic recall
-includes many rhetorical patterns that Claude does not judge as
-friction.  Figure~\ref{fig:timeline} shows the full AU1 timeline
-with heuristic candidates and the 7 Claude-confirmed friction events.
+culturally appropriate direct instruction is over-flagged by the
+English-centric heuristic; the US because high heuristic recall
+captures many rhetorical patterns that the model does not judge as
+friction.
 
 \begin{figure*}[t]
 \centering
@@ -424,17 +391,6 @@ reduction.}
 \label{fig:heuristic_claude}
 \end{figure*}
 
-\begin{figure}[t]
-\centering
-\includegraphics[width=0.48\textwidth]{figures/strategy_timeline_mau1.pdf}
-\caption{Strategy quality timeline for AU1 (87 bins, $\approx$43\,min).
-Colour: green\,=\,high quality, red\,=\,low, grey\,=\,unknown.
-Shaded spans mark heuristic candidates; numbered triangles ({\small$\blacktriangle$})
-are Claude-confirmed friction events.
-20 heuristic candidates reduce to 7 confirmed friction windows.}
-\label{fig:timeline}
-\end{figure}
-
 \subsection{Qualitative Analysis}
 
 Table~\ref{table:examples} presents eight \texttt{claude-sonnet-4-6}-confirmed
@@ -449,20 +405,15 @@ instruction}---where teachers dictate definitions for students to
 copy, activating no prior knowledge.
 
 \textbf{Failure cases.}
-Table~\ref{table:failures} shows three representative windows that the
-heuristic flagged but \texttt{claude-sonnet-4-6} correctly rejected, and
-one window where both stages agree the classification is uncertain.
-The two largest error sources are (i)~\textbf{pre-class logistics}:
-management language (``come in,'' ``take a seat,'' equipment checks)
-matches answer-giving keywords but carries no instructional content; and
-(ii)~\textbf{vocabulary scaffolding}: the teacher introduces new
-terminology with direct definitions (\textit{``an exterior angle is the
-angle formed\ldots''}) which the heuristic scores as answer-giving, but
-is pedagogically appropriate prior to a discovery task.
-A genuine ambiguity (row 3) arises when a teacher provides a worked example
-mid-lesson: the excerpt contains both a direct answer \emph{and} a
-follow-up eliciting question, leaving the friction verdict genuinely
-underspecified.
+The heuristic's 19 AU1 false alarms fall into two categories that
+\texttt{claude-sonnet-4-6} correctly rejects: \textbf{pre-class
+logistics} (``grab a seat \ldots\ hand these out''---management
+keywords but no instructional content) and \textbf{vocabulary
+scaffolding} (``an exterior angle is \ldots''---appropriate
+prior-knowledge build-up before a discovery task).  A genuine
+ambiguity arises when a teacher states a formula then immediately
+asks a follow-up question; the verdict depends on prior context not
+captured in a single 30-second window.
 
 \begin{table*}[t]
 \small\centering
@@ -523,81 +474,30 @@ Suggested moves are grounded in the specific transcript excerpt.}
 \label{table:examples}
 \end{table*}
 
-\begin{table}[t]
-\small\centering
-\renewcommand{\arraystretch}{1.15}
-\setlength{\tabcolsep}{4pt}
-\begin{tabular}{p{0.9cm} p{0.55cm} p{3.6cm} p{2.6cm}}
-\toprule
-\textbf{Lesson} & \textbf{Time} & \textbf{Excerpt (teacher)} & \textbf{Claude verdict} \\
-\midrule
-M-AU1 & 0:00 &
-  \textit{``Okay, everyone grab a seat \ldots\ Marcus, can you hand these out?''} &
-  \textbf{False} — pre-class management, no instructional content. \\
-\addlinespace[2pt]
-M-AU1 & 3:00 &
-  \textit{``An exterior angle is the angle formed outside a polygon\ldots''} &
-  \textbf{False} — vocabulary intro before discovery task; appropriate scaffolding. \\
-\addlinespace[2pt]
-M-CZ2 & 12:00 &
-  \textit{``So the area is $l \times w$. Now, what would that give us here?''} &
-  \textbf{Uncertain} — direct formula + follow-up question; verdict depends on prior context. \\
-\bottomrule
-\end{tabular}
-\caption{Failure cases: heuristic positives rejected (or flagged uncertain) by
-\texttt{claude-sonnet-4-6}.  The two main error sources are pre-class
-logistics and vocabulary scaffolding; genuine ambiguity arises when
-direct exposition is immediately followed by an eliciting question.}
-\label{table:failures}
-\end{table}
-
 %─────────────────────────────────────────────────────────────
 \section{Discussion}
 %─────────────────────────────────────────────────────────────
 
-\textbf{Two-stage design is necessary.}
-Neither stage alone is sufficient.  The keyword heuristic provides
-high recall (R\,=\,1.00 on AU1) at the cost of very low precision
-(P\,=\,0.05): it fires on surface rhetorical patterns (pre-class
-logistics, vocabulary scaffolding) that are not genuine friction.
-ELECTRA achieves moderate recall on structural Talk Moves but misses
-semantic friction---direct answer-giving maps to \emph{No Move},
-not to any low-quality label.  Claude is complementary: it reads
-\emph{meaning} rather than structure, retaining windows where a
-more dialogic move would genuinely benefit learning.
-
-\textbf{Vision is unreliable for TIMSS-style recordings.}
-Running DeepFace on all 54 full TIMSS lessons returned confusion
-$\bar{c}_k{=}0$ everywhere: wide-angle classroom cameras produce
-faces too small and too expressionally neutral for affect detection.
-The sole exception was the AU1 10-minute opening clip where students
-walked close to the camera, producing a spurious social-disruption
-peak ($\bar{c}{=}0.814$) that Claude correctly rejected.  This
-establishes a clear boundary: the language stream is the only
-reliable primary channel for pedagogical friction detection in
-standard classroom recordings.  Vision adds contextual grounding
-for LLM reranking but cannot drive candidate selection at scale.
-
-\textbf{Cultural variability matters.}
-The $r{=}{-}0.35$ cross-annotator correlation and the
-32-percentage-point US divergence reveal that annotation
-methodology is a first-class design variable.  The heuristic
-overfits to English rhetorical patterns; ELECTRA's discourse-move
-labels generalise structurally but miss semantic friction in
-non-English classrooms.  The country-level Claude confirmation
-rates (Fig.~\ref{fig:heuristic_claude}) quantify this: Japanese
-lessons have many heuristically-flagged bins that Claude correctly
-identifies as culturally appropriate direct instruction.
+\textbf{Two-stage design and cultural variability.}
+The keyword heuristic provides high recall (R\,=\,1.00) but very
+low precision (P\,=\,0.05), firing on logistics and scaffolding.
+ELECTRA misses semantic friction because direct answer-giving maps
+to \emph{No Move}, not a low-quality label.  \texttt{claude-sonnet-4-6}
+is complementary: it reads \emph{meaning} rather than surface structure.
+The $r{=}{-}0.35$ cross-annotator correlation and 32\,pp US divergence
+reveal that annotation methodology is a first-class design variable;
+country-level confirmation rates (Fig.~\ref{fig:heuristic_claude})
+show the heuristic overfits to English rhetorical patterns while
+Japanese lessons are frequently over-flagged.
 
 \textbf{Limitations.}
-Human annotation covers one lesson by one annotator;
-inter-annotator agreement and broader ground-truth coverage are
-needed to generalise the F1\,=\,1.00 result.  The
-confusion-weight vector (Eq.~\ref{eq:conf}) was set using
-published affect-learning correlations~\cite{dmello2012}, not
-optimised on classroom data.  Model output from \texttt{claude-sonnet-4-6} is non-deterministic;
-production deployment should fix temperature\,=\,0 and log all
-responses for reproducibility.
+Human annotation covers one lesson by one annotator; broader ground
+truth is needed.  The confusion-weight vector (Eq.~\ref{eq:conf})
+uses published correlations~\cite{dmello2012}, not classroom-optimised
+values.  Wide-angle TIMSS cameras make vision a weak primary signal;
+future work should test close-up or multi-camera setups where
+DeepFace yields non-zero confusion.  Model output is non-deterministic;
+production deployment should fix temperature\,=\,0.
 
 %─────────────────────────────────────────────────────────────
 \section{Conclusion}
