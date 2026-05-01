@@ -53,4 +53,5 @@ COMP 646, Rice University, 2025.
 
 ## License
 
-TIMSS transcript data: follow [TIMSSVIDEO](https://www.timssvideo.com/) terms. Code in this repo is released under the [MIT License](LICENSE).
+Code: [MIT License](LICENSE).
+TIMSS transcript data: follow [TIMSSVIDEO](https://www.timssvideo.com/) terms of use.
