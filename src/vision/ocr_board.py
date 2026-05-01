@@ -3,7 +3,7 @@ Stretch goal (proposal §4): OCR on board/slide crops.
 
 For each sampled frame the top ``board_crop_ratio`` of the image is cropped
 (where the classroom board typically appears) and passed through Tesseract OCR.
-The returned text is appended to the dialogue context window before Qwen fusion,
+The returned text is appended to the dialogue context window before LLM fusion,
 giving the model a three-way signal: student affect, teacher speech, board text.
 
 Requirements:

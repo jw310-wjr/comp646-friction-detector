@@ -1,0 +1,62 @@
+Teacher Friction Report
+=======================
+Video: /home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/_session_head.mp4
+Work directory: /home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1
+
+Alignment bins (30 s grid): 21
+Heuristic candidates: 7
+Multimodal fusion entries: 7
+Confirmed friction moments: 0
+
+--- Event 1 [1:00–1:30] ---
+Confusion score: 0.678 (z=1.05)
+Strategy: low | Moves: ['No Move']
+Transcript: They're not supposed to be coming in here, because we're doing this.
+Friction: ✓ Not friction
+Rationale: High facial confusion (0.678) reflects students still physically settling into the room, not pedagogical confusion. The teacher is managing a classroom disruption (uninvited students), not delivering instruction.
+
+--- Event 2 [1:30–2:00] ---
+Confusion score: 0.814 (z=2.28)
+Strategy: low | Moves: ['No Move']
+Transcript: They're not supposed to be coming in here, because we're doing this.
+Friction: ✓ Not friction
+Rationale: Highest confusion score in the clip (0.814) but caused by late-arriving students disrupting the room setup — faces show surprise/concern about seating, not about content. No instructional move is being made.
+
+--- Event 3 [2:00–2:30] ---
+Confusion score: 0.677 (z=1.05)
+Strategy: low | Moves: ['No Move']
+Transcript: They're not supposed to be coming in here, because we're doing this. Oh, sure, it doesn't anymore. Well, I like to sit outside there, I think.
+Friction: ✓ Not friction
+Rationale: Continued pre-class management; elevated affect is from social disruption, not instructional confusion. Teacher is resolving a seating issue, which is appropriate classroom management.
+
+--- Event 4 [2:30–3:00] ---
+Confusion score: 0.647 (z=0.77)
+Strategy: low | Moves: ['No Move']
+Transcript: Well, I like to sit outside there, I think. You'll need to just sit over there. When you start by taking out this sheet that we're looking at the other day, we're going to be looking at something a bi
+Friction: ✓ Not friction
+Rationale: Transition to lesson start ('taking out this sheet'). Confusion score (0.647) reflects lingering social affect from the seating disruption, not a response to poor instruction.
+
+--- Event 5 [3:00–3:30] ---
+Confusion score: 0.720 (z=1.43)
+Strategy: low | Moves: ['No Move']
+Transcript: we're going to be looking at something a bit similar today. Just have a look at the bit down here for a moment, where it says, I'll present your findings.
+Friction: ✓ Not friction
+Rationale: Teacher introduces today's activity ('something a bit similar'). Slightly elevated confusion (0.720) likely reflects students orienting to a new task. This is a normal lesson-opening transition, not low-quality instruction.
+
+--- Event 6 [6:00–6:30] ---
+Confusion score: 0.607 (z=0.41)
+Strategy: low | Moves: ['No Move']
+Transcript: firstly everyone just individually read through the page, please. Okay, that's enough for just a quick read through.
+Friction: ✓ Not friction
+Rationale: Teacher asks students to individually read a worksheet ('read through the page'). Mild confusion (0.607) is consistent with students beginning to process new written material — an appropriate and common instructional routine.
+
+--- Event 7 [8:00–8:30] ---
+Confusion score: 0.632 (z=0.64)
+Strategy: low | Moves: ['No Move']
+Transcript: Let's do this with a brief discussion with the person next to you, please.
+Friction: ✓ Not friction
+Rationale: Teacher asks students to do a 'brief discussion with the person next to you' — this is a high-quality collaborative move (Think-Pair-Share variant). Mild confusion (0.632) is normal for peer-discussion onset.
+
+No genuine friction moments detected in this 10-minute segment.
+Elevated confusion scores reflect classroom disruption (late arrivals) and
+normal task-onset affect, not poor instructional strategy.

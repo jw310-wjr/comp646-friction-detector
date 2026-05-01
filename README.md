@@ -1,6 +1,6 @@
 # Multimodal pedagogical friction detector (COMP 646)
 
-> **Reproducibility note:** The accompanying paper reports results using `claude-sonnet-4-6` (Anthropic API) as the LLM fusion stage. This repository provides an open-source equivalent that substitutes **Qwen2.5-VL** for local inference, removing the API dependency. To reproduce the exact paper results, set the environment variable `ANTHROPIC_API_KEY` and pass `--use-claude` to `run_session.py`. All reported metrics (F1 = 1.00 on AU1; 7.7× precision gain across 53 lessons) were obtained with the Claude backend.
+> **Reproducibility note:** The accompanying paper reports results using `claude-sonnet-4-6` (Anthropic API) as the LLM fusion stage. To reproduce the exact paper results, set the environment variable `ANTHROPIC_API_KEY` before running `run_session.py`. All reported metrics (F1 = 1.00 on AU1; 7.7× precision gain across 53 lessons) were obtained with the Claude backend.
 
 Pipeline: **video + audio** → DeepFace emotion timeline → Whisper ASR → heuristic dialogue strategy tags → LLM fusion → teacher friction report.
 

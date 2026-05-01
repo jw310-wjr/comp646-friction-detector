@@ -25,9 +25,7 @@ def main() -> None:
     p.add_argument("--z", type=float, default=1.0, help="Confusion excess threshold in σ units")
     p.add_argument("--whisper", type=str, default="base", help="faster-whisper model size")
     p.add_argument("--whisper-device", type=str, default="cpu")
-    p.add_argument("--qwen-model", type=str, default="Qwen/Qwen2.5-VL-7B-Instruct")
-    p.add_argument("--skip-fusion", action="store_true", help="Run vision+language+heuristics only")
-    p.add_argument("--claude-fusion", action="store_true", help="Use Claude API for fusion (no GPU needed)")
+    p.add_argument("--skip-fusion", action="store_true", help="Run vision+language+heuristics only (no Claude API call)")
     p.add_argument("--max-candidates", type=int, default=20)
     p.add_argument(
         "--max-duration-sec",
@@ -44,9 +42,7 @@ def main() -> None:
         confusion_z_threshold=args.z,
         whisper_model_size=args.whisper,
         whisper_device=args.whisper_device,
-        qwen_model_id=args.qwen_model,
         skip_fusion=args.skip_fusion,
-        use_claude_fusion=args.claude_fusion,
         max_fusion_windows=args.max_candidates,
         max_duration_sec=args.max_duration_sec,
     )

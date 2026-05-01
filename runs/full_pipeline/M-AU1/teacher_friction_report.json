@@ -1,0 +1,955 @@
+{
+  "video_path": "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/_session_head.mp4",
+  "bins": [
+    {
+      "t_start": 0.0,
+      "t_end": 30.0,
+      "mean_confusion": 0.4967017880947084,
+      "strategy": {
+        "t_start": 0.0,
+        "t_end": 30.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "They're not supposed to be coming in here, because we're doing this."
+      }
+    },
+    {
+      "t_start": 30.0,
+      "t_end": 60.0,
+      "mean_confusion": 0.50903039057601,
+      "strategy": {
+        "t_start": 30.0,
+        "t_end": 60.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "They're not supposed to be coming in here, because we're doing this."
+      }
+    },
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.6778620218579238,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "They're not supposed to be coming in here, because we're doing this."
+      }
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.813661202185793,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "They're not supposed to be coming in here, because we're doing this."
+      }
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.6773558743169402,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "They're not supposed to be coming in here, because we're doing this. Oh, sure, it doesn't anymore. Well, I like to sit outside there, I think."
+      }
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.6469350282485876,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "Well, I like to sit outside there, I think. You'll need to just sit over there. When you start by taking out this sheet that we're looking at the other day, we're going to be looking at something a bit similar today."
+      }
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.720097222222222,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "we're going to be looking at something a bit similar today. Just have a look at the bit down here for a moment, where it says, I'll present your findings."
+      }
+    },
+    {
+      "t_start": 210.0,
+      "t_end": 240.0,
+      "mean_confusion": 0.5162083333333333,
+      "strategy": {
+        "t_start": 210.0,
+        "t_end": 240.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move",
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "I'll present your findings. I did print out a few of the things that you've been doing on the computer. They're sitting over there. There's a few snowmen or snow people. There's a herd of the circle. There's a smiley face reflected. And there's two or three of the things that you've been doing with the star in the circle. And it actually doesn't print out in a way that you can read it from very far away."
+      }
+    },
+    {
+      "t_start": 240.0,
+      "t_end": 270.0,
+      "mean_confusion": 0.5587222222222223,
+      "strategy": {
+        "t_start": 240.0,
+        "t_end": 270.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move",
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "And it actually doesn't print out in a way that you can read it from very far away. It's all right to look at in front of you. And it doesn't print out in color either. But this one has, firstly, the diagram. Up here it has the measurements of the angles plus the formula. And that person, and also the one next to it, has written some sort of a conclusion, which is what's being talked about here."
+      }
+    },
+    {
+      "t_start": 270.0,
+      "t_end": 300.0,
+      "mean_confusion": 0.6049027777777776,
+      "strategy": {
+        "t_start": 270.0,
+        "t_end": 300.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move",
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "which is what's being talked about here. That's one of them. This actually is quite easy to read, but it doesn't project all that well. So let me read it for you. Some of the angles don't change when you move the points around the circle. When you change the radius of the circle, the size of the circle changes and moves in and out. No matter what the size of the angles are, if you have a five-pointed star inscribed in a circle, it will be 180 degrees."
+      }
+    },
+    {
+      "t_start": 300.0,
+      "t_end": 330.0,
+      "mean_confusion": 0.5818333333333329,
+      "strategy": {
+        "t_start": 300.0,
+        "t_end": 330.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move",
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "if you have a five-pointed star inscribed in a circle, it will be 180 degrees. So there's actually a few things mentioned in there. There's the fact that it's 180 degrees. There's the fact that it doesn't change if you move the points around the circle. There's the fact that it doesn't change if you change the radius of the circle. So this person has put in a conclusion to do with several of the things that were mentioned on there. Quite a lot of you haven't yet got to that stage of writing all of those things onto your page."
+      }
+    },
+    {
+      "t_start": 330.0,
+      "t_end": 360.0,
+      "mean_confusion": 0.38062499999999966,
+      "strategy": {
+        "t_start": 330.0,
+        "t_end": 360.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "Quite a lot of you haven't yet got to that stage of writing all of those things onto your page. What I want to do now is if you can pass these back, firstly everyone just individually read through the page, please."
+      }
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.6074166666666663,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "firstly everyone just individually read through the page, please. Okay, that's enough for just a quick read through."
+      }
+    },
+    {
+      "t_start": 390.0,
+      "t_end": 420.0,
+      "mean_confusion": 0.5679861111111109,
+      "strategy": {
+        "t_start": 390.0,
+        "t_end": 420.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "Okay, that's enough for just a quick read through."
+      }
+    },
+    {
+      "t_start": 420.0,
+      "t_end": 450.0,
+      "mean_confusion": 0.37715277777777767,
+      "strategy": {
+        "t_start": 420.0,
+        "t_end": 450.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "Okay, that's enough for just a quick read through. Now I'd like you together with the person next to you to read through it and have a look at any words in there that you think we might need to know the meaning of,"
+      }
+    },
+    {
+      "t_start": 450.0,
+      "t_end": 480.0,
+      "mean_confusion": 0.5022638888888891,
+      "strategy": {
+        "t_start": 450.0,
+        "t_end": 480.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move",
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "that you think we might need to know the meaning of, just underline them with a pencil or something like that. They could be words that you're not sure if they're meaning of, or they could be words that maybe you do know, but you think that's a pretty important word for us to do. Let's do this with a brief discussion with the person next to you, please."
+      }
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.6322777777777782,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "Let's do this with a brief discussion with the person next to you, please."
+      }
+    },
+    {
+      "t_start": 510.0,
+      "t_end": 540.0,
+      "mean_confusion": 0.5954166666666666,
+      "strategy": {
+        "t_start": 510.0,
+        "t_end": 540.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move",
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "Let's do this with a brief discussion with the person next to you, please. Well, we'll cover that later that what it would mean would be that these rows instead of going in that direction if they went in the opposite direction. Okay, people have found a few words, they seem to be the same words."
+      }
+    },
+    {
+      "t_start": 540.0,
+      "t_end": 570.0,
+      "mean_confusion": 0.4071475409836062,
+      "strategy": {
+        "t_start": 540.0,
+        "t_end": 570.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move",
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "Okay, people have found a few words, they seem to be the same words. Can someone give me a word or two that you need? Okay, convex. Okay, it's in several places, but there's one of them. There's another one, so there's convex. Certainly must be important since it occurs more than once. Okay, we've got quadrilateral. Okay, polygons. The actual heading says polygon doesn't it?"
+      }
+    },
+    {
+      "t_start": 570.0,
+      "t_end": 600.0,
+      "mean_confusion": 0.4764617486338798,
+      "strategy": {
+        "t_start": 570.0,
+        "t_end": 600.0,
+        "dominant_quality": "high",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move",
+          "Keeping Everyone Together"
+        ],
+        "transcript_excerpt": "The actual heading says polygon doesn't it? So if you certainly need to look in the heading, some others, words or... Okay, who had exterior angle picked out of something that they need to know about? Okay, so exterior angle, polygon, convex, quadrilateral. They were the main ones I saw when I looked around. Were there any others? Rise. Okay, so here's construct."
+      }
+    },
+    {
+      "t_start": 600.0,
+      "t_end": 630.0,
+      "mean_confusion": 0.4516393442622949,
+      "strategy": {
+        "t_start": 600.0,
+        "t_end": 630.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "Okay, so here's construct."
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "mean_confusion": 0.6778620218579238,
+      "confusion_z": 1.0496125488367631,
+      "strategy": {
+        "t_start": 60.0,
+        "t_end": 90.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "They're not supposed to be coming in here, because we're doing this."
+      },
+      "frame_paths": [
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000121_60.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000122_61.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000123_61.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000124_62.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000125_62.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000126_63.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000127_63.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000128_64.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000129_64.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000130_65.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000131_65.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000132_66.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000133_66.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000134_67.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000135_67.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000136_68.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000137_68.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000138_69.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000139_69.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000140_70.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000141_70.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000142_71.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000143_71.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000144_72.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000145_72.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000146_73.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000147_73.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000148_74.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000149_74.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000150_75.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000151_75.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000152_76.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000153_76.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000154_77.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000155_77.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000156_78.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000157_78.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000158_79.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000159_79.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000160_80.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000161_80.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000162_81.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000163_81.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000164_82.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000165_82.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000166_83.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000167_83.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000168_84.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000169_84.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000170_85.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000171_85.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000172_86.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000173_86.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000174_87.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000175_87.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000176_88.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000177_88.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000178_89.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000179_89.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000180_90.000s.jpg"
+      ]
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "mean_confusion": 0.813661202185793,
+      "confusion_z": 2.2796861769148706,
+      "strategy": {
+        "t_start": 90.0,
+        "t_end": 120.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "They're not supposed to be coming in here, because we're doing this."
+      },
+      "frame_paths": [
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000181_90.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000182_91.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000183_91.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000184_92.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000185_92.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000186_93.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000187_93.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000188_94.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000189_94.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000190_95.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000191_95.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000192_96.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000193_96.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000194_97.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000195_97.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000196_98.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000197_98.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000198_99.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000199_99.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000200_100.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000201_100.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000202_101.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000203_101.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000204_102.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000205_102.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000206_103.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000207_103.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000208_104.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000209_104.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000210_105.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000211_105.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000212_106.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000213_106.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000214_107.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000215_107.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000216_108.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000217_108.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000218_109.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000219_109.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000220_110.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000221_110.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000222_111.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000223_111.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000224_112.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000225_112.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000226_113.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000227_113.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000228_114.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000229_114.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000230_115.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000231_115.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000232_116.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000233_116.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000234_117.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000235_117.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000236_118.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000237_118.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000238_119.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000239_119.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000240_120.000s.jpg"
+      ]
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "mean_confusion": 0.6773558743169402,
+      "confusion_z": 1.0450278470692174,
+      "strategy": {
+        "t_start": 120.0,
+        "t_end": 150.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "They're not supposed to be coming in here, because we're doing this. Oh, sure, it doesn't anymore. Well, I like to sit outside there, I think."
+      },
+      "frame_paths": [
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000241_120.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000242_121.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000243_121.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000244_122.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000245_122.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000246_123.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000247_123.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000248_124.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000249_124.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000250_125.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000251_125.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000252_126.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000253_126.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000254_127.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000255_127.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000256_128.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000257_128.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000258_129.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000259_129.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000260_130.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000261_130.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000262_131.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000263_131.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000264_132.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000265_132.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000266_133.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000267_133.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000268_134.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000269_134.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000270_135.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000271_135.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000272_136.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000273_136.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000274_137.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000275_137.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000276_138.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000277_138.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000278_139.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000279_139.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000280_140.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000281_140.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000282_141.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000283_141.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000284_142.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000285_142.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000286_143.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000287_143.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000288_144.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000289_144.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000290_145.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000291_145.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000292_146.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000293_146.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000294_147.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000295_147.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000296_148.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000297_148.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000298_149.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000299_149.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000300_150.000s.jpg"
+      ]
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "mean_confusion": 0.6469350282485876,
+      "confusion_z": 0.7694747811217002,
+      "strategy": {
+        "t_start": 150.0,
+        "t_end": 180.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "Well, I like to sit outside there, I think. You'll need to just sit over there. When you start by taking out this sheet that we're looking at the other day, we're going to be looking at something a bit similar today."
+      },
+      "frame_paths": [
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000301_150.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000302_151.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000303_151.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000304_152.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000305_152.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000306_153.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000307_153.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000308_154.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000309_154.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000310_155.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000311_155.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000312_156.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000313_156.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000314_157.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000315_157.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000316_158.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000317_158.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000318_159.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000319_159.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000320_160.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000321_160.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000322_161.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000323_161.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000324_162.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000325_162.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000326_163.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000327_163.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000328_164.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000329_164.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000330_165.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000331_165.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000332_166.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000333_166.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000334_167.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000335_167.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000336_168.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000337_168.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000338_169.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000339_169.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000340_170.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000341_170.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000342_171.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000343_171.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000344_172.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000345_172.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000346_173.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000347_173.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000348_174.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000349_174.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000350_175.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000351_175.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000352_176.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000353_176.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000354_177.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000355_177.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000356_178.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000357_178.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000358_179.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000359_179.500s.jpg"
+      ]
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "mean_confusion": 0.720097222222222,
+      "confusion_z": 1.432180440773121,
+      "strategy": {
+        "t_start": 180.0,
+        "t_end": 210.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "we're going to be looking at something a bit similar today. Just have a look at the bit down here for a moment, where it says, I'll present your findings."
+      },
+      "frame_paths": [
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000360_180.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000361_180.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000362_181.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000363_181.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000364_182.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000365_182.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000366_183.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000367_183.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000368_184.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000369_184.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000370_185.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000371_185.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000372_186.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000373_186.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000374_187.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000375_187.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000376_188.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000377_188.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000378_189.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000379_189.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000380_190.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000381_190.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000382_191.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000383_191.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000384_192.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000385_192.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000386_193.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000387_193.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000388_194.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000389_194.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000390_195.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000391_195.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000392_196.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000393_196.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000394_197.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000395_197.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000396_198.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000397_198.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000398_199.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000399_199.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000400_200.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000401_200.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000402_201.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000403_201.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000404_202.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000405_202.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000406_203.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000407_203.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000408_204.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000409_204.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000410_205.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000411_205.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000412_206.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000413_206.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000414_207.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000415_207.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000416_208.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000417_208.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000418_209.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000419_209.500s.jpg"
+      ]
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "mean_confusion": 0.6074166666666663,
+      "confusion_z": 0.4115161079587778,
+      "strategy": {
+        "t_start": 360.0,
+        "t_end": 390.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "firstly everyone just individually read through the page, please. Okay, that's enough for just a quick read through."
+      },
+      "frame_paths": [
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000720_360.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000721_360.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000722_361.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000723_361.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000724_362.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000725_362.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000726_363.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000727_363.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000728_364.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000729_364.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000730_365.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000731_365.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000732_366.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000733_366.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000734_367.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000735_367.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000736_368.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000737_368.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000738_369.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000739_369.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000740_370.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000741_370.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000742_371.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000743_371.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000744_372.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000745_372.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000746_373.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000747_373.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000748_374.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000749_374.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000750_375.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000751_375.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000752_376.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000753_376.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000754_377.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000755_377.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000756_378.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000757_378.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000758_379.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000759_379.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000760_380.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000761_380.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000762_381.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000763_381.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000764_382.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000765_382.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000766_383.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000767_383.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000768_384.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000769_384.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000770_385.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000771_385.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000772_386.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000773_386.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000774_387.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000775_387.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000776_388.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000777_388.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000778_389.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000779_389.500s.jpg"
+      ]
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "mean_confusion": 0.6322777777777782,
+      "confusion_z": 0.6367089041793778,
+      "strategy": {
+        "t_start": 480.0,
+        "t_end": 510.0,
+        "dominant_quality": "low",
+        "low_quality": false,
+        "high_pressure": false,
+        "talk_moves": [
+          "No Move"
+        ],
+        "transcript_excerpt": "Let's do this with a brief discussion with the person next to you, please."
+      },
+      "frame_paths": [
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000960_480.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000961_480.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000962_481.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000963_481.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000964_482.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000965_482.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000966_483.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000967_483.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000968_484.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000969_484.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000970_485.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000971_485.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000972_486.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000973_486.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000974_487.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000975_487.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000976_488.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000977_488.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000978_489.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000979_489.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000980_490.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000981_490.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000982_491.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000983_491.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000984_492.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000985_492.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000986_493.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000987_493.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000988_494.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000989_494.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000990_495.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000991_495.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000992_496.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000993_496.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000994_497.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000995_497.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000996_498.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000997_498.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000998_499.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_000999_499.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001000_500.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001001_500.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001002_501.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001003_501.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001004_502.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001005_502.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001006_503.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001007_503.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001008_504.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001009_504.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001010_505.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001011_505.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001012_506.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001013_506.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001014_507.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001015_507.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001016_508.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001017_508.500s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001018_509.000s.jpg",
+        "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1/frames/f_001019_509.500s.jpg"
+      ]
+    }
+  ],
+  "fusion": [
+    {
+      "t_start": 60.0,
+      "t_end": 90.0,
+      "friction": false,
+      "rationale": "High facial confusion (0.678) reflects students still physically settling into the room, not pedagogical confusion. The teacher is managing a classroom disruption (uninvited students), not delivering instruction.",
+      "alternative_strategy": ""
+    },
+    {
+      "t_start": 90.0,
+      "t_end": 120.0,
+      "friction": false,
+      "rationale": "Highest confusion score in the clip (0.814) but caused by late-arriving students disrupting the room setup \u2014 faces show surprise/concern about seating, not about content. No instructional move is being made.",
+      "alternative_strategy": ""
+    },
+    {
+      "t_start": 120.0,
+      "t_end": 150.0,
+      "friction": false,
+      "rationale": "Continued pre-class management; elevated affect is from social disruption, not instructional confusion. Teacher is resolving a seating issue, which is appropriate classroom management.",
+      "alternative_strategy": ""
+    },
+    {
+      "t_start": 150.0,
+      "t_end": 180.0,
+      "friction": false,
+      "rationale": "Transition to lesson start ('taking out this sheet'). Confusion score (0.647) reflects lingering social affect from the seating disruption, not a response to poor instruction.",
+      "alternative_strategy": ""
+    },
+    {
+      "t_start": 180.0,
+      "t_end": 210.0,
+      "friction": false,
+      "rationale": "Teacher introduces today's activity ('something a bit similar'). Slightly elevated confusion (0.720) likely reflects students orienting to a new task. This is a normal lesson-opening transition, not low-quality instruction.",
+      "alternative_strategy": ""
+    },
+    {
+      "t_start": 360.0,
+      "t_end": 390.0,
+      "friction": false,
+      "rationale": "Teacher asks students to individually read a worksheet ('read through the page'). Mild confusion (0.607) is consistent with students beginning to process new written material \u2014 an appropriate and common instructional routine.",
+      "alternative_strategy": ""
+    },
+    {
+      "t_start": 480.0,
+      "t_end": 510.0,
+      "friction": false,
+      "rationale": "Teacher asks students to do a 'brief discussion with the person next to you' \u2014 this is a high-quality collaborative move (Think-Pair-Share variant). Mild confusion (0.632) is normal for peer-discussion onset.",
+      "alternative_strategy": ""
+    }
+  ],
+  "work_dir": "/home/jw310/comp646-friction-detector/runs/full_pipeline/M-AU1"
+}

@@ -1,9 +1,8 @@
 """
 Multimodal friction reasoning via Anthropic Claude API.
 
-Replaces Qwen2.5-VL for environments without a GPU.  When frame images are
-available they are base64-encoded and sent as vision content; in
-transcript-only mode the same prompt is sent as pure text.
+When frame images are available they are base64-encoded and sent as vision
+content; in transcript-only mode the same prompt is sent as pure text.
 
 Usage:
     from fusion.claude_fusion import ClaudeFrictionFusion
@@ -62,7 +61,6 @@ def _instruction_text(w: FrictionWindow) -> str:
 
 
 class ClaudeFrictionFusion:
-    """Claude-backed drop-in replacement for QwenVLFrictionFusion."""
 
     def __init__(
         self,
@@ -147,5 +145,4 @@ def _parse_json(raw: str) -> dict[str, Any]:
 
 
 def load_fusion(model: str = DEFAULT_MODEL, **kwargs: Any) -> ClaudeFrictionFusion:
-    """Convenience constructor matching the Qwen module's interface."""
     return ClaudeFrictionFusion(model=model, **kwargs)

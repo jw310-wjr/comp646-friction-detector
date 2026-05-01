@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=friction-qwen
+#SBATCH --job-name=friction-claude
 #SBATCH --output=runs/gpu_fusion_%j.log
 #SBATCH --error=runs/gpu_fusion_%j.err
 #SBATCH --partition=gpu
@@ -55,10 +55,8 @@ cfg = PipelineConfig(
     whisper_model_size="small",   # better quality than "base"
     whisper_device="cuda",
     whisper_compute_type="float16",
-    qwen_model_id="Qwen/Qwen2.5-VL-7B-Instruct",
-    qwen_max_new_tokens=512,
     work_dir=os.environ["WORK_DIR"],
-    skip_fusion=False,            # VLM fusion ON
+    skip_fusion=False,            # Claude fusion ON
     max_fusion_windows=20,
     frames_per_candidate=4,
     flag_unknown_strategy=True,
