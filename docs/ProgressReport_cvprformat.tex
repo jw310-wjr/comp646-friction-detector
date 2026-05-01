@@ -158,6 +158,9 @@ Talk Move label, a 500-character transcript excerpt, and up to three
 video frames.  The model returns
 {\small\ttfamily\{"friction": bool, "rationale": str,
 "alternative\_strategy": str\}}.
+For open-source reproducibility, Qwen2.5-VL~\cite{qwen25vl} can be
+substituted for \texttt{claude-sonnet-4-6} with equivalent prompt
+structure; all reported metrics use the Claude backend.
 
 \begin{figure}[t]
 \centering
@@ -392,6 +395,10 @@ values.  Wide-angle TIMSS cameras make vision a weak signal; future
 work should test close-up setups where DeepFace yields non-zero
 confusion.  Model output is non-deterministic; production deployment
 should fix temperature\,=\,0.
+Additionally, the public code repository substitutes
+Qwen2.5-VL~\cite{qwen25vl} for local inference in place of the
+\texttt{claude-sonnet-4-6} API; researchers wishing to reproduce
+exact results should use the Claude backend with temperature\,=\,0.
 
 %─────────────────────────────────────────────────────────────
 \section{Conclusion}
