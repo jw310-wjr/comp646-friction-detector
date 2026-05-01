@@ -2,7 +2,22 @@
 
 from __future__ import annotations
 
+import re
 import statistics
+
+_MAX_EXCERPT_CHARS = 1200
+
+
+def _truncate_at_sentence(text: str, max_chars: int = _MAX_EXCERPT_CHARS) -> str:
+    """Truncate text at the last sentence boundary before max_chars."""
+    if len(text) <= max_chars:
+        return text
+    chunk = text[:max_chars]
+    m = re.search(r'^(.*[.!?])\s', chunk, re.DOTALL)
+    if m:
+        return m.group(1)
+    last_space = chunk.rfind(' ')
+    return chunk[:last_space] if last_space > 0 else chunk
 
 from schemas import (
     AlignmentBin,
@@ -51,7 +66,7 @@ def _summarize_bin_utterances(
     else:
         dom = "unknown"
     moves = list({u.talk_move for u in sel})
-    excerpt = text[:1200]
+    excerpt = _truncate_at_sentence(text)
     return StrategyBinSummary(
         t_start=t0,
         t_end=t1,

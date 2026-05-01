@@ -27,6 +27,17 @@ Default repo name: `comp646-friction-detector`
 
 Course two-column template: `docs/ProgressReport_cvprformat.tex` + `docs/egbib.bib`. Copy **`cvpr.sty`** and **`ieee.bst`** from your class author kit into `docs/`, then see `docs/CVPR_COMPILE.txt`.
 
+## Models and checkpoints
+
+| Component | Checkpoint | Notes |
+|---|---|---|
+| Talk Move classifier | [`YaHi/teacher_electra_small`](https://huggingface.co/YaHi/teacher_electra_small) | Fine-tuned ELECTRA on TalkMoves corpus |
+| ASR | `faster-whisper` `small` / `base` | Apache 2.0 |
+| Facial affect | `DeepFace` (default backend) | MIT |
+| LLM fusion | `claude-sonnet-4-6` | Anthropic API; set `ANTHROPIC_API_KEY` |
+
+**TalkMoves corpus** — the `YaHi/teacher_electra_small` checkpoint was trained on the TalkMoves dataset (Suresh et al., AAAI 2021 Spring Symposium). If you use it in published work, cite that paper and check the dataset's terms of use at the original release.
+
 ## Data
 
 Public TIMSS transcripts from [timssvideo.com/resources](https://www.timssvideo.com/resources) are included under `data/timss/`. **Lesson `.mp4` files are gitignored**—add videos locally after clone.

@@ -66,10 +66,12 @@ class ClaudeFrictionFusion:
         self,
         model: str = DEFAULT_MODEL,
         max_tokens: int = 512,
+        temperature: float = 0.0,
         api_key: str | None = None,
     ) -> None:
         self.model = model
         self.max_tokens = max_tokens
+        self.temperature = temperature
         self._client = anthropic.Anthropic(
             api_key=api_key or os.environ.get("ANTHROPIC_API_KEY")
         )
@@ -96,6 +98,7 @@ class ClaudeFrictionFusion:
         response = self._client.messages.create(
             model=self.model,
             max_tokens=self.max_tokens,
+            temperature=self.temperature,
             system="You output only valid JSON matching the user schema.",
             messages=[{"role": "user", "content": content}],
         )

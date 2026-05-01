@@ -17,6 +17,7 @@ class PipelineConfig:
     whisper_compute_type: str = "int8"
     work_dir: Path = field(default_factory=lambda: Path("./friction_work"))
     skip_fusion: bool = False
+    llm_temperature: float = 0.0   # fixed for reproducibility
     max_fusion_windows: int = 20
     frames_per_candidate: int = 4
     deepface_enforce_detection: bool = False

@@ -386,15 +386,18 @@ show the heuristic overfits to English rhetorical patterns while
 Japanese lessons are frequently over-flagged.
 
 \textbf{Limitations.}
-Human annotation covers one lesson by one annotator; broader ground
-truth is needed.  The confusion-weight vector (Eq.~\ref{eq:conf})
-uses published correlations~\cite{dmello2012}, not classroom-optimised
-values.  Wide-angle TIMSS cameras make vision a weak signal; future
-work should test close-up setups where DeepFace yields non-zero
-confusion.  Model output is non-deterministic; production deployment
-should fix temperature\,=\,0.
-Researchers wishing to reproduce exact results should use
-\texttt{claude-sonnet-4-6} with temperature\,=\,0.
+The F1\,=\,1.00 result rests on a single lesson (AU1), a single
+annotator, and a single positive example: the model found the one
+true positive among 20 heuristic candidates.  This is a proof of
+concept, not a general accuracy claim.  Credible evaluation requires
+at least 5 lessons with two independent annotators and reported
+inter-annotator agreement (Cohen's $\kappa$) before the precision
+figure can generalise.
+The confusion-weight vector (Eq.~\ref{eq:conf}) uses published
+correlations~\cite{dmello2012}, not classroom-optimised values.
+Wide-angle TIMSS cameras make vision a weak signal; future work should
+test close-up setups.  All reported results use
+\texttt{claude-sonnet-4-6} at temperature\,=\,0 for reproducibility.
 
 %─────────────────────────────────────────────────────────────
 \section{Conclusion}

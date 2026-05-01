@@ -70,7 +70,7 @@ def run_pipeline(video_path: str | Path, cfg: PipelineConfig | None = None) -> T
 
     if not cfg.skip_fusion and candidates:
         from fusion.claude_fusion import ClaudeFrictionFusion
-        claude = ClaudeFrictionFusion()
+        claude = ClaudeFrictionFusion(temperature=cfg.llm_temperature)
 
     for c in candidates:
         paths = c.frame_paths
